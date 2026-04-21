@@ -4,11 +4,12 @@ import os
 import time
 from dataclasses import dataclass
 from engine.runner import BenchmarkRunner
-from agent.main_agent import MainAgent
+from agent.main_agent import AgentV1Base, AgentV2Optimized
 
 
 @dataclass(frozen=True)
 class AgentVersionConfig:
+    agent_class: type
     top_k: int
     faithfulness: float
     relevancy: float
@@ -21,6 +22,7 @@ class AgentVersionConfig:
 
 VERSION_CONFIGS = {
     "Agent_V1_Base": AgentVersionConfig(
+        agent_class=AgentV1Base,
         top_k=3,
         faithfulness=0.82,
         relevancy=0.74,
@@ -31,6 +33,7 @@ VERSION_CONFIGS = {
         reasoning="V1 dùng baseline retrieval/prompt cũ nên câu trả lời ổn nhưng chưa tối ưu.",
     ),
     "Agent_V2_Optimized": AgentVersionConfig(
+        agent_class=AgentV2Optimized,
         top_k=6,
         faithfulness=0.93,
         relevancy=0.88,
@@ -106,7 +109,7 @@ async def run_benchmark_with_results(agent_version: str):
         return None, None
 
     runner = BenchmarkRunner(
-        MainAgent(top_k=version_config.top_k),
+        version_config.agent_class(),
         ExpertEvaluator(version_config),
         MultiModelJudge(version_config),
     )

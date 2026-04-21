@@ -235,12 +235,83 @@ class FacebookPolicyRetriever:
             }
         return sparse_hits
 
+    def _rerank_hits(
+        self,
+        query: str,
+        hits: list[dict[str, Any]],
+        top_k: int,
+    ) -> list[dict[str, Any]]:
+        query_tokens = set(self._tokenize(query))
+        reranked = []
+        for hit in hits:
+            text_tokens = set(self._tokenize(f"{hit.get('title', '')} {hit.get('heading_path', '')} {hit['text']}"))
+            overlap = len(query_tokens & text_tokens)
+            rerank_score = (
+                overlap * 3.0
+                + (hit.get("rrf_score") or 0.0) * 100.0
+                + (hit.get("dense_score") or 0.0)
+                + (hit.get("sparse_score") or 0.0)
+            )
+            reranked.append(
+                {
+                    **hit,
+                    "rerank_score": rerank_score,
+                }
+            )
+
+        reranked.sort(
+            key=lambda item: (
+                item["rerank_score"],
+                item.get("rrf_score") or 0.0,
+                item.get("dense_score") or -1.0,
+                item.get("sparse_score") or -1.0,
+            ),
+            reverse=True,
+        )
+        for rank, item in enumerate(reranked, start=1):
+            item["rerank_rank"] = rank
+            item["retrieval_method"] = "hybrid_bm25_dense_rrf_rerank_v2"
+        return reranked[:top_k]
+
     def search(
         self,
         query: str,
         top_k: int = DEFAULT_TOP_K,
         candidate_k: int = DEFAULT_CANDIDATE_K,
+        mode: str = "hybrid",
+        use_rerank: bool = False,
     ) -> list[dict[str, Any]]:
+        if mode == "sparse":
+            sparse_hits = self._sparse_search(query, max(candidate_k, top_k))
+            sparse_results = []
+            for chunk_id, hit in sparse_hits.items():
+                metadata = dict(hit["metadata"])
+                sparse_results.append(
+                    {
+                        "text": hit["text"],
+                        "chunk_id": chunk_id,
+                        "title": metadata.get("title", ""),
+                        "canonical_url": metadata.get("canonical_url", ""),
+                        "source_doc_id": metadata.get("source_doc_id", ""),
+                        "source_file": metadata.get("source_file", ""),
+                        "heading_path": metadata.get("heading_path", ""),
+                        "score": hit.get("sparse_score", 0.0),
+                        "rrf_score": None,
+                        "dense_rank": None,
+                        "dense_score": None,
+                        "dense_distance": None,
+                        "sparse_rank": hit.get("sparse_rank"),
+                        "sparse_score": hit.get("sparse_score"),
+                        "retrieval_method": "bm25_sparse_only_v1",
+                        "metadata": metadata,
+                    }
+                )
+            sparse_results.sort(
+                key=lambda item: (item["sparse_score"] if item["sparse_score"] is not None else -1.0),
+                reverse=True,
+            )
+            return sparse_results[:top_k]
+
         candidate_k = max(candidate_k, top_k * 8)
         dense_hits = self._dense_search(query, candidate_k)
         sparse_hits = self._sparse_search(query, candidate_k)
@@ -279,7 +350,7 @@ class FacebookPolicyRetriever:
                 "metadata": metadata,
             }
 
-        return sorted(
+        fused_results = sorted(
             fused.values(),
             key=lambda item: (
                 item["rrf_score"],
@@ -287,4 +358,7 @@ class FacebookPolicyRetriever:
                 item["sparse_score"] if item["sparse_score"] is not None else -1.0,
             ),
             reverse=True,
-        )[:top_k]
+        )
+        if use_rerank:
+            return self._rerank_hits(query, fused_results, top_k)
+        return fused_results[:top_k]
