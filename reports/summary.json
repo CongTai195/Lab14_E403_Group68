@@ -1,13 +1,29 @@
 {
   "metadata": {
-    "version": "Agent_V2_Optimized",
     "total": 82,
-    "timestamp": "2026-04-21 17:31:30",
-    "top_k": 6
+    "version": "BASELINE (V1)",
+    "timestamp": "2026-04-21 17:40:28",
+    "versions_compared": [
+      "V1",
+      "V2"
+    ]
   },
   "metrics": {
-    "avg_score": 4.6,
-    "hit_rate": 0.9499999999999998,
-    "agreement_rate": 0.86
+    "avg_score": 3.9000000000000004,
+    "hit_rate": 0.76,
+    "agreement_rate": 0.68
+  },
+  "regression": {
+    "v1": {
+      "score": 3.9000000000000004,
+      "hit_rate": 0.76,
+      "judge_agreement": 0.68
+    },
+    "v2": {
+      "score": 4.6,
+      "hit_rate": 0.9499999999999998,
+      "judge_agreement": 0.86
+    },
+    "decision": "APPROVE"
   }
 }
