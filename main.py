@@ -67,6 +67,29 @@ class MultiModelJudge:
             "reasoning": self.config.reasoning,
         }
 
+
+def _format_benchmark_items(results: list[dict]) -> list[dict]:
+    formatted_results = []
+    for item in results:
+        ragas = item.get("ragas", {})
+        retrieval = ragas.get("retrieval", {})
+        formatted_results.append(
+            {
+                "test_case": item.get("test_case"),
+                "agent_response": item.get("agent_response"),
+                "latency": item.get("latency"),
+                "ragas": {
+                    "hit_rate": retrieval.get("hit_rate", 0.0),
+                    "mrr": retrieval.get("mrr", 0.0),
+                    "faithfulness": ragas.get("faithfulness", 0.0),
+                    "relevancy": ragas.get("relevancy", 0.0),
+                },
+                "judge": item.get("judge", {}),
+                "status": item.get("status"),
+            }
+        )
+    return formatted_results
+
 async def run_benchmark_with_results(agent_version: str):
     print(f"🚀 Khởi động Benchmark cho {agent_version}...")
     version_config = VERSION_CONFIGS.get(agent_version, VERSION_CONFIGS["Agent_V2_Optimized"])
@@ -110,9 +133,9 @@ async def run_benchmark(version):
     return summary
 
 async def main():
-    v1_task = run_benchmark("Agent_V1_Base")
+    v1_task = run_benchmark_with_results("Agent_V1_Base")
     v2_task = run_benchmark_with_results("Agent_V2_Optimized")
-    v1_summary, (v2_results, v2_summary) = await asyncio.gather(v1_task, v2_task)
+    (v1_results, v1_summary), (v2_results, v2_summary) = await asyncio.gather(v1_task, v2_task)
     
     if not v1_summary or not v2_summary:
         print("❌ Không thể chạy Benchmark. Kiểm tra lại data/golden_set.jsonl.")
@@ -124,11 +147,47 @@ async def main():
     print(f"V2 Score: {v2_summary['metrics']['avg_score']}")
     print(f"Delta: {'+' if delta >= 0 else ''}{delta:.2f}")
 
+    decision = "APPROVE" if delta > 0 else "BLOCK"
+    summary_report = {
+        "metadata": {
+            "total": v1_summary["metadata"]["total"],
+            "version": "BASELINE (V1)",
+            "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),
+            "versions_compared": ["V1", "V2"],
+        },
+        "metrics": {
+            "avg_score": v1_summary["metrics"]["avg_score"],
+            "hit_rate": v1_summary["metrics"]["hit_rate"],
+            "agreement_rate": v1_summary["metrics"]["agreement_rate"],
+        },
+        "regression": {
+            "v1": {
+                "score": v1_summary["metrics"]["avg_score"],
+                "hit_rate": v1_summary["metrics"]["hit_rate"],
+                "judge_agreement": v1_summary["metrics"]["agreement_rate"],
+            },
+            "v2": {
+                "score": v2_summary["metrics"]["avg_score"],
+                "hit_rate": v2_summary["metrics"]["hit_rate"],
+                "judge_agreement": v2_summary["metrics"]["agreement_rate"],
+            },
+            "decision": decision,
+        },
+    }
+
     os.makedirs("reports", exist_ok=True)
     with open("reports/summary.json", "w", encoding="utf-8") as f:
-        json.dump(v2_summary, f, ensure_ascii=False, indent=2)
+        json.dump(summary_report, f, ensure_ascii=False, indent=2)
     with open("reports/benchmark_results.json", "w", encoding="utf-8") as f:
-        json.dump(v2_results, f, ensure_ascii=False, indent=2)
+        json.dump(
+            {
+                "v1": _format_benchmark_items(v1_results),
+                "v2": _format_benchmark_items(v2_results),
+            },
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
 
     if delta > 0:
         print("✅ QUYẾT ĐỊNH: CHẤP NHẬN BẢN CẬP NHẬT (APPROVE)")
