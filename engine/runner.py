@@ -37,12 +37,15 @@ class BenchmarkRunner:
 
     async def run_all(self, dataset: List[Dict], batch_size: int = 5) -> List[Dict]:
         """
-        Chạy song song bằng asyncio.gather với giới hạn batch_size để không bị Rate Limit.
+        Chạy song song với giới hạn batch_size để không bị Rate Limit.
         """
-        results = []
-        for i in range(0, len(dataset), batch_size):
-            batch = dataset[i:i + batch_size]
-            tasks = [self.run_single_test(case) for case in batch]
-            batch_results = await asyncio.gather(*tasks)
-            results.extend(batch_results)
-        return results
+        semaphore = asyncio.Semaphore(max(1, batch_size))
+        results: list[Dict | None] = [None] * len(dataset)
+
+        async def run_with_limit(index: int, case: Dict) -> None:
+            async with semaphore:
+                results[index] = await self.run_single_test(case)
+
+        tasks = [run_with_limit(index, case) for index, case in enumerate(dataset)]
+        await asyncio.gather(*tasks)
+        return [result for result in results if result is not None]

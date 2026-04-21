@@ -3,14 +3,19 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
 import unicodedata
 from pathlib import Path
 from typing import Any
 
-import chromadb
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 from rank_bm25 import BM25Okapi
+
+try:
+    import chromadb
+except ImportError:
+    chromadb = None
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -18,6 +23,8 @@ CHROMA_DIR = ROOT_DIR / "data" / "chroma_facebook_policy"
 CHUNKS_JSONL = ROOT_DIR / "data" / "facebook_policy_chunks.jsonl"
 COLLECTION_NAME = "facebook_meta_policy_vi"
 EMBEDDING_MODEL = "text-embedding-3-large"
+MAX_EMBED_RETRIES = 4
+EMBED_RETRY_DELAY_SECONDS = 2.0
 
 DEFAULT_TOP_K = 5
 DEFAULT_CANDIDATE_K = 40
@@ -93,12 +100,20 @@ class FacebookPolicyRetriever:
         self.sparse_weight = sparse_weight
 
         self.openai_client = OpenAI()
-        self.chroma_client = chromadb.PersistentClient(path=str(chroma_dir))
-        self.collection = self.chroma_client.get_collection(collection_name)
+        self.chroma_client = None
+        self.collection = None
 
         self.documents = self._load_chunks(Path(chunks_jsonl))
         self.doc_by_id = {doc["chunk_id"]: doc for doc in self.documents}
         self.bm25 = BM25Okapi([self._tokenize(doc["bm25_text"]) for doc in self.documents])
+
+        if chromadb is not None:
+            try:
+                self.chroma_client = chromadb.PersistentClient(path=str(chroma_dir))
+                self.collection = self.chroma_client.get_collection(collection_name)
+            except Exception:
+                self.chroma_client = None
+                self.collection = None
 
     @staticmethod
     def _strip_accents(text: str) -> str:
@@ -153,13 +168,23 @@ class FacebookPolicyRetriever:
         return documents
 
     def _embed_query(self, query: str) -> list[float]:
-        response = self.openai_client.embeddings.create(
-            model=self.embedding_model,
-            input=query,
-        )
+        for attempt in range(MAX_EMBED_RETRIES):
+            try:
+                response = self.openai_client.embeddings.create(
+                    model=self.embedding_model,
+                    input=query,
+                )
+                break
+            except RateLimitError:
+                if attempt == MAX_EMBED_RETRIES - 1:
+                    raise
+                time.sleep(EMBED_RETRY_DELAY_SECONDS * (attempt + 1))
         return response.data[0].embedding
 
     def _dense_search(self, query: str, candidate_k: int) -> dict[str, dict[str, Any]]:
+        if self.collection is None:
+            return {}
+
         n_results = min(candidate_k, self.collection.count())
         if n_results <= 0:
             return {}
@@ -250,7 +275,7 @@ class FacebookPolicyRetriever:
                 "dense_distance": dense_hits.get(chunk_id, {}).get("dense_distance"),
                 "sparse_rank": sparse_rank,
                 "sparse_score": sparse_hits.get(chunk_id, {}).get("sparse_score"),
-                "retrieval_method": "hybrid_bm25_dense_rrf",
+                "retrieval_method": "hybrid_bm25_dense_rrf" if self.collection is not None else "bm25_sparse_only",
                 "metadata": metadata,
             }
 
