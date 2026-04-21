@@ -32,6 +32,7 @@ class BenchmarkRunner:
             "latency": latency,
             "ragas": ragas_scores,
             "judge": judge_result,
+            "_agent_metadata": response.get("metadata", {}),
             "status": "fail" if judge_result["final_score"] < 3 else "pass"
         }
 
@@ -41,10 +42,28 @@ class BenchmarkRunner:
         """
         semaphore = asyncio.Semaphore(max(1, batch_size))
         results: list[Dict | None] = [None] * len(dataset)
+        total_cases = len(dataset)
 
         async def run_with_limit(index: int, case: Dict) -> None:
             async with semaphore:
+                print(
+                    f"   -> Running case {index + 1}/{total_cases}: {case.get('question', '')[:70]}",
+                    flush=True,
+                )
                 results[index] = await self.run_single_test(case)
+                judge = results[index].get("judge", {})
+                individual = judge.get("individual_results", {})
+                gpt_score = (individual.get("gpt-4o-mini", {}) or {}).get("score", "N/A")
+                nano_score = (individual.get("gpt-4.1-nano", {}) or {}).get("score", "N/A")
+                print(
+                    (
+                        f"   <- Done case {index + 1}/{total_cases}: {results[index]['status']} | "
+                        f"final={judge.get('final_score', 'N/A')} | "
+                        f"gpt={gpt_score} | nano={nano_score} | "
+                        f"judge_status={judge.get('status', 'N/A')}"
+                    ),
+                    flush=True,
+                )
 
         tasks = [run_with_limit(index, case) for index, case in enumerate(dataset)]
         await asyncio.gather(*tasks)

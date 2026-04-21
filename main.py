@@ -3,7 +3,10 @@ import json
 import os
 import time
 from dataclasses import dataclass
+from typing import Any
 from engine.runner import BenchmarkRunner
+from engine.llm_judge import LLMJudge
+from engine.retrieval_eval import RetrievalEvaluator
 from agent.main_agent import AgentV1Base, AgentV2Optimized
 
 
@@ -11,65 +14,32 @@ from agent.main_agent import AgentV1Base, AgentV2Optimized
 class AgentVersionConfig:
     agent_class: type
     top_k: int
-    faithfulness: float
-    relevancy: float
-    hit_rate: float
-    mrr: float
-    final_score: float
-    agreement_rate: float
-    reasoning: str
 
 
 VERSION_CONFIGS = {
     "Agent_V1_Base": AgentVersionConfig(
         agent_class=AgentV1Base,
         top_k=3,
-        faithfulness=0.82,
-        relevancy=0.74,
-        hit_rate=0.76,
-        mrr=0.38,
-        final_score=3.90,
-        agreement_rate=0.68,
-        reasoning="V1 dùng baseline retrieval/prompt cũ nên câu trả lời ổn nhưng chưa tối ưu.",
     ),
     "Agent_V2_Optimized": AgentVersionConfig(
         agent_class=AgentV2Optimized,
         top_k=6,
-        faithfulness=0.93,
-        relevancy=0.88,
-        hit_rate=0.95,
-        mrr=0.63,
-        final_score=4.60,
-        agreement_rate=0.86,
-        reasoning="V2 dùng retrieval rộng hơn và prompt tốt hơn nên chất lượng đầu ra cao hơn.",
     ),
 }
 
-BENCHMARK_BATCH_SIZE = 3
+BENCHMARK_BATCH_SIZE = 2
+GPT_4O_MINI_INPUT_COST_PER_1M = 0.15
+GPT_4O_MINI_OUTPUT_COST_PER_1M = 0.60
+TEXT_EMBEDDING_3_LARGE_COST_PER_1M = 0.13
 
 
 class ExpertEvaluator:
     def __init__(self, config: AgentVersionConfig):
         self.config = config
+        self.retrieval_evaluator = RetrievalEvaluator(top_k=config.top_k)
 
-    async def score(self, case, resp): 
-        return {
-            "faithfulness": self.config.faithfulness,
-            "relevancy": self.config.relevancy,
-            "retrieval": {"hit_rate": self.config.hit_rate, "mrr": self.config.mrr},
-        }
-
-class MultiModelJudge:
-    def __init__(self, config: AgentVersionConfig):
-        self.config = config
-
-    async def evaluate_multi_judge(self, q, a, gt): 
-        return {
-            "final_score": self.config.final_score,
-            "agreement_rate": self.config.agreement_rate,
-            "reasoning": self.config.reasoning,
-        }
-
+    async def score(self, case: dict[str, Any], resp: dict[str, Any]) -> dict[str, Any]:
+        return await self.retrieval_evaluator.score(case, resp)
 
 def _format_benchmark_items(results: list[dict]) -> list[dict]:
     formatted_results = []
@@ -93,9 +63,121 @@ def _format_benchmark_items(results: list[dict]) -> list[dict]:
         )
     return formatted_results
 
+
+def _safe_average(values: list[float]) -> float:
+    return sum(values) / len(values) if values else 0.0
+
+
+def _extract_total_tokens(usage: Any) -> int:
+    if not usage:
+        return 0
+    if isinstance(usage, dict):
+        direct_total = usage.get("total_tokens")
+        if isinstance(direct_total, (int, float)):
+            return int(direct_total)
+
+        input_tokens = usage.get("input_tokens") or usage.get("promptTokenCount") or 0
+        output_tokens = usage.get("output_tokens") or usage.get("candidatesTokenCount") or 0
+        if isinstance(input_tokens, (int, float)) or isinstance(output_tokens, (int, float)):
+            return int(input_tokens) + int(output_tokens)
+
+        nested_input = usage.get("input_tokens_details") or {}
+        nested_output = usage.get("output_tokens_details") or {}
+        nested_total = 0
+        if isinstance(nested_input, dict):
+            nested_total += sum(int(v) for v in nested_input.values() if isinstance(v, (int, float)))
+        if isinstance(nested_output, dict):
+            nested_total += sum(int(v) for v in nested_output.values() if isinstance(v, (int, float)))
+        return nested_total
+    return 0
+
+
+def _extract_input_tokens(usage: Any) -> int:
+    if isinstance(usage, dict):
+        value = usage.get("input_tokens") or usage.get("promptTokenCount") or 0
+        if isinstance(value, (int, float)):
+            return int(value)
+    return 0
+
+
+def _extract_output_tokens(usage: Any) -> int:
+    if isinstance(usage, dict):
+        value = usage.get("output_tokens") or usage.get("candidatesTokenCount") or 0
+        if isinstance(value, (int, float)):
+            return int(value)
+    return 0
+
+
+def _estimate_openai_cost_usd(results: list[dict]) -> float:
+    generation_input_tokens = 0
+    generation_output_tokens = 0
+    embedding_tokens = 0
+    judge_input_tokens = 0
+    judge_output_tokens = 0
+
+    for item in results:
+        agent_usage = (item.get("_agent_metadata") or {}).get("tokens_used") or {}
+        generation_input_tokens += _extract_input_tokens(agent_usage)
+        generation_output_tokens += _extract_output_tokens(agent_usage)
+
+        sources = (item.get("_agent_metadata") or {}).get("sources") or []
+        for source in sources:
+            embedding_tokens += int(source.get("embedding_tokens", 0) or 0)
+
+        judge = item.get("judge", {})
+        individual_results = judge.get("individual_results", {})
+        openai_judge = individual_results.get("gpt-4o-mini", {})
+        judge_usage = openai_judge.get("usage", {})
+        judge_input_tokens += _extract_input_tokens(judge_usage)
+        judge_output_tokens += _extract_output_tokens(judge_usage)
+
+    generation_cost = (
+        generation_input_tokens * GPT_4O_MINI_INPUT_COST_PER_1M
+        + generation_output_tokens * GPT_4O_MINI_OUTPUT_COST_PER_1M
+    ) / 1_000_000
+    judge_cost = (
+        judge_input_tokens * GPT_4O_MINI_INPUT_COST_PER_1M
+        + judge_output_tokens * GPT_4O_MINI_OUTPUT_COST_PER_1M
+    ) / 1_000_000
+    embedding_cost = (embedding_tokens * TEXT_EMBEDDING_3_LARGE_COST_PER_1M) / 1_000_000
+    return round(generation_cost + judge_cost + embedding_cost, 6)
+
+
+def _build_performance_report(results: list[dict], runtime_seconds: float) -> dict[str, Any]:
+    latencies = [float(item.get("latency", 0.0) or 0.0) for item in results]
+    agent_total_tokens = 0
+    judge_openai_total_tokens = 0
+    judge_nano_total_tokens = 0
+
+    for item in results:
+        agent_usage = (item.get("_agent_metadata") or {}).get("tokens_used") or {}
+        agent_total_tokens += _extract_total_tokens(agent_usage)
+
+        individual_results = (item.get("judge", {}) or {}).get("individual_results", {})
+        judge_openai_total_tokens += _extract_total_tokens(
+            (individual_results.get("gpt-4o-mini", {}) or {}).get("usage", {})
+        )
+        judge_nano_total_tokens += _extract_total_tokens(
+            (individual_results.get("gpt-4.1-nano", {}) or {}).get("usage", {})
+        )
+
+    return {
+        "runtime_seconds": round(runtime_seconds, 4),
+        "avg_latency_seconds": round(_safe_average(latencies), 4),
+        "max_latency_seconds": round(max(latencies) if latencies else 0.0, 4),
+        "throughput_cases_per_minute": round((len(results) / runtime_seconds) * 60, 4) if runtime_seconds > 0 else 0.0,
+        "token_usage": {
+            "agent_total_tokens": agent_total_tokens,
+            "judge_openai_total_tokens": judge_openai_total_tokens,
+            "judge_nano_total_tokens": judge_nano_total_tokens,
+        },
+        "estimated_openai_cost_usd": _estimate_openai_cost_usd(results),
+    }
+
 async def run_benchmark_with_results(agent_version: str):
     print(f"🚀 Khởi động Benchmark cho {agent_version}...")
     version_config = VERSION_CONFIGS.get(agent_version, VERSION_CONFIGS["Agent_V2_Optimized"])
+    benchmark_start = time.perf_counter()
 
     if not os.path.exists("data/golden_set.jsonl"):
         print("❌ Thiếu data/golden_set.jsonl. Hãy chạy 'python data/synthetic_gen.py' trước.")
@@ -108,10 +190,12 @@ async def run_benchmark_with_results(agent_version: str):
         print("❌ File data/golden_set.jsonl rỗng. Hãy tạo ít nhất 1 test case.")
         return None, None
 
+    print(f"📚 {agent_version}: chạy {len(dataset)} test cases với batch_size={BENCHMARK_BATCH_SIZE}", flush=True)
+
     runner = BenchmarkRunner(
         version_config.agent_class(),
         ExpertEvaluator(version_config),
-        MultiModelJudge(version_config),
+        LLMJudge(),
     )
     results = await runner.run_all(dataset, batch_size=BENCHMARK_BATCH_SIZE)
 
@@ -124,10 +208,14 @@ async def run_benchmark_with_results(agent_version: str):
             "top_k": version_config.top_k,
         },
         "metrics": {
-            "avg_score": sum(r["judge"]["final_score"] for r in results) / total,
-            "hit_rate": sum(r["ragas"]["retrieval"]["hit_rate"] for r in results) / total,
-            "agreement_rate": sum(r["judge"]["agreement_rate"] for r in results) / total
-        }
+            "avg_score": _safe_average([r["judge"]["final_score"] for r in results]),
+            "hit_rate": _safe_average([r["ragas"]["retrieval"]["hit_rate"] for r in results]),
+            "mrr": _safe_average([r["ragas"]["retrieval"]["mrr"] for r in results]),
+            "faithfulness": _safe_average([r["ragas"]["faithfulness"] for r in results]),
+            "relevancy": _safe_average([r["ragas"]["relevancy"] for r in results]),
+            "agreement_rate": _safe_average([r["judge"]["agreement_rate"] for r in results]),
+        },
+        "performance": _build_performance_report(results, time.perf_counter() - benchmark_start),
     }
     return results, summary
 
@@ -161,20 +249,29 @@ async def main():
         "metrics": {
             "avg_score": v1_summary["metrics"]["avg_score"],
             "hit_rate": v1_summary["metrics"]["hit_rate"],
+            "mrr": v1_summary["metrics"]["mrr"],
             "agreement_rate": v1_summary["metrics"]["agreement_rate"],
         },
         "regression": {
             "v1": {
                 "score": v1_summary["metrics"]["avg_score"],
                 "hit_rate": v1_summary["metrics"]["hit_rate"],
+                "mrr": v1_summary["metrics"]["mrr"],
                 "judge_agreement": v1_summary["metrics"]["agreement_rate"],
             },
             "v2": {
                 "score": v2_summary["metrics"]["avg_score"],
                 "hit_rate": v2_summary["metrics"]["hit_rate"],
+                "mrr": v2_summary["metrics"]["mrr"],
                 "judge_agreement": v2_summary["metrics"]["agreement_rate"],
             },
             "decision": decision,
+        },
+        "performance": {
+            "v1": v1_summary.get("performance", {}),
+            "v2": v2_summary.get("performance", {}),
+            "pipeline_parallel": True,
+            "benchmark_batch_size": BENCHMARK_BATCH_SIZE,
         },
     }
 

@@ -2,28 +2,59 @@
   "metadata": {
     "total": 82,
     "version": "BASELINE (V1)",
-    "timestamp": "2026-04-21 21:50:13",
+    "timestamp": "2026-04-21 23:28:15",
     "versions_compared": [
       "V1",
       "V2"
     ]
   },
   "metrics": {
-    "avg_score": 3.9000000000000004,
-    "hit_rate": 0.76,
-    "agreement_rate": 0.68
+    "avg_score": 3.152439024390244,
+    "hit_rate": 0.3780487804878049,
+    "mrr": 0.3597560975609756,
+    "agreement_rate": 0.6130036585365853
   },
   "regression": {
     "v1": {
-      "score": 3.9000000000000004,
-      "hit_rate": 0.76,
-      "judge_agreement": 0.68
+      "score": 3.152439024390244,
+      "hit_rate": 0.3780487804878049,
+      "mrr": 0.3597560975609756,
+      "judge_agreement": 0.6130036585365853
     },
     "v2": {
-      "score": 4.6,
-      "hit_rate": 0.9499999999999998,
-      "judge_agreement": 0.86
+      "score": 3.3658536585365852,
+      "hit_rate": 0.4634146341463415,
+      "mrr": 0.36869999999999997,
+      "judge_agreement": 0.5987768292682927
     },
     "decision": "APPROVE"
+  },
+  "performance": {
+    "v1": {
+      "runtime_seconds": 183.7684,
+      "avg_latency_seconds": 2.1201,
+      "max_latency_seconds": 6.0779,
+      "throughput_cases_per_minute": 26.7728,
+      "token_usage": {
+        "agent_total_tokens": 150598,
+        "judge_openai_total_tokens": 31207,
+        "judge_nano_total_tokens": 32378
+      },
+      "estimated_openai_cost_usd": 0.032168
+    },
+    "v2": {
+      "runtime_seconds": 239.3622,
+      "avg_latency_seconds": 3.451,
+      "max_latency_seconds": 15.0358,
+      "throughput_cases_per_minute": 20.5546,
+      "token_usage": {
+        "agent_total_tokens": 324756,
+        "judge_openai_total_tokens": 35905,
+        "judge_nano_total_tokens": 36531
+      },
+      "estimated_openai_cost_usd": 0.060936
+    },
+    "pipeline_parallel": true,
+    "benchmark_batch_size": 2
   }
 }
