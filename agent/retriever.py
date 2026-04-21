@@ -3,12 +3,13 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
 import unicodedata
 from pathlib import Path
 from typing import Any
 
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 from rank_bm25 import BM25Okapi
 
 try:
@@ -22,6 +23,8 @@ CHROMA_DIR = ROOT_DIR / "data" / "chroma_facebook_policy"
 CHUNKS_JSONL = ROOT_DIR / "data" / "facebook_policy_chunks.jsonl"
 COLLECTION_NAME = "facebook_meta_policy_vi"
 EMBEDDING_MODEL = "text-embedding-3-large"
+MAX_EMBED_RETRIES = 4
+EMBED_RETRY_DELAY_SECONDS = 2.0
 
 DEFAULT_TOP_K = 5
 DEFAULT_CANDIDATE_K = 40
@@ -165,10 +168,17 @@ class FacebookPolicyRetriever:
         return documents
 
     def _embed_query(self, query: str) -> list[float]:
-        response = self.openai_client.embeddings.create(
-            model=self.embedding_model,
-            input=query,
-        )
+        for attempt in range(MAX_EMBED_RETRIES):
+            try:
+                response = self.openai_client.embeddings.create(
+                    model=self.embedding_model,
+                    input=query,
+                )
+                break
+            except RateLimitError:
+                if attempt == MAX_EMBED_RETRIES - 1:
+                    raise
+                time.sleep(EMBED_RETRY_DELAY_SECONDS * (attempt + 1))
         return response.data[0].embedding
 
     def _dense_search(self, query: str, candidate_k: int) -> dict[str, dict[str, Any]]:

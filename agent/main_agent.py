@@ -2,16 +2,19 @@ from __future__ import annotations
 
 import asyncio
 import os
+import time
 from typing import Any
 
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 
 from agent.retriever import FacebookPolicyRetriever, ROOT_DIR
 
 
 GENERATION_MODEL = "gpt-4o-mini"
 TOP_K = 5
+MAX_RETRIES = 4
+RETRY_DELAY_SECONDS = 2.0
 
 
 class MainAgent:
@@ -65,7 +68,14 @@ Context:
         if GENERATION_MODEL.startswith("gpt-5"):
             request_kwargs["reasoning"] = {"effort": "xhigh"}
 
-        response = self.openai_client.responses.create(**request_kwargs)
+        for attempt in range(MAX_RETRIES):
+            try:
+                response = self.openai_client.responses.create(**request_kwargs)
+                break
+            except RateLimitError:
+                if attempt == MAX_RETRIES - 1:
+                    raise
+                time.sleep(RETRY_DELAY_SECONDS * (attempt + 1))
 
         usage = getattr(response, "usage", None)
         usage_dict = usage.model_dump() if hasattr(usage, "model_dump") else {}

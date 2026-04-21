@@ -42,7 +42,7 @@ VERSION_CONFIGS = {
     ),
 }
 
-BENCHMARK_BATCH_SIZE = 10
+BENCHMARK_BATCH_SIZE = 3
 
 
 class ExpertEvaluator:
