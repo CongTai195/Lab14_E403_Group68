@@ -10,7 +10,7 @@ from openai import OpenAI
 from agent.retriever import FacebookPolicyRetriever, ROOT_DIR
 
 
-GENERATION_MODEL = "gpt-5.2-pro"
+GENERATION_MODEL = "gpt-5.4"
 TOP_K = 5
 
 
