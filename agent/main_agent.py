@@ -10,7 +10,7 @@ from openai import OpenAI
 from agent.retriever import FacebookPolicyRetriever, ROOT_DIR
 
 
-GENERATION_MODEL = "gpt-5.4"
+GENERATION_MODEL = "gpt-4o-mini"
 TOP_K = 5
 
 
@@ -58,11 +58,14 @@ Context:
 {context_text}
 """.strip()
 
-        response = self.openai_client.responses.create(
-            model=GENERATION_MODEL,
-            reasoning={"effort": "xhigh"},
-            input=prompt,
-        )
+        request_kwargs = {
+            "model": GENERATION_MODEL,
+            "input": prompt,
+        }
+        if GENERATION_MODEL.startswith("gpt-5"):
+            request_kwargs["reasoning"] = {"effort": "xhigh"}
+
+        response = self.openai_client.responses.create(**request_kwargs)
 
         usage = getattr(response, "usage", None)
         usage_dict = usage.model_dump() if hasattr(usage, "model_dump") else {}

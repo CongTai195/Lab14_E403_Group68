@@ -42,6 +42,8 @@ VERSION_CONFIGS = {
     ),
 }
 
+BENCHMARK_BATCH_SIZE = 10
+
 
 class ExpertEvaluator:
     def __init__(self, config: AgentVersionConfig):
@@ -85,7 +87,7 @@ async def run_benchmark_with_results(agent_version: str):
         ExpertEvaluator(version_config),
         MultiModelJudge(version_config),
     )
-    results = await runner.run_all(dataset)
+    results = await runner.run_all(dataset, batch_size=BENCHMARK_BATCH_SIZE)
 
     total = len(results)
     summary = {
@@ -108,10 +110,9 @@ async def run_benchmark(version):
     return summary
 
 async def main():
-    v1_summary = await run_benchmark("Agent_V1_Base")
-    
-    # Giả lập V2 có cải tiến (để test logic)
-    v2_results, v2_summary = await run_benchmark_with_results("Agent_V2_Optimized")
+    v1_task = run_benchmark("Agent_V1_Base")
+    v2_task = run_benchmark_with_results("Agent_V2_Optimized")
+    v1_summary, (v2_results, v2_summary) = await asyncio.gather(v1_task, v2_task)
     
     if not v1_summary or not v2_summary:
         print("❌ Không thể chạy Benchmark. Kiểm tra lại data/golden_set.jsonl.")
