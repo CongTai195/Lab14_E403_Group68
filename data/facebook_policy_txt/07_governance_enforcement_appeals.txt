@@ -1,0 +1,744 @@
+DATASET: Facebook / Meta policy knowledge base
+GROUP_ID: 08_governance_enforcement_appeals
+GROUP_NAME: Thực thi, quản trị, thông tin sai lệch, bầu cử và khiếu nại
+LOCALE_PRIORITY: vi_VN; fallback giữ nguyên ngôn ngữ nếu nguồn chính thức không có bản VI đầy đủ
+LAST_CHECKED: 2026-04-21
+SOURCE_COUNT: 17
+Ghi chú chunking: nên tách theo ranh giới '===== SOURCE DOCUMENT' và heading '#/##/###'.
+================================================================================
+===== SOURCE DOCUMENT 001
+TITLE: AI tại Meta | Trung tâm minh bạch
+SOURCE_TYPE: ai_policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/ai-at-meta-training-data/
+CONTENT_SHA256: 6a8de2424072ec713d3d9e06b64b8df361f8b9e84ceadb5e43b320dcffc0ff91
+================================================================================
+## AI tại Meta: Tính minh bạch về dữ liệu huấn luyện
+Meta rất háo hức đưa các trải nghiệm trí tuệ nhân tạo (AI) đến với mọi người và doanh nghiệp ở khắp Sản phẩm của Meta trên toàn thế giới.
+### AI tại Meta là gì?
+AI tại Meta là bộ sưu tập các tính năng và trải nghiệm AI tạo sinh của chúng tôi (ví dụ: Meta AI và công cụ sáng tạo bằng AI) cùng với các mô hình hỗ trợ những sản phẩm này. Trong đó cũng bao gồm các mô hình mà chúng tôi cung cấp thông qua nền tảng mở nhằm hỗ trợ nhà nghiên cứu, nhà phát triển và những người khác trong cộng đồng AI. AI tại Meta giúp mọi người giải quyết các vấn đề phức tạp, chắp cánh cho trí tưởng tượng và tạo ra thứ chưa từng thấy trước đây. AI tại Meta là giải pháp đắc lực để mọi người nâng cao chất lượng của các hoạt động, trải nghiệm và khoảnh khắc hàng ngày – từ trả lời theo thời gian thực trong đoạn chat, hỗ trợ mọi người tổ chức và lên kế hoạch cho kỳ nghỉ tiếp theo, cho đến cung cấp thêm nhiều cách để thể hiện bản thân.
+Dưới đây, chúng tôi sẽ giải thích chi tiết hơn về những thông tin mà mình dùng cho AI tại Meta, nguồn gốc thông tin và cách hoạt động.
+**Nguồn dữ liệu**
+Dữ liệu được lấy từ đâu?Thông tin chúng tôi dùng để phát triển và cải thiện AI tại Meta bao gồm cả dữ liệu công khai, dữ liệu được cấp phép cũng như thông tin từ các sản phẩm và dịch vụ của Meta. Trong đó có cả bài viết được chia sẻ công khai từ Instagram và Facebook, cũng như hoạt động tương tác của mọi người với các tính năng của AI tại Meta.
+**Mục đích dự định**
+Dữ liệu này hỗ trợ như thế nào để AI tại Meta phát huy đúng mục đích?Chúng tôi lựa chọn tập dữ liệu dùng để huấn luyện AI tại Meta nhằm đảm bảo các mô hình có thể hiểu và tạo ngôn ngữ, âm thanh, hình ảnh cũng như video thật chính xác, phù hợp và an toàn với người dùng sản phẩm của mình.
+* Dữ liệu công khai và dữ liệu được cấp phép đem lại phạm vi cũng như chất lượng cần thiết để tạo ra trí tuệ tổng quát.
+* Nội dung công khai trên sản phẩm của Meta giúp đảm bảo các mô hình nhận thức được ngữ cảnh và hành động theo cách phù hợp với kỳ vọng của mọi người.
+* Dựa vào thông tin về hoạt động tương tác của mọi người, chúng tôi có thể liên tục cải thiện các tính năng AI.
+Khi kết hợp với nhau, những tập dữ liệu này sẽ hỗ trợ AI tại Meta hoàn thành mục đích là cung cấp các tính năng cũng như trải nghiệm AI hữu ích, cuốn hút và có trách nhiệm.
+**Lượng dữ liệu**
+Bao nhiêu thông tin hoặc điểm dữ liệu đã được sử dụng để tạo AI tại Meta?AI tại Meta sử dụng nhiều loại và kích thước mô hình để tối ưu hóa cho các nhu cầu về hiệu quả và trường hợp sử dụng khác nhau. Nhìn chung, các mô hình được huấn luyện dựa trên hàng nghìn tỷ token, tức là những thông tin thuộc nhiều loại khác nhau. Token có thể là một từ hoặc một phần của từ, một phần của hình ảnh hoặc một phần nghìn giây của video.
+**Loại dữ liệu**
+Loại thông tin hoặc điểm dữ liệu nào được sử dụng?Chúng tôi huấn luyện AI tại Meta chủ yếu bằng dữ liệu không có nhãn, bao gồm hình ảnh, âm thanh, video, văn bản thô cũng như thông tin liên quan từ các nguồn được cấp phép và nguồn công khai. Các nhãn áp dụng cho dữ liệu có thể cho biết những thông tin như cảm nghĩ, chủ đề, độ an toàn, mức độ phù hợp, chú thích cho hình ảnh hoặc kết quả xếp hạng của con người.
+**Dữ liệu được bảo vệ**
+Có dữ liệu nào mà chúng tôi sử dụng được bảo vệ theo bản quyền, nhãn hiệu hàng hóa hoặc bằng sáng chế không?Các tập dữ liệu dùng cho AI tại Meta bao gồm cả dữ liệu công khai, dữ liệu được cấp phép và dữ liệu do người dùng tạo. Trạng thái bản quyền, nhãn hiệu hàng hóa và bằng sáng chế của dữ liệu sẽ phụ thuộc vào một số yếu tố, trong đó có bản chất của dữ liệu cụ thể cũng như việc áp dụng luật sở hữu trí tuệ liên quan.
+**Dữ liệu được mua hoặc cấp phép**
+Tập dữ liệu có được mua hoặc cấp phép không?Một số tập dữ liệu được mua hoặc cấp phép từ bên thứ ba, bao gồm cả tập dữ liệu thương mại và nội dung của đối tác.
+**Thông tin cá nhân**
+Tập dữ liệu có bao gồm thông tin cá nhân không?Tập dữ liệu dùng để huấn luyện AI tại Meta có thể bao gồm thông tin như tên hoặc các chi tiết khác mà mọi người chia sẻ công khai trên sản phẩm của chúng tôi hay cung cấp qua hoạt động tương tác của họ với AI tại Meta.
+**Thông tin người tiêu dùng được tổng hợp**
+Tập dữ liệu có bao gồm thông tin kết hợp từ nhiều người mà không dùng để nhận dạng họ không?Tập dữ liệu dùng để huấn luyện AI tại Meta có thể bao gồm thông tin người tiêu dùng được tổng hợp (tức là kết hợp), chẳng hạn như số liệu thống kê ở cấp độ nhóm hoặc dữ liệu tổng hợp đã loại bỏ mọi thông tin nhận dạng cá nhân.
+**Xử lý dữ liệu**
+Nếu dữ liệu đã được xử lý hoặc sửa đổi thì mục đích là gì?Đôi khi, Meta định dạng lại dữ liệu và/hoặc gắn nhãn để huấn luyện và đánh giá mô hình. Meta áp dụng các quy trình làm sạch, xử lý và sửa đổi mở rộng cho tập dữ liệu dùng trong hệ thống AI. Các nỗ lực này có thể bao gồm: loại bỏ thông tin nhận dạng cá nhân và tổng hợp một số dữ liệu, gỡ nội dung trùng lặp và kém chất lượng, cũng như áp dụng các biện pháp bảo vệ quyền riêng tư và an toàn. Quy trình này nhằm mục đích bảo vệ quyền riêng tư của mọi người, đảm bảo chất lượng và độ an toàn của dữ liệu, đồng thời hỗ trợ quá trình phát triển AI tại Meta một cách có trách nhiệm và hiệu quả.
+**Dữ liệu tổng hợp**
+Có sử dụng dữ liệu tổng hợp không?AI tại Meta tạo và sử dụng dữ liệu tổng hợp để xây dựng cũng như cải thiện các hệ thống và dịch vụ trí tuệ nhân tạo tạo sinh. Dữ liệu tổng hợp được tạo và dùng cho một số mục đích, bao gồm:
+* Để bổ sung dữ liệu hiện có bằng ngữ cảnh bổ sung như nhãn
+* Để hỗ trợ khi không có đủ dữ liệu hoặc khi chúng tôi có một số loại dữ liệu nhiều hơn các loại khác
+* Để đảm bảo AI tại Meta đáng tin cậy, an toàn và hiệu quả
+**Bắt đầu sử dụng dữ liệu**
+Dữ liệu được sử dụng lần đầu tiên khi nào?Để phát triển và cải thiện AI tại Meta, chúng tôi sử dụng các tập dữ liệu được thu thập và kết hợp theo phương thức cuốn chiếu và liên tục. Vì quá trình thu thập và tích hợp dữ liệu diễn ra liên tục nên không có một ngày cụ thể nào mà tất cả tập dữ liệu được sử dụng lần đầu. Để cải thiện AI tại Meta, chúng tôi thường xuyên thêm dữ liệu mới từ những nguồn như:
+* Nguồn công khai
+* Đối tác được cấp phép
+* Nội dung công khai từ sản phẩm của Meta
+* Hoạt động tương tác của mọi người với các tính năng của AI tại Meta
+* Dữ liệu tổng hợp
+Quy trình liên tục này góp phần đảm bảo AI tại Meta không ngừng phát triển và cải thiện.
+**Thu thập dữ liệu**
+Dữ liệu được thu thập trong khung thời gian nào?Meta liên tục thu thập và sử dụng các tập dữ liệu để huấn luyện và cải thiện AI tại Meta. Không phải tất cả dữ liệu đều được thu thập trong một khoảng thời gian ngắn. Thay vào đó, Meta liên tục cập nhật dữ liệu bằng thông tin mới từ các nguồn như:
+* Nguồn công khai
+* Đối tác được cấp phép
+* Nội dung công khai từ sản phẩm của Meta
+* Hoạt động tương tác của mọi người với các tính năng của AI tại Meta
+* Dữ liệu tổng hợp
+Quy trình liên tục này góp phần đảm bảo rằng AI tại Meta được phát triển và cải thiện bằng dữ liệu mới nhất, phù hợp nhất có sẵn.
+===== SOURCE DOCUMENT 002
+TITLE: Cách Meta cải thiện | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/improving/
+CONTENT_SHA256: 04b218e06bbfa31965b847612e6c967dc56628454d7bc234d31a0b02ec2e89b1
+================================================================================
+# Cách Meta cải thiện
+Tìm hiểu cách Meta cập nhật Tiêu chuẩn cộng đồng, đo lường kết quả, hợp tác với những bên khác, tương tác với các bên liên quan và ưu tiên nội dung cần xét duyệt.
+Cập nhật Tiêu chuẩn cộng đồng
+Thế giới không ngừng thay đổi, Tiêu chuẩn cộng đồng của chúng tôi cũng vậy. Đội ngũ Chính sách nội dung của chúng tôi tham khảo ý kiến của các bên liên quan bên ngoài trên khắp thế giới để thảo luận về những điểm có thể cập nhật.
+Tiêu chuẩn cộng đồng áp dụng như nhau cho mọi người ở tất cả mọi nơiCách chúng tôi cập nhật Tiêu chuẩn cộng đồngBiên bản của Diễn đàn chính sáchCách Meta xem xét các vấn đề thực thi liên quan đến nội dungBộ quy tắc về chính sách ứng phó với khủng hoảng
+Đo lường kết quả
+Bắt đầu hành động là bước khởi đầu tốt nhưng chưa đủ. Do đó, chúng tôi báo cáo công khai số liệu thực thi để mọi người có thể hiểu và theo dõi cách làm của chúng tôi theo thời gian.
+Chia sẻ kết quả: Báo cáo thực thi Tiêu chuẩn cộng đồngĐộ chính xácSố lượng nội dung bị xử lý nhầmMức độ phổ biếnNội dung bị xử lýTỷ lệ chủ độngNội dung có kháng nghịNội dung được khôi phụcĐo lường chính xác hơnĐính chính và điều chỉnhNội dung loại trừ để đảm bảo tính toàn vẹn
+Hợp tác với những bên khác
+Chúng tôi hợp tác với các nền tảng mạng xã hội khác và cơ quan hành pháp để ngăn chặn mối nguy hại trên mạng và ngoài đời.
+Cách Meta hợp tác với các tổ chức khác để thực thi chính sách của mìnhCách Meta hợp tác với cơ quan hành pháp
+Tương tác với bên liên quan
+Khi phát triển Tiêu chuẩn cộng đồng, chúng tôi trao đổi với các bên liên quan (chẳng hạn như tổ chức xã hội dân sự, nhóm các nhà hoạt động, nhà lãnh đạo tư tưởng và học giả) để lắng nghe ý kiến đóng góp cũng như kiến thức chuyên môn của họ. Đội ngũ Chính sách nội dung tiếp thu ý kiến đóng góp này để đảm bảo tính toàn diện, tính chuyên môn và tính minh bạch trong suốt quá trình phát triển chính sách.
+Hoạt động tương tác với bên liên quan hỗ trợ chúng tôi phát triển Tiêu chuẩn cộng đồng như thế nàoCác bên liên quan của MetaCách Meta tương tác với các bên liên quanÝ kiến đóng góp của các bên liên quan bên ngoàiMở rộng phạm vi tương tác: thông tin sai lệch và tính minh bạchXây dựng cơ sở bên liên quan toàn diệnHướng dẫn cách tương tác toàn diện với bên liên quanĐưa bối cảnh địa phương vào các tiêu chuẩn toàn cầu của chúng tôi
+Ưu tiên nội dung cần xét duyệt
+Khi công nghệ cải thiện, chúng tôi có thể phát hiện và xét duyệt nhanh hơn những nội dung có mức độ nghiêm trọng cao nhất. Nhờ những điểm cải thiện này, đội ngũ xét duyệt có thể ngăn chặn nhanh chóng nhiều mối nguy hại hơn.
+Cách Meta sắp xếp thứ tự ưu tiên cho nội dung cần xét duyệt
+Tiến trình công bố các thông báo về vấn đề liêm chính: năm 2016-2021 Trang này liệt kê toàn bộ tiến trình chúng tôi công bố các thông báo liên quan đến vấn đề liêm chính.
+===== SOURCE DOCUMENT 003
+TITLE: Cách chúng tôi lý giải hệ thống xếp thứ tự | Trung tâm minh bạch
+SOURCE_TYPE: ranking
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/explaining-ranking/
+CONTENT_SHA256: 56a9361fd71ff7422b19463f4742633570540a1328ad5342239fb9d464abd1af
+================================================================================
+# Cách chúng tôi lý giải hệ thống xếp thứ tự
+NGÀY CẬP NHẬT 31 THÁNG 12, 2023
+Các hệ thống trí tuệ nhân tạo (AI) cung cấp thông tin để xếp thứ tự nội dung cho nhiều trải nghiệm trên sản phẩm của Meta, chẳng hạn như xem Bảng feed Facebook, xem thước phim trên Instagram hoặc lướt xem Facebook Marketplace.
+HỆ THỐNG AI TRONG SẢN PHẨM CỦA META
+Instagram
+Sản phẩm của Meta Platforms Technologies
+### Phát triển công cụ mới để giải thích về AI
+Là một phần trong cam kết liên tục về tính minh bạch, chúng tôi cung cấp các công cụ và thông tin để hỗ trợ mọi người hiểu rõ công nghệ của Meta. Các thẻ hệ thống AI (có liên kết bên dưới) là giải pháp để giải thích cách hệ thống AI hoạt động trong sản phẩm của chúng tôi. Thẻ hệ thống đưa ra thông tin chuyên sâu về các hệ thống AI phức tạp gồm nhiều mô hình và quy tắc động. Chúng tôi đã soạn nội dung thẻ hệ thống theo cách mà cả chuyên gia lẫn người không chuyên đều hiểu được.
+Cách hệ thống AI hoạt động và thay đổi theo thời gian
+Mỗi hệ thống AI lại dựa trên một mô hình riêng để đưa ra nhiều dự đoán về nội dung mà mọi người thấy có giá trị và phù hợp nhất. Những mô hình dự đoán này sử dụng các tín hiệu thông tin đầu vào cơ sở để chọn nội dung mà mọi người nhiều khả năng nhất sẽ tương tác nhất. Tín hiệu thông tin đầu vào chia thành các hạng mục rộng hơn, chẳng hạn như đặc điểm độc đáo của bài viết, cách những người khác tương tác với bài viết và cách mọi người tương tác với nội dung tương tự trong quá khứ. Các mô hình dự đoán, những thông tin được dự đoán và các tín hiệu thông tin đầu vào đều linh động. Những yếu tố này sẽ thường xuyên thay đổi khi hệ thống học hỏi và cải thiện dần theo thời gian, cũng như khi Meta sửa đổi các sản phẩm của mình.
+Những yếu tố tác động đến cách xếp thứ tự
+Thứ tự hiển thị bài viết (dù ở vị trí cao hơn hay thấp hơn trên bảng feed) chịu ảnh hưởng của các dự đoán về bài viết, đặc điểm của nội dung, đặc điểm của cá nhân và hoạt động tương tác của họ với sản phẩm của Meta. Ví dụ: nếu nhiều người cùng tương tác theo cách tích cực với một bài viết trên Instagram hoặc nội dung tương tự thì bài viết đó sẽ hiển thị ở vị trí cao hơn trên bảng feed của một người. Ngược lại, nếu những hoạt động tương tác đó mang tính tiêu cực hoặc nội dung được dự đoán là đáng chê trách dựa trên các tiêu chuẩn, nguyên tắc hoặc chính sách toàn vẹn của chúng tôi thì nội dung đó sẽ bị gỡ hoặc hiển thị ở vị trí thấp hơn trên bảng feed.
+Các hệ thống AI phối hợp với nhau
+Mỗi thẻ hệ thống sẽ mô tả một hệ thống AI và một vài hệ thống AI có thể phối hợp với nhau để mang đến trải nghiệm sản phẩm tổng thể. Ví dụ: trên Bảng feed Facebook, một hệ thống AI sẽ xếp thứ tự nội dung của bạn bè, Trang và nhóm mà mọi người kết nối, còn hệ thống AI khác sẽ xếp thứ tự nội dung được đề xuất mà có thể họ sẽ quan tâm từ những người khác chưa kết nối. Những gì mọi người nhìn thấy trên Bảng feed của họ là sự kết hợp hài hòa của thông tin đầu ra từ cả hai hệ thống AI này, cùng với quảng cáo và các tính năng khác mà sản phẩm cung cấp, chẳng hạn như nhóm và thước phim.
+Hệ thống AI mang đến trải nghiệm phù hợp với cá nhân
+Để cá nhân hóa trải nghiệm của mọi người trên sản phẩm của Meta, chúng tôi dựa vào hoạt động của họ vì mỗi người sẽ thích/không thích những thứ khác nhau và sở thích có thể thay đổi theo thời gian. Hệ thống AI của chúng tôi cố gắng hiển thị nhiều hơn loại nội dung mà mọi người đã thể hiện sự quan tâm, đồng thời tạo cơ hội khám phá những điều mới mà hệ thống AI dự đoán họ có thể thích.
+Mọi người có thể thay đổi trải nghiệm của mình
+Thẻ hệ thống sẽ mô tả một số tín hiệu cơ sở và mô hình chính mà các hệ thống AI sử dụng. Những thẻ này cũng giải thích các hành động mà cá nhân có thể thực hiện để tác động đến hệ thống, kiểm soát trải nghiệm của họ, cũng như có khả năng tác động đến cách hệ thống cung cấp nội dung. Không phải thiết bị nào hoặc người nào cũng nhìn thấy các lựa chọn kiểm soát trên thẻ hệ thống.
+Tương lai của thẻ hệ thống AI
+Chúng tôi sẽ tiếp tục tổng hợp ý kiến đóng góp của nhiều đối tượng để cải thiện sản phẩm và tạo điều kiện cho người dùng. Trong quá trình nghiên cứu, chúng tôi đã nhận thấy rằng mọi người muốn khám phá các thẻ hệ thống khi thông tin được cung cấp phù hợp với họ, kết hợp cả văn bản và hình ảnh. Vì vậy, chúng tôi đang nỗ lực cải tiến để các thẻ hệ thống trở nên dễ tìm và dễ hiểu hơn.
+### Hệ thống công cụ đề xuất trên Facebook
+FACEBOOK Bảng feed Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ phân phối nội dung đã kết nối bạn nhìn thấy trong Bảng feed, cũng là nội dung bạn đã chọn xem.
+FACEBOOK Bình luận được xếp thứ tự trên Bảng feed Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ hiển thị cho bạn những bình luận về bài viết trên Bảng feed được xếp thứ tự theo mức độ phù hợp với bạn.
+FACEBOOK Đề xuất trên Bảng feed Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ cung cấp nội dung gợi ý cho Bảng feed của bạn trên tab Trang chủ Facebook.
+FACEBOOK Reels Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ cung cấp thước phim (nội dung dạng video ngắn).
+FACEBOOK Tin Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ cung cấp tin cho bạn.
+FACEBOOK Những người bạn có thể biết Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ phân phối đề xuất dành riêng về những người bạn có thể biết.
+FACEBOOK Thông báo Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ phân phối thông báo đến bạn, chẳng hạn như thông báo về bình luận, đề xuất và nội dung gợi ý từ bạn bè.
+FACEBOOK Marketplace Khi bạn xem và tương tác với Facebook, bao gồm cả bảng feed Facebook Marketplace, một trong các hệ thống AI cơ sở sẽ đề xuất bài niêm yết phù hợp trên Marketplace.
+FACEBOOK Video Khi bạn xem và tương tác với tab Video trên Facebook, một trong các hệ thống AI cơ sở sẽ cung cấp nhiều loại video khác nhau có thể phù hợp với sở thích của bạn.
+FACEBOOK Tìm kiếm Khi bạn xem và tương tác với Facebook, một trong các hệ thống AI cơ sở sẽ cung cấp các kết quả trong lúc bạn tìm kiếm nội dung.
+FACEBOOK Bảng feed Nhóm Khi bạn xem và tương tác với Bảng feed Nhóm Facebook, một trong các hệ thống AI cơ sở sẽ hiển thị cho bạn thông tin cập nhật trạng thái, ảnh, video cũng như nội dung khác của các nhóm mà bạn theo dõi và nhóm bạn có thể quan tâm.
+FACEBOOK Bảng feed riêng của nhóm Khi bạn truy cập vào một nhóm rồi xem và tương tác với Bảng feed riêng của nhóm, một trong các hệ thống AI cơ sở sẽ phân phối thông tin cập nhật trạng thái, ảnh, video và nội dung khác có trong nhóm cụ thể đó.
+FACEBOOK Nhóm gợi ý Khi bạn xem và tương tác với Facebook, một trong những hệ thống AI cơ sở sẽ gợi ý các nhóm công khai hoặc riêng tư để tham gia mà bạn có thể sẽ quan tâm.
+FACEBOOK Trang bạn có thể thích Khi bạn xem và tương tác với Facebook, một trong những hệ thống AI cơ sở sẽ đề xuất Trang phù hợp với bạn.
+FACEBOOK Hẹn hò Khi bạn xem hồ sơ ở phần Hẹn hò, một trong các hệ thống AI cơ sở sẽ xác định xem nên gợi ý cho bạn những hồ sơ nào làm gợi ý ghép đôi tiềm năng và hiển thị các hồ sơ đó theo thứ tự nào.
+### Hệ thống công cụ đề xuất trên Instagram
+INSTAGRAM Bảng feed Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ phân phối nội dung đã kết nối bạn nhìn thấy trong bảng feed, cũng là nội dung từ các tài khoản bạn theo dõi.
+INSTAGRAM Tin Khi bạn xem và tương tác với Instagram Stories, hệ thống AI cơ sở sẽ tự động xác định xem tin của những người mà bạn theo dõi sẽ hiển thị theo thứ tự nào trong phần tin của bạn.
+INSTAGRAM Khám phá Tab Khám phá trên Instagram hiển thị cho bạn các đề xuất nội dung như ảnh và thước phim của những tài khoản mà bạn không theo dõi.
+INSTAGRAM Chuỗi thước phim Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ cung cấp thước phim (nội dung dạng video ngắn) trong tab Reels.
+INSTAGRAM Tìm kiếm Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ hiển thị kết quả trong lúc bạn tìm kiếm nội dung.
+INSTAGRAM Đề xuất trên Bảng feed Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ phân phối nội dung gợi ý trên bảng feed của bạn.
+INSTAGRAM Tài khoản gợi ý Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ phân phối những tài khoản gợi ý mà bạn có thể muốn theo dõi.
+INSTAGRAM Thông báo Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ gửi thông báo về các tài khoản mới bạn có thể theo dõi, hoạt động của các quan hệ kết nối, nội dung gợi ý và hơn thế nữa.
+INSTAGRAM Bình luận Khi bạn xem và tương tác với Instagram, một trong các hệ thống AI cơ sở sẽ hiển thị bình luận về bài viết theo thứ tự mức độ phù hợp với bạn.
+INSTAGRAM Bảng feed Threads Khi bạn xem và tương tác với Threads, một trong các hệ thống AI cơ sở sẽ phân phối nội dung đã kết nối bạn nhìn thấy ở Bảng feed, cũng là nội dung từ các tài khoản bạn theo dõi và được đề xuất.
+### Hệ thống công cụ đề xuất trên Sản phẩm của Meta Platforms Technologies
+SẢN PHẨM CỦA META PLATFORMS TECHNOLOGIES Đề xuất trên Cửa hàng Meta Horizon Khi bạn xem và tương tác với Cửa hàng Meta Horizon, một trong các hệ thống AI cơ sở sẽ hỗ trợ trải nghiệm đề xuất trong Cửa hàng Meta Horizon.
+SẢN PHẨM CỦA META PLATFORMS TECHNOLOGIES Thông báo từ Cửa hàng Meta Horizon Khi bạn xem và tương tác với các thiết bị Meta Quest hoặc Ứng dụng Meta Horizon dành cho di động, một trong các hệ thống AI cơ sở sẽ gửi thông báo về những nội dung như đề xuất trong Ứng dụng, tài khoản mới để theo dõi, hoạt động của các quan hệ kết nối và Ứng dụng gợi ý.
+SẢN PHẨM CỦA META PLATFORMS TECHNOLOGIES Đề xuất thế giới trong Thế giới Meta Horizon trên Bảng feed Horizon thực tế hỗn hợp Khi bạn xem và tương tác với Bảng feed Horizon thực tế hỗn hợp, một trong các hệ thống AI cơ sở sẽ đưa ra đề xuất về Thế giới từ ứng dụng Thế giới Meta Horizon mà bạn có thể quan tâm.
+SẢN PHẨM CỦA META PLATFORMS TECHNOLOGIES Thông báo về đề xuất thế giới trong Thế giới Meta Horizon Khi bạn xem và tương tác với Thế giới Meta Horizon, một trong những hệ thống AI cơ sở sẽ gửi cho bạn các đề xuất Thế giới từ ứng dụng Thế giới Meta Horizon mà bạn có thể quan tâm.
+SẢN PHẨM CỦA META PLATFORMS TECHNOLOGIES Trang chi tiết về thế giới và Danh mục thế giới trong Thế giới Meta Horizon Khi bạn xem và tương tác với Thế giới Meta Horizon, một trong các hệ thống AI cơ sở sẽ hiển thị Thế giới theo thứ tự mức độ phù hợp với bạn.
+===== SOURCE DOCUMENT 004
+TITLE: Cách chúng tôi tiếp cận chất cấm và hỗ trợ các cộng đồng đang đối mặt với vấn nạn lạm dụng opioid | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/supporting-communities-opioid-epidemic/
+CONTENT_SHA256: edfd3539974159aa3218e6fb077642066ff4008db808c993a38a5cfdd60af26f
+================================================================================
+Hỗ trợ các cộng đồng đang đối mặt với vấn nạn lạm dụng opioid
+# Cách chúng tôi tiếp cận chất cấm và hỗ trợ các cộng đồng đang đối mặt với vấn nạn lạm dụng opioid
+NGÀY CẬP NHẬT 15 THÁNG 10, 2024
+Vấn nạn lạm dụng opioid (đặc biệt là việc sử dụng fentanyl ngày càng nhiều) đang tác động đến các gia đình trên khắp thế giới, thường gây ra hậu quả bi thảm và đã trở thành vấn đề gây hậu quả nghiêm trọng cho sức khỏe cộng đồng. Không một nền tảng nào có thể tự mình chống nạn buôn bán chất cấm/chất gây nghiện trên mạng và hỗ trợ những người bị ảnh hưởng. Tội phạm và kẻ xấu cũng là nhân tố góp phần gây ra vấn đề này. Từ chính phủ, hệ thống chăm sóc sức khỏe cho đến cơ quan hành pháp và công ty công nghệ, chúng ta đều phải chung tay để giải quyết thách thức đang diễn ra này. Nhận thức được tầm quan trọng của cuộc khủng hoảng chất cấm/chất gây nghiện, Meta cam kết sử dụng các nền tảng của mình để đảm bảo an toàn cho mọi người, đồng thời tạo ra sự thay đổi tích cực bằng cách hợp tác với những tổ chức hàng đầu khác và thực thi nghiêm ngặt Tiêu chuẩn cộng đồng mà chúng tôi đặt ra.
+Chúng tôi nghiêm cấm hành vi mua bán chất cấm/chất gây nghiện trên các nền tảng của mình, đồng thời áp dụng những biện pháp mạnh mẽ để phát hiện và gỡ bỏ nội dung như vậy. Trong quá trình nỗ lực không ngừng để loại bỏ nội dung này khỏi nền tảng, chúng tôi thường xuyên tìm cách cập nhật và tinh chỉnh biện pháp thực thi của mình dựa trên những tín hiệu và xu hướng mới, nhằm cố gắng cải thiện khả năng phát hiện nội dung vi phạm quy tắc mà chúng tôi đặt ra (bao gồm cả việc phối hợp với cơ quan hành pháp). Không có một công thức chính xác nào cho vấn đề này và chúng tôi liên tục điều chỉnh cách tiếp cận của mình. Biện pháp thực thi quá rộng có thể khiến mọi người không tiếp cận được các nguồn lực cai nghiện và hỗ trợ tại địa phương, những tài khoản vô hại tình cờ chứa các thuật ngữ có liên quan, hoạt động vận động hợp pháp hoặc diễn ngôn chính trị hay thậm chí là thông tin về văn hóa đại chúng. Tuy nhiên, kẻ xấu sẽ luôn tìm ra cách để né tránh biện pháp phát hiện và biện pháp thực thi. Vì vậy, khi xét đến những tác hại của chất cấm cũng như tác động của chúng đối với xã hội, chúng tôi có thể chọn cách gỡ nhầm còn hơn bỏ sót. Tức là đôi khi, chúng tôi có thể vô tình gỡ bỏ nội dung vô hại. Khi trường hợp này xảy ra và chúng tôi biết được, chúng tôi sẽ nhanh chóng khắc phục sai sót đó và khôi phục nội dung.
+Hợp tác với các chuyên gia để nâng cao nhận thức
+Nâng cao nhận thức và tăng cường giáo dục là 2 cách quan trọng để chống lại các mối nguy hại của việc lạm dụng chất cấm/chất gây nghiện. Chúng tôi không ngừng hỗ trợ các tổ chức hoạt động trong khía cạnh này để giúp cộng đồng nắm rõ tác hại tiềm ẩn của việc lạm dụng chất cấm/chất gây nghiện, giảm bớt tình trạng kỳ thị và cung cấp nguồn lực liên quan đến quá trình cai nghiện. Bên dưới là ví dụ về các hoạt động hỗ trợ mới đây:
+* Song For Charlie là tổ chức từ thiện phi lợi nhuận do gia đình vận hành, chuyên nâng cao nhận thức về thuốc kê đơn giả. Chúng tôi đã hợp tác với Song For Charlie để giúp một trung tâm mới, chuyên cung cấp nguồn lực và thông tin trên mạng về fentanyl tiếp cận được nhiều phụ huynh và gia đình tại California hơn. Đây là chiến dịch được Sở Dịch vụ Chăm sóc Sức khỏe (DHCS – Department of Health Care Services) của California cấp vốn và hỗ trợ.
+* Ad Council liên tục nâng cao nhận thức về mức độ phổ biến và các mối nguy hại của fentanyl thông qua chiến dịch Drop the F-Bomb (Trao đổi cởi mở về fentanyl). Chúng tôi đã cùng Ad Council tạo nội dung cho chiến dịch này, nhằm cung cấp cho phụ huynh các nguồn lực như Kiến thức cơ bản về fentanyl và hướng dẫn để phụ huynh biết cách tuyên truyền cho gia đình về những mối nguy hại của fentanyl. Theo Ad Council, trong năm 2023, chiến dịch này đã tiếp cận được gần 8 triệu phụ huynh trên các nền tảng của chúng tôi. Chúng tôi cũng hỗ trợ Ad Council và Văn phòng thuộc Nhà Trắng về Chính sách Kiểm soát Chất cấm/Chất gây nghiện Quốc gia (ONDCP – White House Office of National Drug Control Policy) tiến hành chiến dịch "Real Deal on Fentanyl" (Sự thật về fentanyl) nhằm nâng cao nhận thức về các tác dụng của Naloxone trong việc cứu sống người sử dụng quá liều. Nhờ sự hỗ trợ của Meta, chiến dịch này đã thu hút 27 triệu lượt hiển thị và tiếp cận 1,6 triệu người từ 18 tuổi trở lên.
+* Mobilize Recovery là một tổ chức kết nối các lãnh đạo địa phương với nhau để tổ chức buổi gặp gỡ trao đổi trong cộng đồng dành cho những người đang cai nghiện, thành viên trong gia đình và người hỗ trợ cai nghiện. Vào năm 2023, Meta đã cùng đơn vị này tổ chức Mobilize Recovery DC – một hội nghị cấp cao tập hợp hơn 600 người đang cai nghiện, gia đình, người ủng hộ và các nhà hoạch định chính sách trên toàn quốc để chống lại cuộc khủng hoảng về opioid, chấm dứt tình trạng sử dụng quá liều và hỗ trợ cai nghiện. Chúng tôi sẽ duy trì hoạt động hợp tác này trong năm 2024.
+* Chúng tôi là thành viên của Trung tâm Hiệu thuốc An toàn trên Internet (Center for Safe Internet Pharmacies) và sẽ không ngừng hỗ trợ họ trong Ngày thu hồi thuốc kê đơn do DEA khởi xướng (DEA Prescription Drug Takeback Day) bằng việc giúp mọi người tìm điểm tập hợp thuốc kê đơn gần nhất.
+* Chúng tôi đã cùng Partnership to End Addiction (một tổ chức phi lợi nhuận hàng đầu luôn nỗ lực làm thay đổi cách quốc gia giải quyết vấn đề nghiện thuốc) thực hiện chiến dịch để kết nối phụ huynh, người giám hộ và giới trẻ với nhau nhằm cung cấp nguồn lực giáo dục về cách phòng chống và cai nghiện. Theo Partnership to End Addiction, tính riêng trong nửa cuối năm 2023, chiến dịch của chúng tôi đã tiếp cận được hơn 10 triệu người, cùng với đó là cung cấp nguồn lực hỗ trợ cai nghiện bằng cả tiếng Anh lẫn tiếng Tây Ban Nha trên các nền tảng của chúng tôi. Chiến dịch này cũng thu hút 35.000 người sử dụng công cụ Đánh giá rủi ro. Với công cụ này, thành viên trong gia đình có thể xác định những yếu tố rủi ro riêng biệt ở người thân và hướng dẫn sao cho phù hợp để người đó biết cách giải quyết các rủi ro này.
+* Trong năm 2023, chúng tôi đã hợp tác với người sáng tạo nội dung Chunkz cũng như With You (một tổ chức từ thiện hỗ trợ về chất cấm/chất gây nghiện, đồ uống có cồn và sức khỏe tinh thần tại Vương quốc Anh) để nâng cao nhận thức về cách báo cáo nội dung liên quan đến chất cấm/chất gây nghiện và việc buôn bán chất cấm/chất gây nghiện trên Instagram, cũng như cách để giới trẻ tìm được sự trợ giúp nếu đang gặp vấn đề liên quan đến chất cấm/chất gây nghiện.
+Tận dụng công nghệ để gỡ nội dung xấu nhanh hơn và tìm sự trợ giúp dễ dàng hơn
+Chúng tôi cũng hiểu được tầm quan trọng của việc mang đến cho mọi người (đặc biệt là bất kỳ ai chịu ảnh hưởng trực tiếp từ vấn đề này) không gian an toàn để họ thoải mái thảo luận về mối nguy hại của chất cấm/chất gây nghiện và các chiến lược giúp vượt qua cơn nghiện. Vì thế, mọi người được phép chia sẻ về quá trình cai nghiện của họ hoặc người thân để nâng cao nhận thức, giáo dục và kết nối với các nguồn lực hữu ích. Trên các nền tảng của chúng tôi, mọi người phối hợp với nhau qua những sản phẩm như Nhóm Facebook và hashtag trên Instagram để đem đến sự hỗ trợ thiết yếu, bất kể đó là cộng đồng gồm các cá nhân giúp đỡ người thân cai nghiện, chuyên gia y tế chia sẻ thông tin về cách điều trị hay các tổ chức chống lại thái độ kỳ thị khiến nhiều người khó tiếp cận được sự trợ giúp.
+Chúng tôi muốn mọi người có thể dễ dàng tìm thấy những nguồn lực thiết yếu cho việc điều trị hơn. Khi mọi người tìm kiếm một số thuật ngữ liên quan đến chất cấm trên Facebook và Instagram, chúng tôi sẽ chuyển họ đến Đường dây trợ giúp quốc gia của Cục quản lý Dịch vụ Sức khỏe Tinh thần và vấn đề Lạm dụng Chất gây nghiện (SAMHSA – Substance Abuse and Mental Health Services Administration) tại Hoa Kỳ, cũng như các nguồn lực khác trên toàn cầu để họ tiếp cận nội dung hướng dẫn cùng biện pháp điều trị bí mật và miễn phí. Trong quá trình hợp tác với tổ chức Partnership for Drug-Free Kids, chúng tôi đã tạo điều kiện để mọi người dễ tiếp cận được đường dây trợ giúp của họ trên Messenger. Qua đó, họ có thể kết nối với hơn 1.000 gia đình có nhu cầu trong năm nay. Chúng tôi cũng đã hợp tác với tổ chức Partnership to End Addiction và Song For Charlie để phát triển các nguồn lực hỗ trợ và phòng ngừa lạm dụng chất cấm/chất gây nghiện trên toàn cầu.
+Chúng tôi tích cực cộng tác với các công ty công nghệ khác để chia sẻ thông tin và ngăn kẻ xấu thực hiện hành vi gây hại trên mạng. Chẳng hạn, chúng tôi phối hợp với Snap để xác định các quy luật và dấu hiệu của hoạt động cũng như nội dung liên quan đến chất cấm. Thông qua chương trình này, chúng tôi đã tìm ra cách mới để phát hiện nội dung về chất cấm ở quy mô lớn trên nền tảng của mình, đồng thời thường xuyên chia sẻ lại những dấu hiệu này cho Snap. Qua đó, chúng tôi có thể đánh giá một cách độc lập và gỡ nội dung vi phạm quy định về chất cấm/chất gây nghiện trên các nền tảng. Nhờ công việc nêu trên, chúng tôi có thể tìm và gỡ loại nội dung này một cách hữu hiệu hơn khỏi các nền tảng của mình. Trong quá trình phát triển của chương trình, chúng tôi rất mong được hợp tác với nhiều công ty nữa để cùng nhau bảo vệ mọi người và giải quyết vấn đề xảy ra trên toàn ngành này.
+Chúng tôi cũng đã tham gia với Chính phủ Hoa Kỳ, Văn phòng Liên Hợp Quốc về chống Ma túy và Tội phạm cùng các công ty công nghệ khác (ví dụ: Snap và X) để thành lập Liên minh Phòng chống Tác hại của Chất cấm/chất gây nghiện (Alliance to Prevent Drug Harms). Đây là nỗ lực phối hợp liên ngành nhằm phòng chống hành vi lạm dụng nền tảng kỹ thuật số để thực hiện các hoạt động bất hợp pháp hoặc gây hại liên quan đến việc sử dụng chất cấm/chất gây nghiện tổng hợp cho mục đích phi y tế (ví dụ: fentanyl). Được chính thức ra mắt vào ngày 11/07/2024, Liên minh tập trung vào việc phối hợp đập tan hoạt động này trên mạng, cũng như nâng cao nhận thức của cộng đồng về những mối nguy hại và rủi ro đối với sức khỏe từ việc lạm dụng chất cấm/chất gây nghiện tổng hợp.
+Ngoài việc cộng tác với các công ty công nghệ khác, chúng tôi đã tạo ra công nghệ để tìm và loại bỏ nội dung có hại cũng như kẻ xấu khỏi các nền tảng của mình, bao gồm cả việc:
+* **Phát hiện và gỡ nội dung liên quan đến chất cấm:** Chúng tôi nghiêm cấm nội dung (ngay cả trong quảng cáo, nội dung tự nhiên và các giải pháp thương mại) cổ xúy việc mua bán chất cấm, đồng thời sẽ gỡ nội dung này mỗi khi phát hiện ra. Các tổ chức tội phạm cũng không được phép sử dụng Facebook và Instagram. Chúng tôi sẽ loại bỏ những tổ chức này khỏi các nền tảng của mình nếu phát hiện ra. Công nghệ của chúng tôi có thể phát hiện những nội dung chứa hình ảnh về chất cấm/chất gây nghiện, đồng thời chúng tôi tìm những kiểu mô tả liên quan đến ý định có khả năng là bán hàng. Bằng việc dùng công nghệ để phát hiện loại nội dung này, đội ngũ của chúng tôi có thể vận dụng chuyên môn để điều tra về các tài khoản, Trang, Nhóm, biểu tượng cảm xúc và hashtag, cũng như phối hợp với chuyên gia để xác định các xu hướng tiếp theo. Chúng tôi chặn và lọc bỏ hàng trăm cụm từ liên quan đến hành vi buôn bán chất cấm. Mọi người chủ yếu tìm thấy nội dung này khi tìm kiếm. Trên Facebook và Instagram, khi mọi người tìm kiếm các hashtag và cụm từ liên quan đến chất cấm/chất gây nghiện mà chúng tôi đã xác định (bao gồm cả thông tin về các loại thuốc opioid), chúng tôi sẽ hiển thị cửa sổ bật lên chèn giữa nhằm chuyển họ đến Đường dây trợ giúp quốc gia của SAMHSA cũng như các nguồn lực khác để họ tiếp cận nội dung hướng dẫn cùng biện pháp điều trị bí mật và miễn phí. Chúng tôi sẽ tiếp tục áp dụng biện pháp xử lý đối với bất kỳ ai dùng các nền tảng của chúng tôi để tìm cách tổ chức hoạt động bán chất cấm. Chúng tôi không ngừng cải thiện các biện pháp dùng để phát hiện và gỡ nội dung vi phạm chính sách trước khi mọi người có thể nhìn thấy hoặc báo cáo nội dung đó.
+* **Phối hợp với cơ quan hành pháp**: Chúng tôi thường xuyên phản hồi các yêu cầu pháp lý, đồng thời phối hợp chặt chẽ với cơ quan hành pháp và đội ngũ ứng phó khẩn cấp để đảm bảo an toàn cho mọi người trên các nền tảng do chúng tôi cung cấp. Khi xác định được mối đe dọa có thể xảy ra, chúng tôi sẽ liên hệ với cơ quan hành pháp theo các điều khoản dịch vụ của mình và pháp luật hiện hành. Ngoài ra, chúng tôi chủ động phối hợp với cơ quan hành pháp để đấu tranh chống hoạt động buôn bán và phân phối chất cấm.
+* **Cập nhật Chính sách của chúng tôi:** Chúng tôi đã cập nhật chính sách về Hàng hóa và dịch vụ bị hạn chế trong Tiêu chuẩn cộng đồng, nhằm giải thích rõ hơn về quy định cấm mà chúng tôi đã áp dụng từ lâu với hành vi mua hoặc bán thuốc nguy hiểm không dùng cho mục đích y tế trên các nền tảng của mình. Định nghĩa về thuốc không dùng cho mục đích y tế giờ tính đến tiền chất, bao gồm cả những tiền chất có khả năng giúp bào chế các chất cấm/chất gây nghiện nguy hiểm như fentanyl. Chúng tôi cũng đã bổ sung một mục mới cho chính sách này để trình bày về hành vi bán các loại chất cấm/chất gây nghiện có nguy cơ cao, với khởi điểm là fentanyl, cocaine và heroin. Nếu người dùng vi phạm theo kiểu này một lần, tài khoản của họ sẽ bị vô hiệu hóa. Đối với quảng cáo thì chúng tôi yêu cầu rằng các dịch vụ điều trị cai nghiện sẽ phải có chứng nhận nếu muốn quảng cáo trên những nền tảng của chúng tôi.
+Cam kết của chúng tôi
+Chúng tôi sẽ tiếp tục đầu tư vào công nghệ để ngăn chặn hành vi buôn bán chất cấm trên các nền tảng do chúng tôi cung cấp, nâng cao nhận thức và tăng cường giáo dục để chống lại các mối nguy hại của việc lạm dụng chất cấm/chất gây nghiện, cũng như tạo điều kiện cho mọi người tiếp cận được nguồn lực và sự trợ giúp. Và trên hết, để góp phần giải quyết những vấn đề này, chúng tôi sẽ không ngừng hợp tác với những bên khác, bao gồm cả chính phủ và cơ quan hành pháp, tổ chức, chuyên gia về sức khỏe, nhà nghiên cứu và các bên tương tự chúng tôi ở những công ty công nghệ khác. Khi hợp tác với nhau, chúng ta có thể ứng phó tốt hơn với cuộc khủng hoảng này.
+===== SOURCE DOCUMENT 005
+TITLE: Cách chúng tôi tiếp cận cá nhân và tổ chức nguy hiểm | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/dangerous-orgs-and-individuals/
+CONTENT_SHA256: 69a157a7c2e6df82fea30ca8e7e8bd3fc7e4a20c0ce824f0929b1a46930f41bc
+================================================================================
+Cá nhân và tổ chức nguy hiểm
+# Cách chúng tôi tiếp cận cá nhân và tổ chức nguy hiểm
+NGÀY CẬP NHẬT 11 THÁNG 11, 2024
+Nền tảng của chúng tôi không cho phép các nhóm/cá nhân cổ xúy hành vi bạo lực, tội phạm có tổ chức, hoạt động thù ghét hoặc khủng bố. Trong nhiều năm nỗ lực, chúng tôi đã và không ngừng đề ra các chính sách cùng quy trình liên quan đến Cá nhân và tổ chức nguy hiểm (DOI) nhằm giải quyết loại nội dung này. Mặc dù chúng tôi cam kết mang lại không gian để mọi người có thể thảo luận về những sự kiện xảy ra trên khắp thế giới có ảnh hưởng đến cuộc sống, gia đình và cộng đồng của họ, nhưng chính sách của chúng tôi lại đặt ra giới hạn về những gì không được phép trên các nền tảng do chúng tôi cung cấp.
+Chúng tôi đề ra chính sách nhằm đảm bảo sự an toàn trên các nền tảng của mình
+Meta sở hữu một trong những chính sách toàn diện nhất trong ngành nhắm đến các tổ chức khủng bố, nhóm thù ghét, tổ chức tội phạm bài bản như các băng đảng, thực thể cổ xúy hành vi bạo lực và những thủ phạm trong các vụ việc vi phạm được xác định, chẳng hạn như xả súng hàng loạt hoặc tấn công khủng bố.
+Theo Chính sách về DOI này, chúng tôi xác định và cấm những cá nhân cùng tổ chức có liên quan đến các hoạt động nêu trên, đồng thời gỡ nội dung ca ngợi và ủng hộ họ khi chúng tôi biết về nội dung đó. Chúng tôi cũng xác định và cấm các thực thể cổ xúy bạo lực (tức là thực thể chuẩn bị hoặc ủng hộ thực hiện hành vi bạo lực trong tương lai nhưng không hẳn là đã thực hiện hành vi bạo lực nếu tính đến nay), đồng thời gỡ nội dung ca ngợi và ủng hộ họ.
+Chính sách của chúng tôi hiển thị công khai nên bạn có thể xem thêm chi tiết về chính sách trên trang Tiêu chuẩn cộng đồng. Ngoài ra, chúng tôi thường xuyên đăng chi tiết về lượng nội dung kiểu này mà mình gỡ trong báo cáo thực thi Tiêu chuẩn cộng đồng hàng quý.
+Cách thức và lý do chúng tôi xác định
+Chúng tôi không cho phép các tổ chức hoặc cá nhân hiện diện trên những nền tảng của Meta nếu họ tuyên bố một sứ mệnh mang tính bạo lực hoặc thù ghét hay thực hiện hành vi bạo lực. Chúng tôi đánh giá các thực thể này dựa trên hành vi của họ ở cả trên mạng lẫn ngoài đời và yếu tố quan trọng nhất là mối liên hệ giữa họ với hành vi bạo lực. Theo chính sách này, chúng tôi xác định các cá nhân, tổ chức và mạng lưới con người. Để đảm bảo thực thi sao cho hiệu quả, tương xứng và nhất quán hơn, chúng tôi đã chia các thực thể được xác định thành 2 cấp. Bạn có thể đọc thêm về các cấp này và loại tổ chức thuộc từng cấp đó trong Tiêu chuẩn cộng đồng của chúng tôi.
+Chúng tôi có quy trình nội bộ chặt chẽ của riêng mình (trong đó xét đến nhiều nguồn thông tin) mà chúng tôi sử dụng để đánh giá các cá nhân và tổ chức có thể được xác định. Nhờ tự đề ra các định nghĩa và quy trình xác định không phụ thuộc vào khu vực hay hệ tư tưởng, chúng tôi có thể bảo vệ các nền tảng của mình theo cách hữu hiệu, công bằng và chủ động.
+Đây không phải là công việc mang tính cố định. Chúng tôi liên tục đánh giá rủi ro, các nhóm và cá nhân để xác định dựa trên hành vi của họ, hoàn cảnh thay đổi, thông tin mới, ý kiến phân tích của chuyên gia nội bộ và ý kiến đóng góp của bên liên quan bên ngoài. Ví dụ: như chúng tôi thông báo vào tháng 01/2024, khi một tổ chức hoặc cá nhân được xác định thay đổi hành vi của họ, họ cũng đủ điều kiện được loại bỏ khỏi danh sách của chúng tôi, cụ thể là nếu họ (1) không bị chính phủ Hoa Kỳ xác định là Kẻ cầm đầu đường dây buôn bán ma túy được xác định đặc biệt (SDNTK); Tổ chức khủng bố nước ngoài (FTO); hoặc Kẻ khủng bố toàn cầu được xác định đặc biệt (SDGT); (2) không còn liên quan đến hành vi bạo lực hay hoạt động thù ghét và (3) không là biểu tượng cho hành vi bạo lực và hoạt động thù ghét hoặc không được dùng để cổ xúy thêm cho hành vi bạo lực/tuyên truyền nội dung bạo lực hay thù ghét.
+Mặc dù cực kỳ xem trọng tính minh bạch và liên tục đánh giá các yếu tố cần cân bằng, nhưng hiện tại chúng tôi không chia sẻ chi tiết danh sách cá nhân/tổ chức được xác định nhằm giảm thiểu rủi ro về an ninh và pháp lý, cũng như ngăn những phần tử nguy hiểm này tìm cách né tránh cơ chế thực thi của chúng tôi.
+Cách chúng tôi thực thi biện pháp đối với cá nhân và tổ chức nguy hiểm
+Chúng tôi đầu tư mạnh vào con người, công nghệ, quan hệ hợp tác và nghiên cứu để chống lại hoạt động của DOI.
+* **Công nghệ:** Chúng tôi tiếp cận khía cạnh này bằng cách kết hợp giữa AI và trí tuệ con người, đồng thời đầu tư vào nghiên cứu và hợp tác với các chuyên gia cùng tổ chức bên ngoài để nắm bắt môi trường luôn thay đổi này. Chúng tôi dùng AI để phát hiện video, hình ảnh, âm thanh, văn bản và cả đồ họa như logo, cũng như nội dung mô tả hành vi bạo lực. Chúng tôi còn cung cấp các công cụ nguồn mở trong toàn ngành để giúp đối tác tiếp cận công nghệ nhằm chống lại các cá nhân và tổ nguy hiểm trên nền tảng của riêng họ. Ví dụ: vào tháng 12/2022, nhằm tạo điều kiện dễ dàng hơn để mọi công ty trong toàn ngành có thể loại bỏ nội dung khủng bố khỏi nền tảng của họ, chúng tôi cung cấp "Hasher Matcher Actioner" (HMA) – một công cụ phần mềm nguồn mở miễn phí nhằm hỗ trợ các nền tảng xác định bản sao hình ảnh/video và áp dụng hàng loạt biện pháp xử lý đối với những bản sao đó.
+* **Con người:** Bối cảnh và ngôn ngữ thường phức tạp, còn công nghệ không phải lúc nào cũng có thể phân biệt được nội dung ca ngợi một DOI với lời chỉ trích mang tính văn hóa đặc thù. Vì vậy, Meta đã đầu tư hàng tỷ đô la và sử dụng gần 40.000 nhân sự cho lĩnh vực an toàn và bảo mật. Trong số đó, chúng tôi có một đội ngũ đa chức năng gồm hàng trăm người, cụ thể là có chuyên môn từ mảng thực thi pháp luật và an ninh quốc gia cho đến tình báo chống khủng bố và các nghiên cứu học thuật về nạn cực đoan hóa – tất cả đều dành riêng cho công việc này.
+* **Quan hệ hợp tác:**Chừng nào còn tồn tại trên thế giới, hoạt động có hại sẽ tiếp tục hiện diện trên Internet và không một công ty nào có thể tự mình giải quyết những vấn đề này. Đó là lý do vì sao mối quan hệ hợp tác với những bên khác – các công ty, tổ chức xã hội dân sự, nhà nghiên cứu và chính phủ – lại quan trọng đến vậy. Chúng tôi hợp tác với các chính phủ và cơ quan liên chính phủ trên toàn cầu, đồng thời làm việc cùng những tổ chức có chuyên môn về vấn đề khủng bố, chủ nghĩa cực đoan bạo lực, tình báo mạng và hành vi đối nghịch trên mạng.
+* GIFCT: Năm 2017, chúng tôi hợp sức cùng YouTube, Microsoft và Twitter để thành lập Diễn đàn Internet Toàn cầu Chống Khủng bố (GIFCT) – một tổ chức được xây dựng với mục tiêu là ngăn chặn kẻ khủng bố và phần tử cực đoan bạo lực lợi dụng các nền tảng kỹ thuật số. GIFCT trở thành tổ chức phi chính phủ độc lập vào năm 2019 và điều phối hoạt động ứng phó khẩn cấp trong toàn ngành nhằm chống lại các cuộc tấn công.
+* Cơ quan hành pháp: Khi phát hiện thấy một mối đe dọa cụ thể, cận kề và có thể xảy ra với tính mạng con người, chúng tôi sẽ thông báo ngay cho cơ quan hành pháp. Meta cũng hợp tác với cơ quan hành pháp trong các vụ tấn công bạo lực, mặc dù chúng tôi luôn xem xét kỹ lưỡng mọi yêu cầu nhận được từ chính phủ để đảm bảo rằng yêu cầu đó hợp pháp và tuân thủ những tiêu chuẩn quốc tế về nhân quyền, bao gồm cả trình tự công bằng, quyền riêng tư, quyền tự do biểu đạt và quy tắc luật pháp. Nếu xác định rằng một yêu cầu có vẻ thiếu sót hoặc quá rộng, chúng tôi sẽ phản đối. Bạn có thể đọc thêm về việc chúng tôi hợp tác với cơ quan hành pháp tại đây.
+* **Nghiên cứu độc lập:** Chúng tôi ủy quyền để các tổ chức nghiên cứu, học giả và tổ chức phi chính phủ tiến hành nghiên cứu độc lập về nhiều chủ đề liên quan đến việc sử dụng Internet của kẻ khủng bố và phần tử cực đoan bạo lực, nhằm giúp ngành của chúng tôi hiểu rõ và đạt được tiến độ trong việc giải quyết các vấn đề quan trọng này. Năm 2022, Meta thông báo về mối quan hệ hợp tác nghiên cứu với Trung tâm nghiên cứu về vấn đề Khủng bố, Chủ nghĩa cực đoan và Chống khủng bố (Center on Terrorism, Extremism, and Counterterrorism) thuộc Viện Nghiên cứu Quốc tế Middlebury (Middlebury Institute of International Studies) nhằm phân tích các xu hướng phát triển trong chủ nghĩa cực đoan bạo lực và những công cụ hữu hiệu giúp cộng đồng chống lại vấn đề này.
+* **Đập tan mạng lưới chiến lược:** Mặc dù phần lớn biện pháp thực thi của chúng tôi đối với vấn đề khủng bố và hoạt động thù ghét có tổ chức là gỡ bỏ nội dung đều đặn, nhưng đôi khi điều đó vẫn chưa đủ. Đây là một khía cạnh đối nghịch. Đôi khi những thực thể nguy hiểm được xác định sẽ tìm cách né tránh biện pháp thực thi của chúng tôi và tái thành lập các mạng lưới trên nền tảng mà chúng tôi cung cấp. Để chống lại các mạng lưới này, chúng tôi vận dụng một cách tiếp cận chủ chốt là Đập tan mạng lưới chiến lược (SND). Thông qua SND, chúng tôi có thể loại bỏ cùng lúc mọi phần tử là DOI đã bị cấm thuộc cùng một mạng lưới, cụ thể là ở lần đầu họ được xác định hoặc trong quá trình chúng tôi làm việc liên tục nhằm xóa sổ các nhóm được xác định này khỏi nền tảng của mình. Việc vô hiệu hóa toàn bộ các nhóm này sẽ khiến họ khó xuất hiện trở lại trên nền tảng hơn. Điều này cũng truyền tải một thông điệp rõ ràng rằng chúng tôi biết rõ sự hiện diện của họ và những nhóm này không được chào đón trên các nền tảng của chúng tôi. Cuối cùng, nhờ kỹ thuật này, chúng tôi xác định được cách những DOI này né tránh hệ thống phát hiện của chúng tôi, cũng như cách họ xuất hiện trở lại trên các ứng dụng mà chúng tôi sở hữu sau khi tài khoản của họ bị gỡ.
+* Vào tháng 06/2023, tạp chí học thuật độc lập _Proceedings of the National Academy of Sciences (PNAS)_ đã đăng một bài viết do nhà nghiên cứu Daniel Robert Thomas và Laila A. Wahedi của Meta soạn thảo, cụ thể là nghiên cứu về hiệu quả mà chiến lược SND của chúng tôi mang lại trong việc đập tan các nhóm thù ghét. Chúng tôi nhận thấy rằng chiến thuật này có tác dụng và góp phần mang lại trải nghiệm lành mạnh hơn, an toàn hơn cho người dùng trên các nền tảng của chúng tôi.
+Công tác phòng ngừa
+Meta luôn nỗ lực duy trì độ an toàn và tính toàn vẹn của nền tảng mà chúng tôi cung cấp. Một trong những cách để chúng tôi đạt được điều này là thông qua công tác phòng ngừa từ nguồn, bao gồm việc thực hiện các biện pháp chủ động để ngăn chặn sự lan rộng của DOI trước khi tư tưởng do họ truyền bá có thể ăn sâu vào các cá nhân hoặc cộng đồng. Trong đó có cả việc áp dụng các biện pháp can thiệp có mục tiêu và thúc đẩy ngôn từ tích cực. Chúng tôi tin rằng việc đối thoại mang tính xây dựng là cần thiết, đồng thời nỗ lực tạo ra một môi trường khuyến khích những hình thức trao đổi như vậy.
+Để củng cố hơn nữa nỗ lực của mình, chúng tôi tích cực hợp tác với các Tổ chức xã hội dân sự (CSO) chuyên đấu tranh chống chủ nghĩa cực đoan, hoạt động thù ghét có tổ chức và các hoạt động tội phạm. Chúng tôi hỗ trợ các tổ chức này bằng cách tạo dựng năng lực và cung cấp cho họ nguồn lực cần thiết để tạo nội dung phản bác. Nội dung này thách thức những luận điệu cực đoan và đưa ra các quan điểm thay thế, giúp thúc đẩy một môi trường tích cực và dễ hòa nhập hơn trên mạng.
+Cách tiếp cận của chúng tôi trong việc chống lại chủ nghĩa cực đoan mang tính đa chiều và chủ động, bao gồm sự kết hợp giữa việc phòng ngừa, cộng tác và thúc đẩy ngôn từ tích cực.
+* **Sáng kiến khả năng phục hồi** là chương trình đào tạo các CSO trên khắp châu Á, châu Phi và Hoa Kỳ về chiến lược cho chiến dịch Phòng ngừa/Chống lại chủ nghĩa cực đoan bạo lực (P/CVE), đồng thời tạo dựng năng lực của họ cho các chiến dịch phản bác hiệu quả. Là một phần của Sáng kiến khả năng phục hồi, Meta đã khởi xướng mối quan hệ hợp tác tại Hoa Kỳ với Search for Common Ground (SFCG) để hỗ trợ các đối tác dựa trên cộng đồng, đang làm việc tại địa phương nhằm chống lại hành vi bạo lực do hoạt động thù ghét gây ra, đồng thời tạo dựng khả năng phục hồi cho xã hội và cộng đồng.
+* **Nội dung tìm kiếm an toàn hơn:** Nếu thích hợp, chúng tôi cũng chỉ dẫn mọi người đến các nguồn lực khi họ tìm kiếm những từ khóa liên quan đến cá nhân và tổ chức nguy hiểm. Khi tìm kiếm các từ khóa liên quan đến DOI trên Facebook, Instagram và Threads, người dùng sẽ được cung cấp nguồn lực hướng dẫn, từ đó giúp ngăn chặn việc tìm kiếm nội dung về DOI. Chúng tôi cũng triển khai chương trình tìm kiếm tại một số quốc gia, trong đó có Úc, Hoa Kỳ, Vương quốc Anh, Đức, Ấn Độ, Indonesia và Pakistan. Nếu ai đó tìm kiếm các từ khóa đặc thù cho từng thị trường và thường tập trung vào những mối nguy hại cụ thể của DOI, chúng tôi sẽ cung cấp cho họ thêm thông tin và nguồn lực có được từ nỗ lực hợp tác với một CSO tại địa phương chuyên cung cấp dịch vụ hỗ trợ cho những người dùng có nguy cơ bị cực đoan hóa.
+* **Cung cấp nguồn lực cho các tổ chức cộng đồng:** Chúng tôi cũng triển khai Chương trình quảng cáo an toàn, nhằm hỗ trợ các đối tác CSO chủ động ngăn chặn mối nguy hại bằng cách đem đến khoản tín dụng quảng cáo và sự hỗ trợ mang tính chiến lược khi họ thực hiện những chương trình phản bác. Thông qua việc hợp tác với các tổ chức này, chúng tôi muốn phát triển các mối quan hệ hợp tác để chống lại DOI.
+Công việc này đang diễn ra và chúng tôi biết rằng chừng nào các cá nhân và tổ chức nguy hiểm còn tồn tại trên thế giới, họ sẽ vẫn hiện diện trên Internet. Đó là lý do tại sao chúng tôi luôn cảnh giác. Những nhóm này áp dụng các chiến thuật mới để tránh bị phát hiện và/hoặc tìm cách né tránh chính sách và biện pháp thực thi của chúng tôi. Hành vi đối nghịch này là lý do khiến chúng tôi luôn nỗ lực đi trước một bước, đánh giá và cập nhật cách tiếp cận của mình.
+===== SOURCE DOCUMENT 006
+TITLE: Cách chúng tôi tiếp cận các cuộc bầu cử | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/approach-to-elections/
+CONTENT_SHA256: fae86101ad95119238c3c223d6b27da18fb64c33933b954b5b645b12638e9452
+================================================================================
+Cách tiếp cận đối với các cuộc bầu cử
+# Cách chúng tôi tiếp cận các cuộc bầu cử
+NGÀY CẬP NHẬT 27 THÁNG 11, 2023
+Meta đầu tư rất nhiều công sức và nguồn lực để bảo vệ các cuộc bầu cử trên mạng – vào mọi thời điểm chứ không chỉ trong thời gian bầu cử.
+Chúng tôi có khoảng 40.000 người phụ trách về an toàn và bảo mật cho các cuộc bầu cử trên toàn cầu, với tổng mức đầu tư hơn 20 tỷ USD dành cho các đội ngũ và công nghệ trong lĩnh vực này từ năm 2016.
+Ngăn chặn hành vi can thiệp
+* Chúng tôi ngăn chặn hàng triệu tài khoản giả mỗi ngày từ trước cả khi chúng được tạo.
+* Đội ngũ bảo mật của chúng tôi điều tra và gỡ bỏ các mạng lưới tài khoản, Trang và nhóm cấu kết với nhau để tìm cách thao túng việc tranh luận công khai.
+* Chúng tôi hợp tác với chính phủ, cơ quan hành pháp, tổ chức phi lợi nhuận, nhóm đấu tranh dân quyền và các công ty công nghệ khác để ngăn chặn những mối đe dọa mới xuất hiện.
+Ngăn chặn thông tin sai lệch
+* Chúng tôi hợp tác với gần 100 đối tác ở 60 ngôn ngữ để xác minh dữ kiện của nội dung người dùng đăng, đồng thời cung cấp ngữ cảnh về nội dung gây hiểu nhầm.
+* Chúng tôi gỡ những nội dung tìm cách can thiệp vào hoạt động bỏ phiếu (chẳng hạn như thông tin bỏ phiếu không chính xác), đồng thời gỡ những nội dung kêu gọi hành vi bạo lực trong bầu cử.
+* Chúng tôi giảm mức phân phối tin giả về cuộc bầu cử để ít người nhìn thấy hơn.
+Tăng cường tính minh bạch
+* Theo yêu cầu của chúng tôi, mọi nhà quảng cáo liên quan đến chính trị đều phải xác minh danh tính thông qua quy trình ủy quyền rồi mới có thể mua quảng cáo.
+* Chúng tôi thêm tuyên bố miễn trừ trách nhiệm "Tài trợ bởi:" vào quảng cáo liên quan đến chính trị và vấn đề xã hội, cũng như cung cấp thông tin về chủ sở hữu và vị trí của các Trang và Nhóm liên quan đến chính trị.
+* Chúng tôi cung cấp Thư viện quảng cáo (cơ sở dữ liệu có thể tìm kiếm gồm tất cả các quảng cáo liên quan đến chính trị và vấn đề xã hội trong 7 năm qua) để bạn có thể biết chính xác các ứng cử viên đang nói gì, họ đang nhắm mục tiêu đến ai và ai tài trợ cho quảng cáo đó.
+Tạo điều kiện để mọi người bỏ phiếu
+* Trên Facebook và Instagram, qua thông báo trong ứng dụng, chúng tôi không ngừng cung cấp cho mọi người thông tin chi tiết về hoạt động đăng ký cử tri và các cuộc bầu cử.
+* Trung tâm thông tin bỏ phiếu của chúng tôi vẫn hoạt động trên Facebook.
+Truy cập vào trang web về các cuộc bầu cử để hiểu hơn về những nỗ lực của chúng tôi
+===== SOURCE DOCUMENT 007
+TITLE: Cách chúng tôi xếp thứ tự nội dung trên Bảng feed Facebook | Trung tâm minh bạch
+SOURCE_TYPE: ranking
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/ranking-and-content/
+CONTENT_SHA256: 312693fd481d03b6b541d80d09390e571a80cc9990b0732d5879eb43fcc7d7cb
+================================================================================
+Hệ thống xếp thứ tự và nội dung
+# Cách chúng tôi xếp thứ tự trên Bảng feed Facebook
+NGÀY CẬP NHẬT 11 THÁNG 6, 2025
+Mục tiêu của Facebook là đảm bảo bạn nhìn thấy bài viết từ những người, mối quan tâm và ý tưởng mà bạn thấy có giá trị, bất kể nội dung đó là từ người bạn đã kết nối hay người mà có thể bạn chưa biết. Khi mở Facebook và xem Bảng feed ở tab Trang chủ, bạn sẽ trải nghiệm cả "nội dung được kết nối" (ví dụ: nội dung từ bạn bè hoặc người mà bạn đang theo dõi, Nhóm bạn tham gia và Trang bạn thích) lẫn "nội dung được đề xuất" (ví dụ: nội dung chúng tôi cho là bạn sẽ quan tâm từ những người mà bạn có thể muốn biết). Chúng tôi cũng hiển thị quảng cáo phù hợp với bạn.
+Dưới đây, bạn sẽ tìm thấy thông tin về cách chúng tôi sử dụng hệ thống xếp thứ tự nội dung trên Bảng feed, cụ thể là chú trọng vào nội dung được kết nối. Bây giờ, chúng tôi sẽ trình bày kỹ hơn về các loại tín hiệu và mô hình dự đoán mình sử dụng trong quy trình này để bạn hiểu chi tiết hơn về cách hệ thống xếp thứ tự nội dung của chúng tôi hoạt động.
+MỤC LỤC
+Lý do chúng tôi dùng hệ thống xếp thứ tự phù hợp với từng ngườiCách hoạt động của hệ thống xếp thứ tự trên Bảng feed đối với nội dung được kết nốiTrao cho mọi người thêm quyền kiểm soát đối với nội dung họ nhìn thấy trong Bảng feedTìm hiểu sâu hơn về cách dự đoán nội dung bạn muốn xemTín hiệu dùng để xếp thứ tự nội dung được kết nốiMô hình dự đoán dùng để xếp thứ tự nội dung được kết nối
+Lý do chúng tôi dùng hệ thống xếp thứ tự phù hợp với từng người dùng
+Chúng tôi sử dụng hệ thống máy học hiện đại để xếp thứ tự nội dung phù hợp trên từng Bảng feed cho hơn 2 tỷ người dùng. Do đa số mọi người không thể lướt xem hết nội dung trên Bảng feed trong một phiên truy cập, các hệ thống xếp thứ tự nội dung kể trên sẽ góp phần đảm bảo mọi người nhìn thấy nội dung mang lại cho họ nhiều giá trị nhất. Mặc dù thứ tự nội dung trên Bảng feed chịu ảnh hưởng của nhiều yếu tố khác nhau, nhưng thông tin bên dưới sẽ hỗ trợ bạn hiểu rõ hơn về các loại dự đoán và tín hiệu thường ảnh hưởng nhiều nhất đến cách hệ thống của chúng tôi xác định nội dung bạn nhìn thấy.
+Cách hoạt động của hệ thống xếp thứ tự nội dung được kết nối trên Bảng feed
+Để xác định thứ tự nội dung được kết nối trên Bảng feed, hệ thống sẽ thực hiện 4 bước sau đây:
+Danh sách cung ứng
+Trước tiên, chúng tôi sẽ thu thập danh sách cung ứng mới đây của bạn – toàn bộ bài viết mới có tiềm năng hoặc bài viết có hoạt động mới mà bạn có thể nhìn thấy khi mở Facebook. Trong đó bao gồm mọi bài viết được chia sẻ bởi 1) những người là "bạn bè" đã kết nối với bạn, 2) những Trang bạn theo dõi và 3) những Nhóm bạn đã tham gia, trừ nội dung bị gắn cờ do vi phạm Tiêu chuẩn cộng đồng của chúng tôi.
+Tín hiệu
+Tiếp theo, đối với từng bài viết trong số đó, chúng tôi sẽ xem xét hàng nghìn "tín hiệu" để dự đoán về nội dung bạn sẽ thấy thú vị nhất. Nhiều tín hiệu trong số này là thông tin bạn trực tiếp cung cấp cho chúng tôi khi bạn thích hay chia sẻ bài viết, bạn kết nối với bạn bè hay Nhóm hoặc bạn bình luận về bài viết trên Trang; còn những tín hiệu khác được suy luận dựa trên các hành động bạn thực hiện trên Facebook. Ở bên dưới, chúng tôi đã chia sẻ thêm thông tin về các loại tín hiệu dùng khi xếp thứ tự nội dung.
+Dự đoán
+Từ đó, dựa trên các tín hiệu nêu trên, chúng tôi sẽ đưa ra hàng loạt dự đoán dành riêng về nội dung bạn sẽ thấy phù hợp và có giá trị nhất. Ví dụ: hệ thống của chúng tôi dự đoán khả năng bạn sẽ bình luận về một bài viết, khả năng bạn bè của bạn sẽ bình luận về bài viết nếu bạn chia sẻ bài viết đó hoặc khả năng bài viết sẽ khơi dậy cuộc trò chuyện hay cuộc thảo luận qua lại. Chúng tôi cũng thực hiện khảo sát để hỏi mọi người xem liệu một bài viết "có đáng thời gian" của họ không, rồi dựa vào kết quả khảo sát để dự đoán về nội dung bạn sẽ thấy hữu ích. Chúng tôi cũng dự đoán xem liệu nội dung có vấn đề và nên bị giảm mức phân phối hay không. Tất cả những dự đoán nêu trên sẽ được kết hợp trong bước tiếp theo để đưa ra thứ tự cuối cùng. Ở bên dưới, chúng tôi đã chia sẻ thêm thông tin về dự đoán dùng khi xếp thứ tự nội dung.
+Xếp thứ tự bài viết theo điểm số
+Tiếp đến, hệ thống sẽ tính "điểm phù hợp" cho từng bài viết và xếp thứ tự cho các bài viết dựa trên điểm số này. Những bài viết mà hệ thống dự đoán sẽ mang lại cho bạn nhiều giá trị hơn thường hiển thị ở vị trí cao hơn trên Bảng feed. Hệ thống cũng cố gắng đảm bảo Bảng feed của bạn hiển thị cân bằng các loại nội dung. Chẳng hạn, bạn ít có khả năng nhìn thấy liên tiếp nhiều bài viết của cùng một Nhóm hoặc Trang. Thay vào đó, bạn sẽ nhìn thấy một loạt bài viết từ các nguồn khác nhau.
+Sau khi hệ thống xếp thứ tự nội dung tính điểm phù hợp, chúng tôi sẽ thực hiện bước kế cuối cùng là xếp xen kẽ nội dung đề xuất: chúng tôi bổ sung bước này để bạn khám phá và tìm hiểu thêm về sở thích của mình thông qua những người khác có chung sở thích, bất kể bạn đã kết nối hay chưa. Cuối cùng, chúng tôi cũng thêm quảng cáo vào Bảng feed. Sau khi quy trình này hoàn tất, Bảng feed dành riêng cho bạn đã sẵn sàng!
+Hãy xem video bên dưới để biết rõ hơn về quy trình xếp thứ tự nội dung.
+0:00 / 0:00
+Tăng cường quyền kiểm soát nội dung hiển thị trên Bảng feed cho mọi người
+Khi tương tác với nội dung trên Bảng feed, bạn cung cấp cho chúng tôi cả tín hiệu trực tiếp (ví dụ: thích, bình luận hoặc chia sẻ lại nội dung, v.v.) lẫn tín hiệu gián tiếp (ví dụ: xem bài viết) để chúng tôi dự đoán nội dung có ý nghĩa với bạn. Vì tin rằng bạn cần có nhiều quyền kiểm soát hơn nữa đối với trải nghiệm của mình trên Bảng feed, chúng tôi đã xây dựng các công cụ để bạn tùy chỉnh thêm nội dung mình nhìn thấy. Các lựa chọn kiểm soát này bao gồm:
+* Tùy chọn Bảng feed: cung cấp các lựa chọn tinh chỉnh cách xếp thứ tự nội dung trên Bảng feed của bạn, trong đó bao gồm khả năng ưu tiên bài viết từ mục Yêu thích; Tạm ẩn hoặc Bỏ theo dõi người, Trang và Nhóm để không nhìn thấy bài viết của họ nữa; cũng như Kết nối lại với bất kỳ ai mà bạn có thể đã bỏ theo dõi.
+* Quan tâm và Không quan tâm: bạn có thể trực tiếp cho chúng tôi biết nội dung bạn muốn xem thêm hoặc ẩn bớt bằng cách chọn "Quan tâm" hay "Không quan tâm" trên bài viết bạn nhìn thấy. Khi bạn chọn "Quan tâm", điểm xếp thứ tự của bài viết đó và các bài viết tương tự sẽ tạm tăng lên. Còn khi bạn chọn "Không quan tâm", điểm xếp thứ tự sẽ tạm giảm xuống.
+* Tab Bảng feed: hỗ trợ bạn xem bài viết mới nhất đầu tiên; nội dung được sắp xếp theo thứ tự từ mới nhất đến cũ nhất (cùng với quảng cáo).
+Thông tin chi tiết về cách dự đoán nội dung bạn muốn nhìn thấy
+Dưới đây là 2 thành phần quan trọng nhất để xác định nội dung được kết nối mà bạn nhìn thấy ở đầu Bảng feed. Trong đó bao gồm tín hiệu cho chúng tôi biết thêm về nội dung bạn muốn nhìn thấy và mô hình dự đoán dành riêng dựa trên những tín hiệu này để tạo Bảng feed dành cho bạn.
+Tín hiệu dùng khi xếp thứ tự nội dung được kết nối
+Dựa trên hàng nghìn tín hiệu khác nhau, chúng tôi dự đoán về nội dung mà bạn sẽ thấy hữu ích. Những hạng mục tín hiệu chúng tôi nêu bên dưới đại diện cho phần lớn tín hiệu chúng tôi hiện dùng khi xếp thứ tự nội dung được kết nối trên Bảng feed nhằm đưa ra các dự đoán dành riêng này. Khi xem kỹ từng hạng mục, bạn có thể tìm hiểu thêm những loại dữ liệu mà chúng tôi tận dụng trong mô hình của mình và một số ví dụ về từng tín hiệu.
+Lưu ý rằng chúng tôi nêu cả những hạng mục và ví dụ về các tín hiệu chuyên dùng để xác định nội dung có vấn đề mà chúng tôi hạ bậc (hoặc hiển thị ở vị trí thấp hơn trên Bảng feed). Chúng tôi giới hạn thông tin mình chia sẻ ở đây về một số tín hiệu này nhằm ngăn chặn kẻ xấu lạm dụng hệ thống của chúng tôi. Ngoài ra, thông tin này có thể thay đổi.
+Dữ liệu cụ thể về bạn
+Dữ liệu về thông tin tài khoản cơ bản của bạn
+**Thông tin tài khoản cơ bản**
+* Khoảng thời gian bạn đã dùng Facebook
+* Ngôn ngữ bạn dùng Facebook
+* Thông tin liên quan đến vị trí (ví dụ: địa chỉ IP và tín hiệu thiết bị khác) mà bạn cho phép chúng tôi nhận
+Dữ liệu về cách bạn truy cập vào Facebook
+**Thời điểm, tần suất và khoảng thời gian bạn thực hiện các hoạt động trên Facebook**
+* Thời điểm trong ngày tại vị trí của bạn
+* Số ngày bạn đã hoạt động trên Facebook, trong một khoảng thời gian nhất định
+**Thiết bị bạn đang dùng**
+* Thiết bị và phần mềm bạn đang dùng, cũng như các đặc điểm khác của thiết bị (ví dụ: loại thiết bị, chi tiết về hệ điều hành, phần cứng và phần mềm, mức pin, cường độ tín hiệu)
+Dữ liệu về hoạt động của bạn trên Facebook
+**Cách bạn đã chia sẻ các nội dung khác nhau**
+* Số bài viết khác nhau mà bạn đã chia sẻ (ví dụ: video, ảnh, thước phim, v.v.)
+**Cách bạn đã tương tác với các nội dung khác nhau**
+* Loại nội dung bạn đã tương tác và cách bạn tương tác với nội dung đó (ví dụ: tổng số lần bạn nhấp vào bài viết có ảnh hoặc số lần bạn bình luận về bài viết có video)
+**Cách bạn đã xem các nội dung khác nhau**
+* Loại nội dung bạn xem và thời lượng bạn xem nội dung đó (ví dụ: khoảng thời gian bạn xem ảnh, khoảng thời gian bạn đọc bình luận hoặc khoảng thời gian bạn xem video)
+Dữ liệu về quan hệ kết nối của bạn (bạn bè, Trang, Nhóm, v.v.)
+**Dữ liệu về tổng số bài viết hiện có của bạn bè, Trang và Nhóm**
+* Số bài viết mới mà bạn có thể nhìn thấy và các loại bài viết khác nhau hiện có
+* Số bài viết từ các quan hệ kết nối của bạn có bình luận mới
+**Dữ liệu về Bạn bè**
+* Số bạn bè của bạn
+* Tần suất bạn tương tác với nội dung của mỗi người bạn
+**Dữ liệu về Trang bạn theo dõi**
+* Tổng số Trang bạn theo dõi
+* Số Trang bạn đã truy cập, trong một khoảng thời gian nhất định
+**Dữ liệu về Nhóm bạn tham gia**
+* Số Nhóm bạn đã tham gia, trong một khoảng thời gian nhất định
+Dữ liệu cụ thể về Bài viết được xếp thứ tự
+Dữ liệu về các cài đặt hoặc thuộc tính của Bài viết
+**Cài đặt quyền riêng tư hoặc chế độ hiển thị của bài viết**
+* Bài viết ở chế độ công khai, chỉ hiển thị với bạn bè, tùy chỉnh hay chỉ mình tôi
+**Loại bài viết và file phương tiện trong đó**
+* Liệu bài viết có chứa ảnh, video, Video trực tiếp, liên kết, v.v. hay không
+* Bài viết là video trực tiếp hay video đã phát trực tiếp
+**Dữ liệu về nội dung bài viết**
+* Nếu bài viết chứa URL, tỷ lệ phổ biến của một miền trên Facebook ở mức nào so với toàn bộ Internet
+* Tỷ lệ phần trăm nội dung giống nhau giữa bài viết này và các bài viết khác
+* Liệu bài viết có khả năng chứa ảnh khỏa thân, hình ảnh bạo lực hay bất kỳ nội dung nào khác vi phạm Tiêu chuẩn cộng đồng hay không
+* Liệu nội dung trong bài viết có bị đánh giá là sai sự thật hoặc có phần sai sự thật, theo kết quả đánh giá từ đối tác xác minh dữ kiện độc lập hay không
+**Dữ liệu về file phương tiện trong bài viết (ví dụ: ảnh hoặc video)**
+* Chiều rộng và chiều cao tính bằng pixel của ảnh được chia sẻ
+* Hình ảnh có trong ảnh
+* Liệu bài viết có chứa video lặp lại và/hoặc hình ảnh tĩnh hay không
+**Chủ đề của bài viết**
+Dữ liệu về tác giả Bài viết
+**Thuộc tính về tác giả**
+* Tác giả đăng lên trang cá nhân, Trang hay nhóm
+* Số lượng thành viên của Nhóm nếu là một bài viết trong Nhóm
+* Số trường hợp vi phạm Tiêu chuẩn cộng đồng được xác nhận mà tài khoản đã tích lũy
+**Các hành động mà tác giả này đã thực hiện trên Facebook**
+* Số bài viết (video, liên kết, ảnh, v.v.) mà tác giả đã chia sẻ, trong một khoảng thời gian nhất định
+**Cách những người dùng khác đã xem tác giả này hoặc nội dung trước đó của tác giả này**
+* Số lần người dùng xem Trang này, trong một khoảng thời gian nhất định
+* Tổng số người theo dõi Trang này, trong một khoảng thời gian nhất định
+**Cách những người dùng khác đã tương tác với nội dung trước đó của tác giả này**
+* Tổng số lần người dùng chia sẻ nội dung từ Trang này
+* Tổng số bình luận, lượt thích, lượt chia sẻ trên Trang
+Dữ liệu về người chia sẻ Bài viết (khi người này không phải là tác giả Bài viết)
+**Thuộc tính về tác giả**
+* Tác giả đăng lên trang cá nhân, Trang hay nhóm
+* Số lượng thành viên của Nhóm nếu là một Nhóm
+* Số trường hợp vi phạm Tiêu chuẩn cộng đồng được xác nhận mà tài khoản đã tích lũy
+**Các hành động mà tác giả này đã thực hiện trên Facebook**
+* Số bài viết (video, liên kết, ảnh, v.v.) mà tác giả đã chia sẻ, trong một khoảng thời gian nhất định
+**Cách những người dùng khác đã xem tác giả này hoặc nội dung trước đó của tác giả này**
+* Số lần người dùng xem Trang này, trong một khoảng thời gian nhất định
+* Tổng số người theo dõi Trang này, trong một khoảng thời gian nhất định
+**Cách những người dùng khác đã tương tác với nội dung trước đó của tác giả này**
+* Tổng số lần người dùng chia sẻ nội dung từ Trang này
+* Tổng số bình luận của người dùng về nội dung từ Trang này
+Dữ liệu về cách những người dùng khác tương tác với bài viết này
+**Lượt xem bài viết này từ tất cả người dùng**
+* Tổng thời gian hoặc thời gian trung bình mọi người xem bài viết này
+* Tổng thời gian hoặc thời gian trung bình mọi người xem video trong bài viết
+**Lượt tương tác của tất cả người dùng trên bài viết này**
+* Tổng số lượt thích bài viết
+* Tổng số bình luận về bài viết
+* Tỷ lệ số lượt nhấp, lượt thích và bình luận về bài viết trên tổng số lượt xem bài viết
+Dữ liệu cụ thể về bạn và Bài viết được xếp thứ tự
+Dữ liệu về cách bạn tương tác với Bài viết
+**Hoạt động tương tác của bạn với bài viết này**
+* Bạn có thích bài viết này hay không
+Dữ liệu về cách bạn tương tác với các Bài viết tương tự bài viết được xếp thứ tự
+**Cách bạn đã xem nội dung tương tự**
+* Tổng số lần bạn xem nội dung khác thuộc cùng loại
+**Cách bạn đã tương tác với nội dung tương tự**
+* Tổng số lần bạn chia sẻ nội dung khác thuộc cùng loại
+Dữ liệu về bạn và tác giả Bài viết
+**Mối quan hệ của bạn với tác giả bài viết**
+* Liệu bạn là quản trị viên của Trang hay bạn bè của bạn là quản trị viên của Trang đã chia sẻ bài viết
+**Cách bạn đã xem nội dung trước đó của tác giả này**
+* Tổng số lần bạn xem các bài viết khác từ Nhóm này
+**Cách bạn đã tương tác với nội dung trước đó của tác giả này**
+* Tổng số lần bạn chia sẻ nội dung khác từ Trang này
+Dữ liệu về bạn và người chia sẻ Bài viết (khi người này không phải là tác giả Bài viết)
+**Mối quan hệ của bạn với người đã chia sẻ bài viết**
+* Liệu bạn là quản trị viên của Trang hay bạn bè của bạn là quản trị viên của Trang đã chia sẻ bài viết
+**Cách bạn đã xem nội dung trước đó của tác giả này**
+* Tổng số lần bạn xem các bài viết khác từ Nhóm này
+**Cách bạn đã tương tác với nội dung trước đó của tác giả này**
+* Tổng số lần bạn chia sẻ nội dung khác từ Trang này
+Mô hình dự đoán dùng khi xếp thứ tự nội dung được kết nối
+Hệ thống xếp thứ tự nội dung trên Bảng feed có hơn 100 mô hình dự đoán khác nhau. Các mô hình dự đoán này thường chia thành 4 hạng mục:
+1. Dự đoán về hành động bạn sẽ thực hiện trên bài viết
+2. Dự đoán về cách bạn sẽ dành thời gian để xem bài viết
+3. Dự đoán về mối quan tâm của bạn đối với bài viết hoặc người dùng, Trang hoặc Nhóm chia sẻ bài viết
+4. Dự đoán về cách người khác sẽ tương tác với bài viết nếu bạn thực hiện hành động nhất định, chẳng hạn như bình luận hoặc chia sẻ bài viết
+Mỗi dự đoán đều là dấu hiệu tiềm năng cho thấy mức độ hữu ích của nội dung cụ thể đối với người dùng. Ví dụ: chia sẻ bài viết với người khác có thể là dấu hiệu cho thấy bài viết đó có giá trị với bạn. Vì vậy, một trong những dấu hiệu hữu ích về giá trị chính là dự đoán liệu bạn có chia sẻ bài viết hay không. Qua đó, chúng tôi có thể hiển thị một số bài viết ở vị trí cao hơn trên Bảng feed so với các bài viết khác. Như bạn có thể hình dung, không có dự đoán nào là thước đo hoàn hảo cho biết liệu bài viết có giá trị với bạn hay không. Do đó, chúng tôi sử dụng nhiều mô hình dự đoán, kết hợp với mục tiêu chung là làm cho ứng dụng Facebook trở nên có giá trị đối với mọi người về lâu dài, chứ không chỉ tại thời điểm cụ thể khi họ nhìn thấy nội dung này.
+Dưới đây, bạn sẽ biết thêm chi tiết về các mô hình dự đoán khác nhau mà chúng tôi hiện dùng thường xuyên nhất khi xếp thứ tự nội dung trên Bảng feed. Trong một số trường hợp khi các mô hình riêng biệt đưa ra dự đoán rất giống nhau, chúng tôi đã kết hợp nhiều mô hình vào một nội dung mô tả. Ví dụ: chúng tôi có nhiều mô hình về việc dự đoán vị trí bạn có thể nhấp trên bài viết - liệu bạn sẽ nhấp vào bài viết, ảnh trong bài viết, bình luận của bài viết, v.v. Trong danh sách này, chúng tôi gọi tất cả những mô hình kể trên là "Khả năng bạn sẽ nhấp vào phần nào đó của bài viết".
+Danh sách bên dưới được nhóm theo khả năng các mô hình này xác định được liệu một bài viết có giá trị hay không; các mô hình thuộc nhóm trên cùng có xu hướng được dùng nhiều nhất khi xác định thứ tự nội dung trên Bảng feed so với những mô hình thuộc 2 nhóm sau. Tuy nhiên, chính sự kết hợp của tất cả các mô hình này mới là điều quan trọng nhất.
+Do hệ thống xếp thứ tự nội dung trên Bảng feed theo từng người dùng, tác động tương đối của từng mô hình dự đoán đến Bảng feed sẽ khác nhau tùy theo người dùng và nội dung. Lý do là vì mọi người có tùy chọn khác nhau về nội dung họ thích và cách họ muốn tương tác với nội dung. Ví dụ: dự đoán về khoảng thời gian bạn có thể sử dụng để xem video sẽ là dấu hiệu rõ ràng hơn về giá trị của bài viết có video so với việc bạn có nhấp vào video hay không, trong khi điều ngược lại có thể đúng đối với bài viết chứa liên kết đến một tin bài. Một ví dụ khác đó là đối với một số người, "thích" bài viết là dấu hiệu rõ ràng rằng họ thấy bài viết đó có giá trị, trong khi đối với những người khác (ví dụ: người không sử dụng nút "Thích"), việc dành thời gian để đọc bài viết có thể là dự đoán hữu ích hơn.
+Chúng tôi không ngừng nỗ lực cải thiện hệ thống xếp thứ tự để đẩy mạnh khả năng mang đến trải nghiệm có giá trị nhất cho người dùng. Vì vậy, thông tin nêu ở đây có thể thay đổi theo thời gian. Ngoài ra, nhằm mang đến trải nghiệm phù hợp hơn với từng cá nhân, chúng tôi liên tục thử nghiệm và tinh chỉnh giải pháp hiển thị nội dung chính trị trên Facebook.
+Loại mô hình dự đoán
+_Trong mỗi nhóm, các mô hình được liệt kê theo thứ tự bảng chữ cái và không được xếp theo thứ tự. Một vài dự đoán trong số này chỉ dùng khi bài viết có liên quan đến mô hình, chẳng hạn như dự đoán về bài viết từ Nhóm sẽ chỉ áp dụng nếu bài viết được xếp thứ tự là bài viết trong Nhóm._
+Được dùng thường xuyên nhất
+* Khả năng bạn sẽ quan tâm đến nội dung từ bạn bè
+* Khả năng bạn sẽ quan tâm đến Nhóm chia sẻ bài viết hoặc nội dung từ Nhóm đó, được đo lường bằng mức độ tương tác với Nhóm hoặc nội dung của Nhóm
+* Khả năng bạn sẽ quan tâm đến Trang chia sẻ bài viết hoặc nội dung từ Trang đó, được đo lường bằng mức độ tương tác với Trang hoặc nội dung của Trang
+* Khả năng bạn sẽ nhấp vào phần nào đó của bài viết
+* Khả năng bạn sẽ tương tác với một bài viết theo cách nào đó như thích, bày tỏ cảm xúc hoặc bình luận về bài viết đó
+* Khả năng bạn sẽ tương tác có ý nghĩa với bài viết, thông qua một số phương thức kết hợp giữa bình luận/thích/bày tỏ cảm xúc/chia sẻ đến Messenger/chia sẻ lại và/hoặc dành thời gian để xem bài viết đó
+* Khả năng bạn sẽ chia sẻ bài viết
+* Khả năng bạn sẽ dành thời gian để xem bình luận về bài viết
+* Khả năng bạn sẽ dành thời gian để xem bài viết hoặc nội dung trong bài viết (trái ngược với việc chỉ lướt qua bài viết)
+* Khả năng bạn sẽ truy cập vào một Trang sau khi thấy bài viết từ Trang đó
+* Khả năng bạn sẽ muốn xem thêm hoặc ẩn bớt nội dung từ người dùng hoặc Trang chia sẻ bài viết
+* Khả năng bạn sẽ xem video có trong bài viết và thời gian dự kiến bạn sẽ sử dụng để xem video đó
+* Khả năng hoạt động tương tác của bạn trên bài viết từ một Trang sẽ khuyến khích quản trị viên của Trang đó chia sẻ thêm nội dung có giá trị với bạn trong tương lai
+* Số bình luận hoặc câu trả lời bổ sung dự kiến mà một bài viết sẽ nhận được nếu bạn bình luận hoặc chia sẻ bài viết đó
+Thỉnh thoảng được dùng
+* Khả năng bạn sẽ bình luận về bài viết
+* Khả năng bạn sẽ thấy tin bài giàu thông tin, nếu bài viết chứa liên kết đến một tin bài
+* Khả năng bạn sẽ thấy bài viết xứng đáng với thời gian bỏ ra
+* Khả năng bạn sẽ theo dõi một Trang sau khi thấy bạn bè chia sẻ lại bài viết từ Trang đó
+* Khả năng bạn sẽ ẩn, tạm ẩn hoặc hủy đăng ký bài viết (dùng để giảm mức phân phối của bài viết)
+* Khả năng bạn sẽ thích bài viết
+* Khả năng bạn sẽ bày tỏ cảm xúc về bài viết (yêu thích, quan tâm, haha, wow, buồn, phẫn nộ); dự đoán về cảm xúc phẫn nộ được dùng để giảm mức phân phối của bài viết
+* Khả năng bạn sẽ trả lời một sự kiện, nếu bài viết chứa sự kiện trên Facebook
+* Khả năng bạn sẽ lướt qua một bài viết có bài niêm yết sản phẩm từ một Nhóm mua/bán
+* Khả năng bạn sẽ gửi tin nhắn trên bài viết bán sản phẩm, trong trường hợp luật về quyền riêng tư đối với dữ liệu cho phép
+* Khả năng bạn sẽ dành thời gian để xem Sự kiện trong một bài viết, nếu bạn nhấp vào Sự kiện đó
+* Khả năng hoạt động tương tác của bạn với bài viết trong Nhóm sẽ khuyến khích các thành viên khác chia sẻ thêm nội dung lên Nhóm hoặc tương tác với nội dung khác từ Nhóm trong tương lai
+* Số lần dự kiến về việc bài viết sẽ được chia sẻ thêm nếu bạn chia sẻ bài viết
+* Số lượt thích dự kiến bài viết sẽ nhận được nếu bạn chia sẻ bài viết
+Được dùng ít thường xuyên hơn
+* Khả năng bạn sẽ tham gia đoạn chat cộng đồng từ bài viết trong Nhóm
+* Khả năng bạn sẽ thích bài viết và dành thời gian để xem bài viết từ một Trang mà bạn yêu thích
+* Khả năng bạn sẽ quyên góp cho một bài viết có chiến dịch gây quỹ
+* Khả năng bạn sẽ báo cáo bài viết (dùng để giảm mức phân phối của bài viết)
+* Khả năng bạn sẽ gửi bài viết trong tin nhắn (trong trường hợp luật về quyền riêng tư đối với dữ liệu cho phép)
+* Khả năng bạn sẽ hành động để ủng hộ Người sáng tạo nội dung, ví dụ như gửi Sao
+* Khả năng bạn sẽ xem video ở chế độ toàn màn hình, nếu bài viết có chứa video
+* Thời gian dự kiến bạn có thể sử dụng trong trình duyệt web, nếu bạn nhấp vào một URL trong bài viết
+Meta có thể quảng bá ý kiến, quan điểm và đội ngũ điều hành của mình thông qua tài khoản mạng xã hội phù hợp trên các nền tảng của chúng tôi.
+===== SOURCE DOCUMENT 008
+TITLE: Cách chúng tôi xử lý thông tin sai lệch | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/approach-to-misinformation/
+CONTENT_SHA256: f19ee372bbd729567e020a07ee7da083ab10a9d5c8e7f0175a8e978946b952df
+================================================================================
+Cách xử lý thông tin sai lệch
+# Cách chúng tôi xử lý thông tin sai lệch
+NGÀY CẬP NHẬT 7 THÁNG 4, 2025
+Để xử lý thông tin sai lệch, chúng tôi kết hợp công nghệ thực thi và chuyên viên xét duyệt, bao gồm cả cộng đồng người dùng trên các nền tảng của mình, đối tác tin cậy tại địa phương và bên xác minh dữ kiện độc lập. Tại Hoa Kỳ, chúng tôi có chương trình dựa vào cộng đồng mang tên Ghi chú cho cộng đồng. Chúng tôi sẽ không ngừng cải thiện chương trình này trong suốt cả năm trước khi mở rộng sang các quốc gia khác (đọc thêm tại đây). Tại một số quốc gia bên ngoài Hoa Kỳ, chúng tôi hợp tác với bên thứ ba xác minh dữ kiện độc lập.
+Đối với thông tin sai lệch, chúng tôi áp dụng chiến lược là: gỡ, giảm thiểu, thông báo
+Gỡ
+Chúng tôi xem trọng cả quyền tự do biểu đạt lẫn nhiệm vụ bảo vệ mọi người. Do đó, chúng tôi sẽ gỡ thông tin sai lệch khỏi công nghệ của Meta trong một số trường hợp sau đây:
+* Khi thông tin sai lệch có thể là tác nhân trực tiếp dẫn đến nguy cơ gây tổn hại về thể chất sắp xảy ra. Ví dụ: Chúng tôi gỡ một số lời tuyên bố sai sự thật về sức khỏe mà các tổ chức y tế hàng đầu đã bác bỏ trong các trường hợp khẩn cấp cộng đồng và về vắc xin. Chúng tôi làm việc này là để đảm bảo an toàn.
+* Khi thông tin sai lệch có khả năng can thiệp hoặc ngăn chặn hoạt động bỏ phiếu. Chúng tôi làm việc này vì thông tin đó có thể ảnh hưởng tiêu cực đến quyền biểu đạt và bày tỏ ý kiến.
+Gỡ bỏ nội dung vi phạm
+Giảm thiểu
+Ở những quốc gia không phải Hoa Kỳ, khi một trong các đối tác xác minh dữ kiện đánh giá nội dung nào đó là sai sự thật, chúng tôi có thể sẽ giảm mức phân phối của nội dung đó trong Bảng feed và những nơi khác để ít người nhìn thấy hơn. Khi trang web, Trang cá nhân, Nhóm, Trang Facebook và tài khoản Instagram nhiều lần chia sẻ nội dung như vậy, chúng tôi có thể giảm mức phân phối của tất cả các bài viết từ những nguồn đó trong Bảng feed, đồng thời gỡ chúng khỏi phần đề xuất mà mọi người nhìn thấy.
+Giảm mức phân phối nội dung có vấn đề
+Thông báo
+Tại Hoa Kỳ, trong trường hợp nội dung có khả năng gây hiểu nhầm hoặc khó hiểu, cộng đồng có thể bổ sung ngữ cảnh nếu họ đồng ý rằng thông tin đó là hữu ích. Ở những quốc gia không phải Hoa Kỳ, chúng tôi chèn phần lưu ý trên bài viết đã xác minh dữ kiện và thông báo cho người đăng. Như vậy, mọi người có thể xem kết luận của bên xác minh dữ kiện và tự quyết định nên đọc, tin tưởng hay chia sẻ nội dung nào. (Chúng tôi không còn hợp tác với các tổ chức xác minh dữ kiện tại Hoa Kỳ hoặc hiển thị nhãn xác minh dữ kiện với người dùng ở Hoa Kỳ.) Chúng tôi cũng hợp tác với các tổ chức trên khắp thế giới để thúc đẩy kỹ năng đọc tin tức.
+Cung cấp ngữ cảnh về nội dung nhạy cảm hoặc gây hiểu nhầm
+Ghi chú cho cộng đồng: Cách mới để thêm ngữ cảnh cho bài viết
+Ghi chú cho cộng đồng
+Tại Hoa Kỳ, những người đóng góp Ghi chú cho cộng đồng có thể viết và gửi ghi chú cho các bài viết mà họ nghĩ là có thể gây hiểu nhầm hoặc khó hiểu. Ghi chú cho cộng đồng có thể bao gồm thông tin cơ bản, bí quyết hoặc thông tin đúc rút mà mọi người thấy hữu ích. Để ghi chú hiển thị trên bài viết, những người đóng góp thường không đồng tình (dựa trên cách họ đánh giá ghi chú trong quá khứ) sẽ phải đồng ý rằng ghi chú là hữu ích. Ghi chú sẽ không được thêm vào nội dung khi không có sự đồng thuận hoặc khi mọi người đồng ý là ghi chú không hữu ích.
+Chương trình xác minh dữ kiện của chúng tôi
+Ở những quốc gia không phải Hoa Kỳ, Meta hợp tác với các tổ chức xác minh dữ kiện bên thứ ba để xử lý thông tin sai lệch. Chương trình xác minh dữ kiện này tập trung vào việc xác định và xử lý thông tin sai lệch có tốc độ lan truyền nhanh, đặc biệt là những bài viết lừa đảo không có cơ sở thực tế rõ ràng.
+Đối tác xác minh dữ kiện của chúng tôi sẽ ưu tiên những lời tuyên bố có thể kiểm chứng là sai sự thật nhưng mang tính thời sự, thịnh hành và có sức ảnh hưởng đáng kể tại các quốc gia và bằng các ngôn ngữ mà họ hỗ trợ. Họ không ưu tiên những lời tuyên bố không gây hậu quả hoặc chỉ chứa những thông tin không chính xác ít quan trọng.
+Ngoài ra, chương trình này không có ý định can thiệp vào quyền biểu đạt, ý kiến và các cuộc tranh luận của cá nhân, cũng như những nội dung rõ ràng mang tính châm biếm hoặc hài hước hay tranh cãi kinh doanh.
+Nội dung mà bên xác minh dữ kiện ưu tiên
+Bên xác minh dữ kiện
+Chúng tôi hợp tác với hơn 90 tổ chức xác minh dữ kiện bên thứ ba được chứng nhận ở hơn 60 ngôn ngữ trên khắp thế giới. Các bên xác minh dữ kiện này được chứng nhận thông qua Mạng lưới Xác minh Dữ kiện Quốc tế IFCN (International Fact-Checking Network) không thiên vị hoặc Mạng lưới Tiêu chuẩn Xác minh Dữ kiện Châu Âu EFCSN (European Fact-Checking Standards Network) ở châu Âu.
+Cách hoạt động của quy trình xác minh dữ kiện
+===== SOURCE DOCUMENT 009
+TITLE: Cách kháng nghị với Ủy ban Giám sát | Trung tâm minh bạch
+SOURCE_TYPE: oversight
+CANONICAL_URL: https://transparency.meta.com/vi-vn/oversight/appealing-to-oversight-board/
+CONTENT_SHA256: fa3ee5cefc490181e8c230c0cd26be5e3841a0474e9cf4c8e50013bf4c8a9074
+================================================================================
+Kháng nghị với Ủy ban Giám sát
+# Cách kháng nghị với Ủy ban Giám sát
+NGÀY CẬP NHẬT 3 THÁNG 4, 2024
+Nếu không đồng ý với một quyết định mà Meta đưa ra về nội dung trên Facebook, Instagram hoặc Threads, bạn có thể kháng nghị quyết định đó với Ủy ban Giám sát. Sau khi trải qua quy trình kháng nghị của Meta, bạn sẽ nhận được một ID tham chiếu để gửi trường hợp cho Ủy ban Giám sát xem xét.
+Nội dung bạn có thể kháng nghị
+Loại nội dung đủ điều kiện được xem xét
+Dưới đây là những nội dung bạn có thể kháng nghị với ủy ban:
+* Hầu hết nội dung bạn đăng lên Facebook, Instagram hoặc Threads nhưng bị gỡ bỏ.
+* Hầu hết nội dung người khác đăng mà được giữ lại trên Facebook, Instagram hoặc Threads.
+Các bước kháng nghị
+1. Lấy số tham chiếu để gửi cho Ủy ban Giám sát
+Để lấy ID tham chiếu, bạn phải dùng hết lượt kháng nghị của Meta và nhận được quyết định cuối cùng mà Meta đưa ra về nội dung. Sau đó, bạn sẽ nhận được một thông báo có chứa số tham chiếu trong Hộp thư hỗ trợ trên Facebook hoặc trang Yêu cầu hỗ trợ trên Instagram. Các yêu cầu hỗ trợ đối với Instagram và Threads là giống nhau. Nếu gửi đơn kháng nghị trên Threads, bạn có thể xem thông báo về yêu cầu hỗ trợ trên cả hai ứng dụng.
+2. Đăng nhập vào Oversightboard.com
+Truy cập vào trang web của ủy ban, rồi chuyển đến phần Bắt đầu kháng nghị. Đăng nhập bằng Facebook, Instagram hoặc Threads, tùy theo bạn nhận được số tham chiếu trên ứng dụng nào.
+3. Nhập số tham chiếu
+Nhập số tham chiếu để ủy ban có thể:
+* Xác minh bài viết đủ điều kiện để gửi đi xem xét.
+* Thiết lập một liên kết giữa Meta và hệ thống quản lý trường hợp của ủy ban để nhân viên cùng thành viên ủy ban có thể truy cập, cũng như xem xét đúng bài viết và thông tin về trường hợp liên quan.
+4. Chấp thuận
+Bạn sẽ được yêu cầu cấp các quyền khác nhau trong hệ thống quản lý trường hợp:
+* Bạn **phải đồng ý** với Điều khoản dịch vụ để gửi đơn kháng nghị.
+* Bạn **phải cấp** quyền xử lý mọi dữ liệu được bảo vệ đặc biệt mà bạn chọn cung cấp về bản thân mình.
+* Bạn **có thể chọn** chấp thuận hoặc không chấp thuận cho ủy ban thêm vào quyết định công khai của mình các chi tiết có thể dễ dàng nhận dạng bạn.
+* Bạn **có thể chọn** chấp thuận hoặc không chấp thuận cho ủy ban thêm các dữ liệu được bảo vệ đặc biệt vào quyết định được công bố đó.
+Nếu muốn thì sau này trên trang Trạng thái trường hợp, bạn có thể rút lại sự chấp thuận liên quan đến thông tin về bạn mà bạn đã đồng ý cho phép ủy ban thêm vào quyết định đã công bố.
+5. Cung cấp ngữ cảnh cho trường hợp
+Bạn sẽ có cơ hội cung cấp thêm thông tin cho đơn kháng nghị, bao gồm lý do bạn đăng nội dung, lý do bạn kháng nghị quyết định của Meta và bạn cho rằng Meta đã đưa ra quyết định sai như thế nào.
+6. Xem lại và gửi trường hợp
+Xem lại tất cả thông tin bạn đã nhập, kể cả sự chấp thuận, rồi nhấp vào gửi. Sau khi gửi đi, bạn có thể xem lại thông tin mình đã gửi và rút lại sự chấp thuận nếu muốn. Bạn cũng có thể xóa toàn bộ trường hợp.
+Bạn có thể cập nhật thông tin về trường hợp thông qua trang Trạng thái trường hợp trên trang web của Ủy ban Giám sát.
+Tiến trình xử lý trường hợp
+Ủy ban sẽ lựa chọn trường hợp trong số các trường hợp mà người dùng Facebook, Instagram hoặc Threads hay chính Meta gửi đến. Ủy ban có toàn quyền quyết định sẽ xem xét trường hợp nào, ngoại trừ trong các tình huống ngoại lệ khi Meta gửi trường hợp cho ủy ban để xem xét nhanh. Trong tình huống ngoại lệ này, ủy ban sẽ chấp nhận trường hợp đó và xem xét nhanh nhất có thể.
+Không phải quyết định nào về nội dung cũng đủ điều kiện để kháng nghị với ủy ban. Nếu quyết định của Meta về nội dung đủ điều kiện để được ủy ban xem xét, bạn sẽ thấy ID tham chiếu để gửi cho Ủy ban Giám sát trong Hộp thư hỗ trợ.
+Sau khi bạn gửi đơn kháng nghị, ủy ban sẽ quyết định có xem xét hay không. Ủy ban chỉ chọn một số đơn kháng nghị đủ điều kiện để xem xét nên có thể sẽ không chọn đơn của bạn.
+Nguồn lực bổ sung
+Trung tâm trợ giúp Hướng dẫn cách kháng nghị với ủy ban về quyết định Meta đưa ra đối với nội dung.
+Thông tin về quyền riêng tư Thông tin về cách bảo vệ quyền riêng tư khi chuyển quyết định của Meta về nội dung cho ủy ban.
+===== SOURCE DOCUMENT 010
+TITLE: Cách tiếp cận nội dung đáng đưa tin | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/approach-to-newsworthy-content/
+CONTENT_SHA256: b2bba42084680b8c8ebe1d36448c18b95ba90942d53eb2f257af9a791a30e45a
+================================================================================
+Cách tiếp cận nội dung đáng đưa tin
+# Cách chúng tôi tiếp cận nội dung đáng đưa tin
+NGÀY CẬP NHẬT 12 THÁNG 11, 2024
+Chúng tôi muốn mọi người có thể tự do bàn luận về những vấn đề quan trọng với họ, kể cả khi ai đó không đồng ý hoặc phản đối họ. Trong một số ít trường hợp, chúng tôi cho phép hiển thị nội dung có khả năng vi phạm Tiêu chuẩn cộng đồng nếu nội dung đó đáng đưa tin và việc hiển thị nội dung đó phục vụ lợi ích của công chúng.
+Chúng tôi chỉ làm điều này sau khi xem xét kỹ lợi ích của cộng đồng so với nguy cơ gây hại. Như đã nêu trong Chính sách của công ty về nhân quyền, chúng tôi tham khảo các tiêu chuẩn quốc tế về nhân quyền làm cơ sở để đưa ra những quyết định trên.
+Nguyên tắc cho phép nội dung đáng đưa tin
+Vào tháng 10/2016, chúng tôi bắt đầu áp dụng nguyên tắc cho phép nội dung đáng đưa tin sau khi nhận được ý kiến chỉ trích trên toàn cầu vì đã gỡ bức ảnh mang tính biểu tượng "Em bé Napalm". Nhờ vào nguyên tắc này, bức ảnh đó hiện nay vẫn hiển thị trên các nền tảng của chúng tôi.
+Chúng tôi thấy rằng việc xác định mức độ đáng đưa tin của một nội dung có thể mang tính chủ quan cao. Mọi người thường bất đồng về việc nên áp dụng những tiêu chuẩn nào để đảm bảo một cộng đồng vừa an toàn vừa có quyền tự do biểu đạt. Chúng tôi tiến hành đánh giá kỹ lưỡng mọi nội dung có tiềm năng đáng đưa tin, đồng thời những người xét duyệt sẽ cân nhắc một số yếu tố trước khi chuyển cho đội ngũ Chính sách nội dung.
+Khi xác định nội dung đáng đưa tin, chúng tôi sẽ đánh giá xem nội dung đó thể hiện mối đe dọa sắp xảy ra đối với sự an toàn/sức khỏe của cộng đồng hay trao quyền bày tỏ ý kiến về những quan điểm hiện đang được tranh luận trong tiến trình chính trị. Chúng tôi cũng cân nhắc các yếu tố khác, chẳng hạn như:
+* Tình huống cụ thể của quốc gia (ví dụ: liệu quốc gia đó có đang tổ chức một cuộc bầu cử hoặc trong tình trạng chiến tranh hay không)
+* Bản chất của phát ngôn, bao gồm cả việc phát ngôn đó có liên quan đến vấn đề quản lý hoặc chính trị hay không
+* Cấu trúc chính trị của quốc gia, bao gồm cả việc có cơ chế tự do báo chí hay không
+Chúng tôi sẽ gỡ nội dung (ngay cả khi có mức độ đáng đưa tin nhất định) nếu việc giữ lại nội dung đó dẫn đến nguy cơ gây hại, chẳng hạn như tổn hại về thể chất, tinh thần và tài chính hoặc đe dọa trực tiếp đến sự an toàn của cộng đồng. Đối với nội dung được phép hiển thị nhưng có thể mang tính nhạy cảm hoặc gây khó chịu, chúng tôi sẽ thêm một màn hình cảnh báo. Trong những trường hợp này, chúng tôi cũng giới hạn để chỉ những người trưởng thành từ 18 tuổi trở lên mới xem được nội dung đó.
+Nội dung từ tất cả các nguồn (bao gồm cả hãng tin tức, chính trị gia hay những người khác) đều đủ điều kiện để chúng tôi cho phép nếu đáng đưa tin. Mặc dù phép kiểm tra cân bằng có thể tính đến người nói, nhưng chúng tôi không giả định phát ngôn của bất kỳ người nào là vốn có tính chất đáng đưa tin, kể cả của các chính trị gia.
+Nguyên tắc cho phép nội dung đáng đưa tin có thể được áp dụng "ở phạm vi hẹp" (áp dụng cho một nội dung duy nhất) hoặc "trên diện rộng" (áp dụng cho phạm vi rộng hơn như một cụm từ chẳng hạn).
+**Dữ liệu đáng đưa tin**
+08/2025
+* Từ ngày 01/06/2024 đến ngày 01/06/2025, chúng tôi ghi lại được tổng cộng 44 quyết định về trường hợp đáng đưa tin
+* 20 trường hợp trong số đó là liên quan đến các chính trị gia
+* Trong số 44 quyết định về trường hợp đáng đưa tin, chúng tôi ghi lại được tổng cộng 6 quyết định về trường hợp đáng đưa tin trên diện rộng
+08/2024
+* Từ ngày 01/06/2023 đến ngày 01/06/2024, chúng tôi đã ghi lại được tổng cộng 32 quyết định về trường hợp đáng đưa tin
+* 14 trường hợp trong số đó là bài viết của các chính trị gia
+* Trong số 32 quyết định về trường hợp đáng đưa tin, chúng tôi đã ghi lại được tổng cộng 6 quyết định về trường hợp đáng đưa tin trên diện rộng
+Tháng 8/2023
+* Từ ngày 01/06/2022 đến ngày 01/06/2023, chúng tôi đã ghi lại được 69 trường hợp đáng đưa tin
+* 9 (~13%) trường hợp trong số đó là bài viết của các chính trị gia
+* Trong số 69 trường hợp đáng đưa tin, chúng tôi đã ghi lại được tổng cộng 17 trường hợp đáng đưa tin trên diện rộng
+Tháng 8/2022
+* Từ ngày 01/06/2021 đến ngày 01/06/2022, chúng tôi đã ghi lại được 68 trường hợp đáng đưa tin
+* 13 (~20%) trường hợp trong số đó là bài viết của các chính trị gia
+**Ví dụ**
+**Ngôn từ gây thù ghét xuất hiện không trực diện trong tin bài của kênh truyền thông liên quan đến cáo buộc về hành động tàn bạo của cảnh sát trong cuộc biểu tình ở Colombia**
+Các kênh truyền thông đưa tin về một vụ việc liên quan đến cáo buộc về hành động tàn bạo của cảnh sát trong các cuộc biểu tình cản trở giao thông đang diễn ra ở Colombia. Các kênh truyền thông này thường chia sẻ một video trong đó có thể tình cờ nghe thấy từ ngữ phỉ báng trong âm thanh xung quanh, do đó vi phạm chính sách của chúng tôi về Ngôn từ gây thù ghét. Chúng tôi áp dụng nguyên tắc cho phép nội dung đáng đưa tin đối với video này xét trên giá trị phục vụ lợi ích của cộng đồng. Giá trị này lớn hơn nguy cơ gây hại từ việc nghe thấy từ ngữ phỉ báng tình cờ được sử dụng. Tuy nhiên, do video nêu trên chứa cả nội dung phản cảm nên chúng tôi đã thêm một màn hình cảnh báo trên nội dung này và chỉ cho phép hiển thị với người trưởng thành từ 18 tuổi trở lên.
+**Bài viết của Bộ Quốc phòng Ukraine mô tả những thi thể bị cháy đen**
+Ban đầu, video này do Bộ Quốc phòng Ukraina chia sẻ trong thời gian rất ngắn, nhằm mô tả một thi thể bị cháy đen không thể nhận dạng. Mặc dù thường gỡ loại nội dung này theo chính sách về Nội dung bạo lực và phản cảm, nhưng chúng tôi xác định rằng video này đủ điều kiện để áp dụng nguyên tắc đáng đưa tin vì video ghi lại một cuộc xung đột vũ trang đang diễn ra. Do tính chất phản cảm của nội dung, chúng tôi đã thêm màn hình cảnh báo trên nội dung này và chỉ hiển thị với người trưởng thành từ 18 tuổi trở lên.
+**Bài viết của một chính trị gia Brazil mô tả núm vú phụ nữ khi thảo luận về chính sách của chính phủ đối với điện ảnh**
+Đây là nội dung do một nghị sĩ liên bang ở Brazil đăng lên để thảo luận về vụ hỏa hoạn tại một trong các rạp chiếu phim có ý nghĩa lịch sử của quốc gia này. Vụ hỏa hoạn đã phá hủy những tác phẩm quan trọng của nền điện ảnh Brazil. Bài viết này chỉ trích chính phủ không lưu tâm đến công tác bảo trì rạp chiếu phim và không đầu tư đúng mức cho ngành điện ảnh. Bài viết chứa một clip ngắn từ bộ phim _Xica da Silva_, trong đó có xuất hiện núm vú phụ nữ không che. Chúng tôi cho rằng đây là trường hợp đáng đưa tin vì bài viết này thảo luận về giá trị nghệ thuật của tác phẩm và chứa phát ngôn chính trị chỉ trích chính phủ không đầu tư đúng mức cho rạp chiếu phim. Trong trường hợp này, giá trị vì lợi ích của cộng đồng lớn hơn nguy cơ gây hại.
+**Bài viết liên quan đến một tù nhân chiến tranh người Armenia**
+Video này đã được đăng lên một trang, trong đó quay cảnh những người đàn ông mặc quân phục bị một nhóm nam giới mặc quân phục kiểu khác đánh đập và chế giễu. Phần chú thích xác nhận rằng những kẻ hành hung là binh lính Azerbaijan. Theo chính sách về hành vi Cấu kết gây hại và cổ xúy tội ác liên quan đến việc tiết lộ, Meta gỡ nội dung công khai danh tính của tù binh chiến tranh trong bối cảnh xung đột vũ trang, trong trường hợp danh tính bị tiết lộ có thể dẫn đến nguy cơ gây hại ngoài đời. Tuy nhiên, do không có bằng chứng cho thấy rằng những video như thế này được dùng trong cuộc xung đột để tiếp tục hành hạ các tù nhân và có xu hướng cung cấp các nội dung tương tự qua những nguồn khác, nên rủi ro về an toàn là không cao. Mặt khác, video này có tác dụng nâng cao nhận thức về tình trạng của tù nhân và trường hợp có thể vi phạm luật nhân đạo quốc tế, đồng thời rất liên quan đến các chiến dịch cũng như thủ tục pháp lý nhằm truy cứu trách nhiệm về những tội ác nghiêm trọng. Cuối cùng, video được cho phép hiển thị (kèm theo màn hình cảnh báo) dưới dạng nội dung đáng đưa tin sau quá trình cân nhắc giữa rủi ro về an toàn và phẩm giá của tù binh chiến tranh so với giá trị phục vụ lợi ích của cộng đồng khi chia sẻ hình ảnh này. Ủy ban Giám sát đã tán thành quyết định của Meta là để lại nội dung này.
+===== SOURCE DOCUMENT 011
+TITLE: Phát hiện nội dung vi phạm | Trung tâm minh bạch
+SOURCE_TYPE: enforcement
+CANONICAL_URL: https://transparency.meta.com/vi-vn/enforcement/detecting-violations/
+CONTENT_SHA256: d8a116e9f3559d7e999cdb02d4ec4a0ff25b44413cd139db5661324b4ed8d981
+================================================================================
+# Phát hiện nội dung vi phạm
+Công nghệ và đội ngũ xét duyệt giúp Meta phát hiện và xem xét nội dung, cũng như tài khoản có khả năng vi phạm trên Facebook và Instagram.
+Công nghệ
+Công nghệ của chúng tôi chủ động phát hiện và gỡ phần lớn nội dung vi phạm trước khi có người báo cáo. Các kỹ sư, nhà khoa học dữ liệu và đội ngũ xét duyệt phối hợp với nhau để cập nhật và cải thiện công nghệ này theo thời gian. Đồng thời, công nghệ hỗ trợ đội ngũ xét duyệt ưu tiên nội dung.
+Cách công nghệ phát hiện nội dung vi phạmCách hoạt động của công nghệ thực thiCách Meta huấn luyện công nghệCách Meta đầu tư vào công nghệThách thức trong việc phát hiện ngôn từ gây thù ghétĐổi mới hoạt động thực thi đối với nội dung bằng AI
+Đội ngũ xét duyệt
+Người xét duyệt của chúng tôi có mặt trên khắp thế giới và xem xét các nội dung có khả năng vi phạm trên Facebook cũng như Instagram. Họ được đào tạo chuyên sâu và thường tập trung vào một số lĩnh vực chính sách cũng như khu vực nhất định. Toàn bộ đội ngũ của chúng tôi xét duyệt nội dung bằng hơn 80 ngôn ngữ.
+Cách hoạt động của đội ngũ xét duyệtCách công nghệ hỗ trợ việc ưu tiên xét duyệtNhững người đứng sau đội ngũ xét duyệt của MetaCách đào tạo đội ngũ xét duyệtHỗ trợ người xét duyệt đưa ra quyết định đúng đắnXét duyệt chính xác nội dung có mức độ hiển thị caoCách chúng tôi đánh giá và chuẩn bị để ứng phó rủi ro toàn cầu
+===== SOURCE DOCUMENT 012
+TITLE: Quyền kiểm soát của người dùng: Cách định hình trải nghiệm của bạn trên nền tảng của Meta | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/user-control-shape-your-experience-on-meta-platforms/
+CONTENT_SHA256: b902c06333b928fa3f3355e71bc7371be74055ee288effd2647fef1571cd4f11
+================================================================================
+Quyền kiểm soát của người dùng: Cách định hình trải nghiệm của bạn trên nền tảng của Meta
+# Quyền kiểm soát của người dùng: Cách định hình trải nghiệm của bạn trên nền tảng của Meta
+NGÀY CẬP NHẬT 2 THÁNG 3, 2026
+Đối với Meta, điều quan trọng là bạn có khả năng định hình trải nghiệm cá nhân của riêng mình trên các nền tảng của chúng tôi. Chúng tôi sử dụng thuật toán trên Facebook, Instagram và Threads để hỗ trợ bạn kết nối với nội dung cũng như người sáng tạo nội dung mà bạn thấy có giá trị. Chúng tôi muốn bạn có thể tự quyết định loại nội dung bạn muốn xem, cách bạn muốn tương tác với các tài khoản khác, cũng như cách bạn muốn sử dụng thời gian của mình trên nền tảng. Chúng tôi đã phát triển các **lựa chọn kiểm soát dành cho người dùng** để bạn có thể định hình trải nghiệm của mình trên nền tảng của chúng tôi.
+Mặc dù các lựa chọn kiểm soát cụ thể sẽ khác nhau tùy theo khu vực và loại thiết bị, dưới đây là thông tin nhanh về các lựa chọn kiểm soát nội dung, hoạt động tương tác với tài khoản và quản lý thời gian mà chúng tôi cung cấp cho mọi người. Phần này không bao gồm các lựa chọn kiểm soát quảng cáo và quyền riêng tư được cung cấp hoặc những lựa chọn kiểm soát chỉ dành cho người dưới 18 tuổi mà các em có thể tự chọn. Chúng tôi có nhiều lựa chọn dành cho giới trẻ mà bạn có thể tìm hiểu tại đây.
+**MỤC LỤC:**
+Kiểm soát loại nội dung bạn nhìn thấy
+Tùy chỉnh bảng feed
+Kiểm soát tài khoản nào có thể tương tác với bạn và tương tác theo cách nào
+Quyết định cách bạn dành thời gian trên nền tảng
+Hãy cho chúng tôi biết khi bạn cho rằng nội dung nào đó hoặc ai đó đã vi phạm Tiêu chuẩn cộng đồng
+Định hình loại nội dung bạn nhìn thấy
+* "Quan tâm" hoặc "Không quan tâm" - Khi hệ thống đề xuất một bài viết trên bảng feed, Reels, Khám phá hoặc Tìm kiếm, bạn có thể cho biết mình quan tâm hay không quan tâm đến bài viết đó. Khi đó, các hệ thống đề xuất của chúng tôi sẽ nhận được thông tin này và cân nhắc phản hồi đó.
+* Trên ứng dụng Threads, bạn có thể cho biết mình "Không quan tâm" đến bài viết
+* Xóa bằng dấu X - Nếu muốn gỡ nội dung khỏi Bảng feed Facebook, bạn có thể nhấn vào dấu X ở góc trên bên phải bài viết để ẩn bài viết đó khỏi bảng feed. Khi bạn làm như vậy, hệ thống của chúng tôi sẽ biết là cần phân phối ít bài viết tương tự hơn trong tương lai.
+* Ẩn bài viết chứa từ ngữ hoặc biểu tượng cảm xúc mà bạn không muốn nhìn thấy - Nếu không muốn nhìn thấy bài viết chứa nội dung nhất định, bạn có thể tùy chỉnh danh sách "Từ bị ẩn" để ẩn loại bài viết cụ thể. Ví dụ: Nếu là người ăn chay, bạn có thể ẩn nội dung gợi ý chứa hashtag hoặc chú thích dùng những từ ngữ như "thịt", "thịt nướng", "​​🍗" hay "chế độ ăn thịt".
+* Tạm ẩn bài viết gợi ý trên Bảng feed - Có thể bạn muốn ngừng nhìn thấy bài viết gợi ý trên bảng feed trong một khoảng thời gian có hạn. Vì vậy, chúng tôi đã tạo điều kiện để bạn "tạm ẩn" bài viết được đề xuất trong 30 ngày.
+* Kiểm soát nội dung nhạy cảm - Bạn có thể cho biết mình muốn nhìn thấy bao nhiêu nội dung nhạy cảm (ví dụ: nội dung phản cảm hoặc nội dung liên quan đến ảnh khỏa thân) trong các đề xuất.
+* Kiểm soát nội dung chính trị - Mọi người có tùy chọn khác nhau đối với việc xem nội dung chính trị trên mạng xã hội. Do đó, chúng tôi cung cấp lựa chọn kiểm soát để bạn quyết định xem mình có muốn nhận được đề xuất về nội dung chính trị (bài viết có khả năng liên quan đến những yếu tố như chính phủ, bầu cử hoặc chủ đề nhắc đến một số vấn đề xã hội nhất định) hay không.
+Tùy chỉnh bảng feed
+* Xem nội dung theo thứ tự từ mới nhất đến cũ nhất - Bạn có thể chọn chuyển sang một bảng feed sẽ sắp xếp lại các bài viết để bạn nhìn thấy nội dung mới đây nhất mà các tài khoản bạn theo dõi đã đăng, theo thứ tự từ mới nhất đến cũ nhất.
+* Bảng feed yêu thích: Bạn có thể thêm một nhóm nhỏ các tài khoản mà mình theo dõi vào mục yêu thích để đảm bảo không bỏ lỡ bài viết từ những tài khoản này.
+* "Thuật toán của bạn"/"Dear Algo" - Bạn có thể định hình nội dung mình nhìn thấy theo thuật toán của mình bằng cách trực tiếp nhập các tùy chọn về chủ đề mối quan tâm mà bạn muốn xem thêm hoặc ẩn bớt.
+* Hợp tuyển - Bạn có thể mời bạn bè tạo bảng feed chung độc đáo cho Instagram Reels dựa trên nội dung mà chúng tôi gợi ý cho từng người tham gia.
+* Tab Bạn bè: Trên Facebook, bạn có thể chuyển sang bảng feed riêng để xem thông tin mới từ bạn bè. Trên Instagram, bạn có thể chọn tab "Bạn bè" trong Reels để xem nội dung thước phim mà bạn bè đã thích, tạo, đăng lại hoặc bình luận.
+* Bảng feed tùy chỉnh: Bạn có thể tạo bảng feed tùy chỉnh trên Threads để xem bài viết về một số chủ đề bạn chọn hoặc bài viết của những người cụ thể.
+Kiểm soát tài khoản nào có thể tương tác với bạn và tương tác theo cách nào
+* Tắt/tạm ẩn - Với tính năng này, bạn có thể ẩn bài viết, tin hoặc tin nhắn của ai đó trong Tin và Bảng feed, trong khi vẫn theo dõi tài khoản của họ.
+* Chặn - Khi bạn chặn ai đó, họ sẽ không thể tìm kiếm trang cá nhân của bạn, xem nội dung bạn đăng hoặc gửi tin nhắn cho bạn nữa.
+* Hạn chế - Bạn có thể chọn một số tài khoản nhất định không thể thấy khi nào bạn online, đồng thời bạn sẽ không nhận được thông báo về bình luận của họ. Người bị hạn chế sẽ không nhận được thông báo khi bạn hạn chế tài khoản của họ.
+* Giới hạn - Bạn có thể tạm thời giới hạn hoạt động tương tác của một số nhóm người nhất định trên Instagram mà họ không biết điều đó.
+* Từ bị ẩn – Tự động ẩn bình luận và tin nhắn đang chờ trên Tin nhắn trực tiếp mà bạn không muốn nhìn thấy bằng cách bật các cài đặt "Từ bị ẩn" và "Ẩn tin nhắn đang chờ". Bạn cũng có thể chọn từ ngữ và biểu tượng cảm xúc tùy chỉnh để thêm vào danh sách Từ bị ẩn.
+Quyết định cách bạn dành thời gian trên nền tảng
+* Giới hạn thời gian hàng ngày - Bạn có thể đặt lời nhắc để biết khi nào mình đã dùng ứng dụng của chúng tôi được một khoảng thời gian cụ thể trong ngày.
+* Chế độ ngủ - Bạn có thể bật chế độ ngủ để đảm bảo mình không nhận được thông báo trong khung giờ đi ngủ đã định.
+Cho chúng tôi biết khi bạn cho rằng nội dung nào đó đã vi phạm Tiêu chuẩn cộng đồng hoặc chúng tôi đã nhầm lẫn
+* Báo cáo - Bạn có thể báo cáo tài khoản, bình luận, tin nhắn, thước phim và bài viết mà mình cho là đã vi phạm Tiêu chuẩn cộng đồng để chúng tôi xem xét.
+* Kháng nghị - Bạn có thể yêu cầu kháng nghị nếu không đồng ý với quyết định của Meta về nội dung.
+===== SOURCE DOCUMENT 013
+TITLE: Thành lập Ủy ban Giám sát | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/oversight/creation-of-oversight-board/
+CONTENT_SHA256: c6c726dc85351f3e2c0e54700d65bbd054e2a3306c18e6a3f537732bda3c8e14
+================================================================================
+Thành lập Ủy ban Giám sát
+# Thành lập Ủy ban Giám sát
+NGÀY CẬP NHẬT 12 THÁNG 11, 2024
+Mỗi ngày, các đội ngũ của Meta đều phải đưa ra những quyết định khó khăn về việc nên giữ lại và gỡ bỏ nội dung nào theo Tiêu chuẩn cộng đồng. Tuy nhiên, do quy mô của cộng đồng và số người tiếp cận nền tảng, chúng tôi đã thành lập Ủy ban Giám sát đảm bảo tính minh bạch và chịu trách nhiệm đối với các quyết định đó.
+Lý do thành lập Ủy ban Giám sát
+Năm 2018, ông Mark Zuckerberg – Tổng Giám đốc của Meta – đã chia sẻ kế hoạch chi tiết, trong đó phác thảo những cách mới và hiệu quả hơn để các nền tảng như Facebook có thể tiếp tục chịu trách nhiệm và mang lại tính hợp pháp cho những quy tắc chi phối các cộng đồng lớn trên Internet.
+Dựa theo ý kiến đóng góp của các học giả và chuyên gia, Meta đã biến ý tưởng trong kế hoạch này thành hành động, đồng thời thành lập Ủy ban Giám sát để độc lập kiểm tra một số quyết định quan trọng và khó khăn nhất của Meta về nội dung. Ủy ban ra đời từ một ý tưởng khởi nguồn đơn giản: Meta không nên tự mình đưa ra quá nhiều quyết định quan trọng về quyền tự do biểu đạt và sự an toàn.
+Tiếp đó, chúng tôi đã thực hiện quy trình tư vấn toàn cầu để hiểu rõ hơn về cách biến tầm nhìn này thành thể chế. Quy trình tư vấn này bao gồm ý kiến đóng góp của các chuyên gia trên khắp thế giới, chẳng hạn như các học giả, chuyên gia kỹ thuật, luật sư, nhà thiết kế và chuyên gia công nghệ, cũng như ý kiến của các thành viên trong cộng đồng. Dựa vào các ý kiến đóng góp nêu trên, chúng tôi đã xây dựng được các cấu trúc và tài liệu đóng vai trò là nền tảng quản lý cho ủy ban, trong đó bao gồm phác thảo điều lệ, thiết lập quỹ tín thác độc lập và phát triển quy chế của ủy ban.
+Ủy ban bắt đầu đi vào hoạt động
+Vào tháng 05/2020, chúng tôi đã công bố 20 thành viên đầu tiên của Ủy ban Giám sát. Đây là những gương mặt đáng kính và có suy nghĩ thấu đáo, đảm nhiệm các vị trí khác nhau, trong đó có cả các giáo sư, nhà báo và nguyên thủ quốc gia.
+Sau màn công bố này, các thành viên đã trải qua quá trình đào tạo về Tiêu chuẩn cộng đồng, quy trình phát triển chính sách, khung thực thi của Meta và các loại quyết định về nội dung thuộc phạm vi của ủy ban. Các thành viên cũng có định hướng nghiêm ngặt về công cụ quản lý trường hợp mới do Meta phát triển. Nhờ công cụ này, các thành viên có thể truy cập và xem xét thông tin liên quan đến trường hợp một cách an toàn ở bất cứ đâu trên thế giới.
+Ủy ban đã bắt đầu tiếp nhận các trường hợp vào tháng 10/2020. Kể từ đó, ủy ban đã đưa ra một số quyết định và đề xuất đã và đang làm thay đổi cách chúng tôi kiểm duyệt nội dung cho hàng tỷ người trên Facebook và Instagram.
+Mục tiêu của chúng tôi là luôn duy trì ủy ban lâu dài nhằm đảm bảo ủy ban là mắt xích quan trọng trong chiến lược kiểm duyệt nội dung trên diện rộng hơn. Chúng tôi cam kết hỗ trợ ủy ban trong quá trình phát triển thành một thể chế và tăng số lượng thành viên lên 40 người. Điều này bao gồm việc liên tục xem xét phạm vi của ủy ban và nỗ lực đưa các loại nội dung khác nêu trong quy chế vào phạm vi đó. Chúng tôi đang bắt đầu quy trình này rồi.
+Chúng tôi hi vọng ủy ban có thể đóng vai trò như một hình mẫu quản lý nội dung cho tương lai của ngành, vì ủy ban vẫn tiếp tục cung cấp những ý kiến đóng góp quý báu về cách chúng tôi đưa ra một số quyết định có thể gây hậu quả nặng nề nhất liên quan đến quyền tự do biểu đạt trên toàn cầu.
+===== SOURCE DOCUMENT 014
+TITLE: Trợ năng tại Meta | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/features/accessibility-at-meta/
+CONTENT_SHA256: 7566f4a31844b11f395ff5efdc05929938d7d4f2ee707f3a783907e62b25c465
+================================================================================
+# Trợ năng tại Meta
+NGÀY CẬP NHẬT 27 THÁNG 6, 2025
+Tại Meta, chúng tôi nỗ lực tạo ra những trải nghiệm dễ tiếp cận và bao trùm.
+Đội ngũ trợ năng cung cấp thông tin hướng dẫn, đào tạo và hỗ trợ để chúng tôi lưu tâm đến trợ năng khi xây dựng các sản phẩm và dịch vụ kỹ thuật số trên toàn công ty. Họ kêu gọi cộng đồng người khuyết tật trên toàn cầu đóng góp ý kiến thông qua các hội thảo và chương trình.
+### Báo cáo tổng hợp ý kiến đóng góp và các nguồn lực về trợ năng
+Chúng tôi cung cấp nhiều tính năng trợ năng (ví dụ: văn bản thay thế, phụ đề và âm thanh) để nâng cao tính hữu dụng và mang lại trải nghiệm toàn diện hơn. Chúng tôi không ngừng nỗ lực để phát triển các sản phẩm dễ tiếp cận hơn dựa trên ý kiến đóng góp.
+Hãy truy cập vào Trung tâm trợ giúp của chúng tôi để xem hướng dẫn về cách bật tính năng trợ năng trên các sản phẩm và dịch vụ của Meta. Khám phá các liên kết bên dưới để biết thêm thông tin:
+* Trợ năng trên WhatsApp
+* Trợ năng trên Facebook và Trợ năng trên Messenger
+* Trợ năng trên Instagram
+* Trợ năng trên Meta Quest
+* Trợ năng trên Meta Portal
+* Trợ năng trên Meta AI Glasses
+Khi xây dựng theo hướng lưu tâm đến trợ năng, chúng tôi sẽ mang đến các sản phẩm và dịch vụ xuất sắc hơn. Chúng tôi đã và đang tập trung phát triển các tính năng và sản phẩm giúp kết nối dễ dàng hơn.
+===== SOURCE DOCUMENT 015
+TITLE: Xử lý | Trung tâm minh bạch
+SOURCE_TYPE: enforcement
+CANONICAL_URL: https://transparency.meta.com/vi-vn/enforcement/taking-action/
+CONTENT_SHA256: c9766643988f30c137f8bdb1da8f21c17366c978bfe6c7c629bbdbe9ce3d9424
+================================================================================
+# Xử lý
+Meta áp dụng biện pháp thực thi chính sách về nội dung trên Facebook và Instagram theo 3 phần: gỡ bỏ, giảm thiểu và thông báo.
+Gỡ bỏ
+Tiêu chuẩn cộng đồng nêu rõ những nội dung được phép và không được phép xuất hiện trên Facebook, Instagram, Messenger cũng như Threads. Chúng tôi gỡ nội dung vi phạm chính sách ngay khi phát hiện được.
+Gỡ bỏ nội dung vi phạm
+Tính số lần cảnh cáo
+Hạn chế tài khoản
+Hạn chế tài khoản thuộc về người của công chúng khi xảy ra tình trạng bạo loạn dân sự
+Vô hiệu hóa tài khoản
+Gỡ Trang và nhóm
+Cách chúng tôi tạo và sử dụng danh sách từ ngữ phỉ báng cho từng thị trường
+Giảm thiểu
+Một số nội dung có vấn đề có thể khiến mọi người gặp trải nghiệm tiêu cực trên Facebook và Instagram. Chúng tôi sẽ thường xuyên giảm mức phân phối nội dung này, ngay cả khi chưa thực sự đủ tiêu chuẩn để gỡ nội dung theo chính sách.
+Giảm mức phân phối nội dung có vấn đề
+Hình phạt khi chia sẻ nội dung đã được xác minh dữ kiện
+Thông báo
+Nếu nội dung có khả năng mang tính nhạy cảm, gây hiểu nhầm hoặc khó hiểu, đôi khi chúng tôi sẽ thêm cảnh báo hay cộng đồng có thể bổ sung ngữ cảnh nếu họ đồng ý rằng thông tin đó là hữu ích (tại Hoa Kỳ).
+Cung cấp ngữ cảnh cho nội dung nhạy cảm hoặc gây hiểu nhầm
+Ghi chú cho cộng đồng: Cách mới để bổ sung ngữ cảnh cho bài viết
+===== SOURCE DOCUMENT 016
+TITLE: Đổi mới quy trình quản lý | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/governance/innovation/
+CONTENT_SHA256: a186dc5d00a92e0b80fce1c04bf7f3336fa86a56e7439934c607858c452e41c3
+================================================================================
+Đổi mới
+# Đổi mới quy trình quản lý
+NGÀY CẬP NHẬT 12 THÁNG 5, 2025
+Meta tiếp cận quy trình quản lý dựa trên một nguyên tắc đơn giản: quyết định nào ảnh hưởng đến khả năng tự do biểu đạt của mọi người thì không nên được đưa ra một cách riêng lẻ. Do đó, chúng tôi chủ động tìm kiếm những cách làm sáng tạo để lắng nghe thêm nhiều ý kiến trong quá trình ra quyết định liên quan đến cách quản lý nền tảng của mình cũng như cách chúng tôi phát triển các công nghệ mà mọi người sử dụng hàng ngày.
+Việc ra mắt Ủy ban Giám sát vào năm 2020 chính là bước đầu tiên mà Meta thực hiện để phát triển quy trình quản lý đầu ngành. Bạn có thể vào đây để đọc thêm về công việc của Ủy ban Giám sát.
+Gần đây hơn, chúng tôi đã tìm hiểu về Diễn đàn cộng đồng – một hình thức tranh luận công khai có tổ chức, chú trọng vào các vấn đề lớn nhất của ngành công nghệ. Chúng tôi đã bắt đầu thử nghiệm diễn đàn này vào năm 2022.
+Ủy ban Giám sát có nhiệm vụ bảo vệ quyền tự do biểu đạt và mang đến cho Meta những hiểu biết sâu sắc nhằm đảm bảo rằng các quyết định liên quan đến chính sách và sản phẩm của chúng tôi luôn hướng đến lợi ích tốt nhất của người dùng. Diễn đàn cộng đồng giúp người dùng có thêm quyền kiểm soát và sẽ góp phần đảm bảo rằng quá trình ra quyết định của chúng tôi phản ánh được quan điểm từ bên ngoài công ty.
+Chúng tôi sẽ tiếp tục tìm kiếm những hình thức quản lý mới và cách làm sáng tạo để trao quyền sao cho bình đẳng, nhằm giúp ý kiến của mọi người có trọng lượng hơn trong quá trình chúng tôi xây dựng chính sách và phát triển sản phẩm.
+===== SOURCE DOCUMENT 017
+TITLE: Ủy ban Giám sát: Các câu hỏi khác | Trung tâm minh bạch
+SOURCE_TYPE: governance
+CANONICAL_URL: https://transparency.meta.com/vi-vn/oversight/further-asked-questions/
+CONTENT_SHA256: 41abe6fd48ad786ec8b0a8052e65d13471f476389c882bb1d03b0d233a199efb
+================================================================================
+# Ủy ban Giám sát: Các câu hỏi khác
+NGÀY CẬP NHẬT 22 THÁNG 2, 2024
+Quyết định và đề xuất của ủy ban
+Các quyết định của Ủy ban Giám sát về nội dung có mang tính ràng buộc không?
+Có. Các quyết định của Ủy ban về nội dung có mang tính ràng buộc. Căn cứ vào quyết định của ủy ban, Meta sẽ khôi phục hoặc gỡ nội dung trên Facebook, Instagram hoặc Threads.
+Các đề xuất của Ủy ban Giám sát có mang tính ràng buộc không?
+Khác với quyết định của ủy ban về nội dung ở từng trường hợp, các đề xuất không mang tính ràng buộc. Meta cam kết không chỉ xem các đề xuất này là ý kiến đóng góp quan trọng cho quy trình xây dựng chính sách nội bộ, mà còn phản hồi công khai từng đề xuất trong vòng 30 ngày.
+Meta sẽ làm gì đối với nội dung giống hoặc tương tự nội dung mà Ủy ban Giám sát đã đưa ra quyết định?
+Trong điều kiện cho phép, Meta sẽ thực thi quyết định của ủy ban với cả nội dung giống và có ngữ cảnh tương tự tồn tại trên Facebook.
+Meta có thể yêu cầu Ủy ban Giám sát đưa ra các đề xuất về chính sách không?
+Có. Nếu Meta muốn xin lời khuyên về chính sách thì các trường hợp sẽ được gửi đến cho ủy ban. Qua đó, Meta có thể tìm kiếm ý kiến đóng góp cho các chính sách đã được kiểm chứng nhiều lần là có tác động đáng kể và/hoặc khó áp dụng trên Facebook, Instagram và Threads.
+Ngoài ra, ủy ban cũng có thể tư vấn về chính sách cho bất kỳ trường hợp nào mà họ biết. Chúng tôi sẽ cân nhắc các nội dung tư vấn này trong quá trình phát triển chính sách.
+Ủy ban Giám sát đã xem xét những loại trường hợp nào?
+Ủy ban đã xem xét một số trường hợp nội dung quan trọng và khó xử lý liên quan đến các chủ đề như biểu tình, ảnh khỏa thân và quyền biểu đạt về tôn giáo, hành vi bạo lực. Các trường hợp này kéo theo một số quyết định khó khăn liên quan đến vấn đề xung đột giá trị, bao gồm các quyền thể hiện quan điểm bản thân về chính trị hoặc tôn giáo của mọi người và một số lời lẽ biểu đạt có thể dẫn đến hành vi gây hại sắp xảy ra ngoài đời thực.
+Bạn có thể đọc thêm về các trường hợp mà ủy ban đã chọn để xem xét tại trang tin tức của chúng tôi.
+Bạn có thể vào đâu để xem tất cả các trường hợp mà Ủy ban Giám sát đã xem xét?
+Trang trường hợp của chúng tôi có một bảng bao gồm các trường hợp mà bạn có thể dễ dàng tìm kiếm.
+Cách hoạt động của quy trình kháng nghị và chuyển trường hợp
+Làm thế nào để kháng nghị trường hợp với Ủy ban Giám sát?
+Nếu không đồng ý với quyết định mà Meta đưa ra về nội dung trên Facebook, Instagram hoặc Threads và đã hết lượt gửi đơn kháng nghị trên nền tảng, bạn có thể kháng nghị quyết định đó với Ủy ban Giám sát. Bạn sẽ nhận được một số tham chiếu để gửi cho Ủy ban Giám sát trong Hộp thư hỗ trợ trên Facebook hoặc trang Yêu cầu hỗ trợ trên Instagram. Các yêu cầu hỗ trợ đối với Instagram và Threads là giống nhau. Nếu gửi đơn kháng nghị trên Threads, bạn có thể xem thông báo về yêu cầu hỗ trợ trên cả hai ứng dụng. Bạn có thể nhập số tham chiếu này vào trang web của Ủy ban Giám sát để gửi trường hợp cho ủy ban xem xét.
+Nội dung nào đủ điều kiện để kháng nghị với Ủy ban Giám sát?
+Bạn có thể kháng nghị nội dung mình đăng lên Facebook, Instagram hoặc Threads nhưng đã bị gỡ bỏ và nội dung mà người khác đăng trên Facebook, Instagram hoặc Threads. Loại nội dung đủ điều kiện để ủy ban xem xét gồm có bài viết/trạng thái, ảnh, video, bình luận và nội dung chia sẻ. Trong tương lai, nhóm, trang, sự kiện và quảng cáo cũng sẽ đủ điều kiện để ủy ban xem xét.
+Meta dựa vào tiêu chí nào để chuyển các trường hợp đến Ủy ban Giám sát?
+Như nêu trong quy chế, Meta sẽ trực tiếp chuyển các trường hợp quan trọng và khó giải quyết đến ủy ban:
+* Quan trọng nghĩa là nội dung có tác động thực tế và liên quan đến những vấn đề nghiêm trọng, có quy mô lớn và/hoặc quan trọng với công luận.
+* Khó giải quyết nghĩa là nội dung đặt ra nghi vấn về chính sách hiện tại hoặc việc thực thi các chính sách này, trong đó có những lý lẽ mạnh mẽ ủng hộ cho cả việc gỡ bỏ hoặc giữ lại nội dung đang được xem xét. Ủy ban có toàn quyền quyết định tiếp nhận hoặc từ chối trường hợp được gửi đến qua quy trình này.
+Một số ví dụ bao gồm ranh giới giữa việc nâng cao nhận thức và ngôn từ gây thù ghét, việc lan truyền nội dung phản cảm sau một sự kiện bi thảm vì lợi ích của cộng đồng.
+Bao lâu một lần thì Meta chuyển trường hợp đến Ủy ban Giám sát?
+Chúng tôi thường xuyên chuyển đến ủy ban phiếu ghi các trường hợp mà chúng tôi thấy quan trọng và khó giải quyết.
+Tại sao bạn phải kháng nghị với Meta trước khi kháng nghị với Ủy ban Giám sát?
+Ủy ban được thành lập để xem xét các trường hợp quan trọng và khó giải quyết nhất tại Meta. Việc kháng nghị ban đầu với Meta góp phần đảm bảo trường hợp đã được kiểm tra nhiều lần trước khi chuyển đến ủy ban, do đó thể hiện một số quyết định khó khăn và gây ra nhiều hệ lụy hơn mà Meta đã đưa ra về nội dung.
+Tại sao Ủy ban Giám sát lại cần nhiều thời gian đến thế để đưa ra quyết định về một trường hợp?
+Ủy ban Giám sát là cơ quan suy xét và cân nhắc thấu đáo để có thể đưa ra một số quyết định khó khăn nhất về nội dung (theo cách tận tâm và toàn diện) dựa trên ý kiến đóng góp của các chuyên gia. Mặc dù Meta vẫn sẽ đưa ra quyết định ban đầu về hàng triệu nội dung mỗi ngày, nhưng ý kiến đóng góp mà chúng tôi nhận được từ tổ tư vấn lại đề xuất rằng ủy ban nên được thành lập để suy xét và đóng vai trò là bên kiểm tra các quyết định của Meta về nội dung.
+Mối quan hệ của ủy ban với Meta
+Không phải Meta thành lập Ủy ban Giám sát chỉ là để chuyển giao trách nhiệm đưa ra các quyết định này hay sao?
+Không. Meta đưa ra quyết định ban đầu cho tất cả các trường hợp gửi đến ủy ban. Chúng tôi là người hỗ trợ ủy ban. Như Mark Zuckerberg – Tổng Giám đốc Meta – đã chia sẻ trong bản kế hoạch chi tiết về một hệ thống mới dùng để quản lý và thực thi quyết định liên quan đến nội dung: "Facebook không nên tự mình đưa ra quá nhiều quyết định quan trọng về quyền tự do biểu đạt và sự an toàn."
+Do đó, chúng tôi đã thành lập và trao quyền cho một nhóm mới để họ đánh giá độc lập một số quyết định khó khăn và quan trọng nhất liên quan đến nội dung. Như vậy, Meta sẽ không một mình đưa ra các quyết định về ngôn từ, sự an toàn và phẩm giá mà có thể gây ra hệ lụy.
+Ai đảm bảo Ủy ban Giám sát có quyền đưa ra quyết định cuối cùng? Rốt cục là Meta không thể bác bỏ quyết định của ủy ban hay sao?
+Như Mark Zuckerberg – Tổng Giám đốc Meta – đã giải thích vào năm 2019, chúng tôi công khai cam kết tuân thủ các quyết định của ủy ban. Meta đã dành nhiều năm đầu tư thời gian và nguồn lực vào Ủy ban Giám sát vì chúng tôi tin rằng cần phải có một cơ chế kiểm tra độc lập và mang tính ràng buộc các quyết định mà chúng tôi đưa ra.
+Làm cách nào để Ủy ban Giám sát duy trì mối quan hệ với Meta theo đúng quy định? Ủy ban có phải chỉ là một cách để cố lách các quy định không?
+Ủy ban không phải là cơ quan giải quyết mọi trường hợp. Đối với Meta, ủy ban là một thành phần quan trọng trong cơ chế kiểm duyệt nội dung trên diện rộng hơn, trong đó bao gồm cả các quy định mới về Internet.
+Vào tháng 03/2019, Mark Zuckerberg – Tổng Giám đốc Meta – đã kêu gọi các chính phủ hợp tác với các nền tảng trực tuyến để đưa ra và áp dụng quy định mới dành cho nội dung trên mạng, lưu ý rằng "Chúng ta không thể nào gỡ hết mọi nội dung có hại trên Internet. Thế nhưng khi mọi người dùng hàng tá dịch vụ chia sẻ khác nhau, mỗi loại lại có chính sách và quy trình riêng, chúng ta cần có một giải pháp chuẩn hóa hơn." Vào tháng 02/2021, chúng tôi đã đáp lại lời kêu gọi đó bằng bài nghiên cứu chuyên sâu về hoạt động kiểm duyệt nội dung.
+Meta chọn thành viên ủy ban như thế nào?
+Meta đã chọn các vị đồng chủ tịch, rồi phối hợp với các vị đồng chủ tịch đó để chọn 16 thành viên đầu tiên. Nhóm này có ngành nghề và lý lịch đa dạng, qua đó đảm bảo được góc nhìn toàn cầu. Meta và Ủy ban Giám sát sẽ cùng nhau chọn 20 thành viên tiếp theo. Sau đó, Ủy ban Giám sát sẽ tự chịu trách nhiệm lựa chọn thành viên mà không có sự tham gia của Meta. Bất cứ ai cũng có thể đề xuất thành viên mới cho ủy ban.

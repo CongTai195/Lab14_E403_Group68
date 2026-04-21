@@ -1,0 +1,230 @@
+DATASET: Facebook / Meta policy knowledge base
+GROUP_ID: 06_recommendations_distribution
+GROUP_NAME: Đề xuất nội dung, phân phối và giảm hiển thị
+LOCALE_PRIORITY: vi_VN; fallback giữ nguyên ngôn ngữ nếu nguồn chính thức không có bản VI đầy đủ
+LAST_CHECKED: 2026-04-21
+SOURCE_COUNT: 4
+Ghi chú chunking: nên tách theo ranh giới '===== SOURCE DOCUMENT' và heading '#/##/###'.
+================================================================================
+===== SOURCE DOCUMENT 001
+TITLE: Giới thiệu về đề xuất trên Facebook
+SOURCE_TYPE: business_help
+CANONICAL_URL: https://www.facebook.com/business/help/1257205004624246?locale=vi_VN
+CONTENT_SHA256: 647216c63561c47d1d0a57a2953d7a3c2499d200e74acf7ff838c19cb7ca07c3
+================================================================================
+Giới thiệu về đề xuất trên Facebook
+Chúng tôi đưa ra các đề xuất dành riêng cho những người sử dụng dịch vụ của mình nhằm hỗ trợ họ khám phá nội dung và cộng đồng mới. Cả Facebook lẫn Instagram có thể đề xuất nội dung, tài khoản và thực thể (chẳng hạn như Trang, Nhóm và Sự kiện) mà mọi người chưa theo dõi. Một số ví dụ về trải nghiệm đề xuất của chúng tôi bao gồm Trang bạn có thể thích, các bài viết "Gợi ý cho bạn" trong Bảng feed, Những người bạn có thể biết hoặc Nhóm bạn nên tham gia. Một số thực thể có thể bị hạn chế hoặc không có quyền truy cập vào các tính năng khuyến khích tương tác và có thể không được đề xuất rộng rãi trên Facebook như các thực thể khác.
+Mục tiêu của chúng tôi là đưa ra các đề xuất phù hợp và có giá trị với từng người xem. Chúng tôi thực hiện mục tiêu này bằng cách cá nhân hóa đề xuất, nghĩa là đưa ra đề xuất độc đáo dành cho từng người. Ví dụ: Nếu bạn và một người khác có chung Bạn bè trên Facebook, chúng tôi có thể gợi ý người đó làm Bạn mới tiềm năng dành cho bạn.
+## Tiêu chuẩn cơ sở mà Facebook dựa vào để đưa ra đề xuất
+Facebook có các nguyên tắc về nội dung mà mình đề xuất cho mọi người. Những nguyên tắc đó phù hợp với chiến lược mà chúng tôi đã sử dụng để quản lý nội dung có vấn đề trên Facebook từ năm 2016, có tên là "gỡ bỏ, giảm thiểu và thông báo". Chiến lược này bao gồm biện pháp gỡ nội dung vi phạm Tiêu chuẩn cộng đồng, giảm tình trạng phát tán nội dung có vấn đề nhưng không vi phạm tiêu chuẩn của chúng tôi, đồng thời cung cấp cho mọi người thêm thông tin để họ có thể chọn nội dung mình muốn nhấp vào, đọc hoặc chia sẻ. Nội dung thảo luận về công việc "giảm thiểu" của chúng tôi trên Facebook thường tập trung vào Bảng feed và cách chúng tôi xếp thứ tự các bài viết trong đó. Tuy nhiên, Nguyên tắc đề xuất là một công cụ quan trọng khác mà chúng tôi sử dụng để giảm tình trạng phát tán nội dung có vấn đề trên nền tảng của mình.
+Thông qua các Nguyên tắc đề xuất của mình, chúng tôi cố gắng tránh đưa ra các đề xuất có chất lượng thấp, phản cảm hoặc đặc biệt nhạy cảm, đồng thời cũng tránh đưa ra các đề xuất có thể không phù hợp với người xem trẻ tuổi. Chúng tôi thiết kế Nguyên tắc đề xuất để duy trì tiêu chuẩn cao hơn Nguyên tắc cộng đồng của mình, vì các nội dung và kết nối được đề xuất là từ các tài khoản hoặc thực thể mà bạn chưa theo dõi. Vì vậy, không phải mọi nội dung được cho phép hiển thị trên nền tảng của chúng tôi đều đủ điều kiện để nhận đề xuất.
+Khi xây dựng các nguyên tắc này, chúng tôi đã tham vấn ý kiến đóng góp từ 50 chuyên gia hàng đầu trong lĩnh vực hệ thống đề xuất, biểu đạt, an toàn và quyền kỹ thuật số. Những cuộc tham vấn đó là một phần trong nỗ lực không ngừng nghỉ của chúng tôi nhằm cải thiện các nguyên tắc này, cũng như cung cấp cho mọi người trải nghiệm an toàn và tích cực khi họ nhận được đề xuất trên nền tảng của chúng tôi.
+Chúng tôi muốn cung cấp thêm thông tin cho bạn về các loại nội dung, tài khoản và thực thể mà chúng tôi cố gắng không đề xuất, với mục đích là nhằm cập nhật thông tin cho cộng đồng cũng như hướng dẫn cho người sáng tạo nội dung về các đề xuất.
+## Đề xuất nội dung
+Có năm hạng mục nội dung được phép hiển thị trên nền tảng của chúng tôi, nhưng điều đó có thể không đủ điều kiện để nhận đề xuất. Dưới đây là các hạng mục cùng một số ví dụ minh họa về nội dung trong mỗi hạng mục.
+**Nội dung cản trở khả năng phát triển một cộng đồng an toàn của chúng tôi, chẳng hạn như:**
+1. Nội dung thảo luận về hành vi tự hại bản thân, tự tử hoặc chứng rối loạn ăn uống, cũng như nội dung mô tả hoặc xem nhẹ chủ đề xoay quanh sự tử vong hoặc bệnh trầm cảm. (Chúng tôi gỡ nội dung khuyến khích hành vi tự tử, tự gây thương tích hoặc bất kỳ hình ảnh nào phản cảm.)
+2. Nội dung có thể mô tả về hành vi bạo lực, chẳng hạn như những cuộc ẩu đả. (Chúng tôi gỡ nội dung bạo lực phản cảm.)
+3. Nội dung có thể mang tính khiêu dâm hoặc gợi dục, chẳng hạn như ảnh về những người mặc quần áo xuyên thấu. (Chúng tôi gỡ nội dung chứa ảnh khỏa thân người lớn hoặc hoạt động tình dục.)
+4. Nội dung quảng bá việc sử dụng một số sản phẩm bị kiểm soát, chẳng hạn như sản phẩm thuốc lá hoặc thuốc lá điện tử, sản phẩm và dịch vụ dành cho người lớn hoặc thuốc dược phẩm. (Chúng tôi gỡ nội dung cố gắng bán hoặc trao đổi hàng hóa thuộc diện kiểm soát chặt chẽ nhất.)
+5. Nội dung được chia sẻ bởi bất kỳ tài khoản hoặc thực thể không được đề xuất nào (ví dụ: Nhóm hoặc Trang như đã nêu dưới đây).
+**Nội dung nhạy cảm hoặc có chất lượng thấp về Sức khỏe/Tài chính, chẳng hạn như:**
+1. Nội dung quảng bá hoặc mô tả các quy trình thẩm mỹ.
+2. Nội dung chứa các tuyên bố phóng đại về sức khỏe, chẳng hạn như "phương pháp chữa bệnh màu nhiệm."
+3. Nội dung cố gắng bán sản phẩm hoặc dịch vụ dựa trên các tuyên bố liên quan đến sức khỏe, chẳng hạn như quảng cáo thực phẩm bổ sung để giảm cân.
+4. Nội dung quảng bá các mô hình kinh doanh gây hiểu nhầm hoặc lừa đảo, chẳng hạn như khoản vay nóng hoặc khoản đầu tư "không có rủi ro".
+**Nội dung mà nhiều người dùng cho chúng tôi biết rằng họ không thích, chẳng hạn như:**
+1. Nội dung quảng bá cuộc thi hoặc tặng quà miễn phí.
+2. Nội dung bao gồm các liên kết đến trang đích/miền có chất lượng thấp hoặc lừa đảo, chẳng hạn như trang đích tràn ngập quảng cáo click hoặc độc hại.
+**Nội dung liên quan đến chất lượng đăng thấp, chẳng hạn như:**
+1. Nội dung không nguyên gốc, phần lớn được sử dụng lại từ nguồn khác mà không bổ sung nhiều giá trị.
+2. Nội dung từ các trang web nhận được số lượt click không tương xứng từ Facebook so với những vị trí khác trên web.
+3. Nội dung tin tức không kèm theo thông tin minh bạch về quyền tác giả hoặc đội ngũ biên tập của nhà phát hành.
+4. Chú thích dài không liên quan đến nội dung căn bản, cũng như các mạng lưới cấu kết bình luận nhằm tăng mức độ tương tác và phân phối theo cách giả tạo.
+**Nội dung sai sự thật hoặc gây hiểu nhầm, chẳng hạn như:**
+1. Nội dung bao gồm các lời tuyên bố bị bên xác minh dữ kiện độc lập phát hiện là sai sự thật. (Chúng tôi gỡ thông tin sai lệch có thể gây tổn hại về thể chất hoặc ngăn chặn hoạt động bỏ phiếu.)
+2. Thông tin sai lệch liên quan đến vắc xin đã bị nhiều tổ chức y tế hàng đầu trên thế giới bác bỏ.
+3. Nội dung quảng bá việc sử dụng tài liệu gian lận, chẳng hạn như ai đó chia sẻ bài đăng về việc sử dụng giấy tờ tùy thân giả. (Chúng tôi gỡ nội dung cố gắng bán giấy tờ gian lận như đơn thuốc).
+Như đã lưu ý ở trên, chúng tôi thực hiện các bước bổ sung để tránh đề xuất một số loại nội dung nhạy cảm cho trẻ vị thành niên trên Facebook. Ví dụ: chúng tôi cố gắng xây dựng hệ thống của mình để không đề xuất nội dung quảng bá việc bán hoặc sử dụng đồ uống có cồn dành cho người dùng là trẻ vị thành niên.
+## Đề xuất tài khoản và thực thể
+Nhìn chung, chúng tôi không đề xuất tài khoản (bao gồm quản trị viên Trang và Trang cá nhân) hoặc thực thể (chẳng hạn như Trang, Nhóm hoặc Sự kiện):
+1. Gần đây đã vi phạm Tiêu chuẩn cộng đồng của chúng tôi. Trường hợp này không bao gồm các tài khoản hoặc thực thể mà chúng tôi xóa khỏi nền tảng của mình do vi phạm Tiêu chuẩn cộng đồng của chúng tôi.
+2. Nhiều lần và/hoặc gần đây chia sẻ nội dung (bao gồm tên hoặc ảnh bìa liên quan đến nhóm hoặc Trang) mà chúng tôi không đề xuất trên các hạng mục như đã mô tả ở phần Đề xuất nội dung bên trên.
+3. Nhiều lần đăng thông tin sai lệch liên quan đến vắc xin đã được các tổ chức y tế hàng đầu trên thế giới phủ nhận rộng rãi.
+4. Nhiều lần dính líu đến các cách làm gian dối để tạo lượt theo dõi, chẳng hạn như việc mua "lượt thích".
+5. Mới đây đã đăng và nhiều lần đăng thông tin sai sự thật theo kết quả xác định của các bên thứ ba xác minh dữ kiện độc lập hoặc các tổ chức chuyên gia cụ thể.
+6. Có liên quan đến các tổ chức hoặc phong trào ngoài đời thực gắn liền với bạo lực.
+Chúng tôi có thể cho mọi người biết khi họ sắp tương tác với một thực thể thuộc bất kỳ trường hợp nào nêu trên để hỗ trợ họ đưa ra quyết định sáng suốt.
+===== SOURCE DOCUMENT 002
+TITLE: Giới thiệu về đề xuất trên Facebook
+SOURCE_TYPE: help
+CANONICAL_URL: https://www.facebook.com/help/1257205004624246?locale=vi_VN
+CONTENT_SHA256: 606f1590cfbe85aa23d191cae2220c575466cbcb0dcbdc2f3a8eaa9fa5b4814c
+================================================================================
+Chúng tôi đưa ra các đề xuất dành riêng cho những người sử dụng dịch vụ của mình nhằm hỗ trợ họ khám phá nội dung và cộng đồng mới. Cả Facebook lẫn Instagram có thể đề xuất nội dung, tài khoản và thực thể (chẳng hạn như Trang, Nhóm và Sự kiện) mà mọi người chưa theo dõi. Một số ví dụ về trải nghiệm đề xuất của chúng tôi bao gồm Trang bạn có thể thích, các bài viết "Gợi ý cho bạn" trong Bảng feed, Những người bạn có thể biết hoặc Nhóm bạn nên tham gia. Một số thực thể có thể bị hạn chế hoặc không có quyền truy cập vào các tính năng khuyến khích tương tác và có thể không được đề xuất rộng rãi trên Facebook như các thực thể khác.
+Mục tiêu của chúng tôi là đưa ra các đề xuất phù hợp và có giá trị với từng người xem. Chúng tôi thực hiện mục tiêu này bằng cách cá nhân hóa đề xuất, nghĩa là đưa ra đề xuất độc đáo dành cho từng người. Ví dụ: Nếu bạn và một người khác có chung Bạn bè trên Facebook, chúng tôi có thể gợi ý người đó làm Bạn mới tiềm năng dành cho bạn.
+## Tiêu chuẩn cơ sở mà Facebook dựa vào để đưa ra đề xuất
+Facebook có các nguyên tắc về nội dung mà mình đề xuất cho mọi người. Những nguyên tắc đó phù hợp với chiến lược mà chúng tôi đã sử dụng để quản lý nội dung có vấn đề trên Facebook từ năm 2016, có tên là "gỡ bỏ, giảm thiểu và thông báo". Chiến lược này bao gồm biện pháp gỡ nội dung vi phạm Tiêu chuẩn cộng đồng, giảm tình trạng phát tán nội dung có vấn đề nhưng không vi phạm tiêu chuẩn của chúng tôi, đồng thời cung cấp cho mọi người thêm thông tin để họ có thể chọn nội dung mình muốn nhấp vào, đọc hoặc chia sẻ. Nội dung thảo luận về công việc "giảm thiểu" của chúng tôi trên Facebook thường tập trung vào Bảng feed và cách chúng tôi xếp thứ tự các bài viết trong đó. Tuy nhiên, Nguyên tắc đề xuất là một công cụ quan trọng khác mà chúng tôi sử dụng để giảm tình trạng phát tán nội dung có vấn đề trên nền tảng của mình.
+Thông qua các Nguyên tắc đề xuất của mình, chúng tôi cố gắng tránh đưa ra các đề xuất có chất lượng thấp, phản cảm hoặc đặc biệt nhạy cảm, đồng thời cũng tránh đưa ra các đề xuất có thể không phù hợp với người xem trẻ tuổi. Chúng tôi thiết kế Nguyên tắc đề xuất để duy trì tiêu chuẩn cao hơn Nguyên tắc cộng đồng của mình, vì các nội dung và kết nối được đề xuất là từ các tài khoản hoặc thực thể mà bạn chưa theo dõi. Vì vậy, không phải mọi nội dung được cho phép hiển thị trên nền tảng của chúng tôi đều đủ điều kiện để nhận đề xuất.
+Khi xây dựng các nguyên tắc này, chúng tôi đã tham vấn ý kiến đóng góp từ 50 chuyên gia hàng đầu trong lĩnh vực hệ thống đề xuất, biểu đạt, an toàn và quyền kỹ thuật số. Những cuộc tham vấn đó là một phần trong nỗ lực không ngừng nghỉ của chúng tôi nhằm cải thiện các nguyên tắc này, cũng như cung cấp cho mọi người trải nghiệm an toàn và tích cực khi họ nhận được đề xuất trên nền tảng của chúng tôi.
+Chúng tôi muốn cung cấp thêm thông tin cho bạn về các loại nội dung, tài khoản và thực thể mà chúng tôi cố gắng không đề xuất, với mục đích là nhằm cập nhật thông tin cho cộng đồng cũng như hướng dẫn cho người sáng tạo nội dung về các đề xuất.
+## Đề xuất nội dung
+Có năm hạng mục nội dung được phép hiển thị trên nền tảng của chúng tôi, nhưng điều đó có thể không đủ điều kiện để nhận đề xuất. Dưới đây là các hạng mục cùng một số ví dụ minh họa về nội dung trong mỗi hạng mục.
+**Nội dung cản trở khả năng phát triển một cộng đồng an toàn của chúng tôi, chẳng hạn như:**
+1. Nội dung thảo luận về hành vi tự hại bản thân, tự tử hoặc chứng rối loạn ăn uống, cũng như nội dung mô tả hoặc xem nhẹ chủ đề xoay quanh sự tử vong hoặc bệnh trầm cảm. (Chúng tôi gỡ nội dung khuyến khích hành vi tự tử, tự gây thương tích hoặc bất kỳ hình ảnh nào phản cảm.)
+2. Nội dung có thể mô tả về hành vi bạo lực, chẳng hạn như những cuộc ẩu đả. (Chúng tôi gỡ nội dung bạo lực phản cảm.)
+3. Nội dung có thể mang tính khiêu dâm hoặc gợi dục, chẳng hạn như ảnh về những người mặc quần áo xuyên thấu. (Chúng tôi gỡ nội dung chứa ảnh khỏa thân người lớn hoặc hoạt động tình dục.)
+4. Nội dung quảng bá việc sử dụng một số sản phẩm bị kiểm soát, chẳng hạn như sản phẩm thuốc lá hoặc thuốc lá điện tử, sản phẩm và dịch vụ dành cho người lớn hoặc thuốc dược phẩm. (Chúng tôi gỡ nội dung cố gắng bán hoặc trao đổi hàng hóa thuộc diện kiểm soát chặt chẽ nhất.)
+5. Nội dung được chia sẻ bởi bất kỳ tài khoản hoặc thực thể không được đề xuất nào (ví dụ: Nhóm hoặc Trang như đã nêu dưới đây).
+**Nội dung nhạy cảm hoặc có chất lượng thấp về Sức khỏe/Tài chính, chẳng hạn như:**
+1. Nội dung quảng bá hoặc mô tả các quy trình thẩm mỹ.
+2. Nội dung chứa các tuyên bố phóng đại về sức khỏe, chẳng hạn như "phương pháp chữa bệnh màu nhiệm."
+3. Nội dung cố gắng bán sản phẩm hoặc dịch vụ dựa trên các tuyên bố liên quan đến sức khỏe, chẳng hạn như quảng cáo thực phẩm bổ sung để giảm cân.
+4. Nội dung quảng bá các mô hình kinh doanh gây hiểu nhầm hoặc lừa đảo, chẳng hạn như khoản vay nóng hoặc khoản đầu tư "không có rủi ro".
+**Nội dung mà nhiều người dùng cho chúng tôi biết rằng họ không thích, chẳng hạn như:**
+1. Nội dung quảng bá cuộc thi hoặc tặng quà miễn phí.
+2. Nội dung bao gồm các liên kết đến trang đích/miền có chất lượng thấp hoặc lừa đảo, chẳng hạn như trang đích tràn ngập quảng cáo click hoặc độc hại.
+**Nội dung liên quan đến chất lượng đăng thấp, chẳng hạn như:**
+1. Nội dung không nguyên gốc, phần lớn được sử dụng lại từ nguồn khác mà không bổ sung nhiều giá trị.
+2. Nội dung từ các trang web nhận được số lượt click không tương xứng từ Facebook so với những vị trí khác trên web.
+3. Nội dung tin tức không kèm theo thông tin minh bạch về quyền tác giả hoặc đội ngũ biên tập của nhà phát hành.
+4. Chú thích dài không liên quan đến nội dung căn bản, cũng như các mạng lưới cấu kết bình luận nhằm tăng mức độ tương tác và phân phối theo cách giả tạo.
+**Nội dung sai sự thật hoặc gây hiểu nhầm, chẳng hạn như:**
+1. Nội dung bao gồm các lời tuyên bố bị bên xác minh dữ kiện độc lập phát hiện là sai sự thật. (Chúng tôi gỡ thông tin sai lệch có thể gây tổn hại về thể chất hoặc ngăn chặn hoạt động bỏ phiếu.)
+2. Thông tin sai lệch liên quan đến vắc xin đã bị nhiều tổ chức y tế hàng đầu trên thế giới bác bỏ.
+3. Nội dung quảng bá việc sử dụng tài liệu gian lận, chẳng hạn như ai đó chia sẻ bài đăng về việc sử dụng giấy tờ tùy thân giả. (Chúng tôi gỡ nội dung cố gắng bán giấy tờ gian lận như đơn thuốc).
+Như đã lưu ý ở trên, chúng tôi thực hiện các bước bổ sung để tránh đề xuất một số loại nội dung nhạy cảm cho trẻ vị thành niên trên Facebook. Ví dụ: chúng tôi cố gắng xây dựng hệ thống của mình để không đề xuất nội dung quảng bá việc bán hoặc sử dụng đồ uống có cồn dành cho người dùng là trẻ vị thành niên.
+## Đề xuất tài khoản và thực thể
+Nhìn chung, chúng tôi không đề xuất tài khoản (bao gồm quản trị viên Trang và Trang cá nhân) hoặc thực thể (chẳng hạn như Trang, Nhóm hoặc Sự kiện):
+1. Gần đây đã vi phạm Tiêu chuẩn cộng đồng của chúng tôi. Trường hợp này không bao gồm các tài khoản hoặc thực thể mà chúng tôi xóa khỏi nền tảng của mình do vi phạm Tiêu chuẩn cộng đồng của chúng tôi.
+2. Nhiều lần và/hoặc gần đây chia sẻ nội dung (bao gồm tên hoặc ảnh bìa liên quan đến nhóm hoặc Trang) mà chúng tôi không đề xuất trên các hạng mục như đã mô tả ở phần Đề xuất nội dung bên trên.
+3. Nhiều lần đăng thông tin sai lệch liên quan đến vắc xin đã được các tổ chức y tế hàng đầu trên thế giới phủ nhận rộng rãi.
+4. Nhiều lần dính líu đến các cách làm gian dối để tạo lượt theo dõi, chẳng hạn như việc mua "lượt thích".
+5. Mới đây đã đăng và nhiều lần đăng thông tin sai sự thật theo kết quả xác định của các bên thứ ba xác minh dữ kiện độc lập hoặc các tổ chức chuyên gia cụ thể.
+6. Có liên quan đến các tổ chức hoặc phong trào ngoài đời thực gắn liền với bạo lực.
+Chúng tôi có thể cho mọi người biết khi họ sắp tương tác với một thực thể thuộc bất kỳ trường hợp nào nêu trên để hỗ trợ họ đưa ra quyết định sáng suốt.
+===== SOURCE DOCUMENT 003
+TITLE: Nội dung gợi ý trên Bảng feed Facebook
+SOURCE_TYPE: business_help
+CANONICAL_URL: https://www.facebook.com/business/help/1082519118875784?locale=vi_VN
+CONTENT_SHA256: 9b21dd902c49e6cdbf18831aa6d5dfee595173623c85ca5cb0fea792fc6504bf
+================================================================================
+Như chúng tôi đã trình bày trong Nguyên tắc đề xuất, Facebook sẽ gợi ý một số nội dung nhất định trong Bảng feed để mọi người khám phá những nội dung mới mà họ có thể quan tâm. Những Nội dung gợi ý này chủ yếu dựa trên tương tác trước đây của người dùng trên Facebook, có thể bao gồm ảnh, video và bài viết. Nếu bạn là nhà phát hành, điều này có nghĩa là nội dung của bạn có khả năng tiếp cận được đối tượng mới, có thể không thấy nội dung đó vì chưa theo dõi bạn.
+## Những yếu tố ảnh hưởng đến Nội dung gợi ý mọi người thấy
+Có một số yếu tố có thể ảnh hưởng đến việc hiển thị Nội dung gợi ý cho người dùng trên Bảng feed. Sau đây là một số ví dụ về các yếu tố này:
+1. **Nội dung liên quan**: Chúng tôi có thể gợi ý nội dung cho người dùng nếu những người tương tác với nội dung đó từng tương tác với Nhóm, Trang hoặc nội dung như người dùng này. Ví dụ: chúng tôi có thể gợi ý video cho người dùng nếu những người thích video đó gần đây cũng bình luận về cùng một video với người dùng này.
+2. **Chủ đề liên quan**: Chúng tôi có thể gợi ý nội dung nếu gần đây người dùng có tương tác với chủ đề liên quan trên Facebook. Ví dụ: nếu gần đây người dùng thích hoặc bình luận về nội dung trên một Trang bóng rổ nổi tiếng, chúng tôi có thể gợi ý các nội dung phổ biến về bóng rổ từ nhà phát hành khác cho người dùng đó.
+3. **Vị trí**: Chúng tôi cố gắng gợi ý nội dung phù hợp với người dùng dựa trên các yếu tố như vị trí của họ và những nội dung mà người khác đang tương tác trong khu vực này. Ví dụ: chúng tôi có thể gợi ý cho người dùng nội dung phổ biến từ cơ quan truyền thông địa phương tại thành phố của họ.
+## Ảnh hưởng của Nội dung gợi ý đối với nhà phát hành
+Với nội dung gợi ý, mọi người có thể khám phá các nội dung mới và thú vị, đồng thời người dùng được kết nối chặt chẽ hơn với nhà phát hành tạo ra nội dung đó. Facebook cố gắng áp dụng tiêu chuẩn cao cho nội dung mà chúng tôi chủ động giới thiệu cho những người không theo dõi Trang của bạn. Sau đây là một số điều để bạn có thể hiểu rõ hơn về hướng tiếp cận của chúng tôi:
+1. Để phù hợp với mục tiêu hỗ trợ mọi người khám phá nội dung mới và thú vị, chúng tôi luôn lưu ý đến trải nghiệm của người dùng. Mục tiêu của chúng tôi là gợi ý nội dung đa dạng và mới mẻ. Vì vậy, hoạt động phân phối hàng ngày của bạn từ những Nội dung gợi ý có thể biến động. Tuy nhiên, sự biến động này cũng có mặt tích cực vì bạn có thể có nhiều cơ hội hơn để thu hút đối tượng mới, có sở thích phù hợp.
+2. Khi gợi ý chủ đề cho người dùng, chúng tôi cố gắng đưa ra nhiều loại nội dung và nhà phát hành. Nhờ đó, người dùng có thể khám phá nội dung mới và phù hợp từ nhiều nhà phát hành khác nhau mà họ cảm thấy đồng điệu. Vì vậy, người dùng tương tác với một chủ đề cụ thể có thể thấy đề xuất nội dung từ nhiều Trang khác nhau về chủ đề đó.
+3. Số người theo dõi và lượt tương tác với nội dung bạn đăng trước đây chỉ có ảnh hưởng hạn chế đối với việc nội dung của bạn có được giới thiệu là nội dung gợi ý không. Thay vào đó, các chỉ báo tích cực khác về chất lượng nội dung, chẳng hạn như chỉ báo dựa trên ý kiến đóng góp tổng hợp về nội dung từ khảo sát người dùng, sẽ đóng vai trò quan trọng hơn. Ví dụ: để không ngừng nỗ lực hiển thị cho mọi người nội dung phù hợp, chúng tôi thực hiện khảo sát nhằm tìm hiểu những nội dung nào họ cho rằng đáng quan tâm. Dựa trên các khảo sát này, chúng tôi gợi ý những nội dung trên Bảng feed mà chúng tôi dự đoán là họ sẽ thấy hấp dẫn.
+## Facebook đặt ra những tiêu chuẩn nào đối với Nội dung gợi ý trên Bảng feed?
+Tiêu chuẩn cộng đồng và Điều khoản dịch vụ của Facebook quy định những nội dung được phép và không được phép đăng trên Facebook. Nội dung sẽ bị gỡ hoặc giảm phân phối trên Facebook dựa theo các chính sách này. Thêm vào đó, chúng tôi sử dụng một công cụ quan trọng khác - Nguyên tắc đề xuất - để giảm tình trạng phát tán nội dung có vấn đề trên nền tảng của mình. Như đã nêu trong Nguyên tắc đề xuất, không phải tất cả các nội dung trên Facebook đều đủ điều kiện đề xuất cho người dùng. Ví dụ: Chúng tôi tránh đề xuất nội dung từ những Trang gần đây đã đăng nội dung vi phạm Tiêu chuẩn cộng đồng của Facebook (xem tại đây để biết thêm chi tiết về cách áp dụng các nguyên tắc trong Tiêu chuẩn cộng đồng của chúng tôi).
+Ngoài những tiêu chuẩn cơ bản mà chúng tôi đảm bảo trong việc đề xuất nội dung trên Facebook nói chung, chúng tôi có những nguyên tắc riêng về những loại nội dung chúng tôi cố gắng đề xuất dưới dạng Nội dung gợi ý trên Bảng feed. Các nguyên tắc dành cho Nội dung gợi ý có thể được phân loại như sau:
+1. Nguyên tắc cấp độ Trang
+2. Nguyên tắc cấp độ nội dung
+## **Nguyên tắc cấp độ trang dành cho Nội dung gợi ý**
+Mục tiêu của chúng tôi là gợi ý nội dung từ những Trang có chỉ báo cho thấy nội dung họ tạo nhiều khả năng được người dùng thấy phù hợp hoặc thú vị. Sau đây là một số chỉ báo:
+1. Chúng tôi cố gắng đề xuất nội dung từ Trang hoạt động trong thời gian đủ dài và có số lượng người theo dõi đủ lớn trên Facebook. Với các yếu tố này, chúng tôi có đủ thông tin về lịch sử tương tác để dự đoán người dùng có muốn xem nội dung từ những Trang này hay không.
+2. Nhà phát hành sản xuất nội dung phù hợp với Nguyên tắc dành cho nhà phát hành và người sáng tạo nội dung. Đây là tài liệu tóm tắt các bí quyết và chiến lược thiết thực, bao gồm những việc nên và không nên làm để tuân thủ tốt nhất các nguyên tắc này khi tạo và đăng nội dung trên Facebook. Nguyên tắc dành cho nhà phát hành và người sáng tạo nội dung cũng bao gồm các nguyên tắc phòng tránh nội dung có chất lượng thấp như nội dung câu view và liên kết dẫn đến trải nghiệm web chất lượng thấp, chẳng hạn như trang web có mật độ quảng cáo cao.
+## **Nguyên tắc ở cấp độ nội dung dành cho Nội dung gợi ý**
+Vì Nội dung gợi ý là nội dung của những tài khoản hoặc thực thể mà người dùng không chủ động theo dõi nên nguyên tắc về các nội dung này có chức năng đảm bảo tiêu chuẩn cao hơn so với Tiêu chuẩn cộng đồng, vốn mang tính cơ bản. Vì vậy, không phải nội dung nào được phép đăng trên nền tảng của chúng tôi cũng đủ điều kiện đề xuất là Nội dung gợi ý.
+Mục tiêu của chúng tôi là không đưa ra gợi ý ở cấp độ nội dung nếu gợi ý đó không đáp ứng Nguyên tắc dành cho nhà phát hành và người sáng tạo nội dung hoặc không đủ điều kiện đề xuất theo Nguyên tắc đề xuất. Sau đây là ví dụ về các loại nội dung mà chúng tôi không đề xuất:
+1. Nội dung chất lượng thấp, phản cảm hoặc đặc biệt nhạy cảm (chẳng hạn như nội dung liên quan đến tội phạm/thảm kịch, lời khẳng định thái quá về sức khỏe, v.v.). Chúng tôi cũng cố gắng tránh đưa ra đề xuất có thể không phù hợp với người xem nhỏ tuổi.
+2. Nội dung gây hiểu nhầm, giật gân và/hoặc spam, theo cách giải thích trong Nguyên tắc đề xuất.
+3. Liên kết dẫn đến trải nghiệm web chất lượng thấp hoặc không tuân thủ nguyên tắc áp dụng cho loại nội dung tương ứng, nêu trong Nguyên tắc dành cho nhà phát hành và người sáng tạo nội dung.
+## Tham khảo những hướng dẫn bổ sung sau đây để tìm hiểu thêm về nguyên tắc của Facebook đối với nội dung
+1. Đề xuất trên Facebook là gì?
+2. Nguyên tắc dành cho nhà phát hành và người sáng tạo nội dung
+3. Tiêu chuẩn cộng đồng của Facebook
+4. Điều khoản dịch vụ của Facebook
+5. Sử dụng khảo sát để Bảng feed phù hợp với từng cá nhân hơn
+6. Cách Facebook xử lý nội dung gây hiểu nhầm và có hại
+===== SOURCE DOCUMENT 004
+TITLE: Đảm bảo các em tuổi teen nhìn thấy nội dung phù hợp với lứa tuổi | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/age-appropriate-content/
+CONTENT_SHA256: e6f4aa7e6af3a281e05bd13d9210bd14ac51068a7bbf905ccbdeb29aada7607f
+================================================================================
+# Đảm bảo các em tuổi teen nhìn thấy nội dung phù hợp với lứa tuổi
+NGÀY CẬP NHẬT 11 THáNG 4, 2026
+Chúng tôi mong muốn các em tuổi teen có trải nghiệm an toàn, tích cực trên Facebook và Instagram. Do đó, chúng tôi thực hiện những việc như cho các em nhìn thấy nội dung phù hợp với lứa tuổi trong khi khám phá những điều mình thích. Sau đây là 3 cách chính mà chúng tôi thực hiện để ngăn các em tuổi teen nhìn thấy nội dung không phù hợp: gỡ hoàn toàn nội dung khi nội dung vi phạm quy tắc của chúng tôi, ẩn một số loại nội dung người lớn hoặc nội dung nhạy cảm đối với các em tuổi teen, cũng như đặt ra tiêu chuẩn khắt khe hơn đối với nội dung chúng tôi đề xuất.
+Chúng tôi không ngừng cải thiện cách tiếp cận để mang đến trải nghiệm an toàn, phù hợp với lứa tuổi cho các em tuổi teen. Đồng thời, chúng tôi kết hợp nghiên cứu khả thi nhất với ý kiến của chuyên gia để phụ huynh có thể yên tâm. Ngoài ra, chúng tôi muốn điều chỉnh sao cho phù hợp hơn với một tiêu chuẩn độc lập mà các gia đình vốn đã quen thuộc. Vì vậy, chúng tôi dựa vào mức xếp loại phim dành cho người từ 13 tuổi trở lên và ý kiến đóng góp của phụ huynh để xem xét các nguyên tắc về sự phù hợp với lứa tuổi – các nguyên tắc này quyết định nội dung nào sẽ bị ẩn đối với các em tuổi teen và được tránh đề xuất cho các em. Như vậy, theo mặc định, mục tiêu của chúng tôi là hiển thị cho các em tuổi teen nội dung trên Instagram và Facebook tương tự như những gì các em nhìn thấy trong một bộ phim phù hợp với lứa tuổi
+Giống như việc bạn có thể nhìn thấy một số nội dung gợi dục hoặc nghe thấy ngôn từ gay gắt trong một bộ phim được xếp loại phù hợp với người từ 13 tuổi trở lên, các em tuổi teen đôi khi có thể bắt gặp nội dung tương tự trên Instagram. Tuy nhiên, chúng tôi sẽ tiếp tục nỗ lực hết sức để những trường hợp như vậy càng ít xảy ra càng tốt. Chúng tôi ý thức rằng không có hệ thống nào là hoàn hảo, đồng thời cam kết cải thiện theo thời gian.
+_Có nhiều điểm khác biệt giữa mạng xã hội và phim. Chúng tôi không hợp tác với MPA khi cập nhật phần cài đặt nội dung. Họ cũng không xếp hạng bất kỳ nội dung nào trên Instagram và không ủng hộ hay phê duyệt phần cài đặt nội dung của chúng tôi theo bất cứ cách nào. Thay vào đó, chúng tôi lấy cảm hứng từ các nguyên tắc công khai của MPA mà phụ huynh vốn đã quen thuộc, cũng như ý kiến đóng góp của phụ huynh. Hệ thống kiểm duyệt nội dung của chúng tôi khác với một hội đồng xếp hạng phim nên trải nghiệm có thể không hoàn toàn giống nhau._
+Nhiều lớp bảo vệ
+**Cho mọi người:** Chúng tôi gỡ những nội dung vi phạm Tiêu chuẩn cộng đồng của mình. Ngoài ra, chúng tôi áp dụng tiêu chuẩn khắt khe hơn đối với nội dung mình đề xuất.
+❌ Nội dung chúng tôi gỡ
+Tiêu chuẩn cộng đồng của chúng tôi quy định các loại nội dung không được phép xuất hiện trên Facebook và Instagram. Nếu biết được rằng nội dung này xuất hiện trên hai nền tảng đó, chúng tôi sẽ gỡ hoàn toàn nội dung này đối với mọi người, kể cả các em tuổi teen. Khi gỡ nội dung vi phạm các quy tắc kể trên, chúng tôi cũng có thể áp dụng biện pháp cảnh cáo đối với tài khoản chia sẻ nội dung đó và vô hiệu hóa những tài khoản nhiều lần vi phạm hoặc vi phạm nghiêm trọng các chính sách của chúng tôi. Các chính sách này nhằm bảo vệ mọi người trong cộng đồng của chúng tôi, kể cả các em tuổi teen.
+Chúng tôi gỡ hoàn toàn các loại nội dung sau đây, bao gồm nhưng không giới hạn ở:
+Nội dung lạm dụng/lăng mạ/ngược đãi và bóc lột
+Chúng tôi không cho phép hiển thị nội dung có thể lạm dụng/lăng mạ/ngược đãi hoặc bóc lột mọi người, chẳng hạn như các bài viết khuyến khích hoạt động tình dục không có sự đồng thuận hoặc chia sẻ/yêu cầu tài liệu về lạm dụng trẻ em. Chẳng hạn, chúng tôi gỡ:
+❌ Bài viết cung cấp dịch vụ mại dâm hoặc yêu cầu người khác gửi nội dung khiêu dâm.
+❌ Ảnh chụp một người có hành động tình dục hoặc hành động thân mật nhạy cảm khi ảnh đó bị chia sẻ mà không có sự đồng thuận.
+❌ Bài viết cung cấp hoặc yêu cầu tài liệu về lạm dụng tình dục trẻ em hoặc hình ảnh trẻ em khỏa thân.
+Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống
+Chúng tôi không cho phép hiển thị nội dung khuyến khích, ca ngợi hoặc ủng hộ hành vi tự tử, tự gây thương tích hay chứng rối loạn ăn uống, nhưng vẫn để mọi người có không gian trao đổi về trải nghiệm của chính họ và tìm kiếm sự giúp đỡ. Chẳng hạn, chúng tôi gỡ:
+❌ Bài viết cổ xúy hành vi tự tử, tự gây thương tích hay chứng rối loạn ăn uống.
+❌ Tin hiển thị hình ảnh tự gây thương tích.
+❌ Bình luận chế giễu một người mắc chứng rối loạn ăn uống.
+Hành vi gây thù ghét, bắt nạt và quấy rối
+Chúng tôi không cho phép hiển thị nội dung có thể tạo ra môi trường đe dọa hoặc tẩy chay, bao gồm cả hành vi bắt nạt và quấy rối. Chẳng hạn, chúng tôi gỡ:
+❌ Bài viết sử dụng ngôn từ xúc phạm nhân phẩm đối với một nhóm người dựa trên chủng tộc, tôn giáo, dân tộc, bản dạng giới hoặc thiên hướng tính dục của họ.
+❌ Bình luận chế giễu người bị tấn công tình dục.
+❌ Bài viết đe dọa sẽ tiết lộ thông tin nhận dạng cá nhân (ví dụ: số hộ chiếu) hoặc xúi giục hành vi quấy rối đối với người khác.
+Hàng hóa và dịch vụ bị hạn chế
+Chúng tôi không cho phép mua bán hay trao đổi một số hàng hóa và dịch vụ bị hạn chế nhất định trên nền tảng của mình. Chúng tôi cũng không cho phép người dùng quảng cáo một số loại chất nhất định hay đưa ra hướng dẫn về cách sử dụng các chất đó. Chẳng hạn, chúng tôi gỡ:
+❌ Tin mua bán hoặc trao đổi nhiều loại thuốc.
+❌ Bài viết về việc mua bán hoặc trao đổi thuốc lá, nicotine hoặc cồn
+❌ Bình luận chào bán các bộ phận súng được in 3D.
+Chúng tôi chấp nhận ngoại lệ đối với các doanh nghiệp có hoạt động buôn bán hợp pháp một số loại hàng hóa bị hạn chế.
+Nội dung phản cảm và đe đọa
+Chúng tôi không cho phép hiển thị nội dung phản cảm quá mức hoặc nội dung có thể đe dọa đến an toàn cá nhân, chẳng hạn như lời đe dọa về hành vi bạo lực đối với con người. Chẳng hạn, chúng tôi gỡ:
+❌ Bài viết đe dọa sẽ sát hại hoặc bắt cóc người khác hoặc khuyến khích mọi người thực hiện hành vi bạo lực.
+❌ Video phản cảm cho thấy một người bị thương hoặc bị bỏng nặng.
+Chúng tôi chấp nhận một số ngoại lệ đối với nội dung phản cảm trong bối cảnh y tế hoặc khi nội dung đó được chia sẻ nhằm mục đích nâng cao nhận thức. Mặc dù cho phép hiển thị nội dung phản cảm, nhưng chúng tôi thường có màn hình cảnh báo cho nội dung đó để trước khi nhấp vào xem, người dùng biết rằng nội dung có thể nhạy cảm.
+Ảnh khỏa thân, hoạt động tình dục và ngôn ngữ khiêu dâm
+Chúng tôi hạn chế hiển thị ảnh khỏa thân hoặc hoạt động tình dục cũng như ngôn ngữ khiêu dâm. Chẳng hạn, chúng tôi sẽ gỡ:
+❌ Hình ảnh/video chứa ảnh khỏa thân hoặc mô tả hoạt động tình dục một cách rõ nét, bao gồm cả nội dung do AI tạo.
+❌ Tin có mô tả hoạt động quan hệ tình dục một cách rõ nét hoặc phản cảm (trừ khi đó là nội dung mang tính hài hước hoặc châm biếm).
+Chúng tôi hiểu rằng mọi người có thể chia sẻ ảnh khỏa thân vì nhiều lý do khác nhau (kể cả dưới dạng một hình thức phản đối) để nâng cao nhận thức về một vấn đề hoặc nhằm mục đích giáo dục/y học. Chúng tôi sẽ cho phép hiển thị nội dung này nếu thích hợp và khi mục đích như vậy được thể hiện rõ ràng.
+Hãy xem Tiêu chuẩn cộng đồng của chúng tôi để biết đầy đủ chi tiết về nội dung chúng tôi gỡ.
+🛡️ Nội dung chúng tôi tránh đề xuất
+Ở các vị trí như trang Reels hay Khám phá trên Instagram hoặc Bảng feed Facebook, chúng tôi đề xuất nội dung mới mà người dùng có thể quan tâm và muốn tìm hiểu. Chúng tôi có nguyên tắc về loại nội dung được đề xuất và tránh đề xuất nội dung có thể ở chất lượng thấp, phản cảm hoặc đặc biệt nhạy cảm, ngay cả khi nội dung chưa nghiêm trọng đến mức bị gỡ. Chúng tôi làm vậy vì tin rằng cần có những tiêu chuẩn nghiêm ngặt hơn khi hiển thị nội dung từ các tài khoản mà mọi người chưa theo dõi.
+**⚠️ Nội dung khác mà chúng tôi sẽ ẩn đối với các em tuổi teen**
+**Các em tuổi teen:** Chúng tôi tăng cường bảo vệ đối với các em tuổi teen dưới 18 tuổi. Ngoài những nội dung chúng tôi gỡ đối với mọi người, chúng tôi còn ẩn thêm các nội dung khác, đồng thời cũng tránh đề xuất cho các em tuổi teen nội dung có thể được đề xuất cho người lớn. Theo mặc định, mục tiêu của chúng tôi là hiển thị cho các em tuổi teen nội dung trên Instagram và Facebook tương tự như những gì các em nhìn thấy trong một bộ phim phù hợp với lứa tuổi. Trên Instagram, các em tuổi teen hoặc phụ huynh cũng có thể chọn chế độ cài đặt hạn chế hơn (gọi là "Nội dung giới hạn"). Đồng thời, các em chỉ có thể truy cập vào chế độ cài đặt thứ 3 ít hạn chế hơn (gọi là "Nhiều nội dung hơn") khi được phụ huynh cho phép
+**Người từ 13 tuổi trở lên (mặc định):** Người từ 13 tuổi trở lên (mặc định): Cài đặt nội dung dành cho người từ 13 tuổi trở lên dựa vào mức xếp loại phim dành cho người từ 13 tuổi trở lên và ý kiến đóng góp của phụ huynh. Đồng thời, chế độ cài đặt này được bật theo mặc định đối với các em tuổi teen. Chúng tôi đã hợp tác với các chuyên gia về giới trẻ trên khắp thế giới để tìm hiểu xem loại nội dung nào có thể phù hợp với người lớn nhưng không phù hợp với các em tuổi teen dưới 18 tuổi, đồng thời xem xét các nguyên tắc về sự phù hợp với lứa tuổi này dựa vào mức xếp loại phim dành cho người từ 13 tuổi trở lên và ý kiến đóng góp của phụ huynh. Trong chế độ cài đặt này, ngoài những nội dung đã gỡ đối với mọi người, chúng tôi sẽ ẩn thêm nội dung với các em tuổi teen. Điều này nghĩa là người lớn vẫn có thể xem được nội dung nêu trên, nhưng các em tuổi teen sẽ không nhìn thấy hay tương tác được với nội dung đó, kể cả khi tài khoản chia sẻ nội dung là tài khoản mà các em theo dõi trên Bảng feed hoặc Tin. Chúng tôi cũng sẽ ngăn các em tuổi teen khám phá, theo dõi và tương tác với những tài khoản chủ yếu chia sẻ nội dung không phù hợp với lứa tuổi.
+Hãy nhấp vào đây để xem một số loại nội dung mà chúng tôi sẽ ẩn đối với các em tuổi teen trong cài đặt mặc định này
+Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống
+Chúng tôi ẩn một số nội dung liên quan đến hành vi tự tử và tự gây thương tích để bảo vệ các em tuổi teen khỏi tài liệu có thể nhạy cảm hoặc gây đau buồn. Chẳng hạn, chúng tôi hạn chế lứa tuổi đối với:
+⚠️ Bài viết trong đó một người mô tả trải nghiệm cá nhân của họ về hành vi tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống, trừ khi chia sẻ trong bối cảnh là quá trình phục hồi.
+⚠️ Ảnh hoặc video cho thấy quá trình thực hiện an tử hoặc trợ tử ở bệnh viện.
+⚠️ Tin trong đó một người kể về hành vi giảm cân cực đoan của chính mình.
+Hàng hóa và dịch vụ bị hạn chế
+Chúng tôi ẩn nội dung có thể khiến các em tuổi teen tham gia vào những hoạt động có khả năng gây hại. Chẳng hạn, chúng tôi hạn chế lứa tuổi đối với:
+⚠️ Bài viết chào bán thuốc lá, sản phẩm từ nicotine, chất có cồn hoặc vũ khí do doanh nghiệp có thật ngoài đời và hợp pháp chia sẻ.
+⚠️ Tin khuyến khích mọi người sử dụng thuốc gây ảo giác (còn gọi là chất hướng thần) hoặc sản phẩm từ cần sa.
+⚠️ Hình ảnh cho thấy công thức pha chế đồ uống có cồn.
+⚠️ Bài viết bán sản phẩm hoặc dịch vụ giảm cân.
+Nội dung phản cảm và đe đọa
+Chúng tôi ẩn những hình ảnh phản cảm và gây khó chịu nhất đối với các em tuổi teen, dù vẫn cho phép hiển thị nội dung đó với người lớn và có áp dụng màn hình cảnh báo. Chẳng hạn, chúng tôi hạn chế lứa tuổi đối với:
+⚠️ Ảnh chụp một người bị bỏng nặng, ảnh này vẫn hiển thị với người lớn nhưng sẽ có màn hình cảnh báo.
+⚠️ Ảnh/video cho thấy cảnh bắn nhau, hành động tàn bạo hoặc tai nạn ô tô gây chết người.
+Ảnh khỏa thân, hoạt động tình dục và ngôn ngữ khiêu dâm
+Đối với các em tuổi teen, chúng tôi ẩn thêm một số nội dung dù nội dung không cho thấy ảnh khỏa thân hoặc hoạt động tình dục một cách rõ ràng nhưng có thể bị xem là gợi dục. Chẳng hạn, chúng tôi hạn chế lứa tuổi đối với:
+⚠️ Bài viết chứa ảnh gần như khỏa thân, chẳng hạn như ảnh khỏa thân được che bằng lớp phủ kỹ thuật số.
+⚠️ Ảnh phóng to mông của ai đó.
+⚠️ Tin chứa ngôn từ gợi dục mô tả hoạt động quan hệ tình dục, kể cả việc sử dụng từ ngữ ẩn dụ liên quan đến tình dục.
+Hãy xem Tiêu chuẩn cộng đồng của chúng tôi để biết đầy đủ chi tiết về nội dung chúng tôi gỡ.
+Chúng tôi cũng tránh đề xuất nhiều loại nội dung hơn, kể cả khi nội dung đó phù hợp với mức xếp loại phim dành cho người từ 13 tuổi trở lên và ý kiến đóng góp của phụ huynh. Nhiều nội dung chúng tôi tránh đề xuất cho người lớn vốn đã bị ẩn hoàn toàn đối với các em tuổi teen. Tuy nhiên, chúng tôi còn áp dụng biện pháp nghiêm ngặt hơn bằng cách tránh đề xuất thêm những loại nội dung như ảnh/video ngụ ý gợi dục, ngôn từ chửi thề cay độc hoặc các trò mạo hiểm (ví dụ: nhảy từ trên cao xuống).
+**Nội dung giới hạn:** Trên Instagram, đối với các phụ huynh muốn kiểm soát chặt chẽ hơn, chúng tôi đã giới thiệu một cài đặt mới có mức hạn chế hơn, gọi là "Nội dung giới hạn". Khi phụ huynh bật cài đặt Nội dung giới hạn, chúng tôi sẽ áp dụng các bộ lọc nội dung một cách triệt để hơn để thậm chí ẩn nhiều nội dung hơn khỏi trải nghiệm Tài khoản teen. Ngoài ra, chúng tôi sẽ giới hạn hơn nữa đối với Kết quả tìm kiếm, đồng thời không cho phép các em tuổi teen xem, để lại hoặc nhận bình luận trong bài viết.
+**Nhiều nội dung hơn:** Các em tuổi teen chỉ có thể chuyển sang cài đặt "Nhiều nội dung hơn" khi được phụ huynh cho phép. Phụ huynh chỉ làm được việc này qua quyền giám sát của họ. Trong cài đặt này, các em tuổi teen vẫn sẽ được hưởng cơ chế bảo vệ tự động, vốn ẩn nhiều nội dung hơn so với những gì chúng tôi ẩn đối với người lớn. Đồng thời, chúng tôi vẫn sẽ gỡ hoàn toàn nội dung nếu nội dung vi phạm Tiêu chuẩn cộng đồng. Tuy nhiên, các em tuổi teen có thể được đề xuất một số nội dung không có trong cài đặt nội dung cho người từ 13 tuổi trở lên và cài đặt Nội dung giới hạn. Đồng thời, chúng tôi sẽ không ẩn toàn bộ các tài khoản chia sẻ nội dung không phù hợp với lứa tuổi. Ở chế độ cài đặt Nhiều nội dung hơn, chúng tôi sẽ không cung cấp các hạn chế nội dung nghiêm ngặt hơn trên tính năng Live, Bình luận và Tìm kiếm. Các hạn chế này thuộc phần cài đặt nội dung cho người từ 13 tuổi trở lên và cài đặt Nội dung giới hạn.
+Tuyên bố miễn trừ trách nhiệm: Có nhiều điểm khác biệt giữa mạng xã hội và phim. Chúng tôi không hợp tác với MPA khi cập nhật phần cài đặt nội dung. Họ cũng không xếp hạng bất kỳ nội dung nào trên Instagram và không ủng hộ hay phê duyệt phần cài đặt nội dung của chúng tôi theo bất cứ cách nào. Thay vào đó, chúng tôi lấy cảm hứng từ các nguyên tắc công khai của MPA mà phụ huynh vốn đã quen thuộc, cũng như ý kiến đóng góp của phụ huynh. Hệ thống kiểm duyệt nội dung của chúng tôi khác với một hội đồng xếp hạng phim nên trải nghiệm có thể không hoàn toàn giống nhau.
+Cách báo cáo nội dung vi phạm
+Chúng tôi nỗ lực xác định nội dung vi phạm quy tắc của mình. Nhờ công nghệ riêng, chúng tôi phát hiện phần lớn các nội dung và chủ động gỡ trước khi có người báo cáo. Nếu bạn nhìn thấy nội dung mà chúng tôi bỏ sót, vui lòng báo cáo nội dung đó trên Facebook hoặc Instagram để hỗ trợ chúng tôi cải thiện các nền tảng sao cho ngày một an toàn hơn. Mọi báo cáo đều ẩn danh.
+Nguồn lực khác
+Tiêu chuẩn cộng đồng nêu chi tiết các loại nội dung chúng tôi gỡ và hạn chế lứa tuổi ở từng khía cạnh chính sách. Để tìm hiểu, hãy nhấp vào đây.
+Chúng tôi cũng phát triển công nghệ chủ động xác định những người lớn có thể đáng ngờ, chẳng hạn như người lớn đã bị các em tuổi teen chặn hoặc báo cáo nhiều lần, hoặc người lớn nhiều lần tìm kiếm nội dung vi phạm. Chúng tôi sẽ không đề xuất người lớn đáng ngờ cho các em tuổi teen và ngược lại. Bạn có thể đọc thêm về thông tin này tại đây.
+Bạn có thể truy cập Trung tâm an toàn để tìm hiểu thêm về cách chúng tôi giữ an toàn cho cộng đồng của mình và truy cập Trung tâm gia đình để biết cách chúng tôi hỗ trợ các em tuổi teen và gia đình.

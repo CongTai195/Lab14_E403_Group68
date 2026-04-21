@@ -1,0 +1,180 @@
+DATASET: Facebook / Meta policy knowledge base
+GROUP_ID: 05_pages_groups_events_profiles_feedback
+GROUP_NAME: Trang, Nhóm, Sự kiện, profile phụ và phản hồi cộng đồng
+LOCALE_PRIORITY: vi_VN; fallback giữ nguyên ngôn ngữ nếu nguồn chính thức không có bản VI đầy đủ
+LAST_CHECKED: 2026-04-21
+SOURCE_COUNT: 4
+Ghi chú chunking: nên tách theo ranh giới '===== SOURCE DOCUMENT' và heading '#/##/###'.
+================================================================================
+===== SOURCE DOCUMENT 001
+TITLE: Facebook
+SOURCE_TYPE: legacy_policy
+CANONICAL_URL: https://www.facebook.com/policies/pages_groups_events/?locale=vi_VN
+CONTENT_SHA256: acb943be85479b589c064e78bc35f062dcb2acc8fa5f13f4ace0634c52420155
+================================================================================
+Ngày sửa đổi gần nhất: 8/3/2018
+Điều khoản về Trang Facebook
+Các điều khoản sau cũng như Chính sách dữ liệu và Tuyên bố về quyền và trách nhiệm của chúng tôi áp dụng cho mọi Trang trên Facebook. Ngoài ra, mọi nội dung trên Trang phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi. Bạn có trách nhiệm đảm bảo rằng Trang của mình tuân thủ tất cả các luật, quy chế và quy định hiện hành.
+**I. Thông tin chung**
+A. Trang dành cho thương hiệu, thực thể (địa điểm hoặc tổ chức) hoặc nhân vật của công chúng phải do đại diện được ủy quyền của thương hiệu, thực thể (địa điểm hoặc tổ chức) hoặc nhân vật của công chúng đó (một "Trang chính thức") quản trị.
+B. Bất kỳ người dùng nào cũng có thể tạo một Trang để thể hiện sự ủng hộ hoặc quan tâm đến một thương hiệu, thực thể (địa điểm hoặc tổ chức) hoặc nhân vật của công chúng miễn là Trang đó không khiến người khác hiểu lầm rằng đây là Trang chính thức hoặc vi phạm quyền của người khác. Nếu Trang của bạn không phải là Trang chính thức của một thương hiệu, thực thể (địa điểm hoặc tổ chức) hoặc nhân vật của công chúng, bạn phải tuân thủ các điều sau:
+i. không phát ngôn thay hoặc đăng nội dung như thể nội dung đó xuất phát từ người đại diện được ủy quyền cho chủ thể của Trang đó; và
+ii. làm rõ rằng Trang này không phải Trang chính thức của thương hiệu, thực thể (địa điểm hoặc tổ chức) hoặc nhân vật của công chúng.
+C. Nội dung đăng lên Trang được công khai và hiển thị với tất cả những người có thể nhìn thấy Trang.
+D. Bạn được yêu cầu giới hạn quyền truy cập Trang (qua chức năng kiểm soát truy cập của chúng tôi) nếu cần để tuân thủ các luật hiện hành và các chính sách của Facebook, bao gồm cả Tiêu chuẩn cộng đồng của chúng tôi.
+F. Không sử dụng sai mục đích chức năng tải lên của Facebook.
+**II. Quản lý Trang**
+A.**Tên Trang và địa chỉ web trên Facebook**
+Tên Trang và địa chỉ web trên Facebook phải phản ánh chính xác nội dung Trang. Chúng tôi có thể hủy quyền quản trị hoặc yêu cầu bạn thay đổi tên Trang và địa chỉ web trên Facebook đối với bất kỳ Trang nào không đáp ứng được yêu cầu này.
+Tên Trang phải đáp ứng các điều kiện sau:
+i. không chỉ bao gồm các thuật ngữ chung (ví dụ: “bia” hoặc “pizza”);
+ii. sử dụng cách viết hoa đúng ngữ pháp, phù hợp và không được viết hoa toàn bộ, trừ các từ viết tắt;
+iii. không bao gồm các biểu tượng ký tự như quá nhiều dấu câu và ký hiệu của nhãn hiệu hàng hóa;
+iv. không bao gồm những mô tả thừa hoặc từ hạn định không cần thiết;
+v. không làm người khác hiểu lầm rằng đây là Trang chính thức cho chủ thể của Trang đó hoặc được ủy quyền bởi một đại diện hợp pháp cho chủ thể của Trang đó; và
+vi. không vi phạm quyền của người khác.
+B.**Đổi tên và hợp nhất**
+Việc đổi tên và hợp nhất không được tạo ra những mối liên kết ngoài chủ đích hoặc gây nhầm lẫn và không được thay đổi đáng kể chủ thể của Trang. Ngoài ra, bạn không được yêu cầu đổi tên hoặc hợp nhất dẫn đến việc phân loại lại một Trang sản phẩm thành Trang thương hiệu, Trang thông thường hoặc Trang ý kiến thành Trang thương hiệu hoặc một Nhóm thành một Trang.
+C.**Thu thập dữ liệu**
+A. Nếu thu thập nội dung và thông tin trực tiếp từ người dùng, bạn cần làm rõ rằng bạn (chứ không phải Facebook) đang thu thập thông tin và bạn sẽ thông báo cũng như xin phép người dùng để sử dụng nội dung và thông tin mà mình thu thập. Dù có được nội dung và thông tin từ người dùng bằng cách nào đi nữa, bạn cũng phải chịu trách nhiệm đảm bảo mọi quyền cần thiết để tái sử dụng nội dung và thông tin của họ.
+B. Bạn không được thu thập nội dung hoặc thông tin của người dùng hay truy cập Facebook bằng các phương thức tự động (như bot khai thác dữ liệu, rô-bốt, gián điệp hoặc trình trích xuất) mà không được chúng tôi cho phép.
+C. Không sử dụng thông tin lấy từ việc tương tác của một người với nút kêu gọi hành động của bạn cho bất cứ mục đích nào trừ việc cung cấp dịch vụ liên quan đến nút kêu gọi hành động đó. Nếu muốn sử dụng thông tin này cho bất cứ mục đích nào khác, thì trước tiên bạn phải có được sự đồng ý rõ ràng của họ.
+D.**Gắn thẻ**
+Bạn không được gắn thẻ sai nội dung hoặc khuyến khích người dùng gắn thẻ sai nội dung (ví dụ: không khuyến khích mọi người gắn thẻ chính họ trong ảnh nếu họ không có mặt trong ảnh).
+**III. Tính năng của Trang**
+A.**Nội dung có thương hiệu trên Trang**
+2. Bạn phải tuân thủ tất cả các luật và quy định hiện hành, bao gồm đảm bảo rằng bạn cung cấp mọi thông tin cần thiết cho những người dùng Facebook, chẳng hạn như mọi thông tin cần thiết để cho thấy tính chất thương mại của nội dung mình đăng.
+B.**Ảnh bìa**
+Tất cả ảnh bìa đều công khai. Điều này nghĩa là bất kỳ ai truy cập Trang của bạn đều có thể xem ảnh bìa. Ảnh bìa không được đánh lừa, gây nhầm lẫn hoặc vi phạm bản quyền của bất kỳ ai khác. Bạn không được khuyến khích mọi người tải ảnh bìa của bạn lên dòng thời gian cá nhân của họ.
+C.**Ứng dụng trên Trang**
+D.**Ưu đãi**
+Nếu bạn tạo một ưu đãi bằng công cụ tạo ưu đãi của Facebook, các chính sách sau sẽ áp dụng:
+i. Ưu đãi trên Facebook chỉ có hiệu lực trong thời gian giới hạn.
+ii. Bạn chỉ có thể chạy một ưu đãi nếu bạn là người bán hoặc nhà sản xuất của sản phẩm hoặc dịch vụ đang quảng cáo.
+iii. Bạn phải nêu rõ ràng và nổi bật mọi giới hạn về ưu đãi của mình (ví dụ: ngày hết hạn hoặc các giới hạn trong việc đổi ưu đãi).
+iv. Bạn chịu trách nhiệm hoàn toàn về việc đổi ưu đãi không phù hợp, gian lận, tranh chấp hoặc các vấn đề khác phát sinh từ quá trình phân phối và/hoặc đổi ưu đãi.
+v. Nếu ưu đãi của bạn có thể đổi được tại địa điểm của người bán khác, bạn là người duy nhất chịu trách nhiệm liên hệ với người bán đó và đảm bảo rằng họ thực hiện ưu đãi của bạn.
+vi. Bạn chỉ được sử dụng công cụ tạo ưu đãi đúng với chức năng đã định và không được dùng để quảng cáo trang web của bạn hoặc những thông tin liên hệ khác hay để tặng giá trị tương đương của thẻ quà tặng, phiếu quà tặng hoặc thẻ tích điểm.
+vii. Bạn chịu trách nhiệm đảm bảo rằng ưu đãi của bạn tuân thủ các điều khoản này cũng như mọi luật, quy tắc và quy định hiện hành. Ưu đãi phải tuân thủ nhiều quy định (như chiết khấu rượu và ưu đãi được tiếp thị cho trẻ vị thành niên) và nếu bạn không biết chắc ưu đãi của mình có tuân thủ luật hiện hành hay không, hãy tham vấn chuyên gia.
+E.**Khuyến mãi**
+1. Nếu bạn sử dụng Facebook để thông báo hoặc quản lý một chương trình khuyến mãi (ví dụ: cuộc thi hoặc chương trình rút thăm trúng thưởng), bạn chịu trách nhiệm vận hành hợp pháp chương trình khuyến mãi đó, bao gồm:
+a.Quy tắc chính thức;
+b.Điều khoản về ưu đãi và yêu cầu về tư cách (ví dụ: giới hạn về độ tuổi và nơi ở); và
+c.Tuân thủ các quy tắc và quy định hiện hành điều chỉnh chương trình khuyến mãi cũng như tất cả giải thưởng được trao tặng (ví dụ: đăng ký và xin các quyết định phê duyệt cần thiết theo quy định)
+2. Các chương trình khuyến mãi trên Facebook phải bao gồm:
+a.Phiên bản Facebook đầy đủ của mỗi người đăng ký hoặc người tham gia.
+b.Xác nhận rằng trong mọi trường hợp, chương trình khuyến mãi không được tài trợ, xác nhận hoặc quản lý bởi, hoặc liên quan đến Facebook.
+3. Các chương trình khuyến mãi có thể được quản lý trên các Trang hoặc trong các ứng dụng trên Facebook. Không được sử dụng Dòng thời gian cá nhân và kết nối bạn bè để quản lý các chương trình khuyến mãi (ví dụ: không được phép “chia sẻ trên Dòng thời gian của bạn để tham gia” hoặc “chia sẻ trên Dòng thời gian của bạn bè bạn để có thêm lượt tham gia” và "gắn thẻ bạn bè vào bài viết này để tham gia").
+4. Chúng tôi sẽ không hỗ trợ bạn quản lý chương trình khuyến mãi và bạn đồng ý rằng nếu sử dụng dịch vụ của chúng tôi để quản lý chương trình khuyến mãi, bạn sẽ tự chịu mọi rủi ro.
+F.**Việc làm trên Trang**
+Chính sách việc làm của chúng tôi cung cấp hướng dẫn về những loại tin tuyển dụng được phép đăng lên Facebook. Tin tuyển dụng phải tuân thủ Tiêu chuẩn cộng đồng cũng như Chính sách việc làm của chúng tôi. Bạn có trách nhiệm đảm bảo rằng Trang của mình tuân thủ tất cả các luật và quy định hiện hành. Những loại tin tuyển dụng sau đây bị cấm:
+1. Việc làm gây hiểu lầm, lừa đảo hoặc gian lận: Tin tuyển dụng không được quảng cáo các cơ hội việc làm gây hiểu lầm, lừa đảo hoặc gian lận. Điều này bao gồm nhưng không giới hạn ở:
+i. Mô hình bán hàng đa cấp
+ii. Mô hình kinh doanh không rõ ràng không nêu rõ cách kiếm tiền hoặc cách tạo ra giá trị
+iii. Tin tuyển dụng yêu cầu nộp tiền trước khi ứng tuyển
+2. Sản phẩm và dịch vụ bất hợp pháp: Tin tuyển dụng không được quảng cáo các cơ hội việc làm liên quan đến hoạt động, sản phẩm hoặc dịch vụ bất hợp pháp. Điều này bao gồm nhưng không giới hạn ở:
+i. Hoạt động tội phạm phi pháp
+ii. Sử dụng, bán hoặc cung cấp thuốc cấm
+iii. Buôn người
+iv. Giấy tờ hoặc tiền giả
+3. Phân biệt đối xử: Tin tuyển dụng không được phân biệt đối xử với ứng viên theo cách bất hợp pháp vì bất kỳ đặc điểm được bảo vệ nào, bao gồm nhưng không giới hạn ở chủng tộc, dân tộc, màu da, nguồn gốc quốc gia, tôn giáo, tuổi tác, giới tính, thiên hướng tình dục, bản dạng giới, tình trạng gia đình, tình trạng khuyết tật, tình trạng bệnh tật hoặc đặc tính di truyền hay bất kỳ cơ sở nào khác được bảo vệ theo luật liên bang, tiểu bang hoặc địa phương. Tin tuyển dụng phải tuân thủ tất cả các luật hiện hành cấm phân biệt đối xử. Điều này bao gồm nhưng không giới hạn ở loại tin tuyển dụng sau:
+i. “Chỉ tìm kiếm ứng viên nữ”
+ii. “Phải dưới 35 tuổi mới được ứng tuyển”
+iii. “Không chào đón ứng viên Công giáo”
+iv. “Ưu tiên ứng viên chưa kết hôn”
+4. Việc làm gợi dục: Tin tuyển dụng không được quảng cáo các cơ hội việc làm theo cách gợi dục. Điều này bao gồm nhưng không giới hạn ở:
+i. Ngôn ngữ khiêu dâm
+ii. Ngụ ý hoạt động tình dục
+iii. Hình ảnh khỏa thân nghệ thuật
+5. Sản phẩm và dịch vụ người lớn: Tin tuyển dụng không được quảng cáo các cơ hội việc làm yêu cầu dịch vụ người lớn hoặc sử dụng sản phẩm người lớn. Điều này bao gồm nhưng không giới hạn ở:
+i. Dịch vụ cung cấp bạn tình
+ii. Việc làm liên quan đến đồ chơi tình dục
+iii. Việc làm liên quan đến sản phẩm kích dục
+iv. Việc làm liên quan đến video, ấn phẩm hoặc chương trình trực tiếp có tính chất khiêu dâm hoặc liên quan đến ảnh khỏa thân
+6. Thông tin cá nhân: Tin tuyển dụng không được dò hỏi thông tin nhận dạng cá nhân hoặc thông tin tài chính từ bất kỳ ứng viên tiềm năng nào. Điều này bao gồm nhưng không giới hạn ở:
+i. Thông tin thẻ tín dụng
+ii. Thông tin tài khoản ngân hàng
+iii. Thông tin giấy tờ tùy thân do chính phủ cấp
+**IV. Nội dung Trang**
+A. Trang quảng cáo những sự kiện giảm giá các hàng hóa hoặc dịch vụ bị kiểm soát (bao gồm súng, rượu, thuốc lá hoặc sản phẩm người lớn) phải giới hạn quyền truy cập ở độ tuổi tối thiểu là 18.
+B. Trang quảng cáo hoặc hỗ trợ đánh bạc trực tuyến, các trò chơi kỹ năng hoặc xổ số, bao gồm sòng bạc trực tuyến, cá cược thể thao, bingo hoặc poker chỉ được cho phép tại các quốc gia cụ thể có sự ủy quyền trước của Facebook.
+C. Trang không được quảng cáo việc bán dược phẩm theo toa. Trang cho nhà thuốc trực tuyến có thể được phép nếu Facebook đã phê duyệt từ trước.
+D. Trang không được chứa luận điệu hoặc nội dung sai lệch, lừa dối, gian lận hoặc gây nhầm lẫn.
+E. Không thêm các sản phẩm, thương hiệu hoặc nhà tài trợ của bên thứ ba vào ảnh bìa hoặc ảnh đại diện của Trang.
+F. Nhãn chương trình trên Trang Chương trình phải thể hiện chính xác chương trình đó và không được đại diện cho thực thể hoặc mạng lưới chính.
+G. Khi chia sẻ liên kết của bên thứ ba từ Trang, không chỉnh sửa bất kỳ thành phần nào của bản xem trước bài viết.
+Điều khoản về Trang được sửa đổi dành cho chính quyền địa phương và tiểu bang tại Hoa Kỳ
+===== SOURCE DOCUMENT 002
+TITLE: Facebook
+SOURCE_TYPE: policy
+CANONICAL_URL: https://www.facebook.com/policies_center/pages_groups_events/creation_and_use?locale=vi_VN
+CONTENT_SHA256: f57106863a56378fcaffce06295b7394b2a5ed0d974d3aa19aab73df9798a1f6
+================================================================================
+Điều khoản và chính sách
+## CHÍNH SÁCH VỀ TRANG, NHÓM VÀ SỰ KIỆN
+## Tạo và sử dụng
+## CHÍNH SÁCH
+## CHO PHÉP
+Tạo Trang để quảng bá doanh nghiệp mới của bạn
+Sử dụng nhóm để thành lập một câu lạc bộ cờ vua tại địa phương
+Tạo Sự kiện cho buổi hòa nhạc violin sắp tới của bạn
+## KHÔNG CHO PHÉP
+Tạo Trang để thay thế Trang khác mà chúng tôi đã
+hạn chế
+hoặc gỡ
+Sử dụng nhóm để tiếp tay cho các kết quả xếp hạng hoặc bài đánh giá của người dùng bị làm giả và gây hiểu nhầm
+Tạo Sự kiện để mạo danh một người, thương hiệu, doanh nghiệp hoặc tổ chức khác
+===== SOURCE DOCUMENT 003
+TITLE: Trang cá nhân bổ sung
+SOURCE_TYPE: policy
+CANONICAL_URL: https://www.facebook.com/policies_center/additional_profiles?locale=vi_VN
+CONTENT_SHA256: 3ba4b9c21c4a3b81af3a931d2312dca8fddb9333c89ce6a4af39f5c3f1c5b2f2
+================================================================================
+### Tổng quan
+#### Tìm hiểu các chính sách của chúng tôi
+Các chính sách sau, cũng như Chính sách dữ liệu, Tiêu chuẩn cộng đồng, Điều khoản dịch vụ áp dụng cho việc bạn tạo và sử dụng trang cá nhân Facebook bổ sung.
+Trang cá nhân chính là trang cá nhân đầu tiên mà bạn thiết lập khi tạo tài khoản Facebook. Tên trên trang cá nhân chính phải giống với tên mà bạn sử dụng trong đời thực. Sau khi tạo trang cá nhân chính, bạn cũng có thể đủ điều kiện tạo các trang cá nhân bổ sung. Hãy đọc thêm về cách chúng tôi định nghĩa trang cá nhân bổ sung tại đây. Khác với trang cá nhân chính, tên trên trang cá nhân bổ sung không bắt buộc phải giống với tên mà bạn sử dụng trong đời thực.
+Để đủ điều kiện tạo trang cá nhân bổ sung, bạn phải tiếp tục sử dụng Facebook và tuân thủ chính sách của chúng tôi. Nếu vi phạm chính sách của chúng tôi hoặc thực hiện các hành động khác đe dọa đến sự an toàn/sức khỏe của người khác, bạn có thể không đủ điều kiện tạo trang cá nhân bổ sung. Nếu bạn vi phạm nhiều lần hoặc vi phạm nghiêm trọng các chính sách khi sử dụng trang cá nhân bổ sung, chúng tôi có thể vô hiệu hóa một hoặc nhiều trang cá nhân của bạn (kể cả trang cá nhân chính). Số lần vi phạm dẫn đến việc vô hiệu hóa trang cá nhân Facebook bổ sung có thể ít hơn số lần vi phạm áp dụng cho trang cá nhân chính.
+### Chính sách chung cho trang cá nhân bổ sung
+Các chính sách sau áp dụng riêng cho việc bạn dùng trang cá nhân bổ sung:
+1. #### Mạo danhKhông mạo danh hay khai sai sự thật rằng bạn được phép phát ngôn thay mặt cho cá nhân, thương hiệu, doanh nghiệp hay tổ chức khác.
+2. #### Khai sai danh tínhKhông khai sai danh tính của bạn bằng cách xác nhận hay ngụ ý bạn là một người khác.
+3. #### Tên người dùng
+Không cung cấp trang cá nhân bổ sung có tên/tên người dùng hiển nhiên vi phạm Tiêu chuẩn cộng đồng hoặc chỉ chứa các cụm từ hay vị trí chung chung.
+4. #### Xác minh
+Không đặt dấu kiểm đã xác minh vào ảnh đại diện hay ảnh bìa hoặc theo bất kỳ cách nào khác khai sai sự thật rằng trang cá nhân của bạn đã được Facebook xác minh.
+===== SOURCE DOCUMENT 004
+TITLE: Trang, Nhóm và Sự kiện
+SOURCE_TYPE: policy
+CANONICAL_URL: https://www.facebook.com/policies_center/pages_groups_events?locale=vi_VN
+CONTENT_SHA256: 1674746ccb5cc4e95de5532b37f7a796deaa2a24ec131e1a9be6e8dae652c560
+================================================================================
+Điều khoản và chính sách
+## SỰ KIỆN VÀ BUỔI PHÁT TRỰC TIẾP
+* Giới thiệu
+* Chính sách về Trang, Nhóm và Sự kiện
+### Giới thiệu
+Các điều khoản sau đây, cũng như Chính sách quyền riêng tư, Tiêu chuẩn cộng đồng và Điều khoản dịch vụ của chúng tôi, áp dụng cho người sáng tạo nội dung và quản trị viên của Trang, nhóm và Sự kiện. Lưu ý rằng các điều khoản và chính sách khác, bao gồm cả Chính sách dành cho nhà phát triển, cũng có thể áp dụng tùy vào cách bạn sử dụng dịch vụ của chúng tôi.
+Trang, nhóm và Sự kiện là những sản phẩm và tính năng dùng để tạo các cộng đồng có mối quan tâm chung. Quản trị viên đóng vai trò là thủ lĩnh, người đại diện và người vun đắp các cộng đồng này. Chúng tôi mong muốn quản trị viên phải thực sự là người đại diện cho bản thân họ và thúc đẩy tính an toàn cũng như sự lành mạnh của cộng đồng.
+Khi quản trị viên tạo nội dung vi phạm chính sách của chúng tôi (hay khi quản trị viên/người kiểm duyệt của nhóm phê duyệt nội dung vi phạm do người khác tạo), chúng tôi có thể áp dụng biện pháp xử lý đối với Trang, nhóm hoặc Sự kiện có nội dung đó xuất hiện.
+### Chính sách về Trang, Nhóm và Sự kiện
+2. #### TênKhông được đặt cho Trang, nhóm hoặc Sự kiện tên/tên người dùng có chứa từ ngữ tục tĩu hoặc vi phạm Tiêu chuẩn cộng đồng của chúng tôi. Không được đổi tên Trang, nhóm hoặc Sự kiện theo cách làm thay đổi đáng kể mục đích hiện tại của Trang, nhóm hoặc Sự kiện đó. Không được hợp nhất 2 Trang có mục đích khác nhau. Lưu ý rằng có các hạn chế bổ sung đối với tên Trang và Sự kiện.
+3. #### Xác minh
+Không được đặt dấu kiểm đã xác minh vào ảnh đại diện/ảnh bìa trên Trang, nhóm hoặc Sự kiện hay theo bất kỳ cách nào khác nhằm tuyên bố sai sự thật rằng Trang, nhóm hoặc Sự kiện đã được Facebook xác minh.
+4. #### Đánh bạc
+Không được sử dụng Trang, nhóm hoặc Sự kiện để quảng bá hoạt động đánh bạc trực tuyến mà không có sự cho phép trước bằng văn bản của chúng tôi. Quy định cấm này cũng áp dụng đối với các trò chơi yêu cầu dùng bất kỳ thứ gì có giá trị tiền tệ để chơi và phần thưởng gồm bất cứ vật gì có giá trị tiền tệ. Những loại hình đánh bạc/trò chơi phổ biến bao gồm cá cược, xổ số, bốc thăm, sòng bạc, thể thao giả tưởng, lô tô và xì phé.
+5. #### Cai chất gây nghiện và đồ uống có cồn
+Không được sử dụng Trang, nhóm hoặc Sự kiện để quảng bá trung tâm cai chất gây nghiện và đồ uống có cồn mà không có sự cho phép trước bằng văn bản của chúng tôi. Chúng tôi yêu cầu các trung tâm cai chất gây nghiện và đồ uống có cồn phải có giấy phép phù hợp thì mới đủ điều kiện quảng bá trên Facebook.
+6. #### Nhà thuốc trực tuyến
+Không được sử dụng Trang, nhóm hoặc Sự kiện để quảng bá việc bán dược phẩm theo toa thông qua nhà thuốc trực tuyến mà không có sự cho phép trước bằng văn bản của chúng tôi. Chúng tôi yêu cầu nhà thuốc trực tuyến phải có giấy phép phù hợp thì mới đủ điều kiện quảng bá trên Facebook.
+7. #### Chương trình khuyến mãi
+Nếu sử dụng Trang, nhóm hoặc Sự kiện để công bố hay quản lý chương trình khuyến mãi (cuộc thi, quà tặng hoặc trò cá cược được ăn cả), bạn phải đảm bảo rằng chương trình khuyến mãi đó tuân thủ các yêu cầu hiện hành theo luật pháp và quy định (ví dụ: cung cấp cho người tham gia bản sao thể lệ chính thức của chương trình khuyến mãi, tiết lộ các điều khoản ưu đãi và yêu cầu về điều kiện tham gia, cũng như đăng ký chương trình khuyến mãi với cơ quan có thẩm quyền liên quan). Bạn cũng phải yêu cầu người tham gia (a) miễn trừ hoàn toàn trách nhiệm pháp lý và giữ cho Meta vô can, cũng như (b) xác nhận rằng Meta không hề tài trợ, ủng hộ, quản lý hay liên quan đến chương trình khuyến mãi đó. Chương trình khuyến mãi của bạn không được yêu cầu hay khuyến khích người tham gia chia sẻ, đăng lại, gắn thẻ người khác hoặc quảng bá chương trình khuyến mại đó theo bất kỳ cách nào khác. Lưu ý rằng Meta sẽ không hỗ trợ bạn quản lý chương trình khuyến mãi. Nếu sử dụng dịch vụ của chúng tôi để quản lý chương trình khuyến mãi của mình, bạn sẽ phải tự chịu mọi rủi ro.
+8. #### Thu thập dữ liệu
+Nếu muốn thu thập nội dung hay thông tin từ những người tương tác với Trang, nhóm hoặc Sự kiện của bạn (ví dụ: thông tin có được nhờ nút kêu gọi hành động) thì trước tiên, bạn phải thông báo cho họ. Những người mà bạn thu thập nội dung hay thông tin phải đồng ý rõ ràng với việc bạn sử dụng dữ liệu của họ. Bạn phải giải thích rõ rằng bạn (chứ không phải Meta) đang thu thập dữ liệu này.
+9. #### Thông tin chi tiết Trang
+10. #### Nội dung có thương hiệu
+Nếu được tặng bất cứ thứ gì có giá trị để quảng bá sản phẩm hay dịch vụ của người khác trong Trang, nhóm hoặc Sự kiện của mình, bạn phải tiết lộ bản chất thương mại của nội dung theo yêu cầu của Chính sách về nội dung có thương hiệu.
+11. #### Lời mời và chi phí tham gia Sự kiện
+Bạn phải nêu rõ ràng và minh bạch mọi hành động hoặc chi phí cần thiết để tham dự/tham gia Sự kiện, bao gồm mọi khoản phí và phụ phí bổ sung cho chi phí vào cửa đã nêu. Sự kiện không được sử dụng phương tiện tự động để tạo lời mời tham gia.
+12. #### Sự tuân thủ luật pháp
+Trang, nhóm và Sự kiện không được quảng bá các hoạt động, sản phẩm hoặc dịch vụ bất hợp pháp. Bạn chịu trách nhiệm đảm bảo rằng Trang, nhóm hoặc Sự kiện của mình tuân thủ mọi luật, quy chế và quy định hiện hành, bao gồm cả các luật, quy chế và quy định liên quan đến việc cổ xúy các chất cũng như hoạt động bị hạn chế theo độ tuổi. Bạn chịu hoàn toàn trách nhiệm trong việc tiết lộ tất cả các thông tin cần thiết trong Trang, nhóm hoặc Sự kiện của mình, kể cả những thông tin bắt buộc để chỉ ra bản chất thương mại của nội dung mà bạn có thể đăng.

@@ -1,0 +1,200 @@
+DATASET: Facebook / Meta policy knowledge base
+GROUP_ID: 04_commerce_payments_monetization
+GROUP_NAME: Thương mại, thanh toán và kiếm tiền
+LOCALE_PRIORITY: vi_VN; fallback giữ nguyên ngôn ngữ nếu nguồn chính thức không có bản VI đầy đủ
+LAST_CHECKED: 2026-04-21
+SOURCE_COUNT: 3
+Ghi chú chunking: nên tách theo ranh giới '===== SOURCE DOCUMENT' và heading '#/##/###'.
+================================================================================
+===== SOURCE DOCUMENT 001
+TITLE: Chương trình Kiếm tiền từ nội dung trên Facebook: Quốc gia và ngôn ngữ áp dụng
+SOURCE_TYPE: monetization
+CANONICAL_URL: https://www.facebook.com/business/help/267128784014981?locale=vi_VN
+CONTENT_SHA256: 708009195d719643d551e904761d6525f9ab7acfc8f478728fb87474dcce95f0
+================================================================================
+Quảng cáo trong luồng, Quảng cáo trên Reels và Chương trình Thưởng hiệu quả đã kết thúc vào ngày 31/08/2025. Đây là ngày cuối cùng mà người sáng tạo nội dung có thể kiếm tiền từ bất kỳ chương trình kiếm tiền nào nói trên. Người sáng tạo nội dung đủ điều kiện sẽ nhận được lời mời tham gia chương trình Kiếm tiền từ nội dung trên Facebook.
+Thước phim công khai sẽ đủ điều kiện kiếm tiền trong chương trình Kiếm tiền từ nội dung trên Facebook, miễn là được đăng ở một số quốc gia và bằng một số ngôn ngữ nhất định.
+### Quảng cáo trong chương trình Kiếm tiền từ nội dung trên Facebook áp dụng tại các quốc gia và vùng lãnh thổ sau
+* Algeria
+* Argentina
+* Úc
+* Áo
+* Bangladesh
+* Bỉ
+* Bolivia
+* Brazil
+* Bulgaria
+* Canada
+* Chile
+* Colombia
+* Síp
+* Cộng hòa Séc
+* Cộng hòa Dân chủ Congo
+* Đan Mạch
+* Cộng hòa Dominica
+* Ecuador
+* Ai Cập
+* El Salvador
+* Pháp
+* Georgia
+* Đức
+* Ghana
+* Hy Lạp
+* Guatemala
+* Honduras
+* Hồng Kông
+* Hungary
+* Ấn Độ
+* Indonesia
+* Iraq
+* Ireland
+* Israel
+* Ý
+* Nhật Bản
+* Jordan
+* Kenya
+* Malaysia
+* Mexico
+* Morocco
+* Nepal
+* New Zealand
+* Nigeria
+* Na Uy
+* Peru
+* Ba Lan
+* Bồ Đào Nha
+* Puerto Rico
+* Rumani
+* Ả-rập Xê-út
+* Singapore
+* Nam Phi
+* Hàn Quốc
+* Tây Ban Nha
+* Sri Lanka
+* Thụy Điển
+* Thụy Sĩ
+* Đài Loan
+* Tanzania
+* Thái Lan
+* Hà Lan
+* Philippines
+* Tunisia
+* Thổ Nhĩ Kỳ
+* Uganda
+* Ukraina
+* Các Tiểu vương quốc Ả Rập Thống nhất
+* Vương quốc Anh
+* Hoa Kỳ
+### Chương trình Kiếm tiền từ nội dung trên Facebook áp dụng cho quảng cáo bằng các ngôn ngữ sau
+* Tiếng Ả Rập
+* Tiếng Assam*
+* Tiếng Bengali
+* Tiếng Bhojpuri*
+* Tiếng Hà Lan
+* Tiếng Anh
+* Tiếng Pháp
+* Tiếng Đức
+* Tiếng Gujarati*
+* Tiếng Do Thái*
+* Tiếng Hindi
+* Tiếng Ý
+* Tiếng Indonesia
+* Tiếng Nhật*
+* Tiếng Kannada
+* Tiếng Khmer*
+* Tiếng Hàn
+* Tiếng Mã Lai
+* Tiếng Malayalam
+* Tiếng Quan thoại
+* Tiếng Marathi
+* Tiếng Oriya (Odia)*
+* Tiếng Ba Lan
+* Tiếng Bồ Đào Nha
+* Tiếng Punjab
+* Tiếng Romania*
+* Tiếng Nga*
+* Tiếng Tây Ban Nha
+* Tiếng Thụy Điển
+* Tiếng Tagalog
+* Tiếng Tamil
+* Tiếng Telugu
+* Tiếng Thái
+* Tiếng Thổ Nhĩ Kỳ
+* Tiếng Ukraine*
+* Tiếng Urdu*
+* Tiếng Việt
+*Chúng tôi chỉ hỗ trợ các ngôn ngữ này cho chương trình Kiếm tiền từ nội dung trên Facebook, chứ không hỗ trợ cho quảng cáo trong luồng trên Live.
+## Tìm hiểu thêm
+* Các định dạng quảng cáo cho thước phim trong chương trình Kiếm tiền từ nội dung trên Facebook
+===== SOURCE DOCUMENT 002
+TITLE: Facebook
+SOURCE_TYPE: commerce
+CANONICAL_URL: https://www.facebook.com/policies_center/commerce?locale=vi_VN
+CONTENT_SHA256: 3588935edc7a6af3ac704732c0aeb4ad02aa594332639ef96b1646e7015cd741
+================================================================================
+Điều khoản và chính sách
+### Tổng quan
+Nội dung thương mại đề cập đến mọi nỗ lực mua, bán hoặc trao đổi sản phẩm (thậm chí là miễn phí) trên các dịch vụ của Facebook, Instagram, WhatsApp hay Messenger được thiết kế cho mục đích thương mại, bao gồm nhưng không giới hạn ở Facebook Marketplace, Cửa hàng trên Facebook và Instagram cũng như Danh mục trên WhatsApp Business. Sản phẩm được bán/chào bán hoặc trao đổi/đề nghị trao đổi trên các dịch vụ hay tính năng nêu trên phải tuân thủ Chính sách thương mại của chúng tôi. Ngoài ra, nội dung thương mại trên Facebook và Messenger phải tuân thủ Tiêu chuẩn cộng đồng của Facebook, còn nội dung thương mại trên Instagram phải tuân thủ Nguyên tắc cộng đồng của Instagram. Nội dung thương mại trên WhatsApp phải tuân thủ Chính sách về các tính năng thương mại trên WhatsApp. Người mua, người bán và người trao đổi cũng có trách nhiệm phải tuân thủ các điều khoản và chính sách khác áp dụng cho việc sử dụng sản phẩm của chúng tôi, cũng như mọi luật và quy định hiện hành. Việc không tuân thủ chính sách của chúng tôi hay pháp luật có thể dẫn đến nhiều hậu quả, bao gồm nhưng không giới hạn ở việc từ chối/gỡ bài niêm yết và nội dung khác, từ chối/gỡ thẻ sản phẩm hoặc đình chỉ/chấm dứt quyền truy cập vào bất kỳ/toàn bộ dịch vụ hay tính năng thương mại trên Facebook, Instagram, WhatsApp hoặc Messenger. Nếu bạn nhiều lần đăng nội dung thương mại vi phạm chính sách, chúng tôi có thể áp dụng thêm biện pháp xử lý đối với tài khoản của bạn.
+Facebook Marketplace phục vụ các giao dịch mua bán giữa người tiêu dùng với nhau. Các doanh nghiệp và cá nhân hoạt động với vai trò doanh nghiệp hoặc tổ chức thương mại tại Khu vực kinh tế châu Âu (EEA), Philippines và Ấn Độ có thể phải tuân thủ các quy định hạn chế, bao gồm quyết định tạm ngừng quyền truy cập vào Marketplace và/hoặc gỡ bài niêm yết nếu họ cố bán hàng trên Marketplace.
+### Các bước cần thực hiện nếu không được phê duyệt
+#### Kháng nghị quyết định
+Nếu cho rằng chúng tôi đã nhầm lẫn khi từ chối hoặc gỡ nội dung thương mại của bạn do vi phạm Chính sách thương mại, bạn có thể làm theo các bước này đối với Marketplace hoặc các bước này đối với sản phẩm trong Danh mục của bạn (có trên Instagram, Facebook, Messenger và WhatsApp Business) để yêu cầu chúng tôi xem xét lại.
+### Nội dung bị cấm
+3. #### Đồ uống có cồnNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi đồ uống có cồn.
+4. #### Bộ phận và dịch cơ thểNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi bộ phận hay dịch cơ thể.
+5. #### Thiết bị điện tử và phương tiện kỹ thuật sốNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi thiết bị hỗ trợ hay khuyến khích phát trực tiếp nội dung kỹ thuật số theo cách trái phép hay gây trở ngại cho hoạt động của các thiết bị điện tử.
+6. #### Hành vi phân biệt đối xửNội dung thương mại và cuộc trò chuyện cho mục đích thương mại trên Messenger không được phân biệt đối xử theo cách bất hợp pháp hoặc cho thấy sự thiên vị hay phân biệt đối xử với người nào đó vì đặc điểm cá nhân, bao gồm nhưng không giới hạn ở chủng tộc, dân tộc, màu da, nguồn gốc quốc gia, quốc tịch, tôn giáo, độ tuổi, giới tính, thiên hướng tính dục, bản dạng giới, tình trạng gia đình, tình trạng hôn nhân, tình trạng khuyết tật, tình trạng bệnh tật hoặc đặc tính di truyền. Nội dung thương mại phải tuân thủ mọi pháp luật hiện hành nghiêm cấm hành vi phân biệt đối xử, bao gồm nhưng không giới hạn ở hành vi phân biệt đối xử trong bài niêm yết về nhà ở.
+8. #### Đánh bạc
+Nội dung thương mại không được quảng bá việc mua, bán hoặc hỗ trợ cho hoạt động đánh bạc bằng tiền mặt hay bất cứ thứ gì có giá trị (bao gồm cả tiền kỹ thuật số). Hoạt động đánh bạc bao gồm cờ bạc, cá cược, xổ số, rút thăm trúng thưởng, sòng bạc, thể thao ảo, lô tô, xì phé và cá cược được ăn cả.
+11. #### Việc làmNội dung thương mại không được quảng bá cơ hội việc làm.
+13. #### Sản phẩm y tế và chăm sóc sức khỏeNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi sản phẩm, dịch vụ y tế và chăm sóc sức khỏe (bao gồm cả thiết bị y tế) hay thực phẩm bổ sung dùng trực tiếp.
+15. #### Không có mặt hàng để bánNội dung thương mại không được quảng bá tin tức, nội dung hài hước hoặc nội dung khác mà không chào bán bất kỳ sản phẩm nào.
+17. #### Sản phẩm bị thu hồiNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi sản phẩm bị thu hồi/bị cấm.
+18. #### Hàng trộm cắpNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi mặt hàng bị trộm cắp hay được thu nhận theo cách bất hợp pháp hoặc không có sự cho phép.
+19. #### Gói đăng ký và sản phẩm kỹ thuật sốNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi nội dung kỹ thuật số có thể tải xuống, gói đăng ký hoặc tài khoản kỹ thuật số.
+20. #### Xâm phạm quyền của bên thứ baNội dung thương mại không được xâm phạm hay vi phạm quyền sở hữu trí tuệ của bất kỳ bên thứ ba nào, bao gồm cả mọi bản quyền hoặc nhãn hiệu hàng hóa. Trong đó bao gồm nhưng không giới hạn ở việc quảng bá hoặc bán bất kỳ dịch vụ/thiết bị nào hỗ trợ việc phân phối bản sao trái phép của phần mềm, nhạc, phim, chương trình truyền hình, nội dung phát, sách, hình ảnh và nội dung đa phương tiện khác, hoặc ở việc quảng bá hay bán hàng giả, chẳng hạn như hàng hóa sao chép nhãn hiệu (tên hay logo) và/hoặc các đặc điểm có khả năng phân biệt của sản phẩm thuộc một công ty khác để bắt chước sản phẩm thật.
+22. #### Mỹ phẩm đã qua sử dụngNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi mỹ phẩm đã qua sử dụng hay không có bao bì gốc khi bán.
+23. #### Linh kiện và phụ tùng xeNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi một số linh kiện và phụ tùng xe.
+### Nội dung bị hạn chế
+1. #### Vé sự kiệnNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi vé sự kiện, ngoại trừ trường hợp do người bán được phê duyệt thực hiện.
+2. #### Thẻ quà tặng và phiếu giảm giáNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi thẻ quà tặng hay phiếu giảm giá, ngoại trừ trường hợp do người bán được phê duyệt thực hiện.
+3. #### Dịch vụ kết nối và nhận nuôi thú cưngNội dung thương mại không được quảng bá việc mua, bán hoặc trao đổi dịch vụ kết nối và nhận nuôi thú cưng, ngoại trừ trường hợp do người bán được phê duyệt thực hiện.
+===== SOURCE DOCUMENT 003
+TITLE: Nguyên tắc về nội dung gốc trên Facebook
+SOURCE_TYPE: monetization
+CANONICAL_URL: https://www.facebook.com/business/help/262834734651607?locale=vi_VN
+CONTENT_SHA256: 5c322cae2f917768ba9afb2c41094493fdd51cea1529f46d2046bd169b9f1cf6
+================================================================================
+## Đăng nhập Meta for Business
+Quản lý tài khoản quảng cáo và nhận sự hỗ trợ dành riêng cho bạn.
+Facebook ưu tiên nội dung gốc trong các đề xuất trên Bảng feed và Reels.
+## Nội dung gốc
+Để đạt hiệu quả phân phối tốt nhất, Meta khuyến khích Trang và trang cá nhân đăng nội dung gốc hoặc sở hữu quyền đăng lần đầu.
+Ví dụ về nội dung gốc:
+* Nội dung do nhà phát hành đăng quay hoặc tạo
+* Các tập, clip hoặc trailer mới của một chương trình do nhà sản xuất, người có tài năng hoặc một mạng lưới đăng
+Đây chỉ là một số ví dụ. Các loại nội dung khác vẫn có thể là nội dung gốc nếu do chính người hoặc công ty sản xuất đăng nội dung đó quay, phát hoặc tạo.
+Nội dung chứa một số phần của bên thứ ba vẫn có thể đủ điều kiện được Facebook đề xuất nếu bạn bổ sung giá trị giáo dục, phê bình hoặc giải trí để cải thiện nội dung đó một cách có ý nghĩa.
+Ví dụ về các điểm cải thiện nội dung có ý nghĩa của bên thứ ba:
+* Các nội dung remix hoặc lớp phủ mà trong đó bạn xuất hiện nổi bật trên màn hình như tâm điểm của video, đồng thời còn bổ sung thông tin mới, bình luận hoặc các điểm cải thiện cốt truyện, thay vì chỉ đơn thuần mô tả những việc xảy ra, tạo biểu cảm khuôn mặt hoặc xem cùng.
+* Chèn clip của bên thứ ba vào nội dung bạn quay một cách có chọn lọc để kể câu chuyện mới và/hoặc thêm ý kiến, thông tin chi tiết hoặc nội dung phê bình phù hợp. Ví dụ: đưa vào các ví dụ lịch sử phù hợp để tăng tính thuyết phục cho câu chuyện bạn kể, với điều kiện trọng tâm của video vẫn là bình luận gốc của bạn.
+Nguyên tắc về nội dung gốc của Meta không liên quan đến các chính sách về quyền sở hữu trí tuệ, theo đó không được phép đăng nội dung vi phạm quyền sở hữu trí tuệ của người khác.
+## Nội dung không nguyên gốc
+Nội dung của bên thứ ba được đăng mà không có sự thay đổi đáng kể sẽ bị xem là không nguyên gốc và bị giảm mức phân phối. Hành vi đăng nội dung không nguyên gốc vi phạm điều khoản và Chính sách kiếm tiền dành cho đối tác của Meta, đồng thời có thể dẫn đến các biện pháp thực thi khác, chẳng hạn như bị giới hạn hoặc mất khả năng kiếm tiền và đề xuất.
+Dưới đây là 2 hành vi chính có thể khiến nội dung, Trang hoặc trang cá nhân của bạn bị gắn cờ nội dung không nguyên gốc:
+* **Sao chép nội dung**: Đăng nội dung đã tồn tại trên Facebook hoặc thuộc về người sáng tạo nội dung/thực thể khác, nhưng không đóng góp đáng kể vào quá trình tạo nội dung đó.
+*
+**Ít biên tập:** Đăng nội dung chứa clip hoặc hình ảnh mà Trang hoặc trang cá nhân tương ứng không tự quay hoặc tạo ra, mà chỉ thay đổi nhỏ. Ví dụ về thay đổi nhỏ:
+* Chèn thêm đường viền
+* Chèn logo hoặc đồ họa, bao gồm hình mờ
+* Chỉ thêm chú thích văn bản hoặc tiêu đề trên màn hình
+* Thêm nhạc nền
+* Thay đổi tốc độ của video
+* Thêm bản chép lời cho phụ đề
+* Chỉ mô tả (trong văn bản, trên màn hình hoặc phần thuyết minh) những gì xảy ra trong video mà không thêm thông tin có ý nghĩa nào khác
+* Video bày tỏ cảm xúc chỉ đơn thuần là xem cùng hoặc thuyết minh lại mà không thêm bình luận, thông tin, thông tin chi tiết hoặc quan điểm. Hành động thêm biểu cảm khuôn mặt hoặc cử chỉ tay đơn thuần không phải là điểm cải thiện có ý nghĩa.
+* Video tổng hợp cơ bản, chỉ bao gồm ghép các clip của bên thứ ba mà không thêm câu chuyện của chính bạn hoặc thông tin mới
+* Chèn thêm đoạn giới thiệu hoặc kết thúc mà không làm thay đổi đáng kể về ý nghĩa hoặc trải nghiệm xem của nội dung chính
+Các ví dụ này chỉ nhằm mục đích hướng dẫn và không đầy đủ. Các loại nội dung khác vẫn có khả năng vi phạm chính sách về nội dung gốc của chúng tôi. Để đảm bảo nội dung được xem là nguyên gốc, bạn hãy tự tạo/sản xuất nội dung đó hoặc bổ sung những điểm cải thiện có ý nghĩa nhằm tạo ra trải nghiệm xem mới cho người dùng khác.
+Tìm hiểu xem bạn nên làm gì nếu Trang hoặc trang cá nhân bị gắn cờ vì đăng nội dung không nguyên gốc.
+## Tìm hiểu thêm
