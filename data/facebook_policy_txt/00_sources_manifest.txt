@@ -1,0 +1,15 @@
+Facebook / Meta policy TXT dataset manifest
+LAST_CHECKED: 2026-04-21
+TOTAL_SOURCES_OK: 126
+TOTAL_SOURCES_ATTEMPTED: 127
+
+Files theo nhóm:
+- 01_terms_privacy.txt :: Điều khoản, quyền riêng tư, cookie và chuyển dữ liệu :: 6 sources
+- 02_community_standards.txt :: Tiêu chuẩn cộng đồng Facebook :: 28 sources
+- 03_advertising_standards.txt :: Tiêu chuẩn quảng cáo Meta :: 46 sources
+- 04_commerce_payments_monetization.txt :: Thương mại, thanh toán và kiếm tiền :: 5 sources
+- 05_pages_groups_events_profiles_feedback.txt :: Trang, Nhóm, Sự kiện, profile phụ và phản hồi cộng đồng :: 5 sources
+- 06_recommendations_distribution.txt :: Đề xuất nội dung, phân phối và giảm hiển thị :: 4 sources
+- 07_governance_enforcement_appeals.txt :: Thực thi, quản trị, thông tin sai lệch, bầu cử và khiếu nại :: 23 sources
+
+Mỗi file trong per_source/ là một nguồn riêng, đã có header metadata để map ground truth ID khi đánh giá retrieval.

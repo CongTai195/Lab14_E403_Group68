@@ -1,40 +1,110 @@
+from __future__ import annotations
+
 import asyncio
-from typing import List, Dict
+import os
+from typing import Any
+
+from dotenv import load_dotenv
+from openai import OpenAI
+
+from agent.retriever import FacebookPolicyRetriever, ROOT_DIR
+
+
+GENERATION_MODEL = "gpt-5.2-pro"
+TOP_K = 5
+
 
 class MainAgent:
-    """
-    Đây là Agent mẫu sử dụng kiến trúc RAG đơn giản.
-    Sinh viên nên thay thế phần này bằng Agent thực tế đã phát triển ở các buổi trước.
-    """
-    def __init__(self):
-        self.name = "SupportAgent-v1"
+    def __init__(self, top_k: int = TOP_K) -> None:
+        load_dotenv(ROOT_DIR / ".env")
+        self.name = "FacebookPolicyRAG-v1"
+        self.top_k = top_k
+        self.retriever = FacebookPolicyRetriever()
+        self.openai_client = OpenAI()
 
-    async def query(self, question: str) -> Dict:
-        """
-        Mô phỏng quy trình RAG:
-        1. Retrieval: Tìm kiếm context liên quan.
-        2. Generation: Gọi LLM để sinh câu trả lời.
-        """
-        # Giả lập độ trễ mạng/LLM
-        await asyncio.sleep(0.5) 
-        
-        # Giả lập dữ liệu trả về
+    @staticmethod
+    def _format_contexts(contexts: list[dict[str, Any]]) -> str:
+        formatted = []
+        for idx, context in enumerate(contexts, start=1):
+            formatted.append(
+                "\n".join(
+                    [
+                        f"[Context {idx}]",
+                        f"chunk_id: {context['chunk_id']}",
+                        f"title: {context['title']}",
+                        f"url: {context['canonical_url']}",
+                        f"heading: {context['heading_path']}",
+                        context["text"],
+                    ]
+                )
+            )
+        return "\n\n".join(formatted)
+
+    def _generate_answer(self, question: str, contexts: list[dict[str, Any]]) -> tuple[str, dict[str, int]]:
+        if not contexts:
+            return "Không đủ căn cứ trong kho tài liệu để trả lời câu hỏi này.", {}
+
+        context_text = self._format_contexts(contexts)
+        prompt = f"""
+Bạn là trợ lý RAG chuyên trả lời về chính sách Facebook/Meta bằng tiếng Việt.
+Chỉ được dùng các đoạn context bên dưới. Không suy đoán ngoài tài liệu.
+Nếu context không đủ căn cứ, hãy nói rõ: "Không đủ căn cứ trong kho tài liệu để trả lời chính xác."
+Khi trả lời, nêu ngắn gọn và có thể trích nguồn bằng chunk_id hoặc tiêu đề nếu hữu ích.
+
+Câu hỏi:
+{question}
+
+Context:
+{context_text}
+""".strip()
+
+        response = self.openai_client.responses.create(
+            model=GENERATION_MODEL,
+            reasoning={"effort": "xhigh"},
+            input=prompt,
+        )
+
+        usage = getattr(response, "usage", None)
+        usage_dict = usage.model_dump() if hasattr(usage, "model_dump") else {}
+        return response.output_text, usage_dict
+
+    async def query(self, question: str) -> dict[str, Any]:
+        contexts = await asyncio.to_thread(self.retriever.search, question, self.top_k)
+        answer, usage = await asyncio.to_thread(self._generate_answer, question, contexts)
         return {
-            "answer": f"Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi '{question}' như sau: [Câu trả lời mẫu].",
-            "contexts": [
-                "Đoạn văn bản trích dẫn 1 dùng để trả lời...",
-                "Đoạn văn bản trích dẫn 2 dùng để trả lời..."
-            ],
+            "answer": answer,
+            "contexts": [context["text"] for context in contexts],
             "metadata": {
-                "model": "gpt-4o-mini",
-                "tokens_used": 150,
-                "sources": ["policy_handbook.pdf"]
-            }
+                "model": GENERATION_MODEL,
+                "embedding_model": self.retriever.embedding_model,
+                "tokens_used": usage,
+                "sources": [
+                    {
+                        "chunk_id": context["chunk_id"],
+                        "title": context["title"],
+                        "canonical_url": context["canonical_url"],
+                        "source_doc_id": context["source_doc_id"],
+                        "source_file": context["source_file"],
+                        "score": context["score"],
+                        "rrf_score": context.get("rrf_score"),
+                        "dense_rank": context.get("dense_rank"),
+                        "dense_score": context.get("dense_score"),
+                        "sparse_rank": context.get("sparse_rank"),
+                        "sparse_score": context.get("sparse_score"),
+                        "retrieval_method": context.get("retrieval_method"),
+                    }
+                    for context in contexts
+                ],
+            },
         }
+
 
 if __name__ == "__main__":
     agent = MainAgent()
-    async def test():
-        resp = await agent.query("Làm thế nào để đổi mật khẩu?")
-        print(resp)
+
+    async def test() -> None:
+        response = await agent.query("Nội dung bắt nạt và quấy rối bị xử lý như thế nào?")
+        print(response["answer"])
+        print(response["metadata"]["sources"])
+
     asyncio.run(test())

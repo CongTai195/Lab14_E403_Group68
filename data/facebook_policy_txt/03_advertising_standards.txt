@@ -1,0 +1,2209 @@
+DATASET: Facebook / Meta policy knowledge base
+GROUP_ID: 03_advertising_standards
+GROUP_NAME: Tiêu chuẩn quảng cáo Meta
+LOCALE_PRIORITY: vi_VN; fallback giữ nguyên ngôn ngữ nếu nguồn chính thức không có bản VI đầy đủ
+LAST_CHECKED: 2026-04-21
+SOURCE_COUNT: 46
+Ghi chú chunking: nên tách theo ranh giới '===== SOURCE DOCUMENT' và heading '#/##/###'.
+================================================================================
+===== SOURCE DOCUMENT 001
+TITLE: An ninh mạng | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/business-assets/Cybersecurity/
+CONTENT_SHA256: 55277cd07096fac728eb142601c4d932b129b8aa8ca7e09aec9ada72563853a3
+================================================================================
+Cybersecurity
+# An ninh mạng
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+An ninh mạng
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về An ninh mạng. Quảng cáo không được sử dụng các thủ thuật lừa đảo hoặc tấn công phi kỹ thuật để thu thập thông tin nhạy cảm của những người khác, đồng thời không được quảng bá hay liên kết đến mã độc hại, chẳng hạn như phần mềm độc hại hoặc phần mềm gián điệp.
+Tổng quan
+Chính sách này cung cấp các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về An ninh mạng.
+Nguyên tắc
+Ngoài những gì mà Tiêu chuẩn cộng đồng của chúng tôi nghiêm cấm, quảng cáo không được:
+* Chứa liên kết có thể kích hoạt thao tác tự động tải xuống sau khi người dùng mở trang đích.
+* Quảng cáo phần mềm/dịch vụ dùng để làm gián đoạn quá trình trao đổi thông tin hoặc chia sẻ tín hiệu, bao gồm cả thiết bị gây nhiễu và giải nhiễu khiến điện thoại và trạm cơ sở phát sóng di động không thể kết nối với nhau.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 002
+TITLE: Bán bộ phận và dịch cơ thể người | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/bodily-parts-and-fluid/
+CONTENT_SHA256: 95ba917e7e0a1f182744402694d007d306b73f4eea8a07d7ee7f9b388970416f
+================================================================================
+Sale of Human Bodily Parts And Bodily Fluid
+# Bán bộ phận và dịch cơ thể người
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 2, 2024
+26 tháng 6, 2024
+Bán bộ phận và dịch cơ thể người
+Quảng cáo không được quảng bá việc bán bộ phận hoặc dịch cơ thể người. Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo quảng bá việc bán bộ phận hoặc dịch cơ thể người, ngoại trừ trường hợp hiến tặng dịch cơ thể người như tinh trùng hoặc huyết tương.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 003
+TITLE: Bán các loài có nguy cơ tuyệt chủng và động vật không có nguy cơ tuyệt chủng | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/live-endangered-nonendangered-animals/
+CONTENT_SHA256: 02bbcf2d20cfd7de4bf0876bc28eb31b43c6023fbd1fdd34af62347e915c79fc
+================================================================================
+Chính sách quảng cáo
+Bán các loài có nguy cơ tuyệt chủng và động vật không có nguy cơ tuyệt chủng
+# Bán các loài có nguy cơ tuyệt chủng và động vật không có nguy cơ tuyệt chủng
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 2, 2025
+Bán các loài có nguy cơ tuyệt chủng và động vật không có nguy cơ tuyệt chủng
+Quảng cáo không được quảng bá, quyên góp hoặc tặng những sản phẩm có nguồn gốc từ các loài bị đe dọa/tuyệt chủng/có nguy cơ tuyệt chủng, bao gồm cả thực vật và động vật hoang dã.
+Quảng cáo không được quảng bá việc bán hoặc trao đổi ngang hàng các loài động vật sống không có nguy cơ tuyệt chủng, kể cả trong bối cảnh không thể hiện rõ tính chất của hoạt động bán hoặc trao đổi đó.
+Quảng cáo được phép đưa ra các loài động vật sống không có nguy cơ tuyệt chủng chỉ trong bối cảnh hiến tặng, tìm nơi ở mới hoặc nhận nuôi.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được:
+* Quảng bá, cung cấp hoặc tặng các sản phẩm có nguồn gốc từ các loài bị đe dọa/tuyệt chủng/có nguy cơ tuyệt chủng
+* Khuyến khích săn trộm các loài bị đe dọa hoặc có nguy cơ tuyệt chủng
+* Hướng dẫn cách dùng/tạo ra sản phẩm từ các loài bị đe dọa hoặc có nguy cơ tuyệt chủng hay bộ phận của chúng
+* Quảng bá không rõ ràng việc bán các loài động vật sống không có nguy cơ tuyệt chủng trong bối cảnh được phép, như nêu dưới đây
+Quảng cáo được phép:
+* Chỉ quảng bá hoặc cung cấp các loài động vật sống không có nguy cơ tuyệt chủng trong bối cảnh hiến tặng, tìm nơi ở mới hoặc nhận nuôi
+* Quảng bá các loài động vật sống không có nguy cơ tuyệt chủng do doanh nghiệp hợp pháp cung cấp, bao gồm cả doanh nghiệp bán lẻ, người gây giống, cuộc đấu giá, trạm cứu hộ hoặc dịch vụ tìm nơi ở mới cho động vật
+* Quảng bá việc bán động vật làm vật hiến tế hoặc làm gia súc.
+* Quảng bá hoặc tặng phần thưởng khi tìm thấy thú cưng bị thất lạc, ví dụ như chó, mèo
+* Quảng bá việc bán các sản phẩm động vật để con người tiêu thụ như cá, trứng và các sản phẩm từ sữa chưa tiệt trùng.
+Lưu ý: Nhà quảng cáo quảng bá sản phẩm tiêu dùng cho người chịu trách nhiệm hoàn toàn về việc đảm bảo rằng quảng cáo của họ phải tuân thủ tất cả các luật và quy định hiện hành.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 004
+TITLE: Bóc lột con người | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/human-exploitation/
+CONTENT_SHA256: b161047cd56edcb628a6fbde8bb79ffe0c5284210721570e911eae55f8b2810d
+================================================================================
+Human Exploitation
+# Bóc lột con người
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Bóc lột con người
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về hành vi Bóc lột con người.**
+Quảng cáo không được chứa nội dung hỗ trợ hoặc cấu kết thực hiện hoạt động bóc lột con người, bao gồm cả hành vi buôn người.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về hành vi Bóc lột con người. Quảng cáo cũng phải tuân thủ Tiêu chuẩn quảng cáo của chúng tôi về Sản phẩm hoặc dịch vụ bất hợp pháp cũng như Sản phẩm hoặc dịch vụ dành cho người lớn.
+Nguyên tắc
+**Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng của chúng tôi, quảng cáo không được:**
+* Chứa nội dung tuyển ai đó làm người giúp việc gia đình tại nhà riêng hoặc để kết hôn tạm thời, ngay cả ở trường hợp không đổi lấy tiền hay bất cứ gì có giá trị
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 005
+TITLE: Bóc lột tình dục người lớn | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/adult-sexual-exploitation/
+CONTENT_SHA256: eef5cc02bd5c2923532318b853d81449b77a83c2d795e0a3d0c01e0cf0fa9f35
+================================================================================
+Adult Sexual Exploitation
+# Bóc lột tình dục người lớn
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Bóc lột tình dục người lớn
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về hành vi Bóc lột tình dục người lớn. Quảng cáo không được hiển thị, cổ xúy hoặc dàn xếp các hoạt động tình dục với những bên không đồng thuận để tránh tiếp tay cho các hoạt động tình dục không có sự đồng thuận.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về hành vi Bóc lột tình dục người lớn.
+Nguyên tắc bổ sung đối với quảng cáo
+Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng, quảng cáo không được:
+* Chứa những câu chuyện kể và câu nói mô tả hành vi động chạm tình dục không có sự đồng thuận, kèm theo những chi tiết không chỉ đơn thuần là gọi tên hoặc đề cập đến hành động đó, ngay cả ở bối cảnh được cho phép trong Tiêu chuẩn cộng đồng.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 006
+TITLE: Bắt nạt và quấy rối | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/bullying-harassment/
+CONTENT_SHA256: b5e69303a030831acfc1e479a2070e6fd56cbdfb1f60c6b314f820f789132f12
+================================================================================
+Tiêu chuẩn quảng cáo
+Bắt nạt và quấy rối
+# Bắt nạt và quấy rối
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+2 tháng 7, 2024
+Bắt nạt và quấy rối
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về hành vi Bắt nạt và quấy rối**
+Quảng cáo không được công kích nhằm hạ thấp hoặc làm nhục người bình thường và người của công chúng. Chúng tôi cũng áp dụng các biện pháp bảo vệ ở mức độ cao hơn cho bất kỳ ai dưới 18 tuổi, dù trạng thái người dùng của họ là gì.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 007
+TITLE: Chất cấm/chất gây nghiện và dược phẩm | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/
+CONTENT_SHA256: 755de8b276b2f803ff1f6f5ad80e815b4ae19c1766e6f96409ba0081a815ba84
+================================================================================
+Tiêu chuẩn quảng cáo
+Chất cấm/chất gây nghiện và dược phẩm
+# Chất cấm/chất gây nghiện và dược phẩm
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+11 tháng 6, 2024
+26 tháng 2, 2025
+31 tháng 10, 2024
+Chất cấm/chất gây nghiện và dược phẩm
+Nhà quảng cáo không được chạy quảng cáo quảng bá việc bán hoặc sử dụng các chất cấm/chất dùng cho mục đích giải trí hay các loại chất, sản phẩm hoặc thực phẩm bổ sung không an toàn khác như Meta đã xác định theo quyền quyết định của riêng mình. Nếu quảng bá thuốc kê đơn, thuốc không kê đơn và sản phẩm có nguồn gốc từ cần sa, quảng cáo phải tuân thủ các yêu cầu cụ thể như nêu rõ trong chính sách bên dưới.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo chạy quảng cáo trên các công nghệ của Meta phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được:
+* Gạ gẫm, mua, bán, trao đổi, quyên góp hoặc tặng (ví dụ: đồ tặng miễn phí) chất cấm, chất dùng cho mục đích giải trí hoặc các thực phẩm bổ sung, sản phẩm hay chất tiềm ẩn nguy cơ thiếu an toàn khác
+* Cổ xúy việc tiêu thụ chất cấm, chất dùng cho mục đích giải trí hoặc các thực phẩm bổ sung, sản phẩm hay chất tiềm ẩn nguy cơ thiếu an toàn khác
+* Quảng bá việc bán các đồ dùng liên quan đến chất cấm/chất gây nghiện
+Quảng cáo được phép:
+* Đề cập đến thực phẩm bổ sung, sản phẩm hay chất cấm nhằm phục vụ mục đích vận động chính trị, đưa tin và tiến hành chiến dịch nâng cao nhận thức, miễn là quảng cáo đó không quảng bá việc bán hoặc tiêu thụ những chất đó
+Để biết thêm thông tin, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Chất cấm/chất gây nghiện có nguy cơ cao, thuốc không dùng cho mục đích y tế và chất hướng thần
+Quảng cáo không được quảng bá việc bán hoặc sử dụng chất cấm/chất dùng cho mục đích giải trí hay các loại chất, sản phẩm hoặc thực phẩm bổ sung không an toàn khác như Meta đã xác định theo quyền quyết định của riêng mình.Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo chạy quảng cáo trên các công nghệ của Meta phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo để quảng bá việc bán hoặc sử dụng chất cấm/chất dùng cho mục đích giải trí hay các loại chất, sản phẩm hoặc thực phẩm bổ sung không an toàn khác.
+Nguyên tắc
+Quảng cáo không được:
+* Gạ gẫm, mua, bán, trao đổi, quyên góp hoặc tặng (ví dụ: đồ tặng miễn phí) chất cấm, chất dùng cho mục đích giải trí hoặc các thực phẩm bổ sung, sản phẩm hay chất tiềm ẩn nguy cơ thiếu an toàn khác
+* Cổ xúy việc tiêu thụ chất cấm, chất dùng cho mục đích giải trí hoặc các thực phẩm bổ sung, sản phẩm hay chất tiềm ẩn nguy cơ thiếu an toàn khác
+* Quảng bá việc bán các đồ dùng liên quan đến chất cấm/chất gây nghiện
+* Quảng bá việc bán hàng hóa mô tả chất cấm/chất gây nghiện có nguy cơ cao
+Quảng cáo được phép:
+* Đề cập đến thực phẩm bổ sung, sản phẩm hay chất cấm nhằm phục vụ mục đích vận động chính trị, đưa tin và tiến hành chiến dịch nâng cao nhận thức, miễn là quảng cáo đó không quảng bá việc bán hoặc tiêu thụ những chất đó
+Để biết thêm thông tin, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Thuốc kê đơn
+Chúng tôi cho phép quảng cáo quảng bá thuốc kê đơn để chia sẻ thông tin về hiệu quả y tế, khả năng tiếp cận và giá cả của các biện pháp điều trị khác nhau. Đồng thời, chúng tôi biết rằng luật và quy định đối với việc quảng bá các sản phẩm này sẽ khác nhau tùy theo khu vực.
+Để giảm bớt rủi ro cho người tiêu dùng, chúng tôi yêu cầu những nhà quảng cáo đủ điều kiện và muốn quảng bá thuốc kê đơn phải đưa ra bằng chứng cho thấy hoạt động của họ đã được cấp phép phù hợp. Nhà thuốc trên mạng, nhà cung cấp dịch vụ chăm sóc sức khỏe từ xa và nhà sản xuất dược phẩm phải đưa ra bằng chứng cho thấy rằng họ đã được cấp phép phù hợp hoặc được xác nhận là hợp pháp ở những quốc gia mà họ muốn nhắm mục tiêu đến. Họ cũng phải chứng minh rằng mình tuân thủ các nguyên tắc hiện hành về hoạt động nhắm mục tiêu, kể cả khi chỉ chạy quảng cáo ở những quốc gia mà họ được chứng nhận. Theo quy định của Meta, quảng cáo về thuốc kê đơn không được phép nhắm mục tiêu đến những người dưới 18 tuổi.
+Nhà quảng cáo có thể làm theo các bước trong bài viết này để kiểm tra tính đủ điều kiện và yêu cầu ủy quyền.
+Tổng quan
+Chúng tôi cho phép quảng cáo quảng bá thuốc kê đơn để chia sẻ thông tin về hiệu quả y tế, khả năng tiếp cận và giá cả của các biện pháp điều trị khác nhau. Đồng thời, chúng tôi biết rằng luật và quy định đối với việc quảng bá các sản phẩm này sẽ khác nhau tùy theo khu vực.
+Nguyên tắc
+Các nhà quảng cáo đủ điều kiện và sở hữu chứng nhận LegitScript còn hiệu lực có thể chạy quảng cáo về thuốc kê đơn, miễn là họ:
+* Chỉ nhắm mục tiêu đến những người ở các quốc gia đủ điều kiện (Hoa Kỳ, Canada hoặc New Zealand)
+* Chỉ nhắm mục tiêu đến những người ở các quốc gia mà họ được chứng nhận
+* Chỉ nhắm mục tiêu đến những người từ 18 tuổi trở lên
+* Yêu cầu Meta ủy quyền
+Theo yêu cầu của Meta, các nhà thuốc trên mạng và nhà cung cấp dịch vụ chăm sóc sức khỏe từ xa phải sở hữu chứng nhận LegitScript còn hiệu lực. Sau khi có chứng nhận LegitScript, họ phải làm theo các bước trong bài viết này để yêu cầu Meta ủy quyền.
+Các nhà sản xuất dược phẩm có 2 lựa chọn:
+(1) Làm theo các bước giống như nhà thuốc trên mạng và nhà cung cấp dịch vụ chăm sóc sức khỏe từ xa, hoặc
+(2) Nộp đơn xin ủy quyền qua quy trình xét duyệt nội bộ của Meta mà không cần có chứng nhận LegitScript.
+**Nhà quảng cáo không cần có văn bản ủy quyền để chạy quảng cáo:**
+* Phổ cập kiến thức, ủng hộ hoặc đưa ra thông báo phục vụ công chúng xoay quanh thuốc kê đơn
+* Quảng bá dịch vụ chăm sóc sức khỏe từ xa một cách chung chung
+**Nhà quảng cáo không được chạy quảng cáo:**
+* **Quảng bá thuốc kê đơn, trừ khi họ sở hữu chứng nhận LegitScript còn hiệu lực hoặc đã qua quy trình xét duyệt nội bộ của Meta; đưa ra tuyên bố miễn trừ trách nhiệm về việc phải tham khảo ý kiến chuyên gia y tế có giấy phép hoặc lấy đơn thuốc hợp lệ; đã hoàn tất quy trình thiết lập của Meta dành cho thuốc kê đơn;** chỉ nhắm mục tiêu đến những người ở các quốc gia đủ điều kiện (Hoa Kỳ, Canada hoặc New Zealand); chỉ nhắm mục tiêu đến những người ở các quốc gia mà họ được chứng nhận; cũng như chỉ nhắm mục tiêu đến những người trên 18 tuổi
+Để biết các bí quyết về cách tuân thủ chính sách này, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Thuốc không kê đơn
+Quảng cáo quảng bá việc bán thuốc không kê đơn phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc, nguyên tắc, giấy phép và hoạt động phê duyệt tương ứng bắt buộc hoặc có sẵn trong ngành, đồng thời phải bao gồm những tiêu chí nhắm mục tiêu theo độ tuổi và quốc gia phù hợp với các luật hiện hành của nước sở tại. Quảng cáo phải đáp ứng được yêu cầu tối thiểu là không nhắm mục tiêu đến những người dưới 18 tuổi.
+Tổng quan
+Nhà quảng cáo có thể chạy quảng cáo quảng bá việc bán thuốc không kê đơn, miễn là họ phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc, nguyên tắc, giấy phép và hoạt động phê duyệt tương ứng trong ngành. Ngoài ra, theo quy định của Meta, quảng cáo về thuốc không kê đơn không được phép nhắm mục tiêu đến những người dưới 18 tuổi.
+Nguyên tắc
+Thuốc không kê đơn là thuốc mà mọi người có thể mua hoặc lấy được mà không cần bác sĩ/dược sĩ kê đơn. Trong đó bao gồm nhưng không giới hạn ở nhiều loại thuốc thông thường có thể uống được hoặc dùng ngoài da, chẳng hạn như thuốc chống viêm, chống dị ứng, thuốc sát trùng hoặc một số loại thuốc kháng sinh.Nhà quảng cáo có thể:
+* Quảng bá thuốc không kê đơn đối với người từ 18 tuổi trở lên
+Cần sa và các sản phẩm có nguồn gốc từ cần sa
+Quảng cáo không được quảng bá hoặc chào bán sản phẩm có THC hay cần sa, chứa thành phần liên quan có khả năng tác động đến thần kinh.Quảng cáo quảng bá hoặc chào bán cannabidiol (CBD) hay sản phẩm tương tự có chứa cannabidiol chỉ được phép hiển thị khi có văn bản ủy quyền từ trước. Theo yêu cầu của Meta, nhà quảng cáo quảng bá sản phẩm chứa CBD phải sở hữu chứng nhận LegitScript còn hiệu lực. Nhà quảng cáo được chứng nhận phải tuân thủ mọi luật hiện hành của nước sở tại, quy tắc và nguyên tắc tương ứng bắt buộc hoặc có sẵn trong ngành, bao gồm cả yêu cầu của Meta về hoạt động nhắm mục tiêu.
+Quảng cáo chỉ được phép quảng bá hoặc chào bán CBD ở Hoa Kỳ và không được nhắm mục tiêu đến những người dưới 18 tuổi. Nhà quảng cáo có thể nộp đơn xin LegitScript cấp chứng nhận tại đây. Nhà quảng cáo có thể làm theo các bước trong bài viết này để yêu cầu ủy quyền.
+Quảng cáo chỉ được phép quảng bá hoặc chào bán sản phẩm từ cây gai dầu ở Canada, Mexico và Hoa Kỳ, cũng như phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc và nguyên tắc tương ứng bắt buộc hoặc có sẵn trong ngành.
+Để biết thêm thông tin về chính sách này, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo để quảng bá **sản phẩm có THC hoặc cần sa**, chứa thành phần liên quan có khả năng tác động đến thần kinh.
+Nhà quảng cáo có thể chạy quảng cáo để quảng bá **sản phẩm chứa CBD**, miễn là họ sở hữu chứng nhận LegitScript còn hiệu lực, có văn bản ủy quyền của Meta, cũng như tuân thủ mọi luật hiện hành của nước sở tại, quy tắc và nguyên tắc tương ứng bắt buộc hoặc có sẵn trong ngành. Quảng cáo xoay quanh sản phẩm chứa CBD không được đưa ra lời tuyên bố về sức khỏe hay y tế hoặc nhắm mục tiêu đến những người dưới 18 tuổi, đồng thời chỉ được phép hiển thị ở những khu vực pháp lý dưới đây:
+* Hoa Kỳ
+Nhà quảng cáo có thể nộp đơn xin LegitScript cấp chứng nhận tại đây. Nhà quảng cáo có thể làm theo các bước trong bài viết này để yêu cầu Meta ủy quyền. Nhà quảng cáo chỉ có thể chạy quảng cáo để quảng bá **sản phẩm từ cây gai dầu** ở những khu vực pháp lý dưới đây, cũng như phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc và nguyên tắc tương ứng bắt buộc hoặc có sẵn trong ngành:
+* Canada
+* Mexico
+* Hoa Kỳ
+Lưu ý rằng những sản phẩm phải tuân theo chính sách của Meta về Thuốc theo toa sẽ không thuộc phạm vi điều chỉnh của chính sách này, và nhà quảng cáo của những sản phẩm này phải tuân thủ chính sách đó.
+Để biết thêm thông tin về chính sách này và những quốc gia mà chúng tôi cho phép hiển thị quảng cáo để quảng bá hoặc chào bán CBD và các sản phẩm liên quan, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo chạy quảng cáo trên các công nghệ của Meta phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Nhà quảng cáo không được chạy quảng cáo:
+* Quảng bá hoặc chào bán sản phẩm có Tetrahydrocannabinol (THC) hay cần sa, chứa thành phần liên quan có khả năng tác động đến thần kinh.
+* Quy định này áp dụng cho cả sản phẩm có thể ăn/uống được lẫn sản phẩm không thể ăn/uống được.
+* Quảng bá việc bán các đồ dùng liên quan đến chất cấm/chất gây nghiện, chẳng hạn như điếu, giấy cuốn và thiết bị hóa hơi
+* Chứa bất kỳ lời tuyên bố nào nêu rõ hoặc ám chỉ rằng sản phẩm được giới thiệu có thể điều trị/chữa khỏi/phòng ngừa/giảm nhẹ/chẩn đoán bệnh hay tình trạng bệnh lý ở người hoặc động vật.
+Nhà quảng cáo được chứng nhận và có văn bản ủy quyền của Meta có thể chạy quảng cáo:
+* Quảng bá hoặc chào bán sản phẩm chứa CBD có hàm lượng THC không quá 0,3%, miễn là họ:
+* Chỉ nhắm mục tiêu đến những người ở Hoa Kỳ.
+* Chỉ nhắm mục tiêu đến những người từ 18 tuổi trở lên.
+Nhà quảng cáo không cần có văn bản ủy quyền để chạy quảng cáo:
+* Quảng bá hoặc chào bán sản phẩm từ cây gai dầu không chứa CBD hoặc có hàm lượng THC không quá 0,3% (ví dụ: hạt giống và sợi cây gai dầu) ở Canada, Mexico và Hoa Kỳ, với điều kiện là họ phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc, nguyên tắc và giấy phép tương ứng bắt buộc hoặc có sẵn trong ngành.
+* Phổ cập kiến thức, ủng hộ hoặc đưa ra thông báo phục vụ công chúng xoay quanh CBD và các sản phẩm liên quan, với điều kiện là họ không chào bán bất kỳ sản phẩm nào bị cấm.
+Để biết các bí quyết về cách tuân thủ chính sách này, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 008
+TITLE: Cá cược và đánh bạc trực tuyến| Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/gambling-games/
+CONTENT_SHA256: 9e1572ea5ddc00ee2ff0216b6849e17210fa67c669cefe9717111c22fcbc00ec
+================================================================================
+Tiêu chuẩn quảng cáo
+Cá cược và đánh bạc trực tuyến
+# Cá cược và đánh bạc trực tuyến
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+2 tháng 3, 2026
+6 tháng 2, 2026
+30 tháng 9, 2025
+15 tháng 9, 2025
+23 tháng 6, 2025
+5 tháng 5, 2025
+28 tháng 3, 2025
+5 tháng 3, 2025
+22 tháng 10, 2024
+Cá cược và đánh bạc trực tuyến
+Meta định nghĩa hoạt động cá cược và đánh bạc trực tuyến là mọi sản phẩm hoặc dịch vụ chứa bất kỳ yếu tố gì có giá trị tiền tệ trong cách thức tham gia và nhận thưởng. Quảng cáo về hoạt động cá cược và đánh bạc trực tuyến chỉ được phép hiển thị sau khi tài khoản quảng cáo được ủy quyền. Nhà quảng cáo được ủy quyền phải tuân thủ mọi luật hiện hành và sử dụng tiêu chí nhắm mục tiêu theo yêu cầu nhắm mục tiêu của Meta. Quảng cáo cần đáp ứng yêu cầu tối thiểu là không được nhắm mục tiêu đến những người dưới 18 tuổi hoặc các thị trường mà Meta không hỗ trợ hoạt động đánh bạc (xem danh sách đầy đủ các thị trường không được hỗ trợ ở bên dưới). Tìm hiểu thêm trong Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+Tổng quan
+Nếu muốn chạy quảng cáo về hoạt động cá cược và đánh bạc trực tuyến, nhà quảng cáo sẽ cần yêu cầu Meta ủy quyền thông qua tab Ủy quyền và xác minh trong Meta Business Suite (MBS), đồng thời chứng minh rằng các hoạt động đánh bạc đó được cơ quan quản lý cấp giấy phép phù hợp hoặc được xác nhận là hợp pháp ở những lãnh thổ mà nhà quảng cáo muốn nhắm mục tiêu đến. Ngoài ra, theo quy định của Meta, quảng cáo về hoạt động cá cược và đánh bạc trực tuyến không được phép nhắm mục tiêu đến những người dưới 18 tuổi.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Trước khi nhắm đến một khu vực pháp lý mới, nhà quảng cáo phải tuyên bố ý định quảng cáo tại tab Ủy quyền và xác minh trong MBS. Nhà quảng cáo chịu trách nhiệm tuân thủ quy định của nước sở tại, đồng thời chỉ được chạy quảng cáo về hoạt động cá cược và đánh bạc trực tuyến mà pháp luật cho phép. Meta không chịu trách nhiệm về cách tài khoản quảng cáo được ủy quyền tuân thủ pháp luật và quy định của nước sở tại về hoạt động đánh bạc.
+Nguyên tắc
+**Để quảng bá những nội dung sau đây, bạn cần được Meta ủy quyền:**
+* Mọi loại hình đánh bạc trực tuyến. Một số loại hình đánh bạc phổ biến bao gồm đặt cược, xổ số, rút thăm trúng thưởng, sòng bạc, thể thao giả tưởng, lô tô, xì phé, giải thi đấu trò chơi yêu cầu kỹ năng và cá cược được ăn cả.
+* Hoạt động cá cược sử dụng bất kỳ vật gì có giá trị tiền tệ trong cách thức tham gia hoặc giải thưởng, bao gồm nhưng không giới hạn ở tiền mặt hoặc tiền kỹ thuật số như Bitcoin. Đó là những hoạt động cá cược yêu cầu mua để tiếp tục cuộc chơi hoặc có lợi thế giành giải thưởng trong trường hợp giải thưởng có giá trị tiền tệ.
+* Quảng cáo có trang đích chứa nội dung quảng bá hoạt động cá cược hoặc đánh bạc trực tuyến, ngay cả khi không có cơ hội đánh bạc hoặc cá cược trực tiếp trên trang đó (ví dụ: trang web tổng hợp hoặc liên kết).
+* Hình thức cá cược cho phép chơi thử trong một khoảng thời gian có hạn và yêu cầu phải thanh toán sau đó
+Sau khi được ủy quyền, nhà quảng cáo không được nhắm mục tiêu quảng cáo đến những người dưới 18 tuổi, cũng như không được chạy quảng cáo về hoạt động cá cược và đánh bạc trực tuyến tại các thị trường không được hỗ trợ sau đây:
+* Azerbaijan
+* Bangladesh
+* Ai Cập
+* Hồng Kông
+* Ấn Độ
+* Indonesia
+* Hàn Quốc
+* Kyrgyzstan
+* Malaysia
+* Mông Cổ
+* Myanmar
+* Pakistan
+* Philippines
+* Ả Rập Xê Út
+* Singapore
+* Đài Loan
+* Thái Lan
+* Việt Nam
+Những nhà quảng cáo được ủy quyền không được quảng bá quảng cáo về hoạt động Cá cược và đánh bạc nếu nước sở tại không cho phép nội dung đánh bạc. Họ có trách nhiệm phải hiểu rõ luật pháp nước sở tại về quảng cáo liên quan đến hoạt động Cá cược và đánh bạc ở những vị trí mình hoạt động.
+Nếu không được cho phép, nhà quảng cáo có thể chạy quảng cáo quảng bá:
+* Hoạt động cá cược ngoài đời, sử dụng tiền thật hoặc các cơ sở như sòng bạc "truyền thống", sự kiện giải trí tại sòng bạc hoặc sự kiện phát trực tiếp các giải thi đấu xì phé ngoài đời, miễn là quảng cáo hoặc trang đích không quảng bá hoặc khuyến khích hoạt động đánh bạc trực tuyến.
+* Xổ số của nhà nước hoặc chính phủ, miễn là nhà quảng cáo là đơn vị trực tiếp hoặc duy nhất chịu trách nhiệm chạy chương trình xổ số.
+* Khuyến mãi có phần thưởng, liên quan đến việc mua sản phẩm theo giá bán lẻ thông thường, miễn là hoạt động đánh bạc trực tuyến không phải là mô hình kinh doanh chính của nhà quảng cáo hoặc bất kỳ thương hiệu nào được giới thiệu.
+* Trò chơi hỗ trợ chơi hoàn toàn miễn phí, không mô phỏng trò chơi đánh bạc hay đem đến bất kỳ cơ hội nào để giành được bất cứ thứ gì có giá trị tiền tệ.
+**Lưu ý:** Nhà quảng cáo sẽ phải tuân thủ mọi luật hiện hành ở nước sở tại khi chạy những loại quảng cáo này. Quảng cáo không được mô tả hay nhắm mục tiêu đến trẻ vị thành niên.
+Trò chơi sòng bạc trên mạng xã hội, trò chơi cho phép chơi miễn phí
+Quảng cáo về các trò chơi sòng bạc trên mạng xã hội – những trò chơi trực tuyến mô phỏng hoạt động đánh bạc tại sòng bạc (ví dụ: bài xì phé, máy đánh bạc, cò quay, v.v.) – không đem đến cơ hội giành được tiền hoặc vật phẩm có giá trị tương đương tiền, bao gồm cả nội dung cho thấy cơ hội giành được tiền xu không có giá trị tiền tệ. Quảng cáo chỉ được phép hiển thị tại các thị trường được hỗ trợ nếu nhắm mục tiêu đến những người từ 18 tuổi trở lên. Chúng tôi không cho phép quảng cáo về Trò chơi sòng bạc trên mạng xã hội và Trò chơi cho phép chơi miễn phí tại các quốc gia sau đây:
+* Azerbaijan
+* Bangladesh
+* Ai Cập
+* Hồng Kông
+* Ấn Độ
+* Indonesia
+* Hàn Quốc
+* Kyrgyzstan
+* Malaysia
+* Mông Cổ
+* Myanmar
+* Pakistan
+* Philippines
+* Ả Rập Xê Út
+* Singapore
+* Đài Loan
+* Thái Lan
+* Việt Nam
+Vui lòng lưu ý rằng nếu trò chơi cho phép mua hoặc bán phần thưởng ảo giữa những người chơi trong trò chơi và/hoặc trên thị trường thứ cấp để đổi lấy tiền hoặc vật phẩm có giá trị tương đương tiền, vui lòng tham khảo chính sách về hoạt động Cá cược và đánh bạc trực tuyến của chúng tôi ở phía trên.
+Tổng quan
+Nếu nhà quảng cáo muốn chạy quảng cáo về hoạt động cá cược và đánh bạc trực tuyến, trong đó yêu cầu dùng bất kỳ thứ gì có giá trị tiền tệ để chơi và phần thưởng gồm bất cứ thứ gì có giá trị tiền tệ, họ sẽ cần yêu cầu Meta ủy quyền ban đầu. Những loại quảng cáo này phải tuân thủ chính sách của Meta về hoạt động Cá cược và đánh bạc trực tuyến.
+Để biết thêm thông tin, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Nguyên tắc
+Nhà quảng cáo có thể chạy quảng cáo về trò chơi sòng bạc trên mạng xã hội nếu đáp ứng các điều kiện sau đây:
+* Không đem đến cơ hội giành được tiền, tiền xu, quà tặng hoặc bất kỳ thứ gì có giá trị tiền tệ
+* Không nhắm mục tiêu đến những người dưới 18 tuổi
+* Không nhắm mục tiêu đến những quốc gia bị cấm như nêu ở trên
+Trò chơi sòng bạc trên mạng xã hội bao gồm các trò chơi trực tuyến mô phỏng trò chơi sòng bạc ngoài đời như bài xì phé, máy đánh bạc, cò quay nhưng không đưa ra bất kỳ khoản tiền thưởng nào hỗ trợ tài chính. Ví dụ: nhà quảng cáo có thể chạy quảng cáo đem đến cơ hội giành được "tiền xu" miễn là tiền xu không hề có giá trị tiền tệ.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 009
+TITLE: Cá nhân và tổ chức nguy hiểm | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/dangerous-orgs-individuals/
+CONTENT_SHA256: 3a73fe21cc4912d5dafaa97112f26192b0d9a0443e23ab602b5f5b1b01b6d077
+================================================================================
+Tiêu chuẩn quảng cáo
+Cá nhân và tổ chức nguy hiểm
+# Cá nhân và tổ chức nguy hiểm
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Cá nhân và tổ chức nguy hiểm
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Cá nhân và tổ chức nguy hiểm**
+Quảng cáo không được chứa nội dung ca ngợi, ủng hộ hoặc đại diện cho những cá nhân/tổ chức mà Meta xác định là Cá nhân và tổ chức nguy hiểm.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về Cá nhân và tổ chức nguy hiểm.
+Nguyên tắc
+**Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng của chúng tôi, quảng cáo không được:**
+* Ca ngợi, ủng hộ hoặc đại diện cho bất kỳ cá nhân/tổ chức nào được xác định ở bất kỳ cấp độ nào của Tiêu chuẩn cộng đồng.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 010
+TITLE: Cấu kết gây hại và cổ xúy tội ác | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/coordinating-harm-and-promoting-crime/
+CONTENT_SHA256: 786fb72bbac81e0e9c93364fcde9d08e4793ab914856a55f1c4a24a45d29cfab
+================================================================================
+Coordinating Harm And Promoting Crime
+# Cấu kết gây hại và cổ xúy tội ác
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Cấu kết gây hại và cổ xúy tội ác
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng động về hành vi Cấu kết gây hại và cổ xúy tội ác**
+Quảng cáo không được hỗ trợ, tổ chức, cổ xúy hay thừa nhận một số hoạt động phạm tội/gây hại nhắm đến con người, doanh nghiệp, tài sản hoặc động vật.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về hành vi Cấu kết gây hại và cổ xúy tội ác.
+Nguyên tắc
+**Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng của chúng tôi, quảng cáo không được:**
+* Mô tả hình ảnh về Thử thách lan truyền có rủi ro cao ngay cả trong bối cảnh lên án hoặc nâng cao nhận thức
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 011
+TITLE: Cổ vật có giá trị lịch sử | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/historical-artifacts/
+CONTENT_SHA256: 1114d3d97b3c280824445f775d594b2b0543ad3f0e100ff841e9b89a19bcc7b2
+================================================================================
+Historical Artifacts
+# Cổ vật có giá trị lịch sử
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Cổ vật có giá trị lịch sử
+Quảng cáo không được quảng bá việc bán cổ vật có giá trị lịch sử. Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo quảng bá việc bán cổ vật có giá trị lịch sử.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 012
+TITLE: Facebook
+SOURCE_TYPE: business_help
+CANONICAL_URL: https://www.facebook.com/business/brand-safety-and-suitability
+CONTENT_SHA256: 16f658c76e2ecedd8a6d30d30d1fc59be622a86f95b80879a16e23db9abfe93f
+================================================================================
+# Facebook
+Explore the things you love.
+Log into Facebook
+Email or mobile number
+Password
+- [x]
+Log in
+Forgot password?
+Create new account
+中文(简体)
+العربية
+Italiano
+More languages…
+Sign Up
+Log In
+Messenger
+Facebook Lite
+Video
+Meta Pay
+Meta Store
+Meta Quest
+Ray-Ban Meta
+Meta AI
+Threads
+Privacy Policy
+About
+Create ad
+Create Page
+Developers
+Careers
+Ad choices
+Terms
+Help
+Contact Uploading & Non-Users
+Meta © 2026
+===== SOURCE DOCUMENT 013
+TITLE: Giới thiệu về Tiêu chuẩn quảng cáo | Trung tâm minh bạch
+SOURCE_TYPE: policy_hub
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/
+CONTENT_SHA256: 76bb9d99843e053ac5e1734a2426770b269e61709a26307eefbfc2eaa393187f
+================================================================================
+Tiêu chuẩn quảng cáo
+# Giới thiệu về Tiêu chuẩn quảng cáo
+1. Tổng quan
+Tìm hiểu về Tiêu chuẩn quảng cáo của chúng tôi
+Tiêu chuẩn quảng cáo nêu chi tiết về chính sách cũng như hướng dẫn xoay quanh những loại nội dung quảng cáo mà chúng tôi cho phép và nghiêm cấm. Khi nhà quảng cáo đặt hàng, mỗi quảng cáo đều sẽ được xét duyệt theo chính sách của chúng tôi. Tiêu chuẩn quảng cáo cũng hướng dẫn về những hành vi của nhà quảng cáo có thể khiến Tài khoản kinh doanh hoặc tài sản đi kèm (tài khoản quảng cáo, Trang hoặc tài khoản người dùng) phải chịu các hạn chế quảng cáo.
+Nếu cho rằng chúng tôi đã sai lầm khi từ chối quảng cáo của bạn hay hạn chế nhầm Tài khoản kinh doanh của bạn hoặc tài sản đi kèm, bạn có thể yêu cầu xem xét lại một trong hai quyết định nêu trên thông qua phần Chất lượng tài khoản.
+Những điểm thường gây nhầm lẫn
+Để giúp bạn tạo dựng trải nghiệm quảng cáo phù hợp với người dùng và tuân thủ chính sách, chúng tôi đã nêu bật một số khía cạnh thường gây nhầm lẫn. Hãy nhấp vào các liên kết bên dưới để tìm hiểu thêm về:
+* Đặc điểm cá nhân và hành vi vi phạm quyền riêng tư
+* Nội dung gợi dục
+* Các hạn chế quảng cáo đối với tài sản doanh nghiệp
+2. Nguyên tắc xây dựng chính sách quảng cáo của Meta
+Nhà quảng cáo đóng góp cho cộng đồng trên Meta theo nhiều cách, bao gồm cả việc nêu bật những sản phẩm và dịch vụ mới hoặc thu hút sự chú ý đến các sự kiện và vấn đề. Nhằm đảm bảo an toàn cho cả doanh nghiệp lẫn tổ chức sử dụng các công cụ quảng cáo, đồng thời tạo môi trường thân thiện cho tất cả người dùng sản phẩm và dịch vụ mà chúng tôi cung cấp, chúng tôi đã đặt ra Tiêu chuẩn quảng cáo để hướng dẫn về những gì được phép trên các công nghệ của Meta.
+Nhà quảng cáo chạy quảng cáo trên các công nghệ của Meta phải tuân thủ Tiêu chuẩn cộng đồng và Tiêu chuẩn quảng cáo của chúng tôi.
+Nguyên tắc xây dựng chính sách quảng cáo của chúng tôi
+Chính sách của chúng tôi dựa trên các giá trị cốt lõi của công ty và những nguyên tắc sau đây:
+BẢO VỆ MỌI NGƯỜI TRƯỚC HÀNH VI KHÔNG AN TOÀN VÀ PHÂN BIỆT ĐỐI XỬ
+Theo chính sách của chúng tôi, mọi nhà quảng cáo đều phải tuân thủ luật tại khu vực pháp lý của họ, không thực hiện hành vi phân biệt đối xử, không bán các chất bất hợp pháp hoặc không an toàn.
+BẢO VỆ MỌI NGƯỜI TRƯỚC NGUY CƠ GIAN LẬN HOẶC LỪA ĐẢO
+Chính sách của chúng tôi nghiêm cấm quảng cáo quảng bá sản phẩm, dịch vụ, kế hoạch hoặc ưu đãi có dùng các phương thức gây hiểu nhầm hoặc mang tính lừa đảo, bao gồm cả những phương thức lừa mọi người trả tiền hoặc cung cấp thông tin cá nhân.
+THÚC ĐẨY TRẢI NGHIỆM TÍCH CỰC CHO NGƯỜI DÙNG
+Vì hệ thống có thể phân phối quảng cáo cho mọi người trong Bảng feed của họ từ những Trang/tài khoản họ không theo dõi, chúng tôi muốn đảm bảo rằng quảng cáo không làm giảm giá trị của trải nghiệm chung trên các công nghệ của mình. Do đó, chúng tôi nghiêm cấm quảng cáo chứa nội dung gây sốc, giật gân hoặc bạo lực quá mức, một số nội dung nhất định dành cho người lớn và từ ngữ tục tĩu. Ngoài ra, chúng tôi nghiêm cấm những nội dung phản cảm khác, chẳng hạn như nội dung gây tác động ngầm hoặc cố tình tác động để khiến người xem nhìn nhận tiêu cực về bản thân nhằm quảng bá sản phẩm ăn kiêng, giảm cân hoặc các sản phẩm khác liên quan đến sức khỏe.
+TĂNG CƯỜNG TÍNH MINH BẠCH
+Chúng tôi nỗ lực nâng cao tính minh bạch của quảng cáo và cung cấp cho mọi người thêm nhiều thông tin về những quảng cáo mà họ nhìn thấy. Thông qua Thư viện quảng cáo của chúng tôi, mọi người có thể xem tất cả quảng cáo đang chạy trên các ứng dụng và dịch vụ mà chúng tôi cung cấp. Thư viện quảng cáo cũng cho biết thêm thông tin xoay quanh quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị, bao gồm cả khoảng chi tiêu, đối tượng nhìn thấy quảng cáo và những thực thể chịu trách nhiệm về các loại quảng cáo nêu trên. Quảng cáo về các chủ đề này sẽ hiển thị (bất kể có đang hoạt động hay không) và được lưu trữ trong Thư viện quảng cáo trong 7 năm. Trên tất cả các Trang Facebook, mọi người còn có thể nhấp vào phần Thông tin và quảng cáo để xem các quảng cáo mà một Trang đang chạy. Nhờ thế, nhà quảng cáo sẽ luôn phải làm tròn trách nhiệm giải trình.
+Cách chúng tôi thực thi chính sách
+Để thực thi chính sách, chúng tôi áp dụng quy trình xét duyệt tự động và ở một số trường hợp thì áp dụng quy trình xét duyệt thủ công. Ngoài việc xét duyệt từng quảng cáo, chúng tôi còn giám sát và tìm hiểu hành vi của nhà quảng cáo, đồng thời có thể hạn chế những tài khoản của nhà quảng cáo không tuân thủ Tiêu chuẩn quảng cáo, Tiêu chuẩn cộng đồng hoặc các chính sách và điều khoản khác của Meta. Quy trình xét duyệt của chúng tôi có thể không phát hiện ra mọi hành vi vi phạm chính sách. Vì vậy, quảng cáo có thể vẫn sẽ bị xét duyệt, xem xét lại và bị từ chối bất cứ khi nào vi phạm chính sách của chúng tôi. Nhà quảng cáo có trách nhiệm phải nắm rõ và tuân thủ các chính sách mà chúng tôi đặt ra trong Tiêu chuẩn quảng cáo, Điều khoản dịch vụ của Meta, mọi điều khoản và nguyên tắc khác được áp dụng, cũng như tất cả các luật, quy định của nước sở tại và quy tắc quảng cáo tự điều chỉnh (nếu có). Nếu có quảng cáo bị từ chối, nhà quảng cáo thường sẽ có cơ hội chỉnh sửa sao cho quảng cáo tuân thủ chính sách, đồng thời có thể yêu cầu xem xét lại khi cho rằng quảng cáo bị từ chối do nhầm lẫn.
+Mọi người có thể báo cáo quảng cáo nếu cho rằng quảng cáo đó vi phạm chính sách của chúng tôi. Họ cũng có thể xem chi tiết để biết vì sao một quảng cáo nào đó hiển thị trên Bảng feed. Ngoài ra, họ có thể dùng công cụ Tùy chọn quảng cáo để kiểm soát những quảng cáo mình nhìn thấy trên Bảng feed.
+3. Quy trình xét duyệt quảng cáo
+Hệ thống xét duyệt quảng cáo của chúng tôi chủ yếu dựa vào các công cụ tự động hóa để kiểm tra xem quảng cáo và tài sản doanh nghiệp có vi phạm chính sách không. Quy trình xét duyệt quảng cáo sẽ tự động diễn ra trước khi quảng cáo bắt đầu chạy và thường hoàn tất trong vòng 24 giờ. Mặc dù vậy, ở một số trường hợp, quy trình này có thể mất nhiều thời gian hơn. Trong quy trình xét duyệt này, quảng cáo sẽ ở trạng thái "Đang xét duyệt". Ngoài ra, quảng cáo có thể được xem xét lại, kể cả sau khi đã đi vào hoạt động. Bạn có thể tìm thêm thông tin trong Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+Những yếu tố được xét duyệt
+Hệ thống xét duyệt quảng cáo sẽ xét duyệt xem quảng cáo có vi phạm chính sách của chúng tôi không. Trong quy trình xét duyệt này, chúng tôi có thể xem xét các thành phần cụ thể của quảng cáo như hình ảnh, video, văn bản và thông tin nhắm mục tiêu, cũng như trang đích liên quan đến quảng cáo hoặc các đích đến khác, cùng với những thông tin khác.
+Xét duyệt tài sản doanh nghiệp
+Chúng tôi cũng xét duyệt và đưa ra biện pháp xử lý đối với Tài khoản kinh doanh của nhà quảng cáo hoặc tài sản đi kèm (tài khoản quảng cáo, Trang và tài khoản người dùng). Trong quá trình xét duyệt, chúng tôi sẽ đánh giá xem tài khoản hoặc tài sản đi kèm có vi phạm chính sách của chúng tôi hay không.
+Kết quả xét duyệt
+Trong quy trình xét duyệt, cứ khi nào phát hiện ra hành vi vi phạm, chúng tôi sẽ từ chối quảng cáo và có thể hạn chế Tài khoản kinh doanh hoặc tài sản đi kèm. Nếu quảng cáo có chất lượng thấp hơn nhưng không hẳn là vi phạm chính sách của chúng tôi, hiệu quả quảng cáo có thể sẽ bị ảnh hưởng. Bạn có thể truy cập vào Trung tâm trợ giúp doanh nghiệp của chúng tôi để tìm hiểu thêm về những tác động tiềm ẩn mà chất lượng gây ra cho quảng cáo.
+Nếu Tài khoản kinh doanh hoặc tài sản đi kèm (tài khoản quảng cáo, Trang hoặc tài khoản người dùng) bị hạn chế, nhà quảng cáo sẽ không thể sử dụng tài khoản hoặc tài sản đó để quảng cáo trên các công nghệ của chúng tôi. Nếu tài khoản người dùng bị hạn chế quảng cáo bằng Tài khoản kinh doanh hoặc tài khoản quảng cáo, các thành viên khác của những tài khoản đó vẫn có thể quảng cáo.
+Xem xét lại quảng cáo
+Quảng cáo vẫn có khả năng bị xét duyệt và xem xét lại vào bất kỳ thời điểm nào. Ngoài ra, quảng cáo có thể sẽ bị từ chối hoặc hạn chế bất cứ khi nào vi phạm chính sách của chúng tôi. Bạn có trách nhiệm phải hiểu rõ và tuân thủ chính sách của chúng tôi.
+4. Việc bạn nên làm nếu quảng cáo bị từ chối hoặc nếu tài sản doanh nghiệp bị hạn chế
+Tạo quảng cáo mới hoặc chỉnh sửa quảng cáo
+Bạn có thể tạo quảng cáo mới hoặc chỉnh sửa sao cho quảng cáo tuân thủ chính sách của chúng tôi. Những quảng cáo này sẽ được xem là quảng cáo mới và được hệ thống xét duyệt quảng cáo của chúng tôi xét duyệt. Hãy xem trang này để biết các bước chỉnh sửa.
+Yêu cầu xem xét lại
+Nếu cho rằng quảng cáo, tài khoản quảng cáo, tài khoản người dùng, Trang hoặc Tài khoản kinh doanh bị từ chối hoặc hạn chế do nhầm lẫn, bạn có thể yêu cầu xem xét lại quyết định đó thông qua phần Chất lượng tài khoản.
+Tiêu chuẩn cộng đồng nêu rõ những điều không được phép trên các công nghệ của Meta.
+Quảng cáo không được vi phạm Tiêu chuẩn cộng đồng của chúng tôi.
+**Tìm hiểu thêm**
+Nội dung không chấp nhận được
+Nội dung bất hợp pháp hoặc bị những người dùng công nghệ của chúng tôi xem là không chấp nhận được.
+Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em
+Quảng cáo không được chứa nội dung bóc lột tình dục hoặc gây nguy hiểm cho trẻ em. Khi phát hiện hành vi rõ ràng là bóc lột trẻ em, chúng tôi sẽ báo cáo cho Trung tâm Quốc gia về Trẻ em Bị bóc lột và Mất tích NCMEC (National Center for Missing and Exploited Children) theo luật hiện hành.
+**Tìm hiểu thêm**
+Hành vi cấu kết gây hại và cổ xúy tội ác
+Quảng cáo không được hỗ trợ, tổ chức, cổ xúy hay thừa nhận một số hoạt động phạm tội/gây hại nhắm đến con người, doanh nghiệp, tài sản hoặc động vật.
+**Tìm hiểu thêm**
+Cá nhân và tổ chức nguy hiểm
+Quảng cáo không được chứa nội dung ca ngợi, ủng hộ hoặc đại diện cho những cá nhân/tổ chức mà Meta xác định là Cá nhân và tổ chức nguy hiểm.
+**Tìm hiểu thêm**
+Hành vi phân biệt đối xử
+Quảng cáo không được phân biệt đối xử hoặc cổ xúy thái độ phân biệt đối xử với mọi người dựa trên các đặc điểm cá nhân như chủng tộc, dân tộc, màu da, nguồn gốc quốc gia, tôn giáo, tuổi tác, giới tính, thiên hướng tính dục, bản dạng giới, tình trạng gia đình, tình trạng khuyết tật, tình trạng bệnh lý hoặc đặc tính di truyền.
+Meta nghiêm cấm nhà quảng cáo sử dụng các sản phẩm quảng cáo của công ty để phân biệt đối xử với mọi người. Điều này có nghĩa là nhà quảng cáo không được (1) sử dụng các công cụ chọn đối tượng của chúng tôi để (a) nhắm mục tiêu một cách phi pháp đến những nhóm người cụ thể nhằm quảng cáo (xem chính sách quảng cáo về khía cạnh Nhắm mục tiêu) hoặc (b) loại trừ trái phép những nhóm người cụ thể khỏi đối tượng nhìn thấy quảng cáo; hoặc (2) đưa nội dung mang tính phân biệt đối xử vào quảng cáo. Nhà quảng cáo cũng phải tuân thủ những luật hiện hành nghiêm cấm phân biệt đối xử (xem chính sách quảng cáo về Sản phẩm hoặc dịch vụ bất hợp pháp), bao gồm cả các luật nghiêm cấm phân biệt đối xử với những nhóm người liên quan đến các ưu đãi về nhà ở, việc làm, sản phẩm và dịch vụ tài chính chẳng hạn.
+Đối với mọi nhà quảng cáo ở Hoa Kỳ hoặc nhà quảng cáo nhắm mục tiêu đến Hoa Kỳ, Canada hay một số khu vực nhất định của châu Âu, đang chạy quảng cáo về sản phẩm và dịch vụ tài chính, nhà ở hoặc việc làm, họ phải tự xác định là quảng cáo thuộc Hạng mục quảng cáo đặc biệt khi hạng mục này bắt đầu được áp dụng. Ngoài ra, họ phải chạy các quảng cáo nói trên với những lựa chọn nhắm mục tiêu đã được phê duyệt.
+Thông tin và nguồn lực khác về luật không phân biệt đối xử của Hoa Kỳ:
+Bộ Gia cư và Phát triển Đô thị Hoa Kỳ
+Ủy ban Cơ hội Việc làm Bình đẳng Hoa Kỳ
+Cục Bảo vệ Tài chính cho Người tiêu dùng
+Liên đoàn Tự do Dân sự Mỹ
+Hội nghị cấp Lãnh đạo về Nhân quyền và Dân quyền
+Bộ Tư pháp – Ban Dân quyền
+Liên minh Công bằng về Nhà ở Quốc gia
+Tuyên bố miễn trừ trách nhiệm: Hướng dẫn này không thay thế cho lời khuyên về pháp lý. Hãy hỏi ý kiến của chuyên gia pháp lý để được tư vấn cụ thể về trường hợp của bạn.
+**Tìm hiểu thêm**
+Hành vi gây thù ghét
+Quảng cáo không được công kích mọi người dựa trên những gì mà chúng tôi gọi là đặc điểm được bảo vệ: chủng tộc, dân tộc, nguồn gốc quốc gia, tình trạng khuyết tật, thành phần tôn giáo, đẳng cấp, thiên hướng tính dục, giới tính, bản dạng giới và bệnh tật nghiêm trọng.
+**Tìm hiểu thêm**
+Bóc lột con người
+Quảng cáo không được chứa nội dung hỗ trợ hoặc cấu kết thực hiện hoạt động bóc lột con người, bao gồm cả hành vi buôn người.
+**Tìm hiểu thêm**
+Nội dung, sản phẩm hoặc dịch vụ vi phạm luật pháp nước sở tại
+Chúng tôi có thể gỡ các quảng cáo bị chính phủ, lệnh tòa, tổ chức phi chính phủ hoặc thành viên trong cộng đồng báo cáo là vi phạm luật pháp nước sở tại.
+**Tìm hiểu thêm**
+Thông tin sai lệch
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Thông tin sai lệch.
+Meta nghiêm cấm quảng cáo chứa nội dung bị các bên thứ ba xác minh dữ kiện phát hiện là sai sự thật. Nếu nhiều lần đăng thông tin bị xem là sai sự thật, nhà quảng cáo có thể sẽ bị hạn chế khả năng quảng cáo trên các công nghệ của Meta. Tìm hiểu thêm về chương trình xác minh dữ kiện của chúng tôi.
+Meta cũng nghiêm cấm các quảng cáo chứa thông tin sai lệch vi phạm Tiêu chuẩn cộng đồng.
+**Tìm hiểu thêm**
+Hành vi ngăn cản tiêm vắc xin
+Quảng cáo không được ngăn cản mọi người tiêm vắc xin hoặc ủng hộ hành vi chống đối vắc xin.
+**Tìm hiểu thêm**
+Hành vi gian lận, lừa đảo và lừa gạt
+Nội dung có khả năng lừa đảo hoặc gây hiểu nhầm cho mọi người.
+Hành vi gian lận, lừa đảo và lừa gạt
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi gian lận, lừa đảo và lừa gạt.
+**Tìm hiểu thêm**
+Phương thức kinh doanh không được chấp nhận
+Quảng cáo không được quảng bá sản phẩm, dịch vụ, kế hoạch hoặc ưu đãi có dùng các phương thức gây hiểu nhầm hoặc mang tính lừa đảo đã được xác định, bao gồm cả những phương thức lừa mọi người trả tiền hay cung cấp thông tin cá nhân. Khi phát hiện thấy nhà quảng cáo có hành vi đáng ngờ, bao gồm cả hành vi có dấu hiệu gian dối, hoặc đang chạy quảng cáo thuộc một số hạng mục có khả năng là mục tiêu của kẻ lừa đảo, chúng tôi có thể sẽ yêu cầu các nhà quảng cáo đó hoàn tất quy trình xác minh bổ sung.
+**Tìm hiểu thêm**
+Hàng hóa và dịch vụ bị hạn chế
+Nội dung có nguy cơ gây tác động tiêu cực đến sự an toàn và sức khỏe của mọi người.
+Đồ uống có cồn
+Quảng cáo quảng bá hoặc nhắc đến đồ uống có cồn phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc, nguyên tắc, giấy phép và hoạt động phê duyệt tương ứng bắt buộc hoặc có sẵn trong ngành, đồng thời phải bao gồm những tiêu chí nhắm mục tiêu theo độ tuổi và quốc gia phù hợp với các yêu cầu nhắm mục tiêu của Meta cũng như luật hiện hành của nước sở tại. Lưu ý rằng chính sách của chúng tôi cấm quảng cáo quảng bá hoặc nhắc đến đồ uống có cồn ở một số quốc gia, dựa trên luật pháp nước sở tại.
+Nhà quảng cáo phải tuân thủ mọi luật hiện hành, bao gồm cả việc nhắm mục tiêu quảng cáo theo yêu cầu pháp lý. Quảng cáo phải đáp ứng được yêu cầu tối thiểu là không nhắm mục tiêu đến những người dưới 18 tuổi.
+**Tìm hiểu thêm**
+Nội dung lợi dụng các cuộc khủng hoảng và sự kiện gây tranh cãi để phục vụ mục đích thương mại
+Quảng cáo không được chứa nội dung lợi dụng các cuộc khủng hoảng hay sự kiện gây tranh cãi để phục vụ mục đích thương mại.
+**Tìm hiểu thêm**
+Quảng cáo về dịch vụ hẹn hò
+Bạn chỉ được quảng cáo về các dịch vụ hẹn hò khi có văn bản cho phép trước. Những quảng cáo này phải tuân thủ các yêu cầu nhắm mục tiêu đối với mục đích hẹn hò và nguyên tắc của chúng tôi về quảng cáo hẹn hò. Bạn có thể xem chi tiết tại đây để biết các yêu cầu về quy trình xin phép. Nếu bạn muốn xin phép, vui lòng điền vào mẫu này để bắt đầu quy trình đăng ký.
+**Tìm hiểu thêm**
+Hàng hóa và vật liệu nguy hiểm
+Quảng cáo không được quảng bá việc bán hàng hóa và vật liệu nguy hiểm. Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+**Tìm hiểu thêm**
+Sức khỏe thể chất và tinh thần
+Chính sách này áp dụng cho 2 loại quảng cáo: Sản phẩm và thủ thuật giảm cân, mỹ phẩm và thủ thuật thẩm mỹ, cũng như sản phẩm dành cho người lớn và chăm sóc sức khỏe sinh sản.
+**Sản phẩm và thủ thuật giảm cân, mỹ phẩm và thủ thuật thẩm mỹ**
+Quảng cáo quảng bá hoặc tiếp thị các sản phẩm và dịch vụ ăn kiêng, hỗ trợ sức khỏe hoặc giảm cân phải nhắm mục tiêu đến những người từ 18 tuổi trở lên.
+Quảng cáo quảng bá hoặc tiếp thị mỹ phẩm, thủ thuật hoặc biện pháp phẫu thuật thẩm mỹ phải nhắm mục tiêu đến những người từ 18 tuổi trở lên.
+Quảng cáo không được ám chỉ hoặc cố tình khơi gợi cảm nhận tiêu cực về bản thân hoặc tuyên bố rằng có một kiểu thân hình/ngoại hình hoàn hảo mà mọi người nên khao khát nhằm quảng bá thủ thuật hỗ trợ ăn kiêng, giảm cân, thủ thuật thẩm mỹ hay bất kỳ sản phẩm nào khác liên quan đến sức khỏe.
+**Tìm hiểu thêm**
+Cổ vật có giá trị lịch sử
+Quảng cáo không được quảng bá việc bán cổ vật có giá trị lịch sử.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+**Tìm hiểu thêm**
+Bán bộ phận và dịch cơ thể người
+Quảng cáo không được quảng bá việc bán bộ phận hoặc dịch cơ thể người.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+**Tìm hiểu thêm**
+Bán các loài có nguy cơ tuyệt chủng và động vật không có nguy cơ tuyệt chủng
+Quảng cáo không được quảng bá, quyên góp hoặc tặng những sản phẩm có nguồn gốc từ các loài bị đe dọa/tuyệt chủng/có nguy cơ tuyệt chủng, bao gồm cả thực vật và động vật hoang dã.
+Quảng cáo không được quảng bá việc bán hoặc trao đổi ngang hàng các loài động vật sống không có nguy cơ tuyệt chủng, kể cả trong bối cảnh không thể hiện rõ tính chất của hoạt động bán hoặc trao đổi đó.
+Quảng cáo được phép đưa ra các loài động vật sống không có nguy cơ tuyệt chủng chỉ trong bối cảnh hiến tặng, tìm nơi ở mới hoặc nhận nuôi.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+**Tìm hiểu thêm**
+Thuốc lá và các sản phẩm liên quan
+Quảng cáo không được quảng bá việc bán hay sử dụng các sản phẩm thuốc lá hoặc chứa nicotine và dụng cụ có liên quan. Quảng cáo không được quảng bá các thiết bị hút thuốc điện tử chứa nicotine (ví dụ: thuốc lá điện tử, thiết bị hóa hơi) hay bất kỳ sản phẩm nào khác mô phỏng hành vi hút thuốc hoặc được thiết kế để dùng với các sản phẩm thuốc lá hoặc chứa nicotine. Quảng cáo chỉ được phép quảng bá các sản phẩm cai thuốc lá đã được Tổ chức Y tế Thế giới hoặc Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt, đồng thời phải tuân thủ mọi luật hiện hành của nước sở tại, quy tắc và nguyên tắc tương ứng bắt buộc hoặc có sẵn trong ngành.
+**Tìm hiểu thêm**
+Vũ khí, đạn dược hoặc chất nổ
+Quảng cáo không được quảng bá việc bán hoặc sử dụng vũ khí, đạn dược hay chất nổ, bao gồm cả các phụ kiện làm biến đổi vũ khí.
+**Tìm hiểu thêm**
+Chất cấm/chất gây nghiện và dược phẩm
+Nhà quảng cáo không được chạy quảng cáo quảng bá việc bán hoặc sử dụng các chất cấm/chất dùng cho mục đích giải trí hay các loại chất, sản phẩm hoặc thực phẩm bổ sung không an toàn khác như Meta đã xác định theo quyền quyết định của riêng mình. Nếu quảng bá thuốc kê đơn, thuốc không kê đơn và sản phẩm có nguồn gốc từ cần sa, quảng cáo phải tuân thủ các yêu cầu cụ thể như nêu rõ trong chính sách bên dưới.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo chạy quảng cáo trên các công nghệ của Meta phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+**Tìm hiểu thêm**
+Điều trị cai chất gây nghiện và đồ uống có cồn
+Theo yêu cầu của Meta, nếu nhà quảng cáo muốn chạy quảng cáo về dịch vụ điều trị cai nghiện có nhắm mục tiêu đến những người ở Hoa Kỳ, họ phải có chứng nhận của LegitScript và đăng ký với Meta để xin phép quảng cáo.
+Nhà quảng cáo có thể nộp đơn xin LegitScript cấp chứng nhận tại đây.
+**Tìm hiểu thêm**
+Sản phẩm, dịch vụ tài chính và bảo hiểm
+Quảng cáo về các dịch vụ bảo hiểm, thẻ tín dụng hoặc khoản cho vay phải nhắm mục tiêu đến đối tượng từ 18 tuổi trở lên, đồng thời không được trực tiếp yêu cầu nhập bất kỳ thông tin nhận dạng cá nhân nào hoặc một số loại thông tin tài chính nhất định.
+Trong trường hợp được yêu cầu, nhà quảng cáo quảng bá sản phẩm và dịch vụ tài chính phải xác minh danh tính doanh nghiệp và/hoặc cá nhân, cũng như chứng minh rằng các cơ quan quản lý liên quan đã ủy quyền cho họ, đồng thời Meta có thể sẽ xem xét mọi sự ủy quyền như vậy. Nhà quảng cáo cũng phải tuân thủ các yêu cầu do luật quy định về việc tiết lộ thông tin.
+Hãy truy cập vào Trung tâm trợ giúp doanh nghiệp của chúng tôi để tìm hiểu thêm về quy trình ủy quyền.
+**Tìm hiểu thêm**
+Sản phẩm và dịch vụ tiền mã hóa
+Quảng cáo không được quảng bá phần mềm, nền tảng giao dịch tiền mã hóa cũng như các sản phẩm và dịch vụ liên quan, có hỗ trợ kiếm tiền từ, bán lại, trao đổi hoặc đặt cược tiền mã hóa khi không có văn bản cho phép trước. Để đăng ký, vui lòng nhấp vào đây. Nếu bạn muốn biết thêm thông tin, hãy xem Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+**Tìm hiểu thêm**
+Cá cược và đánh bạc trực tuyến
+Meta định nghĩa hoạt động cá cược và đánh bạc trực tuyến là mọi sản phẩm hoặc dịch vụ chứa bất kỳ yếu tố gì có giá trị tiền tệ trong cách thức tham gia và nhận thưởng. Quảng cáo quảng bá hoạt động cá cược và đánh bạc trực tuyến chỉ được phép hiển thị khi chúng tôi cho phép trước bằng văn bản. Nhà quảng cáo được ủy quyền phải tuân thủ mọi luật hiện hành và sử dụng tiêu chí nhắm mục tiêu theo yêu cầu nhắm mục tiêu của Meta. Quảng cáo phải đáp ứng được yêu cầu tối thiểu là không nhắm mục tiêu đến những người dưới 18 tuổi. Tìm hiểu thêm trong Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+**Tìm hiểu thêm**
+Nội dung phản cảm
+Nội dung có thể gây ra trải nghiệm tiêu cực.
+Hoạt động tình dục và ảnh khỏa thân người lớn
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hoạt động tình dục và ảnh khỏa thân người lớn. Quảng cáo không được chứa hoạt động tình dục và ảnh khỏa thân người lớn, bao gồm cả ảnh khỏa thân, nội dung mô tả người ở tư thế khiêu dâm hoặc gợi dục hay các hoạt động gợi dục.
+**Tìm hiểu thêm**
+Bóc lột tình dục người lớn
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về hành vi Bóc lột tình dục người lớn. Quảng cáo không được hiển thị, cổ xúy hoặc dàn xếp các hoạt động tình dục với những bên không đồng thuận để tránh tiếp tay cho các hoạt động tình dục không có sự đồng thuận.
+**Tìm hiểu thêm**
+Hành vi gạ gẫm tình dục người lớn và ngôn ngữ khiêu dâm
+Quảng cáo không được chứa nội dung tiếp tay cho các cuộc gặp gỡ quan hệ tình dục, dịch vụ mại dâm giữa người lớn hay nội dung hỏi xin hoặc cung cấp nội dung khiêu dâm. Ngoài ra, chúng tôi hạn chế việc dùng ngôn ngữ khiêu dâm.
+**Tìm hiểu thêm**
+Bắt nạt và quấy rối
+Quảng cáo không được công kích nhằm hạ thấp hoặc làm nhục người bình thường và người của công chúng. Chúng tôi cũng áp dụng các biện pháp bảo vệ ở mức độ cao hơn cho bất kỳ ai dưới 18 tuổi, dù trạng thái người dùng của họ là gì.
+**Tìm hiểu thêm**
+Từ ngữ tục tĩu
+Quảng cáo không được chứa từ ngữ tục tĩu.
+**Tìm hiểu thêm**
+Đặc điểm cá nhân và hành vi vi phạm quyền riêng tư
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về hành vi Vi phạm quyền riêng tư.
+Quảng cáo không được chứa nội dung chia sẻ hoặc yêu cầu cung cấp thông tin riêng tư về người dùng. Ngoài ra, quảng cáo không được chứa nội dung khẳng định hoặc ám chỉ các đặc điểm cá nhân, bao gồm cả việc khẳng định hoặc ám chỉ một cách trực tiếp/gián tiếp về chủng tộc, dân tộc, tôn giáo, niềm tin, độ tuổi, thiên hướng tính dục/hoạt động tình dục, bản dạng giới, tình trạng khuyết tật, sức khỏe thể chất/tinh thần (bao gồm cả tình trạng bệnh lý), tình trạng tài chính bất ổn, tình trạng bỏ phiếu, tình trạng tham gia công đoàn, lý lịch tư pháp hoặc tên của một người.
+**Tìm hiểu thêm**
+Nội dung bạo lực và phản cảm
+Quảng cáo không được chứa nội dung gây sốc, giật gân hoặc bạo lực quá mức.
+**Tìm hiểu thêm**
+Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống. Quảng cáo không được phép cổ xúy hành vi tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống (bao gồm cả nội dung hư cấu như ảnh chế hoặc hình minh họa) và bất kỳ nội dung nào như vậy có dạng hình ảnh, bất kể bối cảnh là gì. Ngoài ra, quảng cáo không được phép chế giễu nạn nhân/người đã vượt qua việc tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống, cũng như nội dung mô tả theo thời gian thực về hành vi tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống.
+**Tìm hiểu thêm**
+Xâm phạm quyền sở hữu trí tuệ
+Nội dung vi phạm quyền sở hữu trí tuệ của một bên thứ ba hoặc của Meta.
+Xâm phạm quyền sở hữu trí tuệ của bên thứ ba
+Quảng cáo không được chứa nội dung vi phạm quyền sở hữu trí tuệ của bất kỳ bên thứ ba nào, bao gồm cả bản quyền, nhãn hiệu hàng hóa hoặc các quyền hợp pháp khác. Quy tắc này bao gồm nhưng không giới hạn ở việc quảng bá hoặc bán hàng giả, chẳng hạn như sản phẩm sao chép nhãn hiệu hàng hóa (tên hay logo) và/hoặc các đặc điểm khác biệt của sản phẩm thuộc một công ty khác để bắt chước sản phẩm thật.
+**Tìm hiểu thêm**
+Sử dụng giấy phép và tài sản trí tuệ của Meta
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về việc Sử dụng giấy phép và tài sản trí tuệ của Meta.
+Quảng cáo không được sử dụng Giấy phép và Tài sản trí tuệ của Meta theo cách vi phạm Tiêu chuẩn cộng đồng và nguyên tắc trong Trung tâm tài nguyên thương hiệu.
+**Tìm hiểu thêm**
+Quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị
+Nội dung quảng bá các quan điểm về vấn đề xã hội, vấn đề bầu cử hoặc chính trị.
+Quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị
+Nhà quảng cáo có thể chạy quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị, miễn là họ tuân thủ tất cả các luật hiện hành và quy trình ủy quyền mà Meta yêu cầu. Meta có thể hạn chế quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị. Ngoài ra, một số nội dung liên quan đến cuộc bầu cử có thể bị cấm theo luật pháp nước sở tại hoặc bị gỡ ở các khu vực cụ thể trước khi sự kiện bỏ phiếu diễn ra; nhấp vào đây để biết thêm thông tin.
+**Tìm hiểu thêm**
+Các chính sách cụ thể theo sản phẩm và định dạng
+Nội dung liên quan đến các yêu cầu cụ thể khác theo định dạng.
+Quảng cáo video
+Quảng cáo video và các loại quảng cáo động khác phải tuân thủ mọi quy tắc nêu trong những Tiêu chuẩn quảng cáo này (bao gồm cả Tiêu chuẩn cộng đồng) cũng như các chính sách bên dưới:
+1. **Nội dung gây gián đoạn**Video và các loại quảng cáo tương tự khác không được sử dụng những thủ thuật làm gián đoạn quá mức, chẳng hạn như màn hình nháy.
+2. **Các hạn chế liên quan đến giải trí**Quảng cáo về đoạn giới thiệu phim, chương trình truyền hình, đoạn giới thiệu trò chơi điện tử và các nội dung tương tự khác chỉ được phép hiển thị khi nhận được văn bản cho phép trước từ Meta, đồng thời phải nhắm mục tiêu đến những người từ 18 tuổi trở lên. Không được phép mô tả quá mức những nội dung sau đây trong các quảng cáo này:
+* Sử dụng chất cấm, chất gây nghiện và đồ uống có cồn
+* Nội dung dành cho người lớn
+* Từ ngữ tục tĩu
+* Bạo lực và máu me
+Quảng cáo tìm kiếm khách hàng tiềm năng
+Trong quảng cáo tìm kiếm khách hàng tiềm năng, nhà quảng cáo không được đặt câu hỏi để yêu cầu cung cấp những loại thông tin sau đây khi chưa có văn bản cho phép trước của chúng tôi.
+1. Số tài khoản
+Quảng cáo không được yêu cầu số tài khoản (bao gồm cả mã số hành khách thường xuyên, số thẻ khách hàng thân thiết hoặc số tài khoản điện thoại/truyền hình cáp) khi chúng tôi chưa cho phép trước.
+2. Lý lịch tư pháp
+Quảng cáo không được yêu cầu cung cấp thông tin liên quan đến lý lịch tư pháp hoặc tiền án khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người đã bị buộc tội hoặc kết án hay chưa
+3. Thông tin tài chính
+Quảng cáo không được yêu cầu cung cấp thông tin tài chính (bao gồm cả số tài khoản ngân hàng, số định tuyến ngân hàng, số thẻ tín dụng hoặc thẻ ghi nợ, điểm tín dụng, thu nhập, giá trị tài sản ròng hoặc số tiền mà ai đó còn nợ) khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người đã tuyên bố phá sản hay chưa
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người có khoản nợ cá nhân không hay số tiền nợ cộng dồn của họ là bao nhiêu
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin nhận dạng giúp nắm rõ về tình trạng tài chính của một người
+4. Mã số nhận dạng do chính phủ cấp
+Quảng cáo không được yêu cầu cung cấp mã số nhận dạng do chính phủ cấp (bao gồm cả số An sinh xã hội, số hộ chiếu hoặc số giấy phép lái xe) khi chúng tôi chưa cho phép trước.
+5. Thông tin về sức khỏe
+Quảng cáo không được yêu cầu cung cấp thông tin về sức khỏe (bao gồm cả sức khỏe thể chất, sức khỏe tinh thần, biện pháp chữa bệnh, tình trạng bệnh lý hoặc tình trạng khuyết tật) khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người đã từng trải qua các vấn đề về sức khỏe tinh thần hay chưa, chẳng hạn như trầm cảm hoặc lo âu
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về tình trạng khuyết tật hiện tại hoặc trước đây của một người, chẳng hạn như việc họ có dùng xe lăn hay không
+6. Thông tin bảo hiểm
+Quảng cáo không được yêu cầu cung cấp thông tin bảo hiểm (bao gồm cả số hợp đồng bảo hiểm hiện tại) khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cho biết thông tin hoặc tên công ty bảo hiểm của một người
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người có được bảo hiểm hoặc tham gia một số hình thức bảo hiểm nhất định không
+7. Mối liên hệ với chính trị
+Quảng cáo không được yêu cầu cung cấp thông tin liên quan đến mối liên hệ với chính trị.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người định bỏ phiếu như thế nào hoặc đã bỏ phiếu ra sao trong các cuộc bầu cử trước đây
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người có ủng hộ một ứng cử viên chính trị không
+8. Chủng tộc hoặc dân tộc
+Quảng cáo không được yêu cầu cung cấp thông tin về chủng tộc hoặc dân tộc khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc ai đó có tự xem mình là người Mỹ gốc Phi, người gốc Tây Ban Nha, gốc Á hay gốc Cáp-ca không
+9. Tôn giáo
+Quảng cáo không được yêu cầu cung cấp thông tin liên quan đến tín ngưỡng tôn giáo hoặc niềm tin về triết học khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người có tự xem mình là theo Đạo Cơ đốc hay không
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người có ủng hộ án tử hình hay không
+10. Thiên hướng tính dục
+Quảng cáo không được yêu cầu cung cấp thông tin liên quan đến thiên hướng tính dục hoặc thông tin về đời sống tình dục của cá nhân (bao gồm cả (các) giới tính mà người đó muốn hẹn hò cùng) khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về lịch sử tình dục của một người
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người đã tham gia hoạt động tình dục đồng giới hay theo nhóm chưa
+11. Câu hỏi điền trước
+Quảng cáo không được yêu cầu cung cấp thông tin tương tự hoặc gần giống thông tin mà nhà quảng cáo có thể yêu cầu thông qua Câu hỏi điền trước.
+**CHO PHÉP**
+* Sử dụng Câu hỏi điền trước hiện có về "Ngày sinh" để biết tuổi của một người
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu mới được thiết kế để yêu cầu cung cấp thông tin đã có trong Câu hỏi điền trước hiện có
+12. Tình trạng tham gia công đoàn
+Quảng cáo không được yêu cầu cung cấp thông tin về tình trạng tham gia công đoàn khi chúng tôi chưa cho phép trước.
+**KHÔNG CHO PHÉP**
+* Các trường trong mẫu quảng cáo tìm kiếm khách hàng tiềm năng yêu cầu cung cấp thông tin về việc một người có phải là thành viên của công đoàn không hoặc họ thuộc công đoàn nào
+13. Tên người dùng hoặc mật khẩu
+Quảng cáo không được yêu cầu cung cấp tên người dùng hoặc mật khẩu (bao gồm cả tên người dùng và mật khẩu cho tài khoản mới và tài khoản hiện có) khi chúng tôi chưa cho phép trước. Nếu muốn đưa mọi người đến phần đăng ký lập tài khoản thông qua trang web hoặc dịch vụ của mình, nhà quảng cáo cần dùng mục tiêu Lượt click vào trang web hoặc Lượt chuyển đổi trên trang web khi chạy quảng cáo.
+**KHÔNG CHO PHÉP**
+* Yêu cầu một người tạo tên người dùng và đặt mật khẩu trong Quảng cáo tìm kiếm khách hàng tiềm năng
+Nhắm mục tiêu
+1. Nhà quảng cáo không được sử dụng các lựa chọn nhắm mục tiêu để phân biệt đối xử với, quấy rối, gây hấn hay xem thường mọi người hoặc để thực hiện các hoạt động quảng cáo mang tính lợi dụng.
+2. Nếu nhắm mục tiêu quảng cáo đến đối tượng tùy chỉnh, nhà quảng cáo phải tuân thủ các điều khoản áp dụng khi tạo đối tượng.
+Tính phù hợp
+1. Quảng cáo phải thể hiện rõ công ty, sản phẩm, dịch vụ hoặc thương hiệu đang được quảng cáo.
+2. Tất cả các thành phần của quảng cáo (bao gồm cả mọi văn bản, hình ảnh hoặc tệp phương tiện khác) phải có liên quan đến sản phẩm/dịch vụ được cung cấp.
+3. Các sản phẩm và dịch vụ xuất hiện trong quảng cáo phải khớp với sản phẩm/dịch vụ được quảng bá trên trang đích. Hãy tìm hiểu thêm về những cách làm tốt nhất liên quan đến chất lượng quảng cáo để có thể cải thiệu hiệu quả quảng cáo.
+Nội dung có thương hiệu
+Nếu quảng bá nội dung có thương hiệu, quảng cáo phải dùng công cụ quản lý nội dung có thương hiệu để gắn thẻ sản phẩm, thương hiệu hoặc đối tác kinh doanh bên thứ ba được giới thiệu. Theo định nghĩa, nội dung có thương hiệu trong quảng cáo là nội dung thuộc về người sáng tạo nội dung hoặc nhà phát hành, có giới thiệu đối tác kinh doanh hoặc chịu ảnh hưởng của đối tác đó để đổi lấy giá trị. Khi quảng bá nội dung có thương hiệu được lồng ghép, nhà quảng cáo phải sử dụng công cụ quản lý nội dung có thương hiệu (vui lòng tìm hiểu thêm tại đây để biết cách gắn thẻ sản phẩm, thương hiệu hoặc đối tác kinh doanh bên thứ ba được giới thiệu).
+Các chính sách quảng cáo tác động đến tài sản doanh nghiệp
+Ngoài việc từ chối các quảng cáo vi phạm chính sách, chúng tôi còn xét duyệt và đưa ra biện pháp xử lý (ví dụ: hạn chế khả năng quảng cáo) đối với Tài khoản kinh doanh của nhà quảng cáo hoặc tài sản đi kèm (ví dụ: tài khoản quảng cáo, Trang và tài khoản người dùng) khi phát hiện thấy hành vi vi phạm các chính sách dưới đây. Tài khoản quảng cáo phải liên kết với một doanh nghiệp hoặc cá nhân hợp pháp. Nếu phát hiện thấy dấu hiệu của hành vi xuyên tạc, hoạt động đáng ngờ hoặc hành vi gian dối trong nội dung quảng cáo của bạn, chúng tôi có thể yêu cầu bạn hoàn tất quy trình xác minh. Nếu cho rằng tài khoản quảng cáo, tài khoản người dùng, Trang hoặc Tài khoản kinh doanh của bạn bị hạn chế do nhầm lẫn, bạn có thể yêu cầu xem xét lại quyết định đó thông qua phần Chất lượng tài khoản
+Tính toàn vẹn của tài khoản
+Tài sản doanh nghiệp phải tuân thủ Tiêu chuẩn cộng đồng về Tính toàn vẹn của tài khoản.
+**Tìm hiểu thêm**
+Hành vi gian dối
+Tài sản doanh nghiệp phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi gian dối.
+**Tìm hiểu thêm**
+An ninh mạng
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về An ninh mạng.
+Quảng cáo không được sử dụng các thủ thuật lừa đảo hoặc tấn công phi kỹ thuật để thu thập thông tin nhạy cảm của những người khác, đồng thời không được quảng bá hay liên kết đến mã độc hại, chẳng hạn như phần mềm độc hại hoặc phần mềm gián điệp.
+**Tìm hiểu thêm**
+Spam
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Spam.
+**Tìm hiểu thêm**
+Yêu cầu của người dùng
+Yêu cầu gỡ tài sản doanh nghiệp phải tuân thủ Tiêu chuẩn cộng đồng về Yêu cầu của người dùng.
+**Tìm hiểu thêm**
+Các hạn chế đối với việc sử dụng dữ liệu
+1. Đảm bảo chỉ chia sẻ bất kỳ dữ liệu quảng cáo nào mà bạn thu thập, tiếp nhận hoặc có được từ quảng cáo trên Facebook/Instagram ("dữ liệu quảng cáo trên Meta") với người thay mặt cho bạn, chẳng hạn như nhà cung cấp dịch vụ của bạn. Bạn chịu trách nhiệm đảm bảo rằng nhà cung cấp dịch vụ sẽ bảo vệ mọi dữ liệu quảng cáo trên Meta hay bất kỳ dữ liệu nào có được từ chúng tôi, giới hạn việc họ sử dụng tất cả các thông tin đó cũng như giữ bí mật và đảm bảo an toàn cho các thông tin đó.
+2. Không sử dụng dữ liệu quảng cáo trên Meta cho bất kỳ mục đích nào (bao gồm cả việc nhắm mục tiêu lại, kết hợp dữ liệu giữa nhiều chiến dịch của các nhà quảng cáo hoặc cho phép gắn kèm với hay chuyển hướng bằng thẻ), ngoại trừ việc dựa trên cơ sở tổng hợp và ẩn danh (trừ khi được Meta cho phép) và mục đích duy nhất là đánh giá hiệu quả của các chiến dịch quảng cáo trên Meta.
+3. Không sử dụng dữ liệu quảng cáo trên Meta (kể cả các tiêu chí nhắm mục tiêu của quảng cáo) để tạo, gắn kèm với, chỉnh sửa, tác động hoặc củng cố trang cá nhân của người dùng, bao gồm cả trang cá nhân liên quan đến bất kỳ thông tin nhận dạng thiết bị di động nào hoặc thông tin nhận dạng độc nhất khác xác định bất cứ người dùng/trình duyệt/máy tính/thiết bị cụ thể nào.
+4. Không chuyển nhượng bất kỳ dữ liệu quảng cáo nào trên Meta (bao gồm cả dữ liệu ẩn danh, tổng hợp hay phái sinh) cho bất cứ mạng quảng cáo, nền tảng trao đổi quảng cáo, nhà môi giới dữ liệu nào hoặc các dịch vụ khác liên quan đến quảng cáo/việc kiếm tiền.
+Những điều bạn cần biết
+1. Chính sách quảng cáo áp dụng cho (1) các quảng cáo và nội dung thương mại được phân phối hoặc mua thông qua Meta, ở trên hoặc ngoài các dịch vụ của Meta, bao gồm cả các quảng cáo được mua theo Điều khoản và điều kiện tiêu chuẩn AAAA/IAB, (2) các quảng cáo xuất hiện trong ứng dụng trên Meta và (3) các quảng cáo trên Instagram. Việc bạn sử dụng các sản phẩm và dịch vụ quảng cáo của Meta chịu sự điều chỉnh bởi "Meta" theo Tuyên bố về quyền và trách nhiệm của Meta (https://www.facebook.com/legal/terms hay còn gọi là "SRR") và phải tuân thủ SRR. Bạn có thể sẽ phải tuân thủ các điều khoản hoặc nguyên tắc bổ sung nếu dùng Instagram hay một số sản phẩm/dịch vụ nhất định của Meta có liên quan đến quảng cáo.
+2. Nhà quảng cáo có trách nhiệm phải hiểu rõ và tuân thủ tất cả các luật cũng như quy định hiện hành. Nếu không tuân thủ, bạn có thể sẽ phải chịu nhiều hậu quả, bao gồm cả việc hủy quảng cáo mà bạn đã đặt và chấm dứt tài khoản của bạn.
+3. Chúng tôi không sử dụng dữ liệu cá nhân mang tính nhạy cảm để nhắm mục tiêu quảng cáo. Các chủ đề bạn chọn để nhắm mục tiêu quảng cáo không phản ánh niềm tin, đặc điểm hay giá trị cá nhân của những người sử dụng Facebook hoặc Instagram.
+4. Sau khi hiển thị, quảng cáo sẽ là thông tin công khai. Quảng cáo có thể được chia sẻ lại và truy cập bởi những người không thuộc đối tượng mục tiêu (bao gồm cả từ Trang Facebook chạy quảng cáo hoặc từ bên trong Sản phẩm của Meta). Nếu người dùng đã tương tác với quảng cáo của bạn, quảng cáo đó có thể vẫn tồn tại trong các sản phẩm của Meta (ví dụ như vẫn được chia sẻ cho đến khi người dùng xóa quảng cáo hoặc vẫn hiển thị với người dùng thông qua các công cụ trên tài khoản của họ). Nếu là quảng cáo mang tính chính trị, quảng cáo sẽ hiển thị trong Thư viện quảng cáo của chúng tôi. Như vậy, Meta có thể hiển thị (mà không tính phí với bạn) và cấp quyền truy cập vào nội dung quảng cáo cũng như thông tin về chiến dịch quảng cáo (ví dụ: tổng mức chi tiêu và dữ liệu phân phối) trong khoảng thời gian bảy (7) năm kể từ ngày hoàn tất đơn đặt hàng của bạn. Meta có thể tiết lộ nội dung quảng cáo và mọi thông tin liên quan đến quảng cáo của bạn cho cơ quan hoặc thực thể chính phủ nếu Meta cho rằng việc tiết lộ đó sẽ hỗ trợ cho một cuộc điều tra hợp pháp.
+5. Nếu đang thay mặt các nhà quảng cáo khác để quản lý quảng cáo, bạn phải quản lý từng nhà quảng cáo hoặc khách hàng thông qua các tài khoản quảng cáo riêng biệt. Bạn không được thay đổi nhà quảng cáo hoặc khách hàng liên kết với một tài khoản quảng cáo đã thiết lập; hãy thiết lập tài khoản mới. Bạn chịu trách nhiệm đảm bảo rằng mỗi nhà quảng cáo đều tuân thủ các Chính sách quảng cáo này. Ngoài ra, nếu đang thay mặt nhà quảng cáo khác quản lý quảng cáo, bạn cũng phải tuân thủ Chính sách quảng cáo của chúng tôi áp dụng cho tất cả các giải pháp mua quảng cáo.
+6. Như đã nêu trong Tiêu chuẩn cộng đồng của chúng tôi, bạn không được bán, thuê, mua hoặc trao đổi đặc quyền trên trang web (ví dụ: quyền truy cập quản trị) đối với những tài sản mà bạn sở hữu hay quản lý. Chúng tôi cũng nghiêm cấm hành vi hỗ trợ bất kỳ ai lẩn tránh hay né tránh các biện pháp thực thi theo chính sách hoặc điều khoản dịch vụ của chúng tôi.
+7. Chúng tôi có quyền từ chối, phê duyệt hoặc gỡ bất kỳ quảng cáo nào vì bất cứ lý do gì theo quyền quyết định của riêng mình, bao gồm cả các quảng cáo ảnh hưởng tiêu cực đến mối quan hệ của chúng tôi với người dùng hoặc các quảng cáo quảng bá nội dung, dịch vụ hay hoạt động trái với vị thế cạnh tranh, lợi ích hoặc triết lý quảng cáo của chúng tôi.
+8. Đối với các chính sách yêu cầu phải có văn bản cho phép trước, Meta có thể cấp những văn bản này.
+9. Những chính sách này có thể sẽ thay đổi bất cứ lúc nào mà không cần thông báo.
+Các yêu cầu về tính minh bạch theo Đạo luật Dịch vụ kỹ thuật số của Liên minh châu Âu
+Theo yêu cầu trong luật của Liên minh châu Âu (EU), Meta phải đảm bảo rằng những người dùng tại EU và các vùng lãnh thổ liên quan có thể xác định một số thông tin về từng quảng cáo mà họ nhìn thấy, bao gồm cả thông tin về thể nhân/pháp nhân được thay mặt để hiển thị quảng cáo và thể nhân/pháp nhân thanh toán cho quảng cáo (nếu khác nhau).
+Để Meta có thể tuân thủ các nghĩa vụ của mình, bạn sẽ phải cung cấp những thông tin sau đây trong các trường văn bản liên quan khi tạo quảng cáo:
+* **Trường Bên thụ hưởng**: tên pháp lý đầy đủ của cá nhân, công ty, doanh nghiệp, tổ chức từ thiện hoặc tổ chức mà bạn thay mặt để hiển thị quảng cáo.
+* **Trường Bên thanh toán (nếu khác với bên trên)**: tên pháp lý đầy đủ của cá nhân, công ty, doanh nghiệp, tổ chức từ thiện hoặc tổ chức đã thanh toán cho quảng cáo.
+Bạn có trách nhiệm phải đảm bảo rằng thông tin này là bản hoàn chỉnh, chính xác và mới nhất đối với từng quảng cáo mà bạn gửi cho Meta, cũng như phải chắc chắn rằng bạn vẫn thực hiện việc này trong suốt khoảng thời gian chạy quảng cáo.
+Trên trang này
+1. Tổng quan
+2. Nguyên tắc xây dựng chính sách quảng cáo của Meta
+3. Quy trình xét duyệt quảng cáo
+4. Việc bạn nên làm nếu quảng cáo bị từ chối hoặc nếu tài sản doanh nghiệp bị hạn chế
+Nội dung không chấp nhận được
+Hành vi gian lận, lừa đảo và lừa gạt
+Hàng hóa và dịch vụ bị hạn chế
+Nội dung phản cảm
+Xâm phạm quyền sở hữu trí tuệ
+Quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị
+Các chính sách cụ thể theo sản phẩm và định dạng
+Các chính sách quảng cáo tác động đến tài sản doanh nghiệp
+Các hạn chế đối với việc sử dụng dữ liệu
+Những điều bạn cần biết
+Các yêu cầu về tính minh bạch theo Đạo luật Dịch vụ kỹ thuật số của Liên minh châu Âu
+===== SOURCE DOCUMENT 014
+TITLE: Hàng hóa và vật liệu nguy hiểm | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/hazardous-goods-materials/
+CONTENT_SHA256: 98ea4a23ecf23d9f974c3ff0078550fd84ef6cc9174f141c56d8abd159e28180
+================================================================================
+Hazardous Goods Materials
+# Hàng hóa và vật liệu nguy hiểm
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Hàng hóa và vật liệu nguy hiểm
+Quảng cáo không được quảng bá việc bán hàng hóa và vật liệu nguy hiểm. Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo quảng bá việc bán hàng hóa và vật liệu nguy hiểm.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 015
+TITLE: Hành vi gian dối | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/business-assets/inauthentic-behavior/
+CONTENT_SHA256: fa64ec277307a7858b48092e89c4366f337abc0d3f23c82e5384fbb786a5cc03
+================================================================================
+Inauthentic Behavior
+# Hành vi gian dối
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+18 tháng 7, 2024
+14 tháng 6, 2023
+Hành vi gian dối
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi gian dối.
+Tổng quan
+Nhà quảng cáo không được tạo hay sử dụng tài sản gian dối để lừa gạt Meta/người dùng của Meta về danh tính, nguồn gốc, mức độ phổ biến hoặc mục đích của nội dung mà họ sở hữu. Nhà quảng cáo không được sử dụng tài sản gian dối (bao gồm cả tài khoản trình quản lý kinh doanh) để né tránh việc thực thi theo Tiêu chuẩn cộng đồng hoặc Tiêu chuẩn quảng cáo. Đồng thời, nhà quảng cáo không được thực hiện Hành vi gian dối có phối hợp dưới bất kỳ hình thức nào.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 016
+TITLE: Hành vi gian lận, lừa đảo và lừa gạt | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/fraud-scams/fraud-scams-deceptive-practices/
+CONTENT_SHA256: 6bef8a3ad1df722b19c8304497bd9807b324cdf821df2a1bb4a7c8ad954f2a8d
+================================================================================
+Tiêu chuẩn quảng cáo
+Hành vi gian lận, lừa đảo và lừa gạt
+# Hành vi gian lận, lừa đảo và lừa gạt
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+12 tháng 11, 2025
+Hành vi gian lận, lừa đảo và lừa gạt
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi gian lận, lừa đảo và lừa gạt.
+Tổng quan
+Chúng tôi cố gắng bảo vệ người dùng và doanh nghiệp để họ không bị lừa tiền, tài sản hoặc thông tin cá nhân. Để đạt được mục tiêu này, chúng tôi gỡ nội dung và chống lại hành vi có chủ đích sử dụng các phương thức lừa đảo (chẳng hạn như cố ý xuyên tạc thông tin, đánh cắp thông tin và tuyên bố theo kiểu phóng đại) nhằm lừa đảo/lừa gạt người dùng cũng như doanh nghiệp hoặc nhằm tăng lượt tương tác. Điều này áp dụng với cả nội dung tìm cách tiếp tay hay cổ xúy cho các hoạt động nêu trên thông qua nền tảng của chúng tôi. Mọi người được phép chỉ dẫn và nâng cao nhận thức cho người khác cũng như lên án các hoạt động này.
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về Hành vi gian lận, lừa đảo và lừa gạt.
+Nguyên tắc bổ sung đối với quảng cáo
+Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng về Hành vi gian lận, lừa đảo và lừa gạt, quảng cáo phải tuân thủ những yêu cầu bổ sung sau đây.
+**Hành vi gây hiểu nhầm về sức khỏe**
+**Quảng cáo không được**
+*
+Quảng bá lời tuyên bố (kể cả những lời tuyên bố của chuyên gia hoặc tổ chức y tế) là có thể cứu chữa, điều trị hoặc chữa khỏi bất kỳ căn bệnh nan y và/hoặc căn bệnh ở giai đoạn cuối nào sau đây (danh sách đầy đủ):
+* Tiểu đường
+* Bệnh mụn rộp
+* Bệnh tuyến giáp
+* Bệnh vảy nến
+* Bệnh do virus Ebola
+* Ung thư
+* Chứng tự kỷ
+* Bệnh Alzheimer
+* Bệnh Parkinson
+* Bệnh xơ cứng teo cơ một bên (ALS)
+* Bệnh do virus gây suy giảm miễn dịch ở người (HIV)
+* Hứa hẹn sẽ mang lại kết quả nào đó liên quan đến sức khỏe trong một khoảng thời gian cụ thể mà không dùng ngôn từ đủ tiêu chuẩn hoặc đưa ra tuyên bố miễn trừ trách nhiệm.
+* Dùng thủ thuật câu lượt nhấp trong bối cảnh sức khỏe, chẳng hạn như sử dụng ngôn từ giật gân để đưa ra lời tuyên bố về sức khỏe mang tính phóng đại hoặc cường điệu quá mức.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 017
+TITLE: Hành vi gây thù ghét | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/hateful-conduct/
+CONTENT_SHA256: 83de360cdf39bf867bffbfac4dcc6d2f84e5866bf2971f5c06b063e508bb51de
+================================================================================
+Tiêu chuẩn quảng cáo
+Hành vi gây thù ghét
+# Hành vi gây thù ghét
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+7 tháng 1, 2025
+Hành vi gây thù ghét
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi gây thù ghét**
+Quảng cáo không được công kích mọi người dựa trên những gì mà chúng tôi gọi là đặc điểm được bảo vệ: chủng tộc, dân tộc, nguồn gốc quốc gia, tình trạng khuyết tật, thành phần tôn giáo, đẳng cấp, thiên hướng tính dục, giới tính, bản dạng giới và bệnh tật nghiêm trọng.
+Tổng quan
+Chính sách này cung cấp các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về Hành vi gây thù ghét.
+Nguyên tắc
+**Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng của chúng tôi, quảng cáo không được:**
+* Sử dụng từ ngữ phỉ báng trong bất kỳ bối cảnh nào, kể cả những từ ngữ phỉ báng thường được cho phép trong Tiêu chuẩn cộng đồng
+**Chúng tôi cần có thêm thông tin và/hoặc bối cảnh để thực thi các quy tắc quảng cáo sau đây. Quảng cáo không được:**
+* Tuyên bố rằng ai đó là mối đe dọa đối với an toàn, sức khỏe hoặc sự sống còn của người khác dựa trên đặc điểm cá nhân của họ
+* Chứa lời lẽ xúc phạm, thể hiện thái độ ghê tởm hoặc chửi rủa dựa trên tình trạng nhập cư
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 018
+TITLE: Hành vi gạ gẫm tình dục người lớn và ngôn ngữ khiêu dâm | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/adult-sexual-solicitation-and-sexually-explicit-language/
+CONTENT_SHA256: a2cb30f6e6882daf5bd6c79e858e3851c5fae97a3bed87bfd2eb2e6c737fa60b
+================================================================================
+# Hành vi gạ gẫm tình dục người lớn và ngôn ngữ khiêu dâm
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+14 tháng 5, 2025
+Hành vi gạ gẫm tình dục người lớn và ngôn ngữ khiêu dâm
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi gạ gẫm tình dục người lớn và ngôn ngữ khiêu dâm**
+Quảng cáo không được chứa nội dung tiếp tay cho các cuộc gặp gỡ quan hệ tình dục, dịch vụ mại dâm giữa người lớn hay nội dung hỏi xin hoặc cung cấp nội dung khiêu dâm. Ngoài ra, chúng tôi hạn chế việc dùng ngôn ngữ khiêu dâm.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm theo Tiêu chuẩn cộng đồng về Hành vi gạ gẫm tình dục người lớn và ngôn ngữ khiêu dâm. Quảng cáo cũng phải tuân thủ Tiêu chuẩn quảng cáo của chúng tôi về Sức khỏe thể chất và tinh thần.
+Nguyên tắc
+**Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng, Quảng cáo không được:**
+* Chứa nội dung thảo luận về các biện pháp hoặc kinh nghiệm tình dục, ngay cả khi không có yếu tố gạ gẫm tình dục
+**Khi nhắm mục tiêu đến những người từ 18 tuổi trở lên, nhà quảng cáo có thể chạy quảng cáo:**
+* Có nội dung chứa tên người dùng, chứa liên kết đến hoặc logo của những Trang web đăng ký dành cho người lớn
+* Có nội dung sử dụng ngôn ngữ khiêu dâm trong bối cảnh châm biếm hoặc hài hước
+* Có nội dung sử dụng ngôn ngữ gợi dục đề cập đến các cuộc gặp gỡ quan hệ tình dục
+**Chúng tôi cần có thêm thông tin và/hoặc bối cảnh để thực thi các quy tắc quảng cáo sau đây. Quảng cáo không được phép:**
+* Chứa nội dung đáng lẽ ra sẽ bị nghiêm cấm theo chính sách này khi các thành phần vi phạm của nội dung này bị châm biếm hoặc quy cho thứ gì đó/người khác nhằm chế giễu hay chỉ trích.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 019
+TITLE: Hành vi phân biệt đối xử | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/discriminatory-practices/
+CONTENT_SHA256: ecc2a6108497bdbff19f7b86b50477bab514051e93a1bab195065ea63e14da2e
+================================================================================
+Tiêu chuẩn quảng cáo
+Hành vi phân biệt đối xử
+# Hành vi phân biệt đối xử
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+20 tháng 12, 2024
+Hành vi phân biệt đối xử
+Quảng cáo không được phân biệt đối xử hoặc cổ xúy thái độ phân biệt đối xử với mọi người dựa trên các đặc điểm cá nhân như chủng tộc, dân tộc, màu da, nguồn gốc quốc gia, tôn giáo, tuổi tác, giới tính, thiên hướng tính dục, bản dạng giới, tình trạng gia đình, tình trạng khuyết tật, tình trạng bệnh lý hoặc đặc tính di truyền.
+Meta nghiêm cấm nhà quảng cáo sử dụng các sản phẩm quảng cáo của công ty để phân biệt đối xử với mọi người. Điều này có nghĩa là nhà quảng cáo không được (1) sử dụng các công cụ chọn đối tượng của chúng tôi để (a) nhắm mục tiêu một cách phi pháp đến những nhóm người cụ thể nhằm quảng cáo (xem chính sách quảng cáo về khía cạnh Nhắm mục tiêu) hoặc (b) loại trừ trái phép những nhóm người cụ thể khỏi đối tượng nhìn thấy quảng cáo; hoặc (2) đưa nội dung mang tính phân biệt đối xử vào quảng cáo. Nhà quảng cáo cũng phải tuân thủ những luật hiện hành nghiêm cấm phân biệt đối xử (xem chính sách quảng cáo về Sản phẩm hoặc dịch vụ bất hợp pháp), bao gồm cả các luật nghiêm cấm phân biệt đối xử với những nhóm người liên quan đến các ưu đãi về nhà ở, việc làm, sản phẩm và dịch vụ tài chính chẳng hạn.
+Đối với mọi nhà quảng cáo ở Hoa Kỳ hoặc nhà quảng cáo nhắm mục tiêu đến Hoa Kỳ, Canada hay các khu vực nhất định của châu Âu, đang chạy quảng cáo về sản phẩm và dịch vụ tài chính, nhà ở hoặc việc làm, họ phải tự xác định là quảng cáo thuộc Hạng mục quảng cáo đặc biệt khi hạng mục này bắt đầu áp dụng. Ngoài ra, họ phải chạy những quảng cáo đó với phương thức nhắm mục tiêu được phê duyệt.
+Thông tin và nguồn lực khác về luật không phân biệt đối xử của Hoa Kỳ:
+* Bộ Gia cư và Phát triển Đô thị Hoa Kỳ
+* Ủy ban Cơ hội Việc làm Bình đẳng Hoa Kỳ
+* Cục Bảo vệ Tài chính cho Người tiêu dùng
+* Liên đoàn Tự do Dân sự Mỹ
+* Hội nghị cấp Lãnh đạo về Nhân quyền và Dân quyền
+* Bộ Tư pháp – Ban Dân quyền
+* Liên minh Công bằng về Nhà ở Quốc gia
+Tuyên bố miễn trừ trách nhiệm: Hướng dẫn này không thay thế cho lời khuyên về pháp lý. Hãy hỏi ý kiến của chuyên gia pháp lý để được tư vấn cụ thể về trường hợp của bạn.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 020
+TITLE: Ngăn cản tiêm vắc xin | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/vaccine-discouragement/
+CONTENT_SHA256: 42fc5b3dccc9690d34302039cafb3a20ef4291f89c9c3bbc5daa45c115ad5c5a
+================================================================================
+Vaccine Discouragement
+# Ngăn cản tiêm vắc xin
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Ngăn cản tiêm vắc xin
+Quảng cáo không được ngăn cản mọi người tiêm vắc xin hoặc ủng hộ hành vi chống đối vắc xin.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo ngăn cản mọi người tiêm vắc xin hoặc ủng hộ hành vi chống đối vắc xin. Meta muốn góp phần lan truyền những thông điệp chính xác về tính an toàn và hiệu quả của vắc xin, đồng thời cấm các quảng cáo có chứa thông tin sai lệch có thể gây hại cho nỗ lực bảo vệ sức khỏe cộng đồng.
+Nguyên tắc
+Quảng cáo không được:
+* Mô tả việc tiêm vắc xin như một hành động vô ích/vô nghĩa/không hiệu quả hoặc khuyên mọi người không nên tiêm vắc xin.
+* Khẳng định việc tiêm vắc xin là không an toàn, có hại cho sức khỏe hoặc sẽ dẫn đến tử vong hay thương tật. Nguyên tắc này áp dụng cho cả những quảng cáo mô tả hoặc ám chỉ việc có tác dụng phụ vĩnh viễn, trừ khi những tác dụng phụ như vậy đã được chứng minh.
+* Chứa thông tin không nhất quán với hướng dẫn của cơ quan y tế về việc tiêm vắc xin.
+* Nghi ngờ hiệu quả của vắc xin hoặc mô tả các bệnh mà vắc xin được tạo ra để phòng ngừa là vô hại nhằm ngăn cản tiêm vắc xin.
+* Khuyến khích việc loại bỏ hoặc hạn chế khả năng tiếp cận vắc xin.
+* Gây nghi ngờ về một nhà cung cấp dịch vụ y tế hoặc một dịch vụ y tế nhằm ngăn cản tiêm vắc xin.
+* Thảo luận hoặc mô tả thành phần của vắc xin nhằm ngăn cản tiêm vắc xin.
+* Mô tả vắc xin là công cụ để cấy chip hoặc thu thập dữ liệu sinh trắc học của con người.
+* Thách thức một đạo luật hoặc chính sách của chính phủ bằng ngôn từ mang tính phủ nhận, chẳng hạn như khẳng định rằng vắc xin có hại.
+Quảng cáo được phép:
+* Thảo luận về luật hoặc dự luật liên quan đến vắc xin. Nguyên tắc này áp dụng cho nhưng không giới hạn ở những quảng cáo thách thức:
+* Luật pháp nước sở tại bắt buộc mọi người phải tiêm vắc xin
+* Việc cấp kinh phí cho vắc xin
+* Yêu cầu của trường học địa phương bắt buộc trẻ em phải tiêm vắc xin
+* Thảo luận về quy định bắt buộc tiêm vắc xin.
+* Thảo luận về tính an toàn của các thử nghiệm vắc xin, miễn là không đánh đồng tính an toàn của một thử nghiệm với tính an toàn của vắc xin đã được triển khai rộng rãi.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 021
+TITLE: Nội dung bạo lực và phản cảm | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/violent-graphic-content/
+CONTENT_SHA256: 314159a87822199f9126c957363f0f2516c7cd89d208a6932f9ebaea5277dc18
+================================================================================
+Violent Graphic Content
+# Nội dung bạo lực và phản cảm
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+14 tháng 5, 2025
+27 tháng 9, 2024
+26 tháng 6, 2024
+Nội dung bạo lực và phản cảm
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về nội dung bạo lực và phản cảm**
+Quảng cáo không được chứa nội dung gây sốc, giật gân hoặc bạo lực quá mức.
+Tổng quan
+Chính sách này cung cấp các biện pháp bảo vệ bổ sung ngoài những gì bị cấm trong chính sách về Nội dung bạo lực và phản cảm thuộc Tiêu chuẩn cộng đồng. Ví dụ: nội dung bị xem là nhạy cảm hoặc không được đề xuất cho người dùng sẽ không đủ điều kiện được dùng trong quảng cáo. Ngoài ra, nhà quảng cáo không được chạy quảng cáo chứa hình ảnh mang tính gây sốc, gây kinh hãi hoặc giật gân.
+Nguyên tắc
+Ngoài những yêu cầu trong Tiêu chuẩn cộng đồng của chúng tôi cho trường hợp hình ảnh bị gỡ, hạn chế hoặc áp dụng màn hình cảnh báo, Quảng cáo không được chứa bất kỳ yếu tố nào sau đây:
+* **Hình ảnh về người thật**
+* Hình ảnh mô tả các bộ phận bên trong cơ thể có thể nhìn thấy được, chẳng hạn như cơ thể bị hở các cơ quan, xương hay mô, ngay cả trong bối cảnh liên quan đến sức khỏe (ví dụ: cảnh báo trên bao thuốc lá).
+* Hình ảnh mô tả súng ống, vũ khí có lưỡi sắc nhọn hoặc chất nổ chĩa thẳng vào người xem.
+*
+**Hình ảnh hư cấu**
+*
+Hình ảnh mô tả người không có thật (cụ thể là trường hợp hình ảnh trông giống hoặc gần giống với ảnh chụp hay video quay người thật) trong các bối cảnh sau đây:
+* Súng ống, vũ khí có lưỡi sắc nhọn hoặc chất nổ chĩa thẳng vào người xem, trừ khi hình ảnh lấy từ áp phích phim.
+Để xem bí quyết về cách tuân thủ chính sách này, hãy truy cập Trung tâm trợ giúp doanh nghiệp.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 022
+TITLE: Nội dung lợi dụng các cuộc khủng hoảng và sự kiện gây tranh cãi để phục vụ mục đích thương mại | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/commercial-exploitation-of-crises-and-controversial-events/
+CONTENT_SHA256: 7b90af1e7266d2cb1f5a8363f7737f6aaf8fa9b195675e25146234ae3e3d742d
+================================================================================
+Commercial Exploitation Of Crises And Controversial Events
+# Nội dung lợi dụng các cuộc khủng hoảng và sự kiện gây tranh cãi để phục vụ mục đích thương mại
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 6, 2024
+Nội dung lợi dụng các cuộc khủng hoảng và sự kiện gây tranh cãi để phục vụ mục đích thương mại
+Quảng cáo không được chứa nội dung lợi dụng các cuộc khủng hoảng hay sự kiện gây tranh cãi để phục vụ mục đích thương mại.
+Tổng quan
+Chúng tôi không cho phép quảng cáo lợi dụng các cuộc khủng hoảng hoặc sự kiện gây tranh cãi (do Meta xác định) để phục vụ mục đích thương mại. Các cuộc khủng hoảng và sự kiện gây tranh cãi đề cập đến những sự kiện là chủ đề được công chúng rất chú ý. Ví dụ về những sự kiện được đề cập trong chính sách này bao gồm nhưng không giới hạn ở thiên tai và các dịch vụ y tế khẩn cấp. Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo chạy quảng cáo trên các công nghệ của Meta phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được:
+* Quảng bá nội dung liên quan đến các cuộc khủng hoảng hoặc sự kiện gây tranh cãi để phục vụ lợi ích thương mại.
+* Bán hoặc quảng bá việc bán các sản phẩm liên quan đến cuộc khủng hoảng hoặc dưới dạng quà tặng/đợt tặng quà miễn phí
+* Lợi dụng cuộc khủng hoảng để quảng bá hàng hóa/dịch vụ y tế hoặc nhu yếu phẩm liên quan đến cuộc khủng hoảng/thiên tai. Nội dung này bao gồm nhưng không giới hạn ở:
+* Quảng bá một số sản phẩm liên quan đến tình trạng lạm dụng hoặc thiếu hụt trong cuộc khủng hoảng
+* Ám chỉ tính cấp bách hoặc dùng ngôn ngữ có thể làm tăng nỗi hoảng sợ hoặc sợ hãi
+Quảng cáo được phép:
+* Bán một sản phẩm dẫn chiếu lịch sử (ví dụ: một cuốn sách, bộ phim hoặc phim tài liệu về lịch sử)
+* Sử dụng nội dung liên quan đến các cuộc khủng hoảng hoặc sự kiện gây tranh cãi trong bối cảnh đưa tin bài
+Để biết thêm thông tin, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 023
+TITLE: Nội dung, sản phẩm hoặc dịch vụ vi phạm luật pháp nước sở tại | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/locally-illegal-products-services/
+CONTENT_SHA256: ecbc5bbfcf553dff3a92f9866b084b2722267bf71cb8603cc3aa658b43069755
+================================================================================
+Tiêu chuẩn quảng cáo
+Nội dung, sản phẩm hoặc dịch vụ vi phạm luật pháp nước sở tại
+# Nội dung, sản phẩm hoặc dịch vụ vi phạm luật pháp nước sở tại
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+27 tháng 2, 2025
+26 tháng 6, 2024
+Nội dung, sản phẩm hoặc dịch vụ vi phạm luật pháp nước sở tại
+Chúng tôi có thể gỡ các quảng cáo bị chính phủ, lệnh tòa, tổ chức phi chính phủ hoặc thành viên trong cộng đồng báo cáo là vi phạm luật pháp nước sở tại.
+Tổng quan
+Chính sách này bổ sung cho Tiêu chuẩn cộng đồng của chúng tôi về Nội dung, sản phẩm hoặc dịch vụ vi phạm luật pháp nước sở tại
+Nguyên tắc bổ sung đối với quảng cáo
+Chúng tôi yêu cầu Quảng cáo trên Facebook và Instagram không được vi phạm pháp luật.
+Ngoài việc hạn chế nội dung ở nước sở tại, chúng tôi có thể gỡ các Quảng cáo bị báo cáo là vi phạm pháp luật, ở phạm vi toàn cầu.
+Ngoài ra, chúng tôi có thể gỡ nội dung vi phạm luật pháp của nước sở tại ở phạm vi toàn cầu khi xác định sản phẩm đó phải bị thu hồi.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 024
+TITLE: Phương thức kinh doanh không được chấp nhận | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/fraud-scams/unacceptable-business-practices/
+CONTENT_SHA256: 00803e3a77e82d59b228415109ee7e824e2e70656f7f5a411e667bc53fc35ca4
+================================================================================
+Tiêu chuẩn quảng cáo
+Phương thức kinh doanh không được chấp nhận
+# Phương thức kinh doanh không được chấp nhận
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+20 tháng 3, 2026
+21 tháng 4, 2025
+25 tháng 7, 2024
+18 tháng 7, 2024
+Phương thức kinh doanh không được chấp nhận trong quảng cáo
+Quảng cáo không được quảng bá sản phẩm, dịch vụ, kế hoạch hoặc ưu đãi có dùng các phương thức gây hiểu nhầm hoặc mang tính lừa đảo đã được xác định, bao gồm cả những phương thức lừa mọi người trả tiền hay cung cấp thông tin cá nhân. Khi phát hiện thấy nhà quảng cáo có hành vi đáng ngờ, bao gồm cả hành vi có dấu hiệu gian dối, hoặc đang chạy quảng cáo thuộc một số hạng mục có khả năng là mục tiêu của kẻ lừa đảo, chúng tôi có thể sẽ yêu cầu các nhà quảng cáo đó hoàn tất quy trình xác minh bổ sung.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo về sản phẩm, dịch vụ, chương trình hay ưu đãi có dùng các phương thức gây hiểu nhầm hoặc mang tính lừa đảo, bao gồm cả những hành vi lừa đảo để lấy tiền của mọi người hay tiếp cận thông tin cá nhân. Chúng tôi áp dụng quy định này để bảo vệ mọi người không bị nhà quảng cáo lợi dụng.
+Nguyên tắc dành cho quảng cáo
+Quảng cáo không được:
+* Sử dụng những tuyên bố mang tính lừa đảo hoặc phóng đại về sự thành công của một sản phẩm/dịch vụ nhằm đánh lừa mọi người mua hàng hay chia sẻ thông tin nhạy cảm
+* Sử dụng những tuyên bố mang tính lừa đảo hoặc phóng đại về các lợi ích liên quan đến sức khỏe mà một sản phẩm/dịch vụ mang lại, nhằm đánh lừa mọi người mua hàng hay chia sẻ thông tin nhạy cảm
+* Sử dụng hình ảnh của một người nổi tiếng và những thủ thuật gây hiểu nhầm nhằm câu kéo người dùng tương tác với quảng cáo
+* Hứa hẹn các lợi ích tài chính bằng cách xuyên tạc thông tin về một thực thể, hiệp hội trong ngành hoặc hãng tin tức nhằm khiến mọi người hiểu nhầm hay đề nghị họ chia sẻ thông tin nhạy cảm
+Chúng tôi thường thấy những loại vi phạm này trong các chương trình liên quan đến:
+* Cơ hội đầu tư hoặc cơ hội liên quan đến ngân hàng
+* Sức khỏe hoặc tình trạng giảm cân
+* Chương trình gây hiểu nhầm nhằm quảng bá các sản phẩm hoặc dịch vụ miễn phí
+* Sản phẩm hoặc dịch vụ có các chức năng không tồn tại
+Hành vi lừa đảo là vấn đề ảnh hưởng đến người dùng trên nhiều nền tảng và lĩnh vực. Chúng tôi tiếp cận theo cách toàn diện để giúp các công nghệ của mình trở nên an toàn hơn. Tìm hiểu cách chúng tôi đang nỗ lực tăng cường an toàn cho bạn trên các công nghệ mà chúng tôi cung cấp.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 025
+TITLE: Quảng cáo về dịch vụ hẹn hò | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/dating-ads/
+CONTENT_SHA256: 84ca038ad99726a4b167c54bc5ab7764f5ed665f60b0bf0abe016435f17c211f
+================================================================================
+Dating Ads
+# Quảng cáo về dịch vụ hẹn hò
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 6, 2024
+Quảng cáo về dịch vụ hẹn hò
+Bạn chỉ được quảng cáo về các dịch vụ hẹn hò khi có văn bản cho phép trước. Những quảng cáo này phải tuân thủ các yêu cầu nhắm mục tiêu đối với mục đích hẹn hò và nguyên tắc của chúng tôi về quảng cáo hẹn hò. Bạn có thể xem chi tiết tại đây để biết các yêu cầu về quy trình xin phép. Nếu bạn muốn xin phép, vui lòng điền vào mẫu này để bắt đầu quy trình đăng ký.
+Tổng quan
+Nhà quảng cáo có thể chạy quảng cáo về dịch vụ hẹn hò trên mạng miễn là họ có văn bản cho phép của Meta. Họ có thể dùng mẫu này để yêu cầu Meta cho phép. Sau khi được cho phép, nhà quảng cáo có thể chạy các quảng cáo quảng bá:
+* Dịch vụ hẹn hò trên mạng hoặc ngoài đời
+* Dịch vụ mai mối
+* Dịch vụ hỗ trợ hẹn hò, bao gồm cả dịch vụ quản lý hồ sơ hẹn hò và dịch vụ tổng hợp hạng mục hẹn hò
+Tất cả các quảng cáo về dịch vụ hẹn hò trên mạng đều phải nhắm mục tiêu đến những đối tượng từ 18 tuổi trở lên. Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được quảng bá các sản phẩm hoặc dịch vụ sau đây:
+* Địa điểm hẹn hò có nhấn mạnh về quan hệ tình dục
+* Dịch vụ hẹn hò với các chủ đề tình dục ngẫu nhiên/giao dịch tiền bạc/giao dịch tài chính khác, chẳng hạn như cô dâu đặt mua qua mạng hoặc "con gái nuôi"
+* Dịch vụ hỗ trợ ngoại tình, sự không chung thủy hoặc mối quan hệ không một vợ một chồng
+* Mối quan hệ với các cá nhân hoặc nhóm không có thực
+Ngoài ra, nội dung của quảng cáo về dịch vụ hẹn hò không được:
+* Nhấn mạnh về quan hệ tình dục
+* Bao gồm giao dịch tiền bạc/giao dịch tài chính khác, chẳng hạn như cô dâu đặt mua qua mạng hoặc "con gái nuôi"
+* Hỗ trợ ngoại tình, hành vi không chung thủy hoặc mối quan hệ không một vợ một chồng
+* Cho biết mọi người sẽ gặp/kết nối với các cá nhân hoặc nhóm không có thực
+* Nhấn mạnh về tính gợi dục
+Quảng cáo có thể quảng bá:
+* Tác phẩm văn học hoặc hình thức giải trí xoay quanh các mối quan hệ, chẳng hạn như chương trình truyền hình, trò chơi/phim tài liệu về dịch vụ hẹn hò và các mối quan hệ
+* Ứng dụng mạng xã hội không chứa các yếu tố mai mối, chẳng hạn như ứng dụng gặp gỡ
+Để biết thêm thông tin, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 026
+TITLE: Quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/SIEP-advertising/SIEP/
+CONTENT_SHA256: bbe7e3432f898572a70afd6a5ebdc38bfb1f21b3d065e8ada348d2e66ae16159
+================================================================================
+Chính sách quảng cáo
+SIEP
+# Quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+6 tháng 10, 2025
+16 tháng 8, 2024
+5 tháng 6, 2024
+16 tháng 4, 2024
+19 tháng 3, 2024
+26 tháng 2, 2024
+11 tháng 1, 2024
+Quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị
+Nhà quảng cáo có thể chạy quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị, miễn là họ tuân thủ tất cả các luật hiện hành và quy trình ủy quyền mà Meta yêu cầu. Meta có thể hạn chế quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị. Ngoài ra, một số nội dung liên quan đến cuộc bầu cử có thể bị cấm theo luật pháp nước sở tại hoặc bị gỡ ở các khu vực cụ thể trước khi sự kiện bỏ phiếu diễn ra; nhấp vào đây để biết thêm thông tin.
+Tổng quan
+Chính sách này tăng cường tính minh bạch, trách nhiệm giải trình và tính xác thực. Theo đó, các đối tượng sau phải minh bạch hơn: viên chức được bầu và bổ nhiệm, ứng cử viên tranh cử và nhà quảng cáo nội dung có liên quan đến quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị.
+Nguyên tắc
+Mọi nhà quảng cáo chạy quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị và hoạt động ở hay nhắm mục tiêu đến những người tại các quốc gia được xác định đều phải hoàn tất quy trình ủy quyền do Meta yêu cầu, ngoại trừ những nhà phát hành tin tức mà Meta xác định. Chính sách này áp dụng cho bất kỳ quảng cáo nào:
+* Được đưa ra bởi, thay mặt hay liên quan đến một ứng cử viên cho chức vụ công, một nhân vật chính trị, một đảng phái chính trị, một ủy ban hành động chính trị hoặc những người ủng hộ kết quả của một cuộc bầu cử đối với chức vụ công
+* Liên quan đến bất kỳ cuộc bầu cử, cuộc trưng cầu dân ý hay cuộc kiến nghị bằng lá phiếu nào, bao gồm cả chiến dịch "thu hút cử tri đi bầu" hoặc chiến dịch cung cấp thông tin bầu cử
+* Liên quan đến bất kỳ vấn đề xã hội nào ở bất cứ đâu mà quảng cáo đang chạy
+* Được quy định là quảng cáo mang tính chính trị
+Yêu cầu sẽ thay đổi tùy theo quốc gia. Không được phép chạy quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị ở Liên minh châu Âu. Đọc tại đây để tìm hiểu thêm.
+Nhà quảng cáo phải thêm tuyên bố miễn trừ trách nhiệm về nhãn "Tài trợ bởi" đã được xác minh vào những quảng cáo này để cho biết thực thể hoặc người chịu trách nhiệm chạy quảng cáo trên các công nghệ của Meta. Tuyên bố miễn trừ trách nhiệm đó phải tuân thủ các hạn chế.
+Bất kể vị trí, cách nhắm mục tiêu hay trường hợp miễn trừ về tin tức, những nhà quảng cáo chạy các quảng cáo này phải tuân thủ tất cả luật và quy định hiện hành, bao gồm nhưng không giới hạn ở các yêu cầu liên quan đến:
+* Tuyên bố miễn trừ trách nhiệm, thông tin tiết lộ và cách gắn nhãn quảng cáo
+* Khoảng thời gian không được phép thay đổi
+* Sự can thiệp của nước ngoài
+* Các giới hạn chi tiêu và yêu cầu về báo cáo
+Nếu quảng cáo không chứa tuyên bố miễn trừ trách nhiệm và chúng tôi xác định rằng nội dung quảng cáo có liên quan đến vấn đề xã hội, bầu cử hoặc chính trị, quảng cáo đó sẽ không được phê duyệt trong quá trình xét duyệt quảng cáo. Nếu đang chạy rồi thì quảng cáo có thể bị các hệ thống tự động gắn cờ hoặc bị cộng đồng của chúng tôi báo cáo. Nếu bị phát hiện là vi phạm chính sách do thiếu tuyên bố miễn trừ trách nhiệm, quảng cáo sẽ không được phê duyệt nhưng sẽ được thêm vào Thư viện quảng cáo.
+Nhà quảng cáo cũng phải thông báo trong trường hợp quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị chứa hình ảnh/video tả thực hay âm thanh nghe như thật, được chỉnh sửa hoặc tạo bằng kỹ thuật số nhằm:
+* Mô tả một người thật là nói điều gì đó hoặc làm việc gì đó mà họ không hề thực hiện trong thực tế; hoặc
+* Mô tả một người trông như thật nhưng lại không tồn tại hay một sự kiện trông như thật nhưng lại không diễn ra hoặc chỉnh sửa cảnh quay của một sự kiện thực tế đã diễn ra; hoặc
+* Mô tả một sự kiện thực tế được cho là đã diễn ra nhưng không phải là hình ảnh, video hoặc bản ghi âm thực của sự kiện đó.
+Nếu xác định rằng nhà quảng cáo không thông báo theo yêu cầu, chúng tôi sẽ từ chối quảng cáo. Nhà quảng cáo có thể bị phạt nếu nhiều lần mắc lỗi như vậy.
+Quảng cáo không được chạy ở hoặc nhắm mục tiêu đến tiểu bang Washington khi có liên quan đến cuộc kiến nghị bằng lá phiếu, cuộc bầu cử, ứng cử viên hay viên chức được bầu tại địa phương hoặc tiểu bang Washington. Ngoài ra, quảng cáo không được chạy ở hoặc nhắm mục tiêu đến tiểu bang Washington khi có liên quan đến luật pháp của Seattle.
+Ở Hoa Kỳ, Brazil, Ấn Độ, Israel, Mexico và Vương quốc Anh, quảng cáo không được can ngăn mọi người đi bỏ phiếu hoặc khiến họ nghi ngờ về tính hợp pháp của một cuộc bầu cử sắp diễn ra/đang diễn ra hay đưa ra lời tuyên bố sớm về chiến thắng trong cuộc bầu cử.
+* Tìm hiểu cách chạy quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị tại Trung tâm trợ giúp doanh nghiệp
+* Bắt đầu quy trình ủy quyền tại facebook.com/id
+* Tìm hiểu cách chúng tôi xét duyệt quảng cáo về vấn đề xã hội, bầu cử hoặc chính trị và xem xét các ví dụ về câu chữ trong Trung tâm trợ giúp doanh nghiệp
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 027
+TITLE: Spam| Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/business-assets/spam/
+CONTENT_SHA256: 1d9339b1b23eb645abd80a24d43f97fc9c7cc060652b528851f6034845b04b7a
+================================================================================
+Chính sách quảng cáo
+Spam
+# Spam
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 6, 2024
+Spam
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Spam.
+Tổng quan
+Quảng cáo không được chia sẻ Liên kết lừa đảo hay cố mua, bán hoặc trao đổi lượt tương tác, đặc quyền, tính năng hoặc tài sản trên nền tảng. Loại nội dung này làm giảm khả năng tương tác chân thực của mọi người trên các nền tảng của chúng tôi, đồng thời có thể đe dọa đến sự an toàn, độ ổn định và khả năng sử dụng của các dịch vụ do chúng tôi cung cấp.
+Spam trên mạng là một ngành có khả năng sinh lời cao. Chính sách và hệ thống phát hiện của chúng tôi phải liên tục phát triển để bắt kịp với các xu hướng cũng như thủ thuật spam mới xuất hiện. Nhằm nỗ lực chống spam, chúng tôi sẽ cố gắng cân bằng giữa việc tăng chi phí áp cho những đơn vị sản xuất và phân phối nội dung spam trên các nền tảng của mình với việc bảo vệ hoạt động chân thực, sôi nổi của cộng đồng.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 028
+TITLE: Sản phẩm và dịch vụ tiền mã hóa | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/cryptocurrency-products-and-services/
+CONTENT_SHA256: 8eaed5515e78b6739d528dc6d3f0ccb0c686207751773896fdf3d2f5b941d762
+================================================================================
+Tiêu chuẩn quảng cáo
+Sản phẩm và dịch vụ tiền mã hóa
+# Sản phẩm và dịch vụ tiền mã hóa
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+12 tháng 11, 2025
+18 tháng 7, 2024
+24 tháng 3, 2023
+Sản phẩm và dịch vụ tiền mã hóa
+Quảng cáo không được quảng bá phần mềm, nền tảng giao dịch tiền mã hóa cũng như các sản phẩm và dịch vụ liên quan hỗ trợ khả năng kiếm tiền, bán lại, trao đổi hoặc khóa tiền mã hóa khi không có văn bản cho phép trước. Để đăng ký, vui lòng nhấp vào đây. Để biết thêm thông tin, hãy xem Trung tâm trợ giúp doanh nghiệp của chúng tôi.
+Tổng quan
+Tiền mã hóa và công nghệ chuỗi khối là ngành phát triển nhanh chóng và năng động, rất dễ gặp phải hành vi lừa đảo tài chính và quảng cáo gây hiểu nhầm. Để giảm rủi ro cho người tiêu dùng, nếu muốn quảng bá phần mềm, nền tảng giao dịch tiền mã hóa hoặc dịch vụ và sản phẩm sử dụng công nghệ chuỗi khối, nhà quảng cáo phải cung cấp bằng chứng cho thấy hoạt động của họ được cấp phép hợp pháp.
+Để quảng cáo trên các công nghệ của chúng tôi, nhà quảng cáo sẽ phải gửi giấy phép hoặc giấy đăng ký được công nhận theo quy định, đồng thời phải nhận được văn bản cấp phép từ Meta thông qua tab Ủy quyền và xác minh trong Meta Business Suite.
+Nguyên tắc dành cho quảng cáo
+Nhà quảng cáo cần có văn bản cho phép để chạy quảng cáo nhằm quảng bá:
+* **Nền tảng hoặc sàn giao dịch tiền mã hóa:**Nền tảng, ứng dụng phần mềm hoặc sản phẩm hỗ trợ mọi người trao đổi tiền mã hóa và tiền thật. Mục này bao gồm nhưng không giới hạn ở công cụ giao dịch giao ngay, giao dịch ký quỹ, giao dịch giao sau và các công cụ giao dịch khác liên quan đến tài sản tiền mã hóa.
+* **Vay hoặc cho vay tiền mã hóa:** Nền tảng, ứng dụng phần mềm hoặc sản phẩm cho phép mọi người vay hoặc cho vay tiền mã hóa.
+* **Ví tiền mã hóa cung cấp dịch vụ bổ sung:** Các thiết bị hoặc phần mềm tạo điều kiện cho mọi người lưu trữ tiền mã hóa một cách an toàn và cung cấp các dịch vụ bổ sung như:
+* Mua hoặc bán
+* Hoán đổi hoặc trao đổi một loại tiền mã hóa này để lấy một loại tiền mã hóa khác
+* Khóa hoặc mua và nắm giữ tiền mã hóa để kiếm lãi
+* **Đào tiền mã hóa:** Phần cứng hoặc phần mềm hỗ trợ đào tài sản tiền mã hóa
+* **Đầu tư tiền mã hóa:** đề nghị đầu tư, tham gia hoặc hỗ trợ nhằm gạ gẫm khách hàng sử dụng các sàn, nền tảng giao dịch hoặc những nền tảng công nghệ tài chính khác. Nhóm này bao gồm các trang web liên kết tiếp thị hoặc tổng hợp (trang web marketing tổng hợp các liên kết đến đối tác cung cấp cơ hội đầu tư, bao gồm cả tiền mã hóa)
+Nhà quảng cáo không cần có văn bản cho phép để chạy quảng cáo nhằm quảng bá:
+* Dịch vụ thuế cho các công ty tiền mã hóa
+* Sự kiện, hoạt động đào tạo hoặc tin tức liên quan đến tiền mã hóa hay công nghệ chuỗi khối, miễn là không cung cấp sản phẩm/dịch vụ tiền mã hóa
+* Tin tức về công nghệ chuỗi khối
+* Dịch vụ và sản phẩm dựa trên công nghệ chuỗi khối nhưng không phải tiền mã hóa, chẳng hạn như mã không thể thay thế (NFT)
+* Ví tiền mã hóa hỗ trợ mọi người lưu trữ tiền mã hóa nhưng không cung cấp các dịch vụ khác như mua, bán, hoán đổi hay khóa tài sản tiền mã hóa
+* Sản phẩm và dịch vụ tiền mã hóa không được dùng cho mục đích mua, bán hoặc giao dịch
+Khi yêu cầu quyền, nhà quảng cáo cũng cần chứng minh rằng họ có một trong các loại giấy phép hoặc giấy đăng ký sau:
+* **Úc:**
+* Giấy đăng ký AUSTRAC, nơi cấp: Trung tâm Phân tích và Báo cáo Giao dịch Úc (AUSTRAC)
+* Giấy phép dịch vụ tài chính Úc/Giấy phép thị trường Úc, Nơi cấp: Ủy ban Đầu tư và Chứng khoán Úc (ASIC)
+* **Áo:** Giấy đăng ký trở thành nhà cung cấp dịch vụ tiền mã hóa theo Đạo luật Chống Rửa tiền trên Thị trường Tài chính Áo, Nơi cấp: Cơ quan Quản lý Thị trường Tài chính (FMA)
+* **Canada:** Giấy đăng ký Doanh nghiệp dịch vụ tiền tệ, Nơi cấp: Trung tâm Phân tích Báo cáo và Giao dịch Tài chính Canada (FINTRAC)
+* **Estonia:** Giấy phép Dịch vụ tiền ảo, Nơi cấp: Cơ quan Thông tin Tài chính
+* **Phần Lan:** Giấy đăng ký trong sổ đăng ký nhà cung cấp dịch vụ tiền mã hóa, Nơi cấp: Cơ quan Giám sát Dịch vụ Tài chính (Fin-FSA)
+* **Pháp:**Giấy đăng ký hoặc giấy phép cho Nhà cung cấp dịch vụ tài sản kỹ thuật số, Nơi cấp: Autorité des Marchés Financiers (AMF)
+* **Đức:**Giấy ủy quyền BaFin, Nơi cấp: Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)
+* **Gibraltar:**Giấy đăng ký nhà cung cấp công nghệ sổ cái phân tán (DLT), Nơi cấp: Ủy ban Dịch vụ Tài chính Gibraltar (GFSC)
+* **Hồng Kông:** Giấy phép từ Ủy ban Chứng khoán và Hợp đồng Tương lai (SFC) hoặc giấy đăng ký với SFC cho các hoạt động thuộc diện quản lý Loại 1, 7 và 9, Nơi cấp: Ủy ban Chứng khoán và Hợp đồng Tương lai (SFC)
+* **Indonesia:**Giấy phê duyệt của Cơ quan Quản lý Giao dịch Hàng hóa Tương lai (BAPPEBTI), Nơi cấp: Cơ quan Quản lý Giao dịch Hàng hóa Tương lai (BAPPEBTI)
+* **Nhật Bản:**Giấy đăng ký Nhà cung cấp dịch vụ giao dịch tài sản tiền mã hóa, nơi cấp: Cơ quan Dịch vụ Tài chính Nhật Bản (FSA)
+* **Luxembourg:**Giấy đăng ký Nhà cung cấp dịch vụ tài sản ảo (VASP) - Nơi cấp: Comission de Surveillance du Secteur Financier (CSSF)
+* **Malaysia:** Trạng thái Nhà vận hành thị trường được công nhận (RMO), Nơi cấp: Ủy ban Chứng khoán (SC) Malaysia
+* **Malta:**Giấy phép của Cơ quan Dịch vụ Tài chính Malta (MFSA) theo các điều khoản của Đạo luật Tài sản Tài chính Ảo (CAP 590), Nơi cấp: Cơ quan Dịch vụ Tài chính Malta (MFSA)
+* **Hà Lan:**Giấy đăng ký với Ngân hàng Trung ương Hà Lan (DCB), Nơi cấp: Ngân hàng Trung ương Hà Lan (DCB)
+* **Na Uy:** Giấy đăng ký với Cơ quan Giám sát Tài chính (Finanstilsynet), Nơi cấp: Finanstilsynet
+* **Philippines:** Giấy chứng nhận ủy quyền (COA) để hoạt động với vai trò là nhà cung cấp dịch vụ tài sản ảo (VASP), Nơi cấp: Bangko Sentral ng Pilipinas (BSP)
+* **Bồ Đào Nha:** Giấy đăng ký Nhà cung cấp dịch vụ tài sản ảo (VASP), Nơi cấp: Banco de Portugal
+* **Singapore:** Giấy phép của Cơ quan Quản lý Tiền tệ Singapore (MAS) theo Đạo luật Dịch vụ Thanh toán đối với dịch vụ mã thanh toán kỹ thuật số (DPT), Nơi cấp: Cơ quan Quản lý Tiền tệ Singapore (MAS)
+* **Hàn Quốc:**Báo cáo của Nhà cung cấp dịch vụ tài sản ảo (VASP) (chỉ có thể nhận được khi đạt chứng nhận ISMS), Nơi cấp: Cơ quan Thông tin Tài chính Hàn Quốc (KoFIU)/Ủy ban Dịch vụ Tài chính (FSC)
+* **Tây Ban Nha:**Giấy đăng ký làm nhà cung cấp tham gia vào dịch vụ trao đổi giữa tiền mã hóa và tiền pháp định cũng như nhà cung cấp ví lưu ký, Nơi cấp: Banco de Espana (Ngân hàng Tây Ban Nha)
+* **Thụy Điển:**Giấy đăng ký với Cơ quan Giám sát Tài chính (FSA), nơi cấp: Cơ quan Giám sát Tài chính (FSA)
+* **Thụy Sĩ:**Chứng nhận đăng ký Giấy phép Fintech, Nơi cấp: Cơ quan Giám sát Thị trường Tài chính Thụy Sĩ (FINMA)
+* **Thái Lan:** Giấy phép Kinh doanh tài sản kỹ thuật số, Nơi cấp: Ủy ban Chứng khoán và Giao dịch Thái Lan (SEC)
+* **Các Tiểu vương quốc Ả Rập Thống nhất:**
+* Giấy phép tham gia vào hoạt động sắp xếp, tư vấn, giao dịch, quản lý hoặc các dịch vụ tài chính liên quan khác và/hoặc điều hành một sàn giao dịch và/hoặc cung cấp các dịch vụ tiền tệ - mỗi hoạt động đều liên quan đến tài sản tiền mã hóa, Nơi cấp: Thị trường Toàn cầu Abu Dhabi, Cơ quan Quản lý Dịch vụ Tài chính
+* Giấy phép vận hành Cơ sở giá trị lưu trữ (bao gồm tài sản ảo), Nơi cấp: Doanh nghiệp nội địa Các Tiểu vương quốc Ả Rập Thống nhất, Ngân hàng Trung ương Các Tiểu vương quốc Ả Rập Thống nhất
+* Giấy phép tham gia Kinh doanh đầu tư/vận hành sàn giao dịch - dành riêng cho Mã đầu tư, Nơi cấp: Trung tâm Tài chính Quốc tế Dubai, Cơ quan Dịch vụ Tài chính Dubai
+* Đăng ký Giấy phép cung cấp sản phẩm trên toàn thị trường (FMP) để vận hành dịch vụ Trao đổi tài sản ảo, Nơi cấp: Cơ quan Quản lý Tài sản Ảo
+* **Vương quốc Anh:** Giấy ủy quyền của Cơ quan Quản lý Tài chính, Nơi cấp: Cơ quan Quản lý Tài chính (FCA)
+* **Hoa Kỳ:**
+* Giấy đăng ký MSB của FinCEN, Nơi cấp: Mạng lưới Phòng chống Tội phạm Tài chính, (FinCEN)
+* BitLicense, Nơi cấp: Sở Dịch vụ Tài chính Tiểu bang New York (NYSDFS)
+Để biết thêm thông tin, hãy truy cập Trung tâm trợ giúp doanh nghiệp.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 029
+TITLE: Sản phẩm, dịch vụ tài chính và bảo hiểm | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/financial-services/
+CONTENT_SHA256: f46a88fe4610dd2845a7339ab3ced38a9c7b6e27115f86a88a537cf39da34244
+================================================================================
+Tiêu chuẩn quảng cáo
+Sản phẩm, dịch vụ tài chính và bảo hiểm
+# Sản phẩm, dịch vụ tài chính và bảo hiểm
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+20 tháng 3, 2026
+11 tháng 3, 2026
+8 tháng 12, 2025
+12 tháng 11, 2025
+18 tháng 7, 2024
+19 tháng 10, 2022
+Sản phẩm, dịch vụ tài chính và bảo hiểm
+Các quảng cáo quảng bá dịch vụ thẻ tín dụng, bảo hiểm hoặc cho vay phải nhắm mục tiêu đến đối tượng từ 18 tuổi trở lên. Chúng tôi cấm các quảng cáo trực tiếp yêu cầu nhập bất kỳ thông tin nhận dạng cá nhân nào hoặc một số loại thông tin tài chính nhất định theo chính sách về Hành vi gian lận, lừa đảo và lừa gạt và/hoặc chính sách về hành vi Vi phạm quyền riêng tư của chúng tôi.
+Trong trường hợp được yêu cầu, nhà quảng cáo quảng bá sản phẩm và dịch vụ tài chính phải xác minh danh tính doanh nghiệp và/hoặc cá nhân, cũng như chứng minh rằng các cơ quan quản lý liên quan đã ủy quyền cho họ, đồng thời Meta có thể sẽ xem xét mọi sự ủy quyền như vậy. Nhà quảng cáo cũng phải tuân thủ các yêu cầu do luật quy định về việc tiết lộ thông tin.
+Hãy truy cập vào Trung tâm trợ giúp doanh nghiệp của chúng tôi để tìm hiểu thêm về quy trình ủy quyền.
+Tổng quan
+Nhà quảng cáo có thể chạy quảng cáo quảng bá dịch vụ thẻ tín dụng, bảo hiểm hoặc cho vay, miễn là chỉ nhắm mục tiêu đến đối tượng từ 18 tuổi trở lên. Chúng tôi cấm các quảng cáo trực tiếp yêu cầu nhập bất kỳ thông tin nhận dạng cá nhân nào hoặc một số loại thông tin tài chính nhất định theo chính sách về Hành vi gian lận, lừa đảo và lừa gạt và/hoặc chính sách về hành vi Vi phạm quyền riêng tư của chúng tôi.
+Nếu muốn chạy quảng cáo về sản phẩm hoặc dịch vụ tài chính, nhà quảng cáo có thể sẽ cần xin giấy phép ở quốc gia mà họ nhắm mục tiêu đến. Meta có thể xem xét mọi hoạt động xin giấy phép liên quan hoặc xác nhận rằng nhà quảng cáo đó được phép chạy những quảng cáo như vậy.
+Nhà quảng cáo phải tuân thủ mọi luật và quy định hiện hành, kể cả bất kỳ yêu cầu nào về việc xin giấy phép hoặc tiết lộ thông tin.
+Nguyên tắc dành cho quảng cáo
+**Sản phẩm khoản vay bị cấm**
+**Quảng cáo không được**
+* Quảng bá dịch vụ Cho vay theo ngày (khoản vay ngắn hạn mà người vay thường phải trả vào ngày hôm sau). Đây thường là những khoản vay có số tiền nhỏ nhưng phí và lãi suất lại cao.
+* Quảng bá dịch vụ Tạm ứng lương (khoản vay ngắn hạn ứng trước tiền lương trong tương lai).
+* Quảng bá dịch vụ Tiền bảo lãnh (khoản vay cho phép bị cáo hình sự được thả khỏi nơi giam giữ kèm theo điều kiện là phải nộp một khoản tiền do tòa án xác định).
+* Quảng bá dịch vụ Khoản vay ngắn hạn trong tối đa 90 ngày (khoản vay cần phải hoàn trả đầy đủ trong tối đa 90 ngày kể từ ngày nhận được khoản vay).
+* Quảng bá nội dung gây hiểu nhầm liên quan đến dịch vụ gộp nợ, miễn nợ hoặc tái cấp vốn cho sinh viên bằng việc sử dụng các phương thức lừa đảo, chẳng hạn như phóng đại các lợi ích đối với người dùng hoặc không công khai điều khoản rõ ràng.
+**Công cụ tài chính mang tính lừa đảo và gây hiểu nhầm**
+**Quảng cáo không được**
+* Quảng bá Quyền chọn nhị phân (sản phẩm tài chính mà phần thưởng là một khoản tiền cố định hoặc chẳng có gì cả).
+* Quảng bá giao dịch Hợp đồng chênh lệch (liên quan đến một hợp đồng tài chính sẽ trả các khoản chênh lệch về giá thanh toán giữa các giao dịch mở và đóng).
+* Quảng bá hoạt động Chào bán tiền ảo lần đầu ra công chúng (kiểu cấp vốn cho tiền ảo và thường là hình thức gọi vốn từ cộng đồng).
+* Quảng bá hình thức Đấu giá xu, đấu giá phí đấu thầu hoặc các mô hình kinh doanh khác tương tự (hình thức đấu giá mà tất cả những người tham gia đều phải trả một khoản phí không hoàn lại thì mới được đặt giá thầu).
+Nhà quảng cáo có thể chạy quảng cáo quảng bá dịch vụ thẻ tín dụng, bảo hiểm hoặc cho vay dài hạn có thời hạn trên 90 ngày, miễn là:
+* Chỉ nhắm mục tiêu đến đối tượng từ 18 tuổi trở lên
+* Tiết lộ thông tin theo yêu cầu của pháp luật
+* Theo các điều khoản trong Chính sách về hành vi Vi phạm quyền riêng tư của chúng tôi, không yêu cầu cung cấp bất kỳ thông tin nhận dạng cá nhân hoặc thông tin tài chính nào, chẳng hạn như thông tin tài khoản ngân hàng, thông tin thẻ tín dụng/thẻ ghi nợ hay số định tuyến
+**Xin giấy phép:** Nếu dùng quảng cáo về sản phẩm hoặc dịch vụ tài chính để nhắm mục tiêu đến một số quốc gia, nhà quảng cáo cần xin giấy phép của các cơ quan quản lý liên quan. Ở trường hợp đó, nhà quảng cáo phải chứng minh rằng mình có giấy phép thích hợp. Meta có thể sẽ xem xét giấy phép này.
+Các sản phẩm và dịch vụ tài chính có thể sẽ cần xin giấy phép bao gồm nhưng không giới hạn ở:
+* Sản phẩm bảo hiểm
+* Khoản vay thế chấp
+* Khoản vay (ngắn hạn và dài hạn)
+* Cơ hội và sản phẩm đầu tư
+* Quy trình đăng ký mở thẻ tín dụng
+**Hạn chế khác:** Cơ hội và sản phẩm đầu tư
+Nếu nhắm mục tiêu đến Hoa Kỳ, quảng cáo không được
+* Quảng cáo cơ hội hay sản phẩm đầu tư gợi ý người dùng tương tác với nhà quảng cáo thông qua dịch vụ nhắn tin trực tiếp trên hoặc ngoài nền tảng.
+Nhà quảng cáo có thể chạy các loại quảng cáo sau mà không phải xin giấy phép hay chịu những hạn chế ở trên:
+* Quảng cáo về thương hiệu của ngân hàng hoặc công ty bảo hiểm
+* Quảng cáo về tin bài, miễn là không đưa ra ưu đãi về thẻ tín dụng, khoản vay dài hạn hoặc dịch vụ bảo hiểm
+* Quảng cáo quảng bá hoặc cung cấp thông tin về chương trình hướng dẫn, đào tạo hay xây dựng kỹ năng để đăng ký/quản lý khoản vay
+* Quảng cáo chỉ nhắc đến một sản phẩm/dịch vụ tài chính mà không đề cập đến khả năng tiếp cận hay kết nối với sản phẩm/dịch vụ đó
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 030
+TITLE: Sức khỏe thể chất và tinh thần | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/health-wellness/
+CONTENT_SHA256: a485668c937332c24e09f75e3ad2d29389ae394dda34708ae0c5365f59a224d0
+================================================================================
+Health Wellness
+# Sức khỏe thể chất và tinh thần
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 12, 2024
+Sức khỏe thể chất và tinh thần
+Chính sách này áp dụng cho 2 loại quảng cáo: Sản phẩm và thủ thuật giảm cân, mỹ phẩm và thủ thuật thẩm mỹ, cũng như sản phẩm dành cho người lớn và chăm sóc sức khỏe sinh sản.
+**Sản phẩm và thủ thuật giảm cân, mỹ phẩm và thủ thuật thẩm mỹ**
+Quảng cáo quảng bá hoặc tiếp thị các sản phẩm và dịch vụ ăn kiêng, hỗ trợ sức khỏe hoặc giảm cân phải nhắm mục tiêu những người từ 18 tuổi trở lên.
+Quảng cáo quảng bá hoặc tiếp thị mỹ phẩm, thủ thuật hoặc biện pháp phẫu thuật thẩm mỹ phải nhắm mục tiêu những người từ 18 tuổi trở lên.
+Quảng cáo không được ám chỉ hoặc cố tình khơi gợi cảm nhận tiêu cực về bản thân hoặc tuyên bố rằng có một kiểu thân hình/ngoại hình hoàn hảo mà mọi người nên khao khát nhằm quảng bá thủ thuật hỗ trợ ăn kiêng, giảm cân, thủ thuật thẩm mỹ hay bất kỳ sản phẩm nào khác liên quan đến sức khỏe.
+Tổng quan
+Meta cố gắng trở thành một môi trường tích cực và toàn diện. Chúng tôi muốn tạo ra một môi trường nơi cộng đồng cảm thấy thoải mái, tự tin và an toàn để được là chính mình khi tự do thể hiện bản thân. Do đó, chúng tôi chỉ cho phép đăng quảng cáo về sản phẩm/dịch vụ giảm cân, mỹ phẩm hoặc thủ thuật thẩm mỹ nhắm mục tiêu đến những người từ 18 tuổi trở lên. Đồng thời, quảng cáo không được phép ngụ ý bất kỳ chi tiết nào khiến người xem nhìn nhận tiêu cực về hình thể của bản thân nhằm quảng bá sản phẩm sức khỏe cá nhân.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được phép:
+* Quảng bá sản phẩm và dịch vụ giảm cân hay mỹ phẩm hoặc thủ thuật thẩm mỹ:
+* Đưa ra thông điệp gây khó chịu có thể khiến mọi người suy nghĩ tiêu cực về vẻ ngoài của họ, lợi dụng tâm lý tự ti để áp đặt tiêu chuẩn nhan sắc, nhấn mạnh hình thể mang tính tiêu cực/không lành mạnh hoặc miệt thị ngoại hình
+* Quảng bá sản phẩm/dịch vụ giảm cân bằng cách:
+* So sánh tình trạng trước và sau khi sử dụng sản phẩm giảm cân hoặc quá trình giảm cân, không tính đến tác động của các lớp thể dục (chẳng hạn như Pilates)
+* Mô tả cận cảnh hành động véo phần mỡ trên vùng cơ thể nhất định
+* Quảng bá mỹ phẩm, thủ thuật hoặc biện pháp phẫu thuật thẩm mỹ bằng cách:
+* So sánh tình trạng trước và sau khi sử dụng sản phẩm điều trị nếp nhăn hoặc quá trình điều trị nếp nhăn, chẳng hạn như: Botox, chất độn da hoặc bất kỳ phương pháp chống lão hóa nào khác.
+* Quảng bá sản phẩm làm trắng/tẩy trắng da khiến màu da thay đổi vĩnh viễn.
+Khi nhắm mục tiêu đến những người từ 18 tuổi trở lên, nhà quảng cáo có thể chạy quảng cáo quảng bá:
+* Sản phẩm và dịch vụ giảm cân bằng chế độ ăn kiêng, chẳng hạn như thuốc giảm cân hoặc thực phẩm chức năng. Quảng cáo có thể minh họa người dùng sản phẩm/dịch vụ cũng như tác động của việc sử dụng sản phẩm/dịch vụ đó, đồng thời nêu cụ thể thời gian cần thiết để đạt được kết quả rõ rệt, không triển khai chiến thuật khiến người xem nhìn nhận tiêu cực về bản thân.
+* Mỹ phẩm, thủ thuật hoặc biện pháp phẫu thuật thẩm mỹ, chẳng hạn như:
+* Nâng ngực, thu gọn ngực, tạo hình thành bụng, cắt mí mắt, sửa mũi, căng da mặt, thu nhỏ môi bé, cấy tóc, tiêm chất độn, trẻ hóa da, tiêm chất làm đẹp, lột da hóa học, vi kim, điều trị bằng laser không xâm lấn, điều trị bằng laser/ánh sáng hoặc phun xăm
+* Mỹ phẩm, thủ thuật và biện pháp phẫu thuật thẩm mỹ chung chung, mô tả tình trạng trước và sau quá trình biến đổi, không triển khai chiến thuật khiến người xem nhìn nhận tiêu cực về bản thân.
+* Sản phẩm/dịch vụ chống lão hóa da, bao gồm cả các phương pháp điều trị nếp nhăn như tiêm Botox, có thể hiển thị hình ảnh phóng to hoặc cận cảnh hay làm nổi bật vùng da cụ thể để chứng minh kết quả được quảng bá. Những nội dung mô tả này phải phản ánh kết quả thực tế theo thời gian, đồng thời không được phép so sánh tình trạng trước và sau.
+* Dịch vụ và thủ thuật chuyển giới.
+**Lưu ý: Đối với sản phẩm giảm cân cần kê đơn, vui lòng tham khảo chính sách quảng cáo Thuốc và dược phẩm, đồng thời tuân thủ các yêu cầu về việc nhắm mục tiêu theo vị trí địa lý và văn bản cấp phép.**
+**Các quy định hạn chế về việc nhắm mục tiêu theo độ tuổi ở trên không áp dụng cho quảng cáo quảng bá hoặc bán hàng, kể cả trường hợp so sánh tình trạng trước và sau:**
+* Sản phẩm và dịch vụ được tiếp thị vì lợi ích chung chung, chẳng hạn như dịch vụ và thiết bị thể dục, câu lạc bộ sức khỏe
+* Thực phẩm chung chung
+* Mỹ phẩm, chẳng hạn như kem, đồ trang điểm và sản phẩm làm tóc
+* Sản phẩm nha khoa, chẳng hạn như sản phẩm làm trắng răng
+**Lưu ý:** Quảng cáo về mỹ phẩm, tóc nối, mỹ phẩm tương tự khác hay sản phẩm làm đẹp tạm thời hoặc ứng dụng chỉnh sửa kỹ thuật số đều không thuộc phạm vi của chính sách này, có thể cho thấy tình trạng trước và sau quá trình biến đổi, không triển khai chiến thuật khiến người xem nhìn nhận tiêu cực về bản thân.
+Sản phẩm người lớn và sức khỏe sinh sản
+Quảng cáo không được phép quảng bá việc bán hoặc sử dụng sản phẩm/dịch vụ gợi dục người lớn. Quảng cáo quảng bá sản phẩm/dịch vụ sức khỏe thể chất hoặc tinh thần về tình dục và sinh sản (chẳng hạn như biện pháp tránh thai và kế hoạch hóa gia đình) phải nhắm mục tiêu đến những người từ 18 tuổi trở lên và không được phép tập trung vào khoái cảm tình dục.
+Tổng quan
+Nhà quảng cáo có thể chạy quảng cáo quảng bá sản phẩm và dịch vụ sức khỏe tình dục, sức khỏe thể chất và tinh thần cũng như sinh sản. Tuy nhiên, là một công ty toàn cầu, chúng tôi lưu ý đến nhiều đối tượng thuộc những nền văn hóa và quốc gia khác nhau xem quảng cáo trên các công nghệ của Meta để tránh những trải nghiệm tiêu cực có thể xảy ra. Do đó, chúng tôi đặt ra các quy định hạn chế bổ sung đối với những quảng cáo này, bao gồm cả yêu cầu nhắm mục tiêu đến đối tượng từ 18 tuổi trở lên.
+Nguyên tắc
+Quảng cáo không được:
+* Quảng bá sản phẩm gợi dục tập trung vào khoái cảm tình dục hoặc việc kích dục, chẳng hạn như:
+* Đồ chơi tình dục
+* Sản phẩm khiêu dâm (ví dụ: tiểu thuyết/thơ khiêu dâm được quảng bá hay tiếp thị là có nội dung chủ yếu về tình dục; trang phục khiêu dâm, mỹ phẩm hoặc ái vật; cũng như sản phẩm kích thích bộ phận sinh dục không cần phẫu thuật)
+* Quảng bá việc bán hoặc sử dụng dịch vụ tình dục người lớn, bao gồm nhưng không giới hạn ở:
+* Cơ sở kinh doanh về hoạt động giải trí người lớn, chẳng hạn như câu lạc bộ thoát y
+* Cơ sở kinh doanh về quan hệ tình dục người lớn, chẳng hạn như hộp đêm và rạp chiếu phim người lớn
+* Cơ sở kinh doanh khác dành cho người lớn, chẳng hạn như khách sạn ảo dâm
+* Dịch vụ hướng dẫn về tình dục, chẳng hạn như dịch vụ mật tông, liệu pháp giúp đạt cực khoái hoặc trải nghiệm nghỉ dưỡng ẩn cư theo kiểu mật tông dùng liệu pháp giúp đạt cực khoái
+* Quảng bá thủ thuật hoặc biện pháp phẫu thuật bộ phận sinh dục tập trung vào khoái cảm tình dục, chẳng hạn như mở rộng điểm G, tăng kích thước bộ phận sinh dục nam.
+Khi nhắm mục tiêu đến những người từ 18 tuổi trở lên, nhà quảng cáo có thể chạy quảng cáo:
+* Quảng bá sản phẩm/dịch vụ sức khỏe thể chất lẫn tinh thần về tình dục và sinh sản, miễn là tập trung vào sức khỏe và hiệu quả y tế của sản phẩm/dịch vụ đó chứ không phải khoái cảm tình dục hoặc việc kích dục. Đồng thời, các quảng cáo này phải nhắm mục tiêu đến những người từ 18 tuổi trở lên, bao gồm cả quảng cáo:
+* Sản phẩm giải quyết vấn đề về sức khỏe hoặc tình trạng rối loạn sinh sản tình dục, chẳng hạn như:
+* Phòng ngừa rối loạn cương dương
+* Xuất tinh sớm
+* Rối loạn ham muốn tình dục (HSDD)
+* Giảm đau khi quan hệ tình dục
+* Tác động của thời kỳ mãn kinh
+* Phẫu thuật bộ phận sinh dục sinh sản để đạt được lợi ích y tế, giới hạn ở:
+* Cắt bao quy đầu
+* Thu hẹp âm đạo
+* Thắt ống dẫn tinh
+* Sản phẩm tránh thai, bao gồm cả bao cao su
+* Chất bôi trơn và kích thích tố
+* Ứng dụng sức khỏe sinh sản dành cho phụ nữ, chẳng hạn như:
+* Ứng dụng công nghệ hỗ trợ phụ nữ
+* Công cụ theo dõi tình trạng rụng trứng
+* Công cụ theo dõi tiến trình mang thai
+* Phương pháp kế hoạch hóa gia đình, chẳng hạn như:
+* Phòng khám kế hoạch hóa gia đình
+* Thụ tinh trong ống nghiệm (IVF) hoặc bất kỳ thủ thuật thụ tinh nhân tạo nào khác
+* Nhận thức về khả năng sinh sản
+* Tư vấn y tế về việc phá thai và các dịch vụ liên quan
+**Lưu ý: Đối với thuốc hoặc phương pháp điều trị cho sức khỏe thể chất lẫn tinh thần về sinh sản cần kê đơn, vui lòng tham khảo chính sách quảng cáo Thuốc và dược phẩm, đồng thời tuân thủ các yêu cầu về việc nhắm mục tiêu theo vị trí địa lý và văn bản cấp phép cùng với chính sách này.**
+**Các yêu cầu về việc nhắm mục tiêu theo độ tuổi ở trên không áp dụng cho quảng cáo quảng bá hoặc bán:**
+* Sản phẩm sức khỏe sinh sản dành cho phụ nữ, chẳng hạn như ứng dụng sức khỏe theo dõi kinh nguyệt
+* Nội dung giáo dục giới tính chia sẻ nhận thức về sức khỏe sinh sản hay sức khỏe tình dục dưới dạng thông tin, hướng dẫn hoặc phim tài liệu, miễn là không có nội dung khiêu dâm/gợi dục và tập trung vào sức khỏe chứ không phải khoái cảm tình dục hoặc việc kích dục
+* Tài liệu hướng dẫn hoặc thông tin về các dịch vụ kế hoạch hóa gia đình, không quảng bá trực tiếp hay tạo điều kiện cho những dịch vụ này
+* Sản phẩm vệ sinh dành cho phụ nữ
+* Nội y, đồ bơi hoặc quần áo lót, miễn là không vi phạm chính sách về Ảnh khỏa thân người lớn và hoạt động tình dục.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 031
+TITLE: Sử dụng giấy phép và tài sản trí tuệ của Meta| Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/intellectual-property-infringement/Using-Meta-Intellectual-Property-Licenses/
+CONTENT_SHA256: 5181474f6c4d317397ca0aaeccb179ec3763628e744aa1ffaa8735e85511b712
+================================================================================
+Chính sách quảng cáo
+Sử dụng giấy phép và tài sản trí tuệ của Meta
+# Sử dụng giấy phép và tài sản trí tuệ của Meta
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Sử dụng giấy phép và tài sản trí tuệ của Meta
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về việc Sử dụng giấy phép và tài sản trí tuệ của Meta.
+Quảng cáo không được sử dụng Giấy phép và Tài sản trí tuệ của Meta theo cách vi phạm Tiêu chuẩn cộng đồng và nguyên tắc trong Trung tâm tài nguyên thương hiệu.
+Tổng quan
+Meta dành nhiều nguồn lực cho công cuộc phát triển, bảo vệ và sử dụng tài sản trí tuệ của mình theo đúng cách. Chính sách này góp phần đảm bảo rằng Quảng cáo không sử dụng tài sản trí tuệ của Meta một cách bất hợp pháp (khi chưa có văn bản cho phép trước từ chúng tôi) hoặc theo cách không nhất quán với Trung tâm tài nguyên thương hiệu.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 032
+TITLE: Thuốc lá và các sản phẩm liên quan | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/tobacco-related-products/
+CONTENT_SHA256: f328a8f3e2b0ee19f9ef5825743692e56afbef0a297a8bc058a0806f2e977665
+================================================================================
+Tobacco Related Products
+# Thuốc lá và sản phẩm liên quan
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 6, 2024
+10 tháng 7, 2023
+Thuốc lá và các sản phẩm liên quan
+Quảng cáo không được quảng bá việc bán hay sử dụng các sản phẩm thuốc lá hoặc chứa nicotine và dụng cụ có liên quan. Quảng cáo không được quảng bá các thiết bị hút thuốc điện tử chứa nicotine (ví dụ: thuốc lá điện tử, thiết bị hóa hơi) hay bất kỳ sản phẩm nào khác mô phỏng hành vi hút thuốc hoặc được thiết kế để dùng với các sản phẩm thuốc lá hoặc chứa nicotine. Quảng cáo chỉ được phép quảng bá các sản phẩm cai thuốc lá đã được Tổ chức Y tế Thế giới hoặc Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt, đồng thời phải tuân thủ mọi luật hiện hành của nước sở tại, quy tắc và nguyên tắc bắt buộc hoặc có sẵn trong ngành.
+Tổng quan
+Nhà quảng cáo không được phép chạy quảng cáo để quảng bá việc bán hoặc sử dụng các sản phẩm thuốc lá/sản phẩm chứa nicotine/dụng cụ có liên quan, bao gồm nhưng không giới hạn ở: sản phẩm thuốc lá làm nóng, thuốc lá điện tử, dụng cụ hút thuốc lá điện tử, dụng cụ hút thuốc lá điện tử không chứa nicotine; dụng cụ hút thuốc lá điện tử có lợi cho sức khỏe, thiết bị hóa hơi hoặc các sản phẩm khác mô phỏng hành vi hút thuốc. Những sản phẩm này gây ra các rủi ro đã được xác định về sức khỏe và có khả năng gây hại cho mọi người. Nhà quảng cáo được phép chạy quảng cáo để quảng bá các sản phẩm cai thuốc lá có chứa nicotine đã được Tổ chức Y tế Thế giới hoặc Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt, miễn là quảng cáo đó nhắm mục tiêu đến những người từ 18 tuổi trở lên và tuân thủ luật hiện hành của nước sở tại, quy tắc và nguyên tắc bắt buộc hoặc có sẵn trong ngành.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được phép:
+* Quảng bá việc bán hoặc sử dụng thuốc lá/sản phẩm liên quan đến thuốc lá, bao gồm nhưng không giới hạn ở:
+* Thuốc lá và xì gà, thuốc lá nhai, thuốc lá không khói và thuốc lá nhồi tẩu
+* Sản phẩm thuốc lá điện tử có nicotine, chẳng hạn như thuốc lá điện tử, thiết bị hóa hơi và thiết bị làm nóng thuốc lá và nicotine, bao gồm cả dụng cụ hút thuốc lá điện tử dạng bút và tinh dầu/buồng chứa tinh dầu dành cho dụng cụ hút thuốc lá điện tử
+* Túi nicotine
+* Tẩu thuốc lá, giấy cuốn, ống điếu hookah và đầu lọc
+* Sảnh hookah và quầy bar bán xì gà
+* Quảng bá việc bán hoặc sử dụng sản phẩm mô phỏng hành vi hút thuốc, chẳng hạn như dụng cụ hút thuốc lá điện tử, bao gồm cả các sản phẩm không chứa thuốc lá hoặc nicotine (ví dụ: dụng cụ hút thuốc lá điện tử có chứa vitamin, dụng cụ hút thuốc lá điện tử có lợi cho sức khỏe)
+* Khắc họa hoặc mô tả việc tiêu thụ thuốc lá/sản phẩm liên quan với trọng tâm chính của quảng cáo là về cách sử dụng thuốc lá
+* Quảng bá các thương hiệu thuốc lá.
+* Quảng bá các cơ sở hoặc sự kiện cung cấp hay khuyến khích sử dụng sản phẩm thuốc lá
+Quảng cáo được phép:
+* Quảng bá các sản phẩm và dịch vụ cai thuốc lá đã được Tổ chức Y tế Thế giới hoặc Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt, miễn là quảng cáo đó nhắm mục tiêu đến những người từ 18 tuổi trở lên. Lưu ý rằng không được phép quảng bá dụng cụ hút thuốc lá điện tử trong bất kỳ bối cảnh nào.
+* Quảng bá các chiến dịch và sách điện tử chống hút thuốc, dịch vụ tư vấn cho người nghiện hút thuốc và chương trình hoặc cơ sở hỗ trợ phục hồi cho người hút thuốc. Lưu ý: chỉ được phép nhắc đến hoặc mô tả thuốc lá và các sản phẩm liên quan trong bối cảnh quảng bá các chiến dịch chống hút thuốc hoặc thuốc lá điện tử.
+* Quảng bá các blog hoặc nhóm kết nối những người có mối quan tâm liên quan đến thuốc lá, miễn là dịch vụ không dẫn đến việc bán thuốc lá hoặc các sản phẩm liên quan đến thuốc lá.
+CHO PHÉP
+✅ Hình ảnh này tuân thủ quy định vì quảng bá chiến dịch chống hút thuốc.
+KHÔNG CHO PHÉP
+❌ "Hãy mua thuốc lá và thuốc lá điện tử tại đây ngay hôm nay!"
+❌ Hình ảnh này quảng bá thuốc lá điện tử nên không tuân thủ quy định.
+❌ Hình ảnh này hiển thị ống điếu hookah nên không tuân thủ quy định.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 033
+TITLE: Thông tin sai lệch | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/unacceptable-content/misinformation/
+CONTENT_SHA256: 82fe6358c1de32a5d9b89f3f28fe462ef624145ccfd9ae02697911e1f3f3536c
+================================================================================
+Tiêu chuẩn quảng cáo
+Thông tin sai lệch
+# Thông tin sai lệch
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+18 tháng 7, 2024
+Thông tin sai lệch
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Thông tin sai lệch.
+Meta nghiêm cấm quảng cáo chứa nội dung bị các bên thứ ba xác minh dữ kiện phát hiện là sai sự thật. Nếu nhiều lần đăng thông tin bị xem là sai sự thật, nhà quảng cáo có thể sẽ bị hạn chế khả năng quảng cáo trên các công nghệ của Meta. Tìm hiểu thêm về chương trình xác minh dữ kiện của chúng tôi.
+Meta cũng nghiêm cấm các quảng cáo chứa thông tin sai lệch vi phạm Tiêu chuẩn cộng đồng.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo vi phạm Tiêu chuẩn cộng đồng hoặc chứa nội dung bị các bên thứ ba xác minh dữ kiện phát hiện là sai sự thật. Tại Meta, chúng tôi cam kết ngăn chặn tình trạng lan truyền thông tin sai lệch trên các công nghệ của mình. Mặc dù không thể loại bỏ hoàn toàn thông tin sai lệch khỏi Internet, chúng tôi đang nghiên cứu, sử dụng các đội ngũ và công nghệ để giải quyết vấn đề này theo cách hiệu quả và toàn diện nhất có thể.
+Nguyên tắc
+Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng về Thông tin sai lệch, Quảng cáo không được chứa nội dung bị các bên thứ ba xác minh dữ kiện phát hiện là sai sự thật.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 034
+TITLE: Tiêu chuẩn cộng đồng | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/community-standards/
+CONTENT_SHA256: afe45e58192673a7f4813563f110905403b3c45d940442e9270163f0a6b685b2
+================================================================================
+Chính sách quảng cáo
+# Tiêu chuẩn cộng đồng
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Quảng cáo không được vi phạm Tiêu chuẩn cộng đồng của chúng tôi.
+Tổng quan
+Tiêu chuẩn cộng đồng đóng vai trò là cơ sở định hình cho các quy tắc quảng cáo của chúng tôi. Để đủ điều kiện xuất hiện trong quảng cáo, nội dung phải tuân thủ Tiêu chuẩn cộng đồng và Nguyên tắc cộng đồng của Instagram.
+Nguyên tắc
+Quảng cáo không được:
+* Vi phạm Tiêu chuẩn cộng đồng
+* Chứa nội dung đã được đánh dấu là gây khó chịu hoặc nhạy cảm theo Tiêu chuẩn cộng đồng
+* Vi phạm Nguyên tắc cộng đồng của Instagramnếu đang chạy trên Instagram
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 035
+TITLE: Tiêu chuẩn quảng cáo của Meta
+SOURCE_TYPE: business_help
+CANONICAL_URL: https://vi-vn.facebook.com/business/help/117271728356988
+CONTENT_SHA256: 14356c178edf79d85c377a5f2e08869c2f036691a8929abde536953eb31a2ae5
+================================================================================
+# Tiêu chuẩn quảng cáo của Meta | Trung tâm trợ giúp doanh nghiệp của Meta
+Bắt đầu
+Quảng cáo
+Học hỏi
+Hỗ trợ
+## Đăng nhập Meta for Business
+Quản lý tài khoản quảng cáo và nhận sự hỗ trợ dành riêng cho bạn.
+Đăng nhập bằng Facebook
+Bắt đầu ngay
+Truy cập Trình quản lý quảng cáo
+_chevron-down_
+Tạo Trang
+Trung tâm trợ giúp doanh nghiệp
+Nhận hỗ trợ
+# Tiêu chuẩn quảng cáo của Meta
+Tiêu chuẩn quảng cáo của Meta cung cấp thông tin về những cách làm và loại nội dung quảng cáo mà chúng tôi được phép hoặc không được phép trên các công nghệ của chúng tôi. Tất cả các nhà quảng cáo nên xem xét những chính sách này trước khi tạo quảng cáo.
+##### Chủ đề hỗ trợ thường gặp
+Giới thiệu về hạn chế quảng cáo
+##### Trung tâm trợ giúp doanh nghiệp
+Khắc phục sự cố tài khoản bị vô hiệu hóa hoặc hạn chế
+##### Trung tâm trợ giúp doanh nghiệp
+Giới thiệu về Trang chủ hỗ trợ doanh nghiệp của Meta
+##### Trung tâm trợ giúp doanh nghiệp
+Khắc phục sự cố thanh toán không thành công trên Meta
+##### Trung tâm trợ giúp doanh nghiệp
+Thông tin này có hữu ích không?
+Có
+Không
+Đóng góp ý kiến
+Các bài viết khác trong phần này: KIẾN THỨC CƠ BẢN
+### ThÔng Tin CƠ BẢn
+Giới thiệu về quảng cáo trên FacebookHướng dẫn quảng cáo kỹ thuật sốGiới thiệu về Trình quản lý quảng cáoQuảng cáo trên FacebookCấu trúc của quảng cáo trên FacebookVị trí quảng cáo
+### TẠo
+Chọn mục tiêu quảng cáoĐịnh dạng quảng cáoCách tốt nhất để tạo quảng cáo hình ảnh
+Quay lại Trang chủ
+## Nhận thông tin mới nhất từ Meta for Business.
+Cung cấp địa chỉ email của bạn để nhận thông tin mới nhất từ Meta for Business, bao gồm tin tức, sự kiện và thông tin cập nhật về sản phẩm.
+Gửi mẫu này nghĩa là bạn đồng ý nhận các tài liệu truyền thông điện tử liên quan đến marketing từ Meta, bao gồm tin tức, sự kiện, thông tin mới và email quảng cáo. Bạn có thể rút lại sự đồng ý và hủy đăng ký bất kỳ lúc nào, chẳng hạn như bằng cách nhấp vào liên kết hủy đăng ký có trong email của chúng tôi. Để biết thêm thông tin về cách Meta xử lý dữ liệu của bạn, vui lòng đọc Chính sách dữ liệu.
+nguồn gốc mẫu
+lead_source
+optin__c
+Campaign_ID
+Đăng ký
+Công nghệ của Meta
+Messenger
+WhatsApp
+Audience Network
+Meta Quest
+Workplace
+Meta for Work
+Công cụ
+Công cụ miễn phí
+Trang Facebook
+Trang cá nhân Instagram
+Tin
+Cửa hàng
+Meta Business Suite
+Quảng cáo trên Facebook
+Quảng cáo trên Messenger
+Quảng cáo trên Instagram
+Quảng cáo video
+Trình quản lý quảng cáo
+Mục tiêu
+Thiết lập Trang Facebook
+Xây dựng mức độ nhận biết thương hiệu
+Quảng cáo doanh nghiệp địa phương
+Tăng doanh số online
+Quảng cáo ứng dụng
+Tìm kiếm khách hàng tiềm năng
+Đo lường và tối ưu hóa quảng cáo
+Nhắm mục tiêu lại khách hàng hiện có
+Xem tất cả mục tiêu
+Loại hình doanh nghiệp
+Doanh nghiệp nhỏ
+Doanh nghiệp lớn
+Agency
+Truyền thông và Nhà phát hành
+Người sáng tạo nội dung
+Nhà phát triển
+Đối tác kinh doanh
+Ngành
+Ô tô
+Hàng tiêu dùng đóng gói
+Thương mại điện tử
+Giải trí và truyền thông
+Dịch vụ tài chính
+Chơi game
+Bất động sản
+Nhà hàng
+Bán lẻ
+Công nghệ và viễn thông
+Du lịch
+Nguồn cảm hứng
+Tin tức kinh doanh
+Nghiên cứu tình huống
+Sự kiện
+Creative Hub
+Kỹ năng và đào tạo
+Học tập online
+Chương trình có giấy chứng nhận
+Webinar
+Hướng dẫn và nguồn lực
+Hướng dẫn quảng cáo
+An toàn và sự phù hợp của thương hiệu
+Sách "Click Here"
+Trách nhiệm truyền thông
+Sơ đồ trang web
+Trung tâm trợ giúp doanh nghiệp
+Tạo và quản lý tài khoản
+Đăng và phân phối nội dung
+Quảng cáo
+Bán hàng trên Facebook và Instagram
+Kiếm tiền từ nội dung hoặc ứng dụng
+Xem tất cả bài viết
+© 2026 Meta
+#### Đăng nhập Meta for Business
+Quản lý tài khoản quảng cáo và nhận sự hỗ trợ dành riêng cho bạn.
+ Đăng nhập bằng Facebook
+===== SOURCE DOCUMENT 036
+TITLE: Tính toàn vẹn của tài khoản | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/business-assets/account-integrity/
+CONTENT_SHA256: 646d7ed8545a7b50718676c6daeb364502e86cd2a1b5c2171733b39073929d6c
+================================================================================
+Account Integrity
+# Tính toàn vẹn của tài khoản
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Tính toàn vẹn của tài khoản
+Tài sản doanh nghiệp phải tuân thủ Tiêu chuẩn cộng đồng về Tính toàn vẹn của tài khoản.
+Tổng quan
+Để duy trì một môi trường an toàn và hỗ trợ quyền tự do biểu đạt, chúng tôi hạn chế hoặc gỡ các tài khoản gây hại cho cộng đồng. Chúng tôi đã tạo ra một tập hợp các hệ thống tự động và thủ công nhằm mục đích hạn chế, gỡ những tài khoản dùng để vi phạm nghiêm trọng hoặc nhiều lần các chính sách trên bất kỳ sản phẩm nào của chúng tôi.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 037
+TITLE: Từ ngữ tục tĩu | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/profanity/
+CONTENT_SHA256: bdb979779bdd9588c3c6bfb8ba3dd966fa09afda64650c4dce6d3897544a7322
+================================================================================
+Tiêu chuẩn quảng cáo
+Từ ngữ tục tĩu
+# Từ ngữ tục tĩu
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+14 tháng 10, 2025
+9 tháng 7, 2024
+Ngôn từ tục tĩu và khiêu dâm
+Quảng cáo không được chứa từ ngữ tục tĩu.
+Tổng quan
+Nhiều từ ngữ tục tĩu thể hiện ý nghĩa mạnh và có thể mang tính xúc phạm. Nhằm tuân thủ cam kết của chúng tôi về an toàn cho người dùng, nhìn chung chúng tôi không cho phép quảng cáo chứa ngôn từ tục tĩu hoặc khiêu dâm nhắm đến người dùng dưới 18 tuổi. Tuy nhiên, chúng tôi lại cho phép một số từ ngữ tục tĩu trong một vài trường hợp để tính đến bối cảnh, chẳng hạn như nội dung biểu đạt mang tính nghệ thuật.
+Nguyên tắc
+Quảng cáo không được bao gồm:
+* Từ ngữ tục tĩu và ngôn từ khiêu dâm, kể cả khi từ ngữ/ngôn từ đó bị làm mờ, viết sai chính tả hoặc không rõ ràng, chẳng hạn như khi dùng ký hiệu hay biểu tượng cảm xúc
+* Cử chỉ tục tĩu, bao gồm cả các cử chỉ dùng kỹ thuật chỉnh sửa/thay đổi ảnh để truyền tải từ ngữ tục tĩu
+Quảng cáo phải nhắm đến người dùng trên 18 tuổi khi chứa:
+* Ngôn từ tục tĩu và khiêu dâm ở bất kỳ bối cảnh nào không thuộc một vài trường hợp bên dưới
+Quảng cáo được phép bao gồm:
+* Từ ngữ tục tĩu bị làm mờ hoàn toàn, âm thanh có tiếng bíp hoặc bị che đi, với điều kiện là từ ngữ tục tĩu không được dùng quá mức
+* Các từ viết tắt đại diện cho ngôn từ tục tĩu, miễn là bản thân từ viết tắt đó không viết là một từ tục tĩu
+CHO PHÉP
+✅ "Nhấp vào đây để biết thêm thông tin!"
+KHÔNG CHO PHÉP
+❌ "Mua áo phông tại đây"
+❌ "Muaa áo phông tại đêi"
+❌ "Mua quả b.ứ,a tại đây"
+❌ "á*o*p*h*ô*n*g"
+❌ "@ văn phòng" thay vì "Ở văn phòng"
+❌ "♧ ♥ ♡ ♢ ♢ Mua ngay ♔ ♕ ♚ ♛ ⚜"
+❌ "Sáo ban khồng nhấp váo đầy?"
+❌ "ÁO PHÔNG"
+❌ "ÁO PHôNG"
+❌ "Kứt"
+❌ "🤬 🖕💩"
+❌ "Ở đây có bán áo phông xịn vãi l*n."
+❌ "Bạn thấy mệt mỏi vì dịch vụ di động như cứt? Hãy chuyển sang nhà cung cấp có phạm vi phủ sóng tốt hơn."
+❌ Hình ảnh này thay thế các chữ cái bằng biểu tượng nhằm thể hiện từ ngữ tục tĩu nên không tuân thủ.
+❌ Hình ảnh này cho thấy một người đang làm cử chỉ khiếm nhã nên không tuân thủ.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 038
+TITLE: Tự tử, tự gây thương tích và chứng rối loạn ăn uống | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/suicide-selfinjury-eating-disorders/
+CONTENT_SHA256: 5fd554238749e6342a512fd090ff552294b87bebd7bdee3937345d64dc89cc54
+================================================================================
+Tiêu chuẩn quảng cáo
+Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống
+# Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+14 tháng 5, 2025
+Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hành vi tự tử, tự gây thương tích và chứng rối loạn ăn uống. Quảng cáo không được phép cổ xúy hành vi tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống (bao gồm cả nội dung hư cấu như ảnh chế hoặc hình minh họa) và bất kỳ nội dung nào như vậy có dạng hình ảnh, bất kể bối cảnh là gì. Ngoài ra, quảng cáo không được chế giễu nạn nhân/người đã vượt qua việc tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống, cũng như nội dung mô tả theo thời gian thực về hành vi tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về Tự tử, tự gây thương tích và chứng rối loạn ăn uống.
+Nguyên tắc bổ sung đối với quảng cáo
+Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng, quảng cáo không được:
+* Chứa video hoặc ảnh mô tả một người thực hiện quá trình an tử/trợ tử trong bối cảnh y khoa
+* Chứa nội dung thừa nhận bằng văn bản/lời nói về việc thực hiện hành vi tự tử hay tìm cách tự tử, tự gây thương tích hoặc mắc chứng rối loạn ăn uống, kể cả khi không có hình ảnh phản cảm
+* Chứa tuyên bố hoặc nội dung không đề cập rõ ràng nhưng có khả năng liên quan đến hành vi tự tử (bao gồm cả ảnh chế/ảnh có sẵn về tâm trạng buồn, trầm cảm, xem cái chết là cách giải thoát hoặc nội dung từ văn hóa đại chúng nhấn mạnh vào những suy nghĩ đen tối, chán nản) trong bối cảnh tự tử hay tự gây thương tích
+* Chứa hình ảnh mô tả vết cắt đã lành hoặc hình ảnh khác về hành vi tự gây thương tích (cụ thể là hình ảnh vết thương đã lành hoàn toàn) trong bối cảnh tự tử, tự gây thương tích hay hồi phục
+* Nội dung mô tả xương sườn, xương đòn, khe đùi, hông, bụng lõm hoặc xương sống/xương bả vai nhô ra, xương lộ ra ở chân/cánh tay hoặc má hóp trong bối cảnh hồi phục
+* Chứa bất kỳ nội dung chế giễu hay sự bác bỏ nào đối với khái niệm tự tử, tự gây thương tích hoặc chứng rối loạn ăn uống
+* Chứa những câu chuyện kể mô tả hành vi tự tử, kèm theo các chi tiết không chỉ đơn thuần là gọi tên hoặc đề cập đến hành động hoặc hậu quả
+* Chứa nội dung thừa nhận về hành vi giảm cân cực đoan
+* Chứa hình ảnh đặt cạnh nhau mô tả tình trạng trước và sau khi giảm/tăng cân không liên quan đến việc sử dụng sản phẩm hoặc dịch vụ.
+* Nếu hình ảnh có liên quan đến một sản phẩm hoặc dịch vụ, vui lòng tham khảo chính sách về Ngoại hình và sức khỏe cá nhân.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 039
+TITLE: Vũ khí, đạn dược hoặc chất nổ| Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/weapons-ammunitions-explosives/
+CONTENT_SHA256: a9ea6054f202e26f4c1307cd956bc2019d2790f6063e52bd7a5c0d7760e56190
+================================================================================
+Weapons Ammunitions Explosives
+# Vũ khí, đạn dược hoặc chất nổ
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+14 tháng 5, 2025
+26 tháng 6, 2024
+Vũ khí, đạn dược hoặc chất nổ
+Quảng cáo không được quảng bá việc bán hoặc sử dụng vũ khí, đạn dược hay chất nổ, bao gồm cả các phụ kiện làm biến đổi vũ khí.
+Tổng quan
+Nhà quảng cáo không được chạy quảng cáo để quảng bá việc bán hay sử dụng vũ khí, phụ kiện làm biến đổi vũ khí, đạn dược hoặc chất nổ. Tuy vậy, họ có thể chạy quảng cáo về các sản phẩm không được bán trực tiếp dưới dạng bộ phận của vũ khí thật, miễn là quảng cáo đó nhắm mục tiêu đến những người từ 18 tuổi trở lên.
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Quảng cáo không được quảng bá:
+* Vũ khí hoặc phụ kiện vũ khí có thể cắt, chém, đập, đâm xuyên qua, bắn vào hoặc gây tổn hại cho người hay động vật, bao gồm nhưng không giới hạn ở:
+* Súng, bao gồm cả các bộ phận của súng, đạn dược, súng bắn sơn và súng hơi
+* Bình xịt hơi cay, dao/lưỡi dao/dụng cụ xiên không phải dụng cụ nhà bếp, súng bắn điện, côn nhị khúc, dùi cui hoặc vũ khí tự vệ
+* Sản phẩm có thể gắn kèm hoặc dùng với một vũ khí để củng cố hay tùy chỉnh hình dáng/chức năng của vũ khí đó, bao gồm nhưng không giới hạn ở:
+* Bộ giảm thanh hoặc nòng giảm thanh của súng
+* Thấu kính và đèn nháy, chẳng hạn như ống kính ngắm từ xa, đầu ruồi, bộ phận khuếch đại mục tiêu hoặc tiêu điểm
+* Chất nổ, bao gồm cả pháo hoa
+* Thực thể có mô hình kinh doanh chính là trao đổi vũ khí
+* Bài đánh giá về súng, loại vũ khí khác thuộc diện bị cấm hay phụ kiện làm biến đổi vũ khí hoặc các vật có lưỡi sắc
+* Nội dung mô tả đơn thuần về vũ khí nếu không có yếu tố thảo luận hay ủng hộ
+* Bán, tặng, trao đổi, chuyển giao, cấu kết, cổ xúy (ý chúng tôi là ca ngợi bằng lời nói, khuyến khích dùng) hoặc tạo điều kiện tiếp cận hướng dẫn có máy tính hỗ trợ hay hướng dẫn in 3D để chế tạo súng/các bộ phận của súng, bất kể bối cảnh hoặc người đăng.
+Quảng cáo có thể quảng bá:
+* Khóa đào tạo về mặt an toàn trong chương trình hướng dẫn dùng súng hoặc giấy phép cũng như sách và video chỉ dẫn cách sử dụng súng an toàn
+* Quyền được mang theo vũ khí, chẳng hạn nội dung về các quyền theo Tu chính án 2 trong Hiến pháp Hoa Kỳ
+* Nội dung cung cấp thông tin về chủ đề vũ khí
+* Blog hoặc nhóm kết nối những người có sở thích liên quan đến vũ khí, miễn là dịch vụ không dẫn đến việc bán các sản phẩm này
+* Gươm, súng và vũ khí đồ chơi bằng nhựa
+Quảng cáo có thể quảng bá những yếu tố sau đây khi nhắm mục tiêu đến những người từ 18 tuổi trở lên:
+* Đồ vật không được bán trực tiếp dưới dạng bộ phận của vũ khí thật, bao gồm nhưng không giới hạn ở:
+* Thiết bị liên quan đến hoạt động săn bắn, tự vệ hay thi đấu, ví dụ như dụng cụ ném đĩa đất sét, đích bắn, dây đeo, áo bảo hộ, bao đựng súng, túi hoặc phụ kiện đựng ổ đạn
+* Quân phục
+* Đồ vật dùng để mang theo, đựng hoặc chống đỡ vũ khí nhằm di chuyển hoặc xếp đặt dễ hơn
+* Đồ vật dùng để phủ hoặc bọc ngoài vũ khí, bao gồm cả hộp đựng súng, két giữ súng, thiết bị khóa, lớp phủ sơn, dây đeo súng hoặc giá đỡ ba chân
+Quảng cáo có thể mô tả:
+* Vũ khí trong bối cảnh quân sự, cảnh sát, thể thao hoặc săn bắn miễn là bối cảnh đó không mang tính bạo lực và không có hành vi mua, bán, trao đổi, tặng, quyên góp hoặc yêu cầu vũ khí.
+* Vũ khí trong bối cảnh hư cấu, ví dụ: trong trò chơi điện tử, âm nhạc, phim ảnh hoặc TV.
+* Pháo hoa hoặc chất nổ trong bối cảnh ăn mừng không mang tính bạo lực/nguy hiểm.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 040
+TITLE: Xâm phạm quyền sở hữu trí tuệ của bên thứ ba | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/intellectual-property-infringement/third-party-infringement/
+CONTENT_SHA256: a1d4bdcee1723af90d23e698f79631d97a99c25b473de489c4c5bd9af9c1f00f
+================================================================================
+Third Party Infringement
+# Xâm phạm quyền sở hữu trí tuệ của bên thứ ba
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 8, 2024
+30 tháng 5, 2024
+Xâm phạm quyền sở hữu trí tuệ của bên thứ ba
+Quảng cáo không được chứa nội dung vi phạm quyền sở hữu trí tuệ của bất kỳ bên thứ ba nào, bao gồm cả bản quyền, nhãn hiệu hàng hóa hoặc các quyền hợp pháp khác. Quy tắc này bao gồm nhưng không giới hạn ở việc quảng bá hoặc bán hàng giả, chẳng hạn như sản phẩm sao chép nhãn hiệu hàng hóa (tên hay logo) và/hoặc các đặc điểm khác biệt của sản phẩm thuộc một công ty khác để bắt chước sản phẩm thật.
+Tổng quan
+Để báo cáo quảng cáo mà bạn cho rằng có thể vi phạm quyền sở hữu trí tuệ của mình, vui lòng truy cập vào Trung tâm trợ giúp về quyền sở hữu trí tuệ hoặc cân nhắc việc đăng ký sử dụng công cụ Bảo vệ bản quyền thương hiệu.
+Nguyên tắc
+**Nếu quảng cáo chứa nhạc, bạn phải bảo đảm có các giấy phép cần thiết (ví dụ: đối với bản ghi âm và/hoặc tác phẩm âm nhạc) để không vi phạm quyền sở hữu trí tuệ của người nắm quyền bản nhạc đó.**
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 041
+TITLE: Yêu cầu của người dùng | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/business-assets/user-requests/
+CONTENT_SHA256: 631fcca0bc0665172547a434376017d3c140c68b90b7fa81bfc0a1984128033d
+================================================================================
+User Requests
+# Yêu cầu của người dùng
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Yêu cầu của người dùng
+Yêu cầu gỡ tài sản doanh nghiệp phải tuân thủ Tiêu chuẩn cộng đồng về Yêu cầu của người dùng.
+Tổng quan
+Meta phản hồi yêu cầu gỡ tài khoản theo luật hiện hành và Điều khoản dịch vụ của công ty. Chúng tôi xem xét kỹ mọi yêu cầu mà mình nhận được và có thể từ chối hoặc đề nghị làm rõ thêm một số yêu cầu.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 042
+TITLE: Điều trị cai chất gây nghiện và đồ uống có cồn | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/drug-alcohol-addiction-treatment/
+CONTENT_SHA256: 729ca1c0c502c8e5e6a0d06ec553c82615667ed40cf2e56e7edef99b89a97262
+================================================================================
+Tiêu chuẩn quảng cáo
+Điều trị cai chất gây nghiện và đồ uống có cồn
+# Điều trị cai chất gây nghiện và đồ uống có cồn
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Điều trị cai chất gây nghiện và đồ uống có cồn
+Theo yêu cầu của Meta, nếu nhà quảng cáo muốn chạy quảng cáo về dịch vụ điều trị cai nghiện có nhắm mục tiêu đến những người ở Hoa Kỳ, họ phải có chứng nhận của LegitScript và đăng ký với Meta để xin phép quảng cáo.
+Nhà quảng cáo có thể nộp đơn xin LegitScript cấp chứng nhận tại đây.
+Tổng quan
+Nhà quảng cáo có thể chạy quảng cáo về dịch vụ điều trị cai chất gây nghiện và đồ uống có cồn tại Hoa Kỳ, miễn là họ có chứng nhận của LegitScript và văn bản cho phép của Meta. Để giảm thiểu rủi ro cho người tiêu dùng, chúng tôi yêu cầu những nhà quảng cáo đủ điều kiện mà muốn quảng cáo về dịch vụ điều trị cai chất gây nghiện và đồ uống có cồn phải cung cấp bằng chứng cho thấy hoạt động của họ được cấp phép phù hợp.
+Nhà quảng cáo có thể nộp đơn xin LegitScript cấp chứng nhận tại đây và xin phép Meta thông qua mẫu này.
+Dịch vụ điều trị cai chất gây nghiện và đồ uống có cồn bao gồm nhưng không giới hạn ở:
+* Trang web hoặc dịch vụ điều trị cai nghiện lâm sàng cung cấp thông tin về biện pháp điều trị trực tiếp
+* Nhóm hỗ trợ trên mạng và trực tiếp, cũng như đường dây nóng hỗ trợ khủng hoảng dành cho những người đang cai nghiện hoặc đang tìm thông tin về dịch vụ điều trị cai nghiện
+Nguyên tắc
+Khi có chứng nhận của LegitScript và được Meta cho phép, nhà quảng cáo có thể chạy quảng cáo quảng bá:
+* **Dịch vụ điều trị cai nghiện trực tiếp,**bao gồm nhưng không giới hạn ở các nhóm cung cấp thông tin về dịch vụ điều trị cai chất gây nghiện hoặc đồ uống có cồn trực tiếp tại cơ sở lâm sàng hoặc phi lâm sàng.
+* **Đường dây nóng hỗ trợ cai nghiện,**bao gồm nhưng không giới hạn ở các nhóm hỗ trợ từ xa hoặc cung cấp thông tin cho cá nhân đang cai nghiện/đang tìm thông tin về biện pháp cai nghiện hay dịch vụ điều trị cai nghiện.
+* **Nhóm hỗ trợ nhau cai nghiện,**bao gồm nhưng không giới hạn ở các nhóm cung cấp thông tin về dịch vụ hỗ trợ cai nghiện theo nhóm.
+* **Dịch vụ cai nghiện trên mạng,** bao gồm nhưng không giới hạn ở các nhóm cung cấp thông tin về dịch vụ cai chất gây nghiện hoặc đồ uống có cồn từ xa (ví dụ: ứng dụng hỗ trợ cai nghiện trên điện thoại thông minh).
+Nhà quảng cáo có thể chạy các loại quảng cáo sau đây mà không cần xin phép Meta:
+* Dịch vụ phục hồi chức năng, chẳng hạn như bài tập và liệu pháp vận động
+Để biết các bí quyết về cách tuân thủ chính sách này, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 043
+TITLE: Đặc điểm cá nhân và hành vi vi phạm quyền riêng tư| Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/
+CONTENT_SHA256: ad80b3e8c63b4f81cbdf6ed0c60cdc3901c217ac64b09028267ac53d3769528e
+================================================================================
+Tiêu chuẩn quảng cáo
+Đặc điểm cá nhân và hành vi vi phạm quyền riêng tư
+# Đặc điểm cá nhân và hành vi vi phạm quyền riêng tư
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 6, 2024
+Đặc điểm cá nhân và hành vi vi phạm quyền riêng tư
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về hành vi Vi phạm quyền riêng tư. Quảng cáo không được chứa nội dung chia sẻ hoặc yêu cầu cung cấp thông tin riêng tư về người dùng. Ngoài ra, quảng cáo không được chứa nội dung khẳng định hoặc ám chỉ các đặc điểm cá nhân, bao gồm cả việc khẳng định hoặc ám chỉ một cách trực tiếp/gián tiếp về chủng tộc, dân tộc, tôn giáo, niềm tin, độ tuổi, thiên hướng tính dục/hoạt động tình dục, bản dạng giới, tình trạng khuyết tật, sức khỏe thể chất/tinh thần (bao gồm cả tình trạng bệnh lý), tình trạng tài chính bất ổn, tình trạng bỏ phiếu, tình trạng tham gia công đoàn, lý lịch tư pháp hoặc tên của một người.
+Tổng quan
+Meta mong muốn mọi người trong cộng đồng của mình đều có trải nghiệm tích cực khi nhìn thấy quảng cáo. Những quảng cáo đưa ra giả định về mọi người có thể bị xem là xâm phạm, gây khó chịu hoặc thiếu chính xác. Vì thế, nhà quảng cáo không được phép chạy quảng cáo khẳng định hoặc ám chỉ các đặc điểm cá nhân của đối tượng họ nhắm đến. Thay vào đó, quảng cáo nên tập trung vào các lợi ích của sản phẩm hoặc dịch vụ được quảng bá.
+Nguyên tắc bổ sung đối với quảng cáo
+Bên cạnh các yêu cầu trong Tiêu chuẩn cộng đồng của chúng tôi về hành vi Vi phạm quyền riêng tư (trong đó nghiêm cấm hỏi xin hoặc chia sẻ một số thông tin cá nhân), Quảng cáo không được:
+* Chia sẻ hoặc yêu cầu cho biết các đặc điểm cá nhân của một người dùng hay gia đình người đó
+* Ám chỉ rằng nhà quảng cáo biết các đặc điểm cá nhân của một người hoặc gia đình người đó
+* Ám chỉ là biết rõ thông tin tài chính cá nhân hoặc tổ chức của một người dùng hoặc gia đình người đó
+* Ám chỉ rằng nhà quảng cáo biết thông tin nhận dạng cá nhân của một người, chẳng hạn như tên của họ
+* Ám chỉ là biết Thông tin y tế của một người dùng hoặc gia đình người đó
+Quảng cáo được phép:
+* Đề cập một cách khái quát đến những đặc điểm cá nhân không được nêu ở trên, chẳng hạn như gọi ai đó là "người Mỹ" hoặc "người New York" để nhắc đến nơi họ sinh sống.
+* Đề cập qua qua về một đặc điểm cá nhân, bao gồm cả giới tính, nhóm tuổi hoặc độ tuổi.
+* Nêu tên của người nổi tiếng hoặc nhân vật hư cấu.
+* Dùng cách gọi là "bạn/của bạn" mà không nhắc đến đặc điểm cá nhân.
+* Đưa ra Thông báo phục vụ công chúng để công chúng biết về những vấn đề liên quan đến đặc điểm sức khỏe cá nhân, miễn là họ không khẳng định rằng ai đó hoặc gia đình họ gặp phải tình trạng bệnh lý nào đó.
+Để biết thêm thông tin, hãy truy cập vào Trung tâm trợ giúp doanh nghiệp.
+HƯỚNG DẪN CHUNG
+✅ Nội dung quảng cáo mô tả hoặc hiển thị sản phẩm hay dịch vụ được quảng bá
+✅ Dùng các từ như "bạn/người khác" mà không nhắc đến đặc điểm cá nhân
+❌ Văn bản nhắc đến hoặc ám chỉ các đặc điểm cá nhân hay đặc điểm của một người/nhóm người được nhắm mục tiêu
+❌ Dùng từ "bạn/của bạn/người khác" để nhắc đến đặc điểm cá nhân
+CHỦNG TỘC HOẶC DÂN TỘC
+✅ "Gặp gỡ ngay đàn ông gốc Tây Ban Nha trên mạng!"
+✅ "Tìm người da đen độc thân ngay hôm nay."
+❌ "Gặp gỡ những người da đen độc thân khác ở gần bạn!"
+TÔN GIÁO
+✅ "Hẹn hò với người độc thân theo đạo Cơ đốc!"
+✅ "Gặp gỡ ngay những người độc thân theo đạo Hindu trên mạng!"
+❌ "Bạn có theo đạo Cơ đốc không?"
+❌ "Gặp gỡ các Phật tử khác"
+ĐỘ TUỔI
+✅ "Gặp gỡ người cao tuổi"
+✅ "Dịch vụ dành cho teen"
+✅ "Các loại kem và sữa dưỡng da mới của chúng tôi có khả năng chống nếp nhăn tốt hơn bao giờ hết!"
+✅ "Độ tuổi chỉ là con số thôi. Giờ ai cũng có thể học lập trình nhờ chương trình C của chúng tôi."
+✅ "Hãy cùng chúng tôi tham gia Trại thiên nhiên trong dịp hè này nhé. Mọi đối tượng tuổi teen đều có thể tham gia."
+❌ "Gặp gỡ những người cao tuổi khác"
+❌ "Bạn đã đủ 18 tuổi chưa?"
+❌ "Bạn đã sẵn sàng nâng cấp làn da để có diện mạo trẻ trung hơn chưa?"
+THIÊN HƯỚNG TÍNH DỤC HOẶC HOẠT ĐỘNG TÌNH DỤC
+✅ "Du thuyền vượt Atlantis dành cho người đồng tính nam"
+✅ "Hẹn hò ngay trên mạng với người đồng tính nam!"
+❌ "Bạn có phải là người đồng tính nam không?"
+❌ "Gặp gỡ ngay những người đồng tính nữ khác!"
+BẢN DẠNG GIỚI
+✅ "Đến gặp những người chuyển giới độc thân nào"
+✅ "Cuộc gặp gỡ hàng tháng dành cho người chuyển giới và những ai ủng hộ họ"
+❌ "Bạn băn khoăn về bản dạng giới của mình?"
+❌ "Gặp gỡ những người chuyển giới độc thân khác trong cuộc gặp gỡ hàng tháng của chúng tôi"
+SỨC KHỎE THỂ CHẤT/TINH THẦN VÀ TÌNH TRẠNG KHUYẾT TẬT
+✅ "Có tư vấn về chứng háu ăn"
+✅ "Tư vấn về chứng trầm cảm"
+✅ "Có phương pháp mới để điều trị bệnh tiểu đường"
+❌ "Bạn có mắc bệnh tiểu đường không?"
+❌ "Chứng trầm cảm khiến bạn buồn phiền? Hãy nhận trợ giúp ngay."
+❌ "Đừng chần chừ! Hãy giúp vợ/chồng bạn điều trị ung thư ngay hôm nay nhờ sự hỗ trợ từ các chuyên gia y tế của chúng tôi."
+TÌNH TRẠNG TÀI CHÍNH BẤT ỔN
+✅ "Đừng chần chừ! Hãy giúp vợ/chồng bạn điều trị ung thư ngay hôm nay nhờ sự hỗ trợ từ các chuyên gia y tế của chúng tôi."
+❌ "Bạn bị phá sản? Hãy xem dịch vụ của chúng tôi."
+TÌNH TRẠNG BỎ PHIẾU
+✅ "Tìm hiểu về thông tin đăng ký cử tri"
+✅ "Tôi đã bỏ phiếu"
+❌ "Lá phiếu của bạn chưa được tiếp nhận"
+❌ "Hồ sơ cho thấy bạn chưa hoàn tất thông tin đăng ký cử tri"
+TÌNH TRẠNG THAM GIA CÔNG ĐOÀN
+✅ "Tham gia Công đoàn của chúng tôi ngay hôm nay"
+❌ "Bạn không thích người đại diện cho Công đoàn của mình? Hãy tham gia công đoàn ngay hôm nay."
+LÝ LỊCH TƯ PHÁP
+✅ "Dịch vụ xóa mọi tiền án, tiền sự"
+❌ "Bạn là người phạm trọng tội đã bị kết án?"
+TÊN HOẶC THÔNG TIN NHẬN DẠNG
+✅ "Chúng tôi in áo phông và nhãn dán có tên bạn theo yêu cầu."
+✅ "Bạn có giấy phép lái xe chưa?"
+❌ "Billy Taylor ơi, hãy nhận chiếc áo phông có in tên bạn nhé!"
+❌ "Đây là sản phẩm dành cho Billy" (nếu tên của họ là Billy).
+❌ "Số giấy phép lái xe của bạn là gì?"
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 044
+TITLE: Đồ uống có cồn | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/restricted-goods-services/alcohol/
+CONTENT_SHA256: 52e0d1002b5e00d2a7907d9e5505b2f634fe175a1fd7dc0f8f6d34b079991a6a
+================================================================================
+Tiêu chuẩn quảng cáo
+Đồ uống có cồn
+# Đồ uống có cồn
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+26 tháng 6, 2024
+Đồ uống có cồn
+Quảng cáo quảng bá hoặc nhắc đến đồ uống có cồn phải tuân thủ mọi luật hiện hành của nước sở tại, mọi quy tắc, nguyên tắc, giấy phép và hoạt động phê duyệt tương ứng bắt buộc hoặc có sẵn trong ngành, đồng thời phải bao gồm những tiêu chí nhắm mục tiêu theo độ tuổi và quốc gia phù hợp với các yêu cầu nhắm mục tiêu của Meta cũng như luật hiện hành của nước sở tại. Lưu ý rằng chính sách của chúng tôi cấm quảng cáo quảng bá hoặc nhắc đến đồ uống có cồn ở một số quốc gia, dựa trên luật pháp nước sở tại.
+Nhà quảng cáo phải tuân thủ mọi luật hiện hành, bao gồm cả việc nhắm mục tiêu quảng cáo theo yêu cầu pháp lý. Quảng cáo phải đáp ứng được yêu cầu tối thiểu là không nhắm mục tiêu đến những người dưới 18 tuổi.
+Tổng quan
+Nhà quảng cáo có thể chạy quảng cáo quảng bá đồ uống có cồn, miễn là họ:
+* Tuân thủ các yêu cầu nhắm mục tiêu áp dụng với vị trí của đối tượng
+* Không nhắm mục tiêu đến những người dưới 18 tuổi
+Quảng cáo quảng bá đồ uống có cồn bao gồm những thông tin sau đây:
+* Địa điểm và sự kiện có mô hình kinh doanh chính phụ thuộc vào việc bán loại sản phẩm này
+* Lời mời đến địa điểm bán đồ uống có cồn
+* Khả năng cung ứng đồ uống có cồn để bán
+* Phần mô tả về thương hiệu/logo đồ uống có cồn
+* Việc tiêu thụ đồ uống có cồn
+* Quảng bá thương hiệu đồ uống có cồn
+* Công thức pha chế đồ uống có cồn
+Ngoài Tiêu chuẩn quảng cáo, nhà quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng của chúng tôi.
+Nguyên tắc
+Do luật pháp về đồ uống có cồn trên toàn cầu không giống nhau nên nhà quảng cáo cần đảm bảo tuân thủ mọi yêu cầu nhắm mục tiêu hiện hành. Một số quốc gia không cho phép bán hoặc quảng bá đồ uống có cồn, trong khi các quốc gia khác quy định độ tuổi tối thiểu được phép sử dụng loại sản phẩm này.
+**Nhà quảng cáo không được chạy quảng cáo về đồ uống có cồn ở những quốc gia hoặc khu vực sau đây:**
+* Afghanistan
+* Brunei
+* Bangladesh
+* Ai Cập
+* Gambia
+* Ấn Độ (cụ thể là Bihar, Gujarat, Lakshadweep, Manipur và Nagaland)
+* Kuwait
+* Libya
+* Lithuania
+* Nepal
+* Na Uy
+* Pakistan
+* Nga
+* Ả Rập Xê Út
+* Thái Lan
+* Thổ Nhĩ Kỳ
+* Các Tiểu vương quốc Ả Rập Thống nhất
+* Yemen
+**Nhà quảng cáo có thể chạy quảng cáo về đồ uống có cồn ở những quốc gia sau đây, với điều kiện là tuân thủ các quy định hạn chế về độ tuổi:**
+* Cameroon: Từ 21 tuổi trở lên
+* Canada: Từ 19 tuổi trở lên
+* Iceland: Từ 20 tuổi trở lên
+* Ấn Độ: Đa dạng
+* Từ 25 tuổi trở lên ở Chandigarh, Delhi, Haryana, Maharashtra hoặc Punjab.
+* Từ 21 tuổi trở lên ở Andhra Pradesh, Arunachal Pradesh, Assam, Chhattisgarh, Dadra và Nagar Haveli, Dama và Diu, Goa, Jammu và Kashmir, Jharkhand, Kerala, Madhya Pradesh, Meghalaya, Odisha, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand hoặc Tây Bengal.
+* Từ 18 tuổi trở lên ở Andaman và Nicobar Islands, Himachal Pradesh, Karnataka, Mizoram, Puducherry, Rajasthan và Sikkim.
+* Nhật Bản: Từ 20 tuổi trở lên
+* Hàn Quốc: Từ 19 tuổi trở lên
+* Micronesia: Từ 21 tuổi trở lên
+* Nicaragua: Từ 19 tuổi trở lên
+* Palau: Từ 21 tuổi trở lên
+* Paraguay: Từ 20 tuổi trở lên
+* Quần đảo Solomon: Từ 21 tuổi trở lên
+* Sri Lanka: Từ 21 tuổi trở lên
+* Thụy Điển: Từ 25 tuổi trở lên
+* Hoa Kỳ: Từ 21 tuổi trở lên
+Đối với những nhà quảng cáo quảng bá sản phẩm hoặc thương hiệu đồ uống có cồn ở các quốc gia không có tên trong danh sách cho phép nêu trên, họ có thể quảng bá sản phẩm đồ uống có cồn miễn là tuân thủ luật pháp nước sở tại và nhắm đến những người từ 18 tuổi trở lên.
+**Nhà quảng cáo có thể chạy quảng cáo quảng bá:**
+* Tin tức, phim tài liệu, tài liệu giáo dục hoặc bối cảnh thông báo phục vụ công cộng (PSA) đề cập/mô tả đồ uống có cồn
+* Sản phẩm không có cồn (bao gồm đồ uống không có cồn và phụ kiện dùng cho đồ uống có cồn) miễn là nhà quảng cáo không mô tả đồ uống có cồn hoặc việc tiêu thụ
+Quảng cáo mang tính giải trí như đoạn giới thiệu phim, chương trình truyền hình, đoạn giới thiệu trò chơi điện tử và các nội dung tương tự khác. Hãy xem chính sách Quảng cáo video để biết bí quyết về cách tuân thủ chính sách này.
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 045
+TITLE: Ảnh khỏa thân người lớn và hoạt động tình dục | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/
+CONTENT_SHA256: cb144511fdfaf42a49ebf861960ec87abd64391a22d1c5daedbcfaa7b43b39f7
+================================================================================
+# Hoạt động tình dục và ảnh khỏa thân người lớn
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+14 tháng 5, 2025
+Hoạt động tình dục và ảnh khỏa thân người lớn
+Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Hoạt động tình dục và ảnh khỏa thân người lớn. Quảng cáo không được chứa hình ảnh mô tả tình trạng khỏa thân, hoạt động tình dục, nội dung mô tả người ở tư thế khiêu dâm hoặc gợi dục hay các hoạt động gợi dục.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về Ảnh khỏa thân người lớn và hoạt động tình dục.
+Là một công ty toàn cầu, chúng tôi lưu ý đến nhiều đối tượng thuộc các nền văn hóa và quốc gia khác nhau xem quảng cáo trên nền tảng của chúng tôi, cũng như mức độ nhạy cảm về văn hóa của từng người trong số họ đối với ảnh khỏa thân người lớn và hoạt động tình dục. Chúng tôi hiểu rằng ảnh khỏa thân có thể được chia sẻ vì nhiều lý do, đồng thời áp dụng một số ngoại lệ đối với những quảng cáo liên quan đến nghệ thuật và sức khỏe.
+Nguyên tắc bổ sung đối với quảng cáo
+Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng, quảng cáo không được:
+* Mô tả tình trạng khỏa thân (ngay cả trong trường hợp Tiêu chuẩn cộng đồng cho phép/hạn chế) hoặc gần như khỏa thân (ví dụ: ảnh khỏa thân chỉ được che bằng lớp phủ kỹ thuật số)
+* Mô tả hoạt động tình dục ngay cả trong trường hợp Tiêu chuẩn cộng đồng cho phép
+* Mô tả các cử chỉ biểu thị bộ phận sinh dục, hành vi thủ dâm, quan hệ tình dục hoặc quan hệ tình dục bằng miệng hay các hoạt động gợi dục như quan hệ tình dục mô phỏng, khiêu vũ gợi dục hoặc hôn để lộ lưỡi
+* Mô tả logo, ảnh chụp màn hình hoặc clip video của các trang web khiêu dâm đã biết
+* Chứa âm thanh của hoạt động tình dục
+Đối với các loại nội dung sau đây, quảng cáo phải nhắm mục tiêu đến người dùng trên 18 tuổi:
+* Hình ảnh mô tả núm vú phụ nữ trong bối cảnh y tế, sức khỏe hoặc cho con bú
+* Hình ảnh theo phong cách tả thực hoặc ở dạng kỹ thuật số
+* Tập trung vào từng bộ phận cơ thể như háng, mông hoặc ngực phụ nữ
+* Mô tả người ở tư thế gợi dục, trang phục hở hang hoặc thoát y
+* Mô tả người chạm vào hoặc kích thích các bộ phận thường mang tính gợi dục trên cơ thể theo cách khiêu dâm
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.
+===== SOURCE DOCUMENT 046
+TITLE: Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em | Trung tâm minh bạch
+SOURCE_TYPE: policy
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/ad-standards/objectionable-content/child-sexual-exploitation-abuse-nudity/
+CONTENT_SHA256: 9e1e394afbd828232e742a221d36ebad7ef072e382bb2c96c72132be7fe28837
+================================================================================
+Tiêu chuẩn quảng cáo
+Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em
+# Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em
+### Chi tiết về chính sách
+NHẬT KÝ THAY ĐỔI
+Mới nhất
+Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em
+**Quảng cáo phải tuân thủ Tiêu chuẩn cộng đồng về Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em.**
+Quảng cáo không được chứa nội dung bóc lột tình dục hoặc gây nguy hiểm cho trẻ em. Khi phát hiện hành vi rõ ràng là bóc lột trẻ em, chúng tôi sẽ báo cáo cho Trung tâm Quốc gia về Trẻ em Bị bóc lột và Mất tích NCMEC (National Center for Missing and Exploited Children) theo luật hiện hành.
+Tổng quan
+Chính sách này đưa ra các biện pháp bảo vệ bổ sung cụ thể ngoài những gì bị cấm trong Tiêu chuẩn cộng đồng về Ảnh khỏa thân, hành vi lạm dụng và bóc lột tình dục trẻ em. Quảng cáo cũng phải tuân thủ Tiêu chuẩn quảng cáo của chúng tôi về Nội dung dành cho người lớn.
+Nguyên tắc
+**Ngoài các yêu cầu trong Tiêu chuẩn cộng đồng, quảng cáo không được:**
+* Chứa bất kỳ ảnh khỏa thân nào, ngay cả ảnh khỏa thân được phép hiển thị theo Tiêu chuẩn cộng đồng
+* Khắc họa hành vi lạm dụng trẻ em phi tình dục ngoài đời hoặc không có thật, (ngay cả ở trường hợp mà chúng tôi hiển thị màn hình cảnh báo hoặc màn hình cho biết mức độ nhạy cảm theo Tiêu chuẩn cộng đồng), trừ khi hình ảnh đó được lấy từ tác phẩm nghệ thuật tả thực, phim hoạt hình, phim ảnh hoặc trò chơi điện tử
+Các chính sách của chúng tôi áp dụng chung cho tất cả người dùng Facebook trên thế giới.
+Đội ngũ xét duyệt
+Đội ngũ trên toàn cầu của chúng tôi có hơn 15.000 chuyên viên xét duyệt hoạt động hàng ngày để đảm bảo an toàn cho mọi người trên Facebook.
+Sự tham gia của các bên liên quan
+Ý kiến từ các chuyên gia, học giả, tổ chức phi chính phủ và nhà hoạch định chính sách bên ngoài góp phần định hình Tiêu chuẩn cộng đồng của Facebook.

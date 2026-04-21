@@ -1,0 +1,684 @@
+DATASET: Facebook / Meta policy knowledge base
+GROUP_ID: 01_terms_privacy
+GROUP_NAME: Điều khoản, quyền riêng tư, cookie và chuyển dữ liệu
+LOCALE_PRIORITY: vi_VN; fallback giữ nguyên ngôn ngữ nếu nguồn chính thức không có bản VI đầy đủ
+LAST_CHECKED: 2026-04-21
+SOURCE_COUNT: 6
+Ghi chú chunking: nên tách theo ranh giới '===== SOURCE DOCUMENT' và heading '#/##/###'.
+================================================================================
+===== SOURCE DOCUMENT 001
+TITLE: Chính sách cookie của Meta
+SOURCE_TYPE: cookies
+CANONICAL_URL: https://www.facebook.com/privacy/policies/cookies/?locale=vi_VN
+CONTENT_SHA256: e77b02e5ae72bbe0de093f6f29a1a8af192de6901ed3398505ba40a2cd4eff73
+================================================================================
+Cookie là gì và chính sách này đề cập đến những quy định nào?
+Tại sao chúng tôi sử dụng cookie?
+Chúng tôi sử dụng cookie ở đâu?
+* Các Sản phẩm của Meta;
+* Các sản phẩm do thành viên khác trong Các công ty của Meta cung cấp; và
+Các Công ty khác có sử dụng cookie liên quan đến Sản phẩm của Meta không?
+Bạn có thể kiểm soát Thông tin của mình bằng cách nào?
+===== SOURCE DOCUMENT 002
+TITLE: Chính sách quyền riêng tư của Meta - Cách Meta thu thập và sử dụng dữ liệu người dùng
+SOURCE_TYPE: privacy
+CANONICAL_URL: https://www.facebook.com/privacy/policy/?locale=vi_VN
+CONTENT_SHA256: bebb77874360d53e70c8eb99027427743568f3968a79bd95dd9a1ac7afaed3cb
+================================================================================
+Chính sách quyền riêng tư là gì và điều chỉnh đối tượng nào?
+### Thông tin nổi bật
+Meta muốn bạn nắm được loại thông tin chúng tôi thu thập, cũng như cách chúng tôi sử dụng và chia sẻ thông tin đó. Vì thế, bạn nên đọc Chính sách quyền riêng tư của chúng tôi. Như vậy, bạn sẽ sử dụng Sản phẩm của Meta theo cách phù hợp với mình.
+Chính sách quyền riêng tư giải thích cách chúng tôi thu thập, sử dụng, chia sẻ, lưu giữ và chuyển thông tin. Chúng tôi còn cho biết những quyền bạn có. Từng mục trong Chính sách này đều cung cấp ví dụ hữu ích và sử dụng cách diễn đạt đơn giản hơn để các biện pháp của chúng tôi trở nên dễ hiểu. Ngoài ra, chúng tôi đã thêm liên kết đến các thông tin và nguồn lực để bạn có thể tìm hiểu thêm về những chủ đề liên quan đến quyền riêng tư mà bạn quan tâm.
+Chúng tôi thấy rằng bạn cần phải biết cách kiểm soát quyền riêng tư của mình. Do đó, chúng tôi cũng sẽ chỉ cho bạn nơi bạn có thể quản lý thông tin trong phần cài đặt Sản phẩm của Meta mà bạn sử dụng. Bạn có thể cập nhật các chế độ cài đặt này để định hình trải nghiệm của mình.
+Hãy đọc toàn bộ Chính sách ở bên dưới.
+Chúng tôi thu thập những thông tin nào?
+### Thông tin nổi bật
+Thông tin về bạn mà chúng tôi thu thập và xử lý phụ thuộc vào cách bạn sử dụng Sản phẩm của chúng tôi. Ví dụ: nếu bạn bán nội thất trên Marketplace, chúng tôi sẽ thu thập thông tin khác với trường hợp bạn yêu cầu AI tại Meta viết một câu chuyện cười cho bạn. Khi bạn sử dụng Sản phẩm, chúng tôi thu thập một số thông tin về bạn, kể cả khi bạn không có tài khoản.
+Sau đây là những thông tin chúng tôi thu thập:
+Nếu bạn không cho chúng tôi thu thập một số thông tin thì sao?
+Chúng tôi cần phải có một số thông tin để vận hành Sản phẩm. Các thông tin khác không bắt buộc, nhưng nếu thiếu thì chất lượng trải nghiệm của bạn có thể bị ảnh hưởng.
+Nếu thông tin chúng tôi thu thập không xác định danh tính cá nhân thì sao?
+Trong một số trường hợp, các bên thứ ba sẽ loại bỏ thông tin nhận dạng, tổng hợp hoặc ẩn danh thông tin để thông tin đó không còn cho biết danh tính của cá nhân, rồi mới cung cấp thông tin cho chúng tôi. Chúng tôi sử dụng thông tin này như mô tả bên dưới mà không tìm cách khôi phục thông tin nhận dạng cá nhân.
+Chúng tôi sử dụng thông tin của bạn như thế nào?
+### Thông tin nổi bật
+Chúng tôi sử dụng thông tin mình thu thập để mang lại trải nghiệm dành riêng cho bạn (kể cả quảng cáo), cũng như để phục vụ các mục đích khác mà chúng tôi giải thích chi tiết ở bên dưới.
+Để hạn chế sử dụng thông tin liên kết với người dùng cá nhân, trong một số trường hợp, chúng tôi loại bỏ thông tin nhận dạng hoặc tổng hợp hay ẩn danh thông tin để thông tin đó không nhận dạng bạn được nữa. Chúng tôi sử dụng thông tin trên theo cách giống với khi dùng thông tin của bạn như mô tả trong mục này.
+Sau đây là cách chúng tôi sử dụng thông tin của bạn:
+Để cung cấp, cá nhân hóa và cải thiện Sản phẩm của chúng tôi
+Chúng tôi sử dụng thông tin mình có để cung cấp và cải thiện Sản phẩm, bao gồm cả:
+* Việc kiểm tra xem Sản phẩm của chúng tôi có hoạt động đúng cách không (chẳng hạn như khắc phục sự cố) và sửa lỗi khi sản phẩm không hoạt động
+* Việc cá nhân hóa các tính năng, nội dung và đề xuất, chẳng hạn như Bảng feed Facebook, Bảng feed Instagram, AI tại Meta, Tin và quảng cáo.
+Chúng tôi sử dụng thông tin được bảo vệ đặc biệt mà bạn chọn cung cấp để phục vụ cho những mục đích này, chứ không phải để hiển thị quảng cáo cho bạn.
+Đọc thêm về cách chúng tôi sử dụng thông tin để cung cấp, cá nhân hóa và cải thiện Sản phẩm:
+Để tăng cường tính an toàn, bảo mật và toàn vẹn
+Chúng tôi sử dụng thông tin thu thập được để góp phần bảo vệ mọi người khỏi trường hợp gây hại và cung cấp Sản phẩm an toàn, bảo mật.
+Để cung cấp dịch vụ đo lường, phân tích và kinh doanh
+Nhiều người sử dụng Sản phẩm của chúng tôi để điều hành/quảng bá doanh nghiệp của họ hoặc chia sẻ nội dung. Chúng tôi hỗ trợ họ đo lường hiệu quả của quảng cáo cũng như các nội dung, sản phẩm và dịch vụ khác.
+Để liên lạc với bạn
+Chúng tôi liên lạc với bạn bằng thông tin bạn đã cung cấp, chẳng hạn như thông tin liên hệ bạn nhập trên trang cá nhân.
+Để nghiên cứu và đổi mới vì cộng đồng
+Chúng tôi sử dụng thông tin mình có, thông tin từ nhà nghiên cứu và các tập dữ liệu từ nguồn công khai, nhóm chuyên gia và nhóm phi lợi nhuận để tiến hành, cũng như hỗ trợ hoạt động nghiên cứu.
+Thông tin của bạn được chia sẻ như thế nào trên Sản phẩm của Meta hoặc với đối tác tích hợp?
+### Thông tin nổi bật
+Trên Sản phẩm của Meta
+Với đối tác tích hợp
+Bạn có thể chọn kết nối với những đối tác tích hợp sử dụng Sản phẩm của chúng tôi. Khi đó, những đối tác tích hợp này sẽ nhận được thông tin về bạn và hoạt động của bạn.
+Họ có thể truy cập vào thông tin công khai trên Sản phẩm của chúng tôi bất cứ lúc nào. Tìm hiểu thêm về các thông tin khác mà họ nhận được, cũng như cách họ xử lý thông tin của bạn:
+Chúng tôi chia sẻ thông tin với bên thứ ba như thế nào?
+### Thông tin nổi bật
+Chúng tôi không bán bất cứ thông tin nào của bạn cho bất kỳ ai và sẽ không bao giờ làm như vậy. Chúng tôi còn yêu cầu đối tác và bên thứ ba khác tuân thủ các quy tắc quy định cách họ có thể, cũng như không thể sử dụng và tiết lộ thông tin mà chúng tôi cung cấp.
+Sau đây là chi tiết cụ thể hơn về các bên chúng tôi chia sẻ thông tin:
+Đối tác
+Đại lý
+Nhà cung cấp dịch vụ
+Các bên thứ ba
+Các bên thứ ba khác
+Ngoài ra, chúng tôi chia sẻ thông tin với bên thứ ba khác để đáp ứng các yêu cầu pháp lý, tuân thủ pháp luật hiện hành hoặc ngăn chặn trường hợp gây hại. Đọc Chính sách.
+Nếu chúng tôi bán hay chuyển nhượng toàn bộ/một phần doanh nghiệp cho bên khác thì trong một số trường hợp, chúng tôi có thể cung cấp thông tin của bạn cho chủ sở hữu mới như một phần của giao dịch đó, nhưng chỉ khi pháp luật cho phép.
+Các công ty thuộc Meta phối hợp với nhau như thế nào?
+### Thông tin nổi bật
+Chúng tôi chia sẻ thông tin mình thu thập, dùng chung cơ sở hạ tầng, hệ thống và công nghệ với Các công ty khác thuộc Meta. Tìm hiểu thêm về cách chúng tôi chuyển thông tin đến các quốc gia khác.
+Chúng tôi cũng xử lý thông tin nhận được về bạn từ Các công ty khác thuộc Meta, theo điều khoản và chính sách của những công ty đó, cũng như theo quy định của luật hiện hành. Trong một số trường hợp, Meta đóng vai trò là nhà cung cấp dịch vụ cho Các công ty khác thuộc Meta. Chúng tôi hành động thay mặt họ, theo hướng dẫn và điều khoản của họ.
+Lý do chúng tôi chia sẻ thông tin giữa Các công ty thuộc Meta
+Sản phẩm của Meta dùng chung thông tin với Các công ty khác của Meta nhằm:
+* Tăng cường tính an toàn, bảo mật và toàn vẹn, cũng như tuân thủ luật hiện hành
+* Cá nhân hóa ưu đãi, quảng cáo và nội dung thương mại hoặc nội dung được tài trợ khác
+* Phát triển, cung cấp cũng như cá nhân hóa các tính năng và tiện ích tích hợp
+* Tìm hiểu cách mọi người sử dụng và tương tác với Sản phẩm của các công ty thuộc Meta
+Thông tin và nguồn lực khác
+Bạn có thể quản lý hoặc xóa thông tin của mình và thực hiện các quyền mình có bằng cách nào?
+### Thông tin nổi bật
+Chúng tôi cung cấp cho bạn nhiều công cụ để xem, quản lý, tải xuống và xóa thông tin như bên dưới. Bạn cũng có thể quản lý thông tin của mình bằng cách truy cập vào phần cài đặt của Sản phẩm bạn dùng. Ngoài ra, bạn có thể có các quyền riêng tư khác theo luật hiện hành.
+Để thực hiện các quyền của bạn, hãy truy cập vào Trung tâm trợ giúp của chúng tôi, phần cài đặt Facebook và Instagram, cũng như phần cài đặt có trên thiết bị của bạn.
+Kiểm tra quyền riêng tư
+Xem và quản lý thông tin của bạn
+Chuyển, tải xuống hoặc xóa thông tin của bạn
+Bạn có thể tìm hiểu thêm về cơ chế đảm bảo quyền riêng tư trên Facebook, Instagram và trong Trung tâm trợ giúp của Facebook. Nếu có thắc mắc về chính sách này, bạn có thể liên hệ với chúng tôi theo địa chỉ nêu bên dưới. Ở một số quốc gia, bạn cũng có thể liên hệ với Nhân viên bảo vệ dữ liệu của Meta Platforms, Inc. và tùy theo khu vực pháp lý, bạn còn có thể liên hệ trực tiếp với Cơ quan bảo vệ dữ liệu ("DPA") tại địa phương.
+Chúng tôi lưu giữ thông tin của bạn trong bao lâu?
+### Thông tin nổi bật
+Chúng tôi lưu giữ thông tin trong khoảng thời gian cần thiết để cung cấp Sản phẩm, tuân thủ các nghĩa vụ pháp lý hay bảo vệ lợi ích của chúng tôi hoặc của người khác. Chúng tôi xác định khoảng thời gian cần lưu giữ thông tin tùy vào từng trường hợp. Sau đây là những yếu tố chúng tôi cân nhắc khi xác định:
+* Liệu chúng tôi có cần thông tin đó để vận hành hoặc cung cấp Sản phẩm hay không. Ví dụ: chúng tôi cần lưu giữ một số thông tin nhằm duy trì tài khoản của bạn. Tìm hiểu thêm.
+* Tính năng mà chúng tôi sử dụng thông tin, cũng như cách hoạt động của tính năng đó. Ví dụ: tin nhắn gửi bằng chế độ tạm thời của Messenger được lưu giữ trong thời gian ngắn hơn tin nhắn thông thường. Tìm hiểu thêm.
+* Khoảng thời gian chúng tôi cần lưu giữ thông tin để tuân thủ những nghĩa vụ pháp lý nhất định. Xem một số ví dụ.
+* Liệu chúng tôi có cần thông tin đó cho các mục đích chính đáng khác hay không, chẳng hạn như ngăn chặn trường hợp gây hại; điều tra hành vi có thể vi phạm điều khoản hoặc chính sách của chúng tôi; tăng cường tính an toàn, bảo mật và toàn vẹn hoặc bảo vệ chính chúng tôi, trong đó có quyền, tài sản hoặc sản phẩm của chúng tôi
+Ở một số trường hợp và vì các lý do cụ thể, chúng tôi sẽ lưu giữ thông tin trong một khoảng thời gian dài. Đọc Chính sách của chúng tôi để biết khi nào chúng tôi có thể lưu giữ thông tin của bạn.
+Chúng tôi chuyển thông tin như thế nào?
+### Thông tin nổi bật
+Chúng tôi đáp ứng các yêu cầu pháp lý, tuân thủ pháp luật hiện hành và ngăn chặn trường hợp gây hại như thế nào?
+### Thông tin nổi bật
+Chúng tôi truy cập, lưu giữ, sử dụng và chia sẻ thông tin của bạn để:
+* Đáp ứng các yêu cầu pháp lý, chẳng hạn như lệnh khám xét, lệnh tòa, lệnh cung cấp tài liệu hoặc trát đòi hầu tòa. Những yêu cầu này đến từ các bên thứ ba như nguyên đơn dân sự, cơ quan hành pháp và các cơ quan khác thuộc chính phủ. Tìm hiểu thêm về trường hợp chúng tôi cần đáp ứng các yêu cầu pháp lý.
+* Tuân thủ luật hiện hành
+* Tăng cường tính an toàn, bảo mật và toàn vẹn cho Sản phẩm của Meta, người dùng, nhân viên, tài sản của công ty, cũng như cho tất cả mọi người. Tìm hiểu thêm.
+Chúng tôi có thể truy cập hoặc lưu giữ thông tin của bạn trong một khoảng thời gian kéo dài. Tìm hiểu thêm.
+Làm cách nào bạn biết Chính sách này đã thay đổi?
+Chúng tôi sẽ thông báo cho bạn trước khi thực hiện các thay đổi quan trọng đối với Chính sách này. Bạn sẽ có cơ hội xem kỹ Chính sách đã sửa đổi trước khi chọn tiếp tục sử dụng Sản phẩm của chúng tôi.
+Cách liên hệ với Meta khi có thắc mắc
+Bạn có thể tìm hiểu thêm về cơ chế đảm bảo quyền riêng tư trên Facebook, Instagram và trong Trung tâm trợ giúp của Facebook. Nếu có thắc mắc về chính sách này hoặc có thắc mắc, khiếu nại hay yêu cầu liên quan đến thông tin của mình, bạn có thể liên hệ với chúng tôi theo địa chỉ nêu bên dưới.
+Bạn có thể liên hệ trực tuyến với chúng tôi hoặc qua thư theo địa chỉ:
+Meta Platforms, Inc.
+ATTN: Privacy Operations
+1 Meta Way
+Menlo Park, CA 94025
+Thông báo về quyền riêng tư tại Philippines
+Xem lại Thông báo về quyền riêng tư tại Philippines để tìm hiểu thêm về các cơ sở pháp lý mà chúng tôi căn cứ vào để xử lý dữ liệu cũng như quyền riêng tư của bạn.
+Thông báo về quyền riêng tư tại Philippines
+Thông báo này áp dụng cho việc chúng tôi xử lý thông tin của bạn để hỗ trợ Facebook, Instagram, Messenger, cũng như các sản phẩm và tính năng khác do Meta cung cấp (Sản phẩm của Meta hoặc Sản phẩm) trong trường hợp việc xử lý đó phải tuân thủ luật pháp Philippines, bao gồm Đạo luật quyền riêng tư về dữ liệu năm 2012, các Luật và quy định triển khai của quốc gia này, cũng như các lệnh ban hành của Ủy ban Quyền riêng tư Quốc gia ("NPC"). Thông báo này bổ sung cho Chính sách quyền riêng tư của chúng tôi.
+* Khi cần thiết để thực hiện hợp đồng với bạn. Việc này có nghĩa là cung cấp các dịch vụ được nêu rõ trong Điều khoản dịch vụ của Meta và Điều khoản sử dụng của Instagram.
+* Nếu được bạn chấp thuận. Ví dụ: bạn có thể cho phép chúng tôi hiển thị quảng cáo phù hợp với mình dựa trên thông tin mà nhà quảng cáo và các đối tác khác cung cấp cho chúng tôi về hoạt động của bạn trên trang web và ứng dụng của họ, cũng như một số hoạt động tương tác ngoài đời thực, chẳng hạn như giao dịch mua hàng. Bạn có thể rút lại sự chấp thuận bất cứ lúc nào.
+* Khi cần thiết để phục vụ lợi ích chính đáng của chúng tôi hoặc của những người khác. Lợi ích của chúng tôi bao gồm: cung cấp dịch vụ đổi mới, được cá nhân hóa, an toàn và có lợi cho người dùng, đối tác của chúng tôi, cũng như đáp ứng các yêu cầu pháp lý. Tuy nhiên, chúng tôi sẽ không xử lý thông tin của bạn nếu lợi ích hoặc quyền và quyền tự do cơ bản của bạn được ưu tiên hơn lợi ích hoặc quyền và quyền tự do cơ bản của chúng tôi.
+* Khi cần phục vụ lợi ích sống còn, chẳng hạn như nếu việc đó bảo vệ bạn hoặc ngăn chặn trường hợp gây hại, ví dụ như cứu mạng bạn hay người khác.
+* Khi cần thiết để tuân thủ một nghĩa vụ pháp lý.
+* Khi cần thiết để phục vụ lợi ích cộng đồng, chẳng hạn như tiến hành nghiên cứu hoặc tăng cường tính an toàn, bảo mật và toàn vẹn.
+Trong trường hợp chúng tôi dựa vào sự chấp thuận bạn đưa ra để xử lý thông tin của bạn, bạn có thể rút lại sự chấp thuận đó bất cứ lúc nào. Việc rút lại sự chấp thuận đó sẽ không ảnh hưởng đến tính hợp pháp của hoạt động xử lý dựa trên sự chấp thuận diễn ra trước thời điểm rút lại. Tuy nhiên, nếu bạn rút lại sự chấp thuận hoặc chọn không cung cấp dữ liệu của mình, chúng tôi sẽ không thể cung cấp dịch vụ cho bạn. Bạn cũng có quyền phản đối một số hoạt động xử lý thông tin trong trường hợp chúng tôi dựa vào lợi ích chính đáng của mình. Khi đánh giá ý kiến phản đối, chúng tôi sẽ xem xét một số yếu tố, bao gồm: kỳ vọng hợp lý của người dùng, lợi ích và rủi ro đối với bạn, chúng tôi, những người dùng khác hoặc các bên thứ ba, cũng như các biện pháp sẵn có khác để vẫn đạt được mục đích đó nhưng ít xâm phạm hơn và không tốn công sức một cách không cần thiết. Chúng tôi sẽ chấp thuận ý kiến phản đối của bạn và dừng xử lý thông tin, trừ khi chúng tôi thấy rằng mình có căn cứ chính đáng và thuyết phục cho hoạt động xử lý này, đồng thời lợi ích hay quyền và quyền tự do cơ bản của bạn không lớn hơn lợi ích đó hoặc việc xử lý là cần thiết vì lý do pháp lý. Vui lòng truy cập vào Trung tâm trợ giúp để tìm hiểu thêm về những trường hợp có thể phản đối thành công. Ngoài ra, bạn có thể sử dụng liên kết "hủy đăng ký" trong các thông tin tiếp thị để không cho phép chúng tôi dùng thông tin của bạn vào hoạt động tiếp thị trực tiếp đó nữa.
+Bạn cũng có thể khiếu nại với NPC bằng cách liên hệ trực tiếp với Ủy ban này. Liên hệ với Nhân viên bảo vệ dữ liệu của Meta Platforms, Inc.
+Lý do và cách chúng tôi xử lý thông tin của bạn
+Sau đây là các hạng mục thông tin chúng tôi sử dụng, cũng như lý do và cách chúng tôi xử lý thông tin đó:
+Cá nhân hóa Sản phẩm của Meta
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Cá nhân hóa Sản phẩm của Meta: Hệ thống của chúng tôi tự động xử lý thông tin liên kết với bạn và người khác mà chúng tôi đã thu thập, lưu trữ nhằm đánh giá và hiểu rõ sở thích cùng với các tùy chọn của bạn, cũng như cung cấp trải nghiệm dành riêng cho bạn trên và giữa những Sản phẩm của các công ty thuộc Meta theo các điều khoản chúng tôi đặt ra. Đây là cách chúng tôi:
+* Cá nhân hóa tính năng và nội dung (chẳng hạn như Bảng feed Facebook, Bảng feed Instagram, AI tại Meta và Tin);
+* Cá nhân hóa quảng cáo hiển thị cho mọi người và
+* Gợi ý cho bạn (chẳng hạn như những người bạn có thể biết, nhóm hay sự kiện bạn có thể quan tâm hoặc chủ đề bạn có thể muốn theo dõi) trên và ngoài Sản phẩm của chúng tôi.
+Hệ thống quảng cáo của chúng tôi căn cứ vào đối tượng mà nhà quảng cáo muốn tiếp cận để ưu tiên quảng cáo sẽ hiển thị với bạn. Sau đó, chúng tôi hiển thị quảng cáo với những người có thể sẽ quan tâm. Tìm hiểu thêm về cách hệ thống quảng cáo của chúng tôi hoạt động.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị (chẳng hạn như vị trí GPS)
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị
+* Báo cáo về hiệu quả hoạt động của Sản phẩm chúng tôi cung cấp trên thiết bị bạn dùng
+Người dùng WhatsApp có thể tìm hiểu thêm về thông tin được chia sẻ với Meta.
+Liên kết tài khoản của bạn
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Nếu bạn quyết định thêm tài khoản WhatsApp vào Trung tâm tài khoản cùng với những tài khoản khác trên Sản phẩm của các công ty thuộc Meta:
+* Để liên kết tài khoản WhatsApp với những tài khoản trên Sản phẩm của các công ty thuộc Meta trong cùng một Trung tâm tài khoản và chia sẻ thông tin của bạn với WhatsApp.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+Cung cấp và cải thiện Sản phẩm của Meta
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Cung cấp và cải thiện Sản phẩm của Meta: Hoạt động cung cấp Sản phẩm của Meta bao gồm thu thập, lưu trữ và (nếu phù hợp) chia sẻ, lập hồ sơ, xét duyệt, tuyển lựa và trong một số trường hợp không chỉ xử lý tự động mà còn xét duyệt thủ công (bằng con người) nhằm:
+* Tạo và duy trì tài khoản cũng như trang cá nhân của bạn,
+* Kết nối tài khoản bạn có khi dùng Sản phẩm của Meta (bao gồm cả thông tin trang cá nhân công khai) với đối tác tích hợp để đăng nhập hoặc chia sẻ thông tin của bạn,
+* Tạo điều kiện chia sẻ nội dung và trạng thái,
+* Cung cấp và tuyển lựa tính năng,
+* Cung cấp dịch vụ nhắn tin, hỗ trợ khả năng gọi thoại và gọi video cũng như kết nối với những người khác,
+* Cung cấp sản phẩm quảng cáo,
+* Hiểu và hỗ trợ việc tạo những nội dung như văn bản, âm thanh, hình ảnh và video, kể cả thông qua AI tại Meta,
+* Tiến hành phân tích,
+* Hỗ trợ bạn mua hàng và thanh toán trên Meta Pay hoặc các trải nghiệm thanh toán khác trên Meta và
+* Xem Sản phẩm của chúng tôi có hoạt động đúng cách không (chẳng hạn như khắc phục sự cố) và sửa lỗi khi sản phẩm không hoạt động.
+Chúng tôi cũng sử dụng thông tin để phát triển, nghiên cứu và thử nghiệm những điểm cải tiến đối với Sản phẩm của Meta. Chúng tôi sử dụng thông tin mình có để:
+* Phát triển và cải thiện các sản phẩm cũng như tính năng,
+* Tạo và thử nghiệm các sản phẩm cũng như tính năng mới để xem hiệu quả hoạt động,
+* Nhận ý kiến đóng góp cho ý tưởng của chúng tôi về sản phẩm hoặc tính năng và
+* Tiến hành khảo sát và thực hiện hoạt động nghiên cứu khác về điều bạn thích ở các Sản phẩm và thương hiệu của chúng tôi, cũng như điều chúng tôi có thể cải thiện cho các Sản phẩm và thương hiệu đó.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Thông tin trang cá nhân công khai của bạn (bao gồm tên, tên người dùng và ảnh đại diện)
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Tin nhắn bạn gửi và nhận (kể cả nội dung trong đó) phải tuân thủ pháp luật hiện hành
+* Siêu dữ liệu về nội dung và tin nhắn, phải tuân thủ pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Lượt mua hoặc các giao dịch khác mà bạn thực hiện, bao gồm cả thông tin đã được cắt bớt của thẻ tín dụng.
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Ảnh hoặc video selfie của bạn nếu bạn cung cấp khi liên hệ với chúng tôi để được hỗ trợ về tài khoản
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Phát triển và cải thiện AI tại Meta
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Phát triển và cải thiện AI tại Meta cho Sản phẩm của Meta cũng như cho bên thứ ba.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung công khai mà bạn/người khác tạo hoặc chia sẻ, chẳng hạn như bài viết, bình luận hoặc âm thanh trên Sản phẩm của Meta
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn.
+Tăng cường tính an toàn, bảo mật và toàn vẹn
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Tăng cường tính an toàn, bảo mật và toàn vẹn trên và giữa các Sản phẩm của Meta: Các Sản phẩm của Meta được thiết kế nhằm nghiên cứu và đảm bảo tính an toàn, bảo mật và toàn vẹn của các dịch vụ đó và của những người sử dụng, trên và ngoài Sản phẩm của Meta. Chúng tôi xử lý thông tin được liên kết với bạn, đồng thời áp dụng các kỹ thuật xử lý tự động và trong một số trường hợp, tiến hành hoạt động xét duyệt thủ công (bằng con người) để:
+* Xác minh tài khoản và hoạt động,
+* Phát hiện và xử lý trường hợp vi phạm điều khoản hoặc chính sách của chúng tôi. Trong một số trường hợp, quyết định chúng tôi đưa ra về nội dung vi phạm sẽ được Ủy ban Giám sát xem xét,
+* Điều tra hành vi đáng ngờ,
+* Phát hiện, ngăn chặn, cũng như đấu tranh chống lại hành vi gây hại hoặc bất hợp pháp (chẳng hạn như xét duyệt) và trong một số trường hợp là gỡ nội dung bị báo cáo với chúng tôi,
+* Xác định cũng như đẩy lùi tình trạng bất bình đẳng và tình trạng phân biệt chủng tộc đối với các cộng đồng yếu thế trước đây,
+* Bảo vệ tính mạng, sức khỏe thể chất/tinh thần, chất lượng đời sống hoặc tính liêm chính của bạn hay của người khác,
+* Phát hiện và ngăn chặn spam, các vấn đề về bảo mật cũng như các trải nghiệm tiêu cực khác,
+* Phát hiện cũng như ngăn chặn các mối đe dọa đối với nhân viên và tài sản của chúng tôi và
+* Duy trì tính toàn vẹn cho Sản phẩm của chúng tôi.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Tin nhắn bạn gửi và nhận (kể cả nội dung trong đó) phải tuân thủ pháp luật hiện hành
+* Siêu dữ liệu về nội dung và tin nhắn, phải tuân thủ pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Lượt mua hoặc các giao dịch khác mà bạn thực hiện, bao gồm cả thông tin đã được cắt bớt của thẻ tín dụng.
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Ảnh hoặc video selfie của bạn nếu bạn cung cấp khi liên hệ với chúng tôi để được hỗ trợ về tài khoản
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Liên lạc với bạn
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Để liên lạc với bạn: Chúng tôi sử dụng thông tin bạn đã cung cấp (chẳng hạn như thông tin liên hệ trên trang cá nhân) để gửi cho bạn các nội dung liên lạc như email hoặc thông báo trong sản phẩm. Ví dụ:
+* Chúng tôi sẽ liên lạc với bạn qua email hoặc thông báo trong sản phẩm về các Sản phẩm của Meta, vấn đề liên quan đến sản phẩm, nghiên cứu hoặc để cho bạn biết về các điều khoản và chính sách của chúng tôi.
+Chúng tôi cũng sẽ sử dụng thông tin liên hệ (chẳng hạn như địa chỉ email của bạn) để trả lời khi bạn liên hệ với chúng tôi.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Thông tin liên hệ trên trang cá nhân của bạn và nội dung liên lạc của bạn với chúng tôi
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Chuyển, lưu trữ hoặc xử lý thông tin của bạn trên toàn cầu
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Chuyển, lưu trữ hoặc xử lý thông tin của bạn xuyên biên giới, kể cả từ và đến Hoa Kỳ cũng như các quốc gia khác: Chúng tôi chia sẻ thông tin mình thu thập trên toàn cầu, với cả các văn phòng và trung tâm dữ liệu nội bộ lẫn những đối tác, bên thứ ba và nhà cung cấp dịch vụ bên ngoài. Vì Meta hoạt động trên toàn cầu và có người dùng, đối tác, đại lý, nhân viên ở khắp nơi trên thế giới, nên chúng tôi cần chuyển thông tin để:
+* Vận hành và cung cấp các dịch vụ được mô tả trong điều khoản áp dụng cho (những) Sản phẩm của Meta mà bạn sử dụng, chẳng hạn như tạo điều kiện cho bạn chia sẻ thông tin và kết nối với gia đình, bạn bè trên toàn cầu; và
+* Sửa lỗi, phân tích và cải thiện Sản phẩm của mình.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung và tin nhắn, phải tuân thủ pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Lượt mua hoặc các giao dịch khác mà bạn thực hiện, bao gồm cả thông tin đã được cắt bớt của thẻ tín dụng.
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Ảnh hoặc video selfie của bạn nếu bạn cung cấp khi liên hệ với chúng tôi để được hỗ trợ về tài khoản
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Xử lý thông tin được bảo vệ đặc biệt
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Xử lý thông tin bạn cung cấp mà theo pháp luật hiện hành phải được bảo vệ đặc biệt, qua đó chúng tôi có thể chia sẻ thông tin với những đối tượng bạn chọn, để cung cấp, cá nhân hóa và cải thiện Sản phẩm của chúng tôi, cũng như tiến hành hoạt động phân tích. Chúng tôi thu thập, lưu trữ, công bố và áp dụng quy trình xử lý tự động hay đôi khi là thủ công (bằng con người) cho những mục đích nêu trên.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Mọi thông tin được bảo vệ đặc biệt mà bạn chọn cung cấp (chẳng hạn như quan điểm tôn giáo, thiên hướng tính dục, quan điểm chính trị, sức khỏe, nguồn gốc dân tộc hoặc chủng tộc, niềm tin liên quan đến triết học hoặc tư cách thành viên trong công đoàn) hoặc có trong các khảo sát bạn chọn tham gia và trong các trường hợp bạn đã đưa ra sự chấp thuận rõ ràng
+Sử dụng thông tin từ bên thứ ba để cá nhân hóa quảng cáo
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Thông tin và nội dung bạn cung cấp, chẳng hạn như tên hoặc địa chỉ email của bạn
+Chia sẻ thông tin với bên thứ ba theo yêu cầu của bạn
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Chia sẻ danh bạ, trang cá nhân hoặc thông tin khác với bên thứ ba khi bạn yêu cầu: Kiểu bên thứ ba và hạng mục thông tin được chia sẻ phụ thuộc vào trường hợp của nội dung bạn yêu cầu chúng tôi chia sẻ. Ví dụ:
+* Chúng tôi chia sẻ email của bạn (hoặc thông tin liên hệ khác) hay những thông tin mà bạn có thể chọn khi bạn chỉ dẫn chúng tôi chia sẻ thông tin đó với nhà quảng cáo để họ có thể liên hệ và gửi cho bạn thêm thông tin về một sản phẩm được quảng bá và
+* Nếu bạn chọn tích hợp các ứng dụng, trò chơi hoặc trang web khác với Sản phẩm của Meta và đăng nhập, chúng tôi sẽ chia sẻ thông tin của bạn với ứng dụng, trò chơi hoặc trang web đó để đăng nhập bạn vào.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Thông tin như danh bạ hoặc trang cá nhân của bạn chẳng hạn
+* Nội dung bạn tạo, chẳng hạn như bài viết hoặc bình luận
+Cung cấp dịch vụ đo lường, phân tích và các dịch vụ kinh doanh
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Cung cấp dịch vụ đo lường, phân tích và các dịch vụ kinh doanh:
+Hệ thống của chúng tôi sẽ xử lý tự động, có kèm một số hoạt động xử lý thủ công (bằng con người), thông tin về bạn và người khác mà chúng tôi đã thu thập, lưu trữ. Chúng tôi sử dụng thông tin này để:
+* Cung cấp thông tin chi tiết cùng với báo cáo đo lường cho doanh nghiệp, nhà quảng cáo và các đối tác khác nhằm hỗ trợ họ đo lường mức độ hiệu quả, tình hình phân phối quảng cáo, nội dung và dịch vụ của họ hoặc khách hàng của họ, qua đó hiểu được những kiểu người xem nội dung và quảng cáo của họ, cũng như hiệu quả của nội dung và quảng cáo đó ở trên lẫn ngoài Sản phẩm của Meta; và
+* Cung cấp dữ liệu phân tích cùng với báo cáo thông tin chi tiết tổng hợp về người dùng nhằm hỗ trợ người dùng, doanh nghiệp, nhà quảng cáo và các đối tác khác hiểu rõ hơn về đối tượng mà họ có thể sẽ muốn kết nối, cũng như những kiểu người sử dụng dịch vụ của họ và cách mọi người tương tác với nội dung, trang web, ứng dụng và dịch vụ họ cung cấp.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Mang lại trải nghiệm liền mạch
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Chia sẻ thông tin giữa Các công ty thuộc Meta:
+* Để mang lại trải nghiệm liền mạch, nhất quán, mới mẻ và phong phú hơn trên Sản phẩm của các công ty thuộc Meta, cũng như tạo điều kiện cho hoạt động tương tác liên ứng dụng, chia sẻ, xem và tương tác với nội dung, bao gồm cả bài viết và video.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Người dùng WhatsApp có thể tìm hiểu thêm về thông tin được chia sẻ với Meta.
+Thông tin kinh doanh và dữ liệu phân tích kinh doanh
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Thông tin kinh doanh và dữ liệu phân tích kinh doanh:
+* Để nắm được tổng thể việc bạn sử dụng các Sản phẩm của chúng tôi, để đếm chính xác số lượng người và doanh nghiệp; và
+* Để xác thực những số liệu liên quan trực tiếp đến những người và doanh nghiệp đó nhằm cung cấp thông tin và cải thiện phương hướng sản phẩm cũng như hoạt động phát triển sản phẩm, đồng thời để tuân thủ các nghĩa vụ báo cáo (báo cáo cho cổ đông/báo cáo thu nhập).
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung và tin nhắn, phải tuân thủ pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Cá nhân hóa quảng cáo trên Meta Audience Network
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Xác định bạn là người dùng Sản phẩm của Meta và cá nhân hóa quảng cáo mà chúng tôi hiển thị cho bạn thông qua Meta Audience Network khi bạn truy cập vào các ứng dụng khác:
+* Khi chúng tôi hiển thị quảng cáo cho bạn thông qua Meta Audience Network vào thời điểm bạn truy cập các ứng dụng khác, hệ thống của chúng tôi sẽ tự động xử lý thông tin về bạn và người khác mà chúng tôi đã thu thập và lưu trữ để xác định bạn là người dùng Sản phẩm của Meta và điều chỉnh quảng cáo hiển thị cho bạn.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Thông tin bạn cung cấp
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Cung cấp thông tin tiếp thị
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Cung cấp cho bạn thông tin tiếp thị:
+* Tùy vào chế độ cài đặt của bạn và theo pháp luật hiện hành, chúng tôi sẽ chia sẻ với bạn thông tin tiếp thị.
+* Chúng tôi sẽ thu thập, lưu trữ thông tin của bạn (chẳng hạn như địa chỉ email) và dùng thông tin đó để gửi thông tin tiếp thị cho bạn theo pháp luật hiện hành.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Thông tin và nội dung bạn cung cấp, trong đó có thông tin liên hệ như địa chỉ email
+* Thông tin nhận dạng thiết bị
+Tiến hành nghiên cứu và đổi mới vì cộng đồng
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Nghiên cứu và đổi mới vì cộng đồng:
+* Chúng tôi tiến hành khảo sát và sử dụng thông tin (bao gồm cả thông tin từ các nhà nghiên cứu cộng tác với chúng tôi) để thực hiện và hỗ trợ hoạt động nghiên cứu, đổi mới liên quan đến các chủ đề về phúc lợi xã hội nói chung, về tiến bộ công nghệ, lợi ích của cộng đồng, cũng như về sức khỏe thể chất và tinh thần.
+* Ví dụ: chúng tôi phân tích thông tin mình có về các quy luật di cư khi xảy ra khủng hoảng. Dựa vào thông tin này, các tổ chức cứu trợ có thể chi viện đến đúng nơi.
+* Chúng tôi thu thập, lưu trữ, kết hợp, phân tích và áp dụng các kỹ thuật xử lý tự động (chẳng hạn như tổng hợp thông tin), cũng như hoạt động xét duyệt thủ công (bằng con người) và chia sẻ thông tin (nếu cần) để nghiên cứu và đổi mới vì cộng đồng theo cách này.
+* Chúng tôi hỗ trợ hoạt động nghiên cứu ở những lĩnh vực như trí tuệ nhân tạo và công nghệ máy học.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung và tin nhắn, phải tuân thủ pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Ẩn danh thông tin của bạn
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Ẩn danh thông tin của bạn
+Trong một số trường hợp, chúng tôi ẩn danh những thông tin mà chúng tôi có liên quan đến bạn, chẳng hạn như hoạt động của bạn trên và ngoài Sản phẩm của chúng tôi, rồi sử dụng thông tin ẩn danh thu được cho những mục đích như cung cấp và cải tiến Sản phẩm của Meta, kể cả quảng cáo.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Chia sẻ thông tin với những bên khác (bao gồm cả cơ quan hành pháp) để đáp ứng các yêu cầu pháp lý
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Chia sẻ thông tin với những bên khác (bao gồm cả cơ quan hành pháp) và đáp ứng các yêu cầu pháp lý.
+Các loại thông tin chúng tôi truy cập, lưu giữ, sử dụng và chia sẻ sẽ phụ thuộc vào từng trường hợp cụ thể. Ví dụ: khi đáp ứng các yêu cầu pháp lý trong trường hợp luật không bắt buộc, thông tin này sẽ thường ở mức giới hạn (chẳng hạn như chi tiết liên hệ và thông tin đăng nhập).
+Tuy nhiên, thông tin chúng tôi xử lý sẽ còn tùy vào mục đích. Các mục đích này có thể bao gồm:
+* Đáp ứng yêu cầu pháp lý của bên thứ ba, chẳng hạn như nguyên đơn dân sự, cơ quan hành pháp và các cơ quan khác thuộc chính phủ.
+* Tuân thủ pháp luật hiện hành hoặc phục vụ cho các mục đích pháp lý chính đáng
+* Tăng cường tính an toàn, bảo mật và toàn vẹn cho Các công ty của Meta, Sản phẩm, người dùng, nhân viên, tài sản của Meta, cũng như cho tất cả mọi người.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Siêu dữ liệu về nội dung, theo pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Giao dịch mua hàng hoặc giao dịch khác bạn thực hiện
+* Hashtag bạn sử dụng
+* Ảnh hoặc video selfie của bạn nếu bạn cung cấp khi liên hệ với chúng tôi để được hỗ trợ về tài khoản
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+Xử lý thông tin theo yêu cầu của pháp luật
+Lý do và cách chúng tôi xử lý thông tin của bạn:
+Đối với việc xử lý thông tin khi luật pháp yêu cầu: Trong trường hợp chúng tôi có nghĩa vụ tiết lộ thông tin, chẳng hạn như khi chúng tôi nhận được yêu cầu pháp lý hợp lệ đề nghị cung cấp một số thông tin (ví dụ: lệnh khám xét), chúng tôi sẽ truy cập, lưu giữ và/hoặc chia sẻ thông tin của bạn với các nhà quản lý, cơ quan hành pháp hoặc những đơn vị khác.
+Hạng mục thông tin chúng tôi sử dụng (xem mục "Chúng tôi thu thập những thông tin nào?" để biết thêm chi tiết về từng hạng mục thông tin). Thông tin thực dùng sẽ tùy thuộc vào tình huống thực tế nhưng có thể bao gồm bất kỳ thông tin nào sau đây:
+Các hạng mục thông tin sẽ phụ thuộc vào trường hợp cụ thể của từng nghĩa vụ hoặc yêu cầu bắt buộc. Chúng tôi sẽ chỉ chia sẻ hoặc xử lý những thông tin cần thiết để tuân thủ nghĩa vụ pháp lý liên quan. Ví dụ: đối với các vấn đề dân sự, thông tin này thường sẽ bị giới hạn ở một số ít thông tin (chẳng hạn như chi tiết liên hệ và thông tin đăng nhập). Tuy nhiên, tùy vào các trường hợp, thông tin đó có thể bao gồm những loại sau đây:
+* Nội dung bạn tạo, chẳng hạn như bài viết, bình luận hoặc âm thanh
+* Nội dung bạn cung cấp thông qua tính năng camera của chúng tôi hoặc phần cài đặt thư viện ảnh của bạn hay thông qua các tính năng hỗ trợ thoại mà chúng tôi cung cấp
+* Tin nhắn bạn gửi và nhận (kể cả nội dung trong đó) phải tuân thủ pháp luật hiện hành
+* Siêu dữ liệu về nội dung và tin nhắn, phải tuân thủ pháp luật hiện hành
+* Hoạt động tương tác với AI tại Meta và siêu dữ liệu liên quan. Ví dụ: thông tin mà bạn/người khác trao đổi với AI tại Meta như nội dung và tin nhắn
+* Loại nội dung bạn xem hoặc tương tác và cách bạn tương tác với nội dung đó
+* Ứng dụng và tính năng bạn dùng, cũng như hành động bạn thực hiện trong ứng dụng và tính năng đó
+* Lượt mua hoặc các giao dịch khác mà bạn thực hiện, bao gồm cả thông tin đã được cắt bớt của thẻ tín dụng.
+* Hashtag bạn sử dụng
+* Thời điểm, tần suất và khoảng thời gian bạn hoạt động trên Sản phẩm của chúng tôi
+* Ảnh hoặc video selfie của bạn nếu bạn cung cấp khi liên hệ với chúng tôi để được hỗ trợ về tài khoản
+* Phần mềm và các đặc điểm của thiết bị
+* Hoạt động của bạn trên thiết bị, chẳng hạn như liệu bạn có mở ứng dụng của chúng tôi trong cửa sổ chính không hay có di chuột không (qua đó có thể giúp phân biệt người thật với bot)
+* Thông tin nhận dạng để phân biệt thiết bị của bạn với của người dùng khác
+* Tín hiệu từ thiết bị
+* Thông tin bạn đã chia sẻ thông qua chế độ cài đặt thiết bị
+* Thông tin liên quan đến vị trí
+* Thông tin về mạng mà bạn kết nối thiết bị, bao gồm cả địa chỉ IP của bạn
+===== SOURCE DOCUMENT 003
+TITLE: Cách Meta đầu tư vào công nghệ | Trung tâm minh bạch
+SOURCE_TYPE: privacy_transfer
+CANONICAL_URL: https://transparency.meta.com/vi-vn/policies/other-policies/transfer-your-information/
+CONTENT_SHA256: d167c146829b2dfb44d92f314e214d929ceb8e8004ece0bacc28b107b5ae388a
+================================================================================
+# Biện pháp chúng tôi áp dụng để chuyển thông tin của bạn một cách an toàn | Trung tâm minh bạch
+# Biện pháp chúng tôi áp dụng để chuyển thông tin của bạn một cách an toàn
+NGÀY CẬP NHẬT: 17 THÁNG 11, 2023
+Chúng tôi áp dụng một số biện pháp để bảo vệ dữ liệu của bạn, bao gồm cả:
+* **Mã hóa và bảo mật:** Chúng tôi thực hiện hàng loạt biện pháp để bảo vệ dữ liệu của bạn. Chúng tôi triển khai chương trình bảo mật toàn diện (bao gồm cả những biện pháp như mã hóa khi chuyển dữ liệu) để đảm bảo dữ liệu của người dùng luôn được an toàn. Chúng tôi điều chỉnh và cải thiện biện pháp bảo mật để đề phòng các rủi ro cũng như mối đe dọa bảo mật không ngừng biến đổi mà mình phải đối mặt.
+* **Không cấp cho chính phủ quyền truy cập qua "cửa sau":** Chúng tôi không cấp cho bất kỳ chính phủ nào quyền truy cập trực tiếp hoặc quyền truy cập qua "cửa sau" vào dữ liệu được mã hóa. Chúng tôi tin rằng nếu chúng tôi có ý định làm suy yếu các dịch vụ của mình theo cách như vậy, điều này sẽ tác động tiêu cực đến hệ thống bảo mật cần có để bảo vệ người dùng dịch vụ của chúng tôi trên toàn cầu.
+* **Chính sách chặt chẽ:** Từ lâu, chúng tôi đã áp dụng các chính sách toàn diện để quản lý cách mình đánh giá và phản hồi những yêu cầu của chính phủ về dữ liệu người dùng. Chúng tôi xem xét từng yêu cầu và chỉ cung cấp thông tin cho những yêu cầu mà mình xác định là hợp lệ, cũng như chỉ cung cấp thông tin theo đúng phạm vi của yêu cầu đó.
+* **Đứng về phía người dùng:** Trong trường hợp yêu cầu của chính phủ có thiếu sót (ví dụ: quá rộng hoặc thiếu sót về mặt pháp lý), chúng tôi sẽ từ chối yêu cầu đó và đề nghị chính phủ xử lý bất cứ thiếu sót hiển nhiên nào. Nếu cần thiết, chúng tôi sẽ phản đối hoặc từ chối những yêu cầu bất hợp pháp của chính phủ. Chúng tôi cũng sẽ phản đối mọi lệnh yêu cầu chúng tôi thiết kế lại hệ thống của mình nhằm làm suy yếu biện pháp bảo mật mà chúng tôi cung cấp để bảo vệ dữ liệu của mọi người hoặc nhằm ngăn chúng tôi tiết lộ về sự tồn tại của lệnh đó, cũng như những nỗ lực của chúng tôi để chống lại lệnh nêu trên.
+* **Đảm bảo tính minh bạch:** Chúng tôi nỗ lực để trở nên cởi mở và chủ động về cách bảo vệ quyền riêng tư, tính bảo mật cũng như khả năng truy cập thông tin trên mạng cho mọi người. Vì vậy, chúng tôi đặt ra chính sách là phải thông báo cho người dùng về yêu cầu cung cấp thông tin của họ trước khi tiết lộ, trừ trường hợp luật pháp nghiêm cấm làm vậy hoặc trong những tình huống ngoại lệ khi việc thông báo sẽ phản tác dụng (ví dụ: trường hợp trẻ em có nguy cơ bị tổn hại). Kể từ năm 2013, chúng tôi đã đăng báo cáo minh bạch định kỳ 6 tháng một lần về bản chất và mức độ của các yêu cầu mà chúng tôi nhận được từ chính phủ về dữ liệu người dùng. Thông qua các báo cáo này, cộng đồng của chúng tôi sẽ nắm được số lượng yêu cầu chúng tôi tiếp nhận, cũng như cách chúng tôi áp dụng chính sách và phản hồi yêu cầu về dữ liệu.
+===== SOURCE DOCUMENT 004
+TITLE: Khung bảo vệ quyền riêng tư đối với dữ liệu
+SOURCE_TYPE: privacy_transfer
+CANONICAL_URL: https://www.facebook.com/privacy/policies/data_privacy_framework/?locale=vi_VN
+CONTENT_SHA256: 4c362b24b6468eb4d8e24952b73653e3985b6d3716bb6b3358b7984a07daf3c4
+================================================================================
+## Thông tin công khai về Khuôn khổ Thỏa thuận bảo vệ quyền riêng tư đối với dữ liệu giữa Liên minh châu Âu – Hoa Kỳ và giữa Thụy Sĩ – Hoa Kỳ của Meta Platforms, Inc.
+Giới thiệu về Thông báo này
+Meta Platforms, Inc. và các công ty con mà doanh nghiệp này nắm toàn quyền sở hữu tại Hoa Kỳ (gọi chung là "Meta") đã chứng nhận rằng chúng tôi tham gia Khuôn khổ Thỏa thuận bảo vệ quyền riêng tư đối với dữ liệu giữa Liên minh châu Âu – Hoa Kỳ và Khuôn khổ Thỏa thuận bảo vệ quyền riêng tư đối với dữ liệu giữa Thụy Sĩ – Hoa Kỳ (gọi chung là "DPF") với Bộ Thương mại Hoa Kỳ. Chứng nhận này liên quan đến việc Meta xử lý thông tin cá nhân mà công ty nhận được từ Khu vực kinh tế châu Âu ("EEA") và Thụy Sĩ theo DPF xoay quanh nội dung chúng tôi đã chứng nhận. Nếu có bất kỳ xung đột nào giữa điều khoản trong Thông tin công khai này và Nguyên tắc theo DPF, Nguyên tắc sẽ được ưu tiên áp dụng. Để tìm hiểu thêm về DPF hoặc xem chứng nhận của chúng tôi về danh sách DPF, hãy truy cập vào trang web của DPF.
+Nội dung của thông tin công khai này
+Meta áp dụng DPF đối với mọi thông tin cá nhân mà công ty nhận được từ EEA hoặc Thụy Sĩ theo DPF liên quan đến Loại dữ liệu được chứng nhận.
+* Các loại thông tin cá nhân được xử lý
+* Các mục đích của việc xử lý thông tin cá nhân
+* Các loại hình bên thứ ba mà chúng tôi tiết lộ thông tin cá nhân
+* Quyền truy cập của một người vào thông tin cá nhân
+* Bất kỳ lựa chọn và phương thức nào hiện có để giới hạn việc sử dụng cũng như tiết lộ thông tin cá nhân
+* Cách chúng tôi tiết lộ thông tin cá nhân khi có yêu cầu pháp lý (nếu cần)
+Thực thi
+Việc Meta tuân thủ DPF thuộc thẩm quyền điều tra và thực thi của Ủy ban Thương mại Liên bang Hoa Kỳ. Theo DPF, Meta cũng phải chịu trách nhiệm pháp lý về hoạt động chuyển tiếp cho các bên thứ ba xử lý thông tin cá nhân theo cách không tuân thủ DPF, trừ khi Meta không có trách nhiệm đối với sự kiện gây ra bất kỳ thiệt hại nào như cáo buộc.
+Thắc mắc và tranh chấp
+Khi có thắc mắc hay mối lo ngại nào về chứng nhận DPF của Meta, vui lòng gửi email cho chúng tôi. Nếu có bất kỳ tranh chấp nào với Meta liên quan đến chứng nhận của chúng tôi, bạn có thể giải quyết mà không mất phí thông qua TRUSTe – một nhà cung cấp dịch vụ giải quyết tranh chấp thay thế có trụ sở tại Hoa Kỳ. Bạn có thể liên hệ với TRUSTe thông qua Hệ thống góp ý và giải quyết của TRUSTe. Trong một số tình huống, Khuôn khổ DPF quy định rằng bạn có quyền yêu cầu hình thức phân xử trọng tài mang tính ràng buộc. Bạn có thể chọn cách này để giải quyết các khiếu nại chưa giải quyết được bằng những phương thức khác, như nêu trong Phụ lục I của Khuôn khổ DPF.
+===== SOURCE DOCUMENT 005
+TITLE: Meta
+SOURCE_TYPE: privacy_center
+CANONICAL_URL: https://www.facebook.com/privacy/center/?locale=vi_VN
+CONTENT_SHA256: b5b84aca47113c57f9e3c7812ac937bd2d7e8c9b2ebdaaf420a45763c716d910
+================================================================================
+# Trung tâm quyền riêng tư
+* Chủ đề quyền riêng tư
+* Chính sách và điều khoản khác
+* Cài đặt
+## Trung tâm quyền riêng tư
+Đưa ra lựa chọn về quyền riêng tư phù hợp với bạn. Tìm hiểu cách quản lý cũng như kiểm soát quyền riêng tư trên Facebook, Instagram, Messenger và các Sản phẩm khác của Meta.
+## Chúng tôi xây dựng quyền riêng tư từ trong các sản phẩm của mình
+## Nhắn tin riêng tư Các sản phẩm nhắn tin của chúng tôi có tính năng mã hóa đầu cuối để cuộc trò chuyện của bạn luôn an toàn và bảo mật.
+## Quyền riêng tư của tuổi teen Cài đặt mặc định trên Facebook và Instagram giúp tạo trải nghiệm an toàn, phù hợp với lứa tuổi.
+## Hướng dẫn về quảng cáo Chúng tôi trình bày nhiều yếu tố là cơ sở để quyết định xem nên hiển thị quảng cáo nào cho bạn, đồng thời cung cấp các lựa chọn để bạn xem thêm những quảng cáo mà mình thích.
+## Chủ đề quyền riêng tư
+Xem câu trả lời cho các câu hỏi về quyền riêng tư của bạn và quản lý quyền riêng tư theo cách phù hợp.
+Thông tin ## Xem lại và quản lý thông tin trên các tài khoản
+AI tạo sinh ## AI tạo sinh trên Meta
+An toàn ## Quản lý nội dung bạn chia sẻ để cảm thấy an toàn hơn khi sử dụng sản phẩm của chúng tôi
+Vị trí ## Tìm hiểu cách quản lý vị trí của bạn
+Xem tất cả chủ đề
+## Tìm hiểu cam kết của Meta về quyền riêng tư
+Tìm thêm những nguồn lực bạn có thể dùng để tìm hiểu cách Meta xây dựng quyền riêng tư từ trong sản phẩm.
+## Tìm hiểu thêm trong Chính sách quyền riêng tư
+Chính sách quyền riêng tư là gì và có nội dung gì? Chính sách quyền riêng tư
+## Bạn muốn xem thêm cài đặt quyền riêng tư ư?
+Truy cập nhanh vào phần cài đặt trên Facebook và Messenger hoặc Instagram
+===== SOURCE DOCUMENT 006
+TITLE: Điều khoản dịch vụ của Meta
+SOURCE_TYPE: legal
+CANONICAL_URL: https://www.facebook.com/terms/?locale=vi_VN
+CONTENT_SHA256: e5e6b1a18255a2ad9a6926a7f14775c99305d91f294be92524e2e93341bb6174
+================================================================================
+## Điều khoản dịch vụ
+Tổng quan
+Meta tạo ra các công nghệ và dịch vụ nhằm hỗ trợ mọi người kết nối với nhau, xây dựng cộng đồng cũng như phát triển doanh nghiệp. Điều khoản dịch vụ này ("Điều khoản") điều chỉnh việc bạn truy cập và sử dụng Facebook, Messenger, cũng như các sản phẩm, trang web, tính năng, ứng dụng, dịch vụ, công nghệ và phần mềm khác mà chúng tôi cung cấp (Sản phẩm của Meta hay Sản phẩm), trừ khi chúng tôi nêu rõ là áp dụng các điều khoản riêng (và không áp dụng những điều khoản này). (Ví dụ: khi sử dụng Instagram, bạn phải tuân thủ Điều khoản sử dụng của Instagram). Các Sản phẩm này do Meta Platforms, Inc. cung cấp cho bạn. Điều khoản này cấu thành thỏa thuận giữa bạn và Meta Platforms, Inc. Nếu bạn không đồng ý với Điều khoản này, vui lòng không truy cập hoặc sử dụng Facebook hay các sản phẩm và dịch vụ khác thuộc phạm vi điều chỉnh của Điều khoản này.
+Điều khoản này (trước đây gọi là Tuyên bố về quyền và trách nhiệm) cấu thành toàn bộ thỏa thuận giữa bạn và Meta Platforms, Inc. liên quan đến việc bạn sử dụng Sản phẩm của chúng tôi. Điều khoản này thay thế mọi thỏa thuận trước đó.
+Bạn không mất phí sử dụng Facebook hay các sản phẩm và dịch vụ khác thuộc phạm vi điều chỉnh của Điều khoản này, trừ khi chúng tôi có quy định khác. Thay vào đó, doanh nghiệp, tổ chức và những cá nhân khác sẽ phải trả tiền cho chúng tôi để hiển thị quảng cáo về sản phẩm và dịch vụ của họ cho bạn. Khi sử dụng Sản phẩm của chúng tôi, bạn đồng ý để chúng tôi hiển thị quảng cáo mà chúng tôi cho rằng có thể phù hợp với bạn và sở thích của bạn. Chúng tôi sử dụng dữ liệu cá nhân của bạn để xác định sẽ hiển thị quảng cáo được cá nhân hóa nào cho bạn.
+Chúng tôi không bán dữ liệu cá nhân của bạn cho các nhà quảng cáo, cũng không chia sẻ thông tin trực tiếp nhận dạng bạn (chẳng hạn như tên, địa chỉ email hoặc thông tin liên hệ khác) với những đơn vị này, trừ khi được bạn cho phép cụ thể. Thay vào đó, các nhà quảng cáo có thể cho chúng tôi biết những thông tin như kiểu đối tượng mà họ muốn hiển thị quảng cáo và chúng tôi sẽ hiển thị những quảng cáo ấy cho người có thể quan tâm. Chúng tôi cho nhà quảng cáo biết hiệu quả quảng cáo để những đơn vị này nắm được cách mọi người tương tác với nội dung của họ. Hãy xem Mục 2 ở bên dưới để hiểu rõ hơn cách chúng tôi hiển thị quảng cáo được cá nhân hóa trên Sản phẩm của Meta theo các điều khoản này.
+Chính sách quyền riêng tư của chúng tôi giải thích cách chúng tôi thu thập và sử dụng dữ liệu cá nhân của bạn để quyết định hiển thị cho bạn quảng cáo nào, cũng như để cung cấp tất cả các dịch vụ khác được mô tả bên dưới. Bạn cũng có thể chuyển đến trang cài đặt trên Sản phẩm có liên quan của Meta bất cứ lúc nào để xem lại các lựa chọn mình có về quyền riêng tư đối với cách chúng tôi dùng dữ liệu của bạn.
+1. Dịch vụ chúng tôi cung cấp
+Sứ mệnh của chúng tôi là đem đến cho mọi người khả năng xây dựng cộng đồng và đưa thế giới lại gần nhau hơn. Nhằm thúc đẩy sứ mệnh này, chúng tôi cung cấp cho bạn các Sản phẩm và dịch vụ được mô tả dưới đây:
+1.1 Mang lại trải nghiệm dành riêng cho bạn:
+Trải nghiệm của bạn trên Facebook không giống với của bất kỳ ai khác: từ bài viết, tin, sự kiện, quảng cáo và nội dung khác mà bạn nhìn thấy trên Bảng feed Facebook hoặc nền tảng video của chúng tôi cho đến các Trang Facebook bạn theo dõi cùng những tính năng khác mà bạn có thể sử dụng (ví dụ: Facebook Marketplace) và tìm kiếm. Ví dụ: chúng tôi sử dụng dữ liệu về các kết nối bạn tạo, lựa chọn và chế độ cài đặt bạn chọn, những điều bạn chia sẻ cũng như thực hiện ở trên và ngoài Sản phẩm của chúng tôi để đem đến trải nghiệm dành riêng cho bạn.
+1.2 Kết nối bạn với những người và tổ chức mà bạn quan tâm:
+Chúng tôi hỗ trợ bạn tìm và kết nối với mọi người, các nhóm, doanh nghiệp, tổ chức và những đối tượng khác quan trọng với bạn trên Sản phẩm của Meta mà bạn sử dụng. Chúng tôi sử dụng dữ liệu để gợi ý cho bạn và những người khác, chẳng hạn như nhóm nên tham gia, sự kiện nên tham dự, Trang Facebook nên theo dõi hoặc gửi tin nhắn, chương trình nên xem và những người mà bạn có thể muốn kết bạn. Những mối quan hệ khăng khít hơn sẽ tạo ra các cộng đồng gắn bó hơn và chúng tôi tin rằng dịch vụ của mình hữu ích nhất khi mọi người được kết nối với nhau, cũng như với các nhóm và tổ chức mà họ quan tâm.
+1.3 Tạo điều kiện cho bạn thể hiện bản thân và chia sẻ về những điều quan trọng với mình:
+Có rất nhiều cách để thể hiện bản thân trên Facebook nhằm cho bạn bè, gia đình và người khác biết những điều quan trọng với bạn, chẳng hạn như chia sẻ nội dung cập nhật trạng thái, ảnh, video và tin trên Sản phẩm của Meta (theo chế độ cài đặt của bạn), gửi tin nhắn hoặc gọi thoại/gọi video cho một hay nhiều người, tạo sự kiện/nhóm hay thêm nội dung vào trang cá nhân của bạn, cũng như xem thông tin chi tiết về cách những người khác tương tác với nội dung của bạn. Ngoài ra, chúng tôi đã phát triển và tiếp tục khám phá những phương thức mới để mọi người ứng dụng công nghệ (chẳng hạn như thực tế tăng cường và video 360) cho việc tạo, cũng như chia sẻ nội dung sinh động và hấp dẫn hơn trên Sản phẩm của Meta.
+1.4 Hỗ trợ bạn khám phá nội dung, sản phẩm và dịch vụ mà bạn có thể quan tâm:
+Chúng tôi hiển thị cho bạn các quảng cáo được cá nhân hóa, ưu đãi và nội dung thương mại hoặc được tài trợ khác để bạn có thể khám phá nội dung, sản phẩm cũng như dịch vụ do nhiều doanh nghiệp, tổ chức sử dụng Facebook và các Sản phẩm khác của Meta cung cấp. Mục 2 bên dưới sẽ giải thích chi tiết hơn về điều này.
+1.5 Tăng cường tính an toàn, bảo mật và toàn vẹn cho các dịch vụ của chúng tôi, chống lại hành vi có hại cũng như bảo vệ cộng đồng người dùng:
+Mọi người sẽ chỉ xây dựng cộng đồng trên Sản phẩm của Meta nếu họ cảm thấy an toàn và được bảo mật. Chúng tôi luôn nỗ lực để duy trì tính bảo mật (bao gồm cả tính sẵn có, tính xác thực, tính toàn vẹn và tính bí mật) của các Sản phẩm và dịch vụ mà chúng tôi cung cấp. Chúng tôi bố trí đội ngũ chuyên trách trên toàn thế giới, phối hợp với các nhà cung cấp dịch vụ bên ngoài, đối tác và những tổ chức có liên quan khác. Ngoài ra, chúng tôi phát triển các hệ thống kỹ thuật tiên tiến để phát hiện hành vi có thể lạm dụng Sản phẩm của chúng tôi, hành vi có hại cho người khác và các tình huống mà chúng tôi có thể hỗ trợ hoặc bảo vệ cộng đồng, bao gồm cả phản hồi báo cáo của người dùng về nội dung có khả năng vi phạm. Nếu biết về hành vi hoặc nội dung như vậy, dựa trên đánh giá của mình, chúng tôi có thể sẽ áp dụng biện pháp xử lý thích hợp, chẳng hạn như thông báo với bạn, trợ giúp, gỡ nội dung, thu hồi hoặc hạn chế quyền truy cập vào một số tính năng, vô hiệu hóa tài khoản hoặc liên hệ với cơ quan hành pháp. Chúng tôi sẽ chia sẻ dữ liệu với Các công ty của Meta khi phát hiện ra người sử dụng Sản phẩm của Meta thực hiện hành vi lạm dụng hay hành vi có hại hoặc để bảo vệ các Sản phẩm của Meta, người dùng và cộng đồng. Ví dụ: chúng tôi chia sẻ thông tin với Các công ty thuộc Meta chuyên cung cấp sản phẩm và dịch vụ tài chính để giúp họ tăng cường tính an toàn, bảo mật và toàn vẹn, cũng như tuân thủ luật pháp hiện hành. Meta có quyền truy cập vào, lưu giữ, sử dụng và chia sẻ mọi thông tin thu thập được về bạn khi thực sự tin rằng pháp luật yêu cầu hoặc cho phép làm điều đó. Vui lòng xem Chính sách quyền riêng tư của chúng tôi để biết thêm thông tin.
+Trong một số trường hợp, Ủy ban Giám sát có thể xem xét quyết định của chúng tôi theo các điều khoản và quy chế của họ. Tìm hiểu thêm tại đây.
+1.6 Sử dụng và phát triển các công nghệ tiên tiến để cung cấp những dịch vụ an toàn và thiết thực cho mọi người:
+Chúng tôi sử dụng và phát triển các công nghệ tiên tiến (chẳng hạn như trí tuệ nhân tạo, hệ thống máy học và công nghệ thực tế tăng cường) để mọi người có thể dùng Sản phẩm của chúng tôi một cách an toàn, bất kể tình trạng thể chất hay vị trí địa lý của họ. Ví dụ: công nghệ như vậy sẽ giúp những người suy giảm thị lực biết ảnh/video được chia sẻ trên Facebook hay Instagram có những gì hoặc những ai. Chúng tôi cũng xây dựng công nghệ truyền thông và mạng lưới tối tân để hỗ trợ nhiều người kết nối Internet hơn ở những khu vực có khả năng truy cập hạn chế. Đồng thời, chúng tôi phát triển các hệ thống tự động để cải thiện khả năng phát hiện và loại bỏ những hành vi lạm dụng, nguy hiểm có thể gây hại cho cộng đồng cũng như tính toàn vẹn trong Sản phẩm của mình.
+1.7 Nghiên cứu các cách cải thiện dịch vụ của chúng tôi:
+Chúng tôi tham gia nghiên cứu để phát triển, thử nghiệm và cải thiện Sản phẩm của mình. Hoạt động này bao gồm việc phân tích dữ liệu chúng tôi có về người dùng của mình, cũng như nắm được cách mọi người sử dụng Sản phẩm của Facebook, chẳng hạn như thông qua việc tiến hành các cuộc khảo sát, thử nghiệm và khắc phục sự cố cho những tính năng mới. Chính sách quyền riêng tư của chúng tôi giải thích cách chúng tôi sử dụng dữ liệu cho hoạt động nghiên cứu này nhằm phát triển và cải thiện các dịch vụ mà chúng tôi cung cấp.
+1.8 Mang đến trải nghiệm nhất quán và liền mạch trên mọi Sản phẩm của các công ty thuộc Meta:
+Thông qua Sản phẩm của chúng tôi, bạn có thể tìm và kết nối với mọi người, các nhóm, doanh nghiệp, tổ chức và những đối tượng khác quan trọng với bạn. Chúng tôi thiết kế các hệ thống của mình sao cho trải nghiệm của bạn nhất quán và liền mạch trên những Sản phẩm khác nhau của các công ty thuộc Meta mà bạn sử dụng. Ví dụ: chúng tôi sử dụng dữ liệu về những người mà bạn tương tác trên Facebook để bạn có thể kết nối với họ dễ dàng hơn trên Instagram hoặc Messenger, đồng thời hỗ trợ bạn liên lạc qua Messenger với doanh nghiệp mà bạn theo dõi trên Facebook.
+1.9 Đảm bảo quyền truy cập vào dịch vụ của chúng tôi:
+Để vận hành dịch vụ trên toàn cầu của chúng tôi và hỗ trợ bạn kết nối với mọi người trên khắp thế giới, chúng tôi cần chuyển, lưu trữ và phân phối nội dung, dữ liệu đến các trung tâm dữ liệu, đối tác, nhà cung cấp dịch vụ, đại lý và hệ thống của mình trên khắp thế giới, kể cả ở bên ngoài quốc gia mà bạn cư trú. Việc sử dụng cơ sở hạ tầng toàn cầu này là yếu tố cần thiết và cốt lõi để chúng tôi cung cấp dịch vụ. Đơn vị sở hữu, điều hành hoặc kiểm soát cơ sở hạ tầng này có thể là Meta Platforms, Inc., Meta Platforms Ireland Limited hay các công ty liên kết của đơn vị này.
+2. Cách chúng tôi có nguồn tiền để duy trì dịch vụ
+Bạn sẽ không phải trả phí để sử dụng Facebook cùng các sản phẩm và dịch vụ khác của chúng tôi. Thay vào đó, khi dùng Sản phẩm của Meta thuộc phạm vi điều chỉnh của Điều khoản này, bạn đồng ý rằng chúng tôi có thể hiển thị cho bạn quảng cáo được cá nhân hóa, cũng như nội dung thương mại và được tài trợ khác mà các doanh nghiệp, tổ chức trả tiền để quảng bá ở cả trên lẫn ngoài Sản phẩm của các công ty thuộc Meta. Chúng tôi sử dụng dữ liệu cá nhân của bạn (ví dụ: thông tin về hoạt động và sở thích) để hiển thị cho bạn quảng cáo được cá nhân hóa và nội dung được tài trợ có thể phù hợp hơn với bạn.
+Bảo vệ quyền riêng tư của mọi người chính là điều mà chúng tôi chú trọng khi thiết kế hệ thống quảng cáo được cá nhân hóa. Nhờ vậy, chúng tôi có thể hiển thị cho bạn quảng cáo phù hợp và hữu ích mà không tiết lộ danh tính của bạn với các nhà quảng cáo. Chúng tôi không bán dữ liệu cá nhân của bạn. Chúng tôi cho phép các nhà quảng cáo cung cấp thông tin như mục tiêu kinh doanh và kiểu đối tượng mà họ muốn hiển thị quảng cáo (ví dụ: những người trong độ tuổi từ 18-35 thích đạp xe). Khi đó, chúng tôi sẽ hiển thị quảng cáo của họ cho những người mà chúng tôi cho rằng có thể quan tâm.
+Chúng tôi cũng gửi cho nhà quảng cáo các báo cáo về hiệu quả quảng cáo để những đơn vị này nắm được cách mọi người tương tác với nội dung của họ ở cả trên lẫn ngoài Sản phẩm của Meta. Ví dụ: chúng tôi cung cấp cho các nhà quảng cáo thông tin chung về sở thích và nhân khẩu học (ví dụ: phụ nữ trong độ tuổi từ 25-34 sống ở Madrid, thích kỹ thuật phần mềm đã xem quảng cáo) để giúp họ hiểu rõ hơn về đối tượng của mình. Chúng tôi không chia sẻ thông tin trực tiếp nhận dạng bạn (ví dụ: tên hoặc địa chỉ email có thể được dùng để liên hệ với bạn hay nhận dạng bạn), trừ khi được bạn cho phép cụ thể. Tìm hiểu thêm về cách hoạt động của quảng cáo trên Meta tại đây.
+Chúng tôi thu thập và sử dụng dữ liệu cá nhân của bạn để cung cấp cho bạn dịch vụ được mô tả ở trên. Bạn có thể tìm hiểu về cách chúng tôi thu thập và sử dụng dữ liệu của bạn trong Chính sách quyền riêng tư của chúng tôi. Bạn có quyền kiểm soát loại quảng cáo và nhà quảng cáo mà mình nhìn thấy, cũng như loại thông tin chúng tôi sử dụng để xác định sẽ hiển thị quảng cáo nào cho bạn. Tìm hiểu thêm.
+3. Cam kết của bạn với Facebook và cộng đồng của chúng tôi
+Chúng tôi cung cấp các dịch vụ này cho bạn và người khác nhằm thúc đẩy sứ mệnh của mình. Đổi lại, chúng tôi cần bạn thực hiện các cam kết sau:
+3.1 Đối tượng có thể sử dụng Facebook
+Khi đích danh mọi người nêu ý kiến và hành động, cộng đồng của chúng ta sẽ trở nên an toàn và có trách nhiệm hơn. Vì lý do đó, bạn:
+* Phải đặt tên tài khoản bằng chính tên mà bạn dùng trong cuộc sống hàng ngày.
+* Phải cung cấp thông tin chính xác về bản thân.
+* Chỉ được tạo một tài khoản (của riêng bạn) và sử dụng tài khoản này cho mục đích cá nhân.
+* Không được chia sẻ mật khẩu, cấp cho người khác quyền truy cập vào tài khoản Facebook của bạn hoặc chuyển giao tài khoản này cho bất kỳ ai khác (khi chúng tôi chưa cho phép).
+Chúng tôi luôn cố gắng cung cấp Facebook rộng rãi cho mọi người. Tuy nhiên, bạn sẽ không thể sử dụng Facebook nếu:
+* Chưa đủ 13 tuổi.
+* Là tội phạm tình dục bị kết án.
+* Từng bị chúng tôi vô hiệu hóa tài khoản do vi phạm các Điều khoản, Tiêu chuẩn cộng đồng hoặc các điều khoản và chính sách khác mà chúng tôi áp dụng cho việc bạn dùng Facebook. Nếu tài khoản của bạn bị vô hiệu hóa do vi phạm các Điều khoản, Tiêu chuẩn cộng đồng hoặc các điều khoản và chính sách khác, bạn đồng ý không tạo tài khoản khác nếu chúng tôi chưa cho phép. Chúng tôi sẽ có toàn quyền quyết định xem có cho phép bạn tạo tài khoản mới hay không và việc cho phép bạn tạo tài khoản mới không có nghĩa là hoặc ngụ ý rằng biện pháp kỷ luật của chúng tôi là nhầm lẫn hay vô căn cứ.
+* Bị cấm tiếp nhận các sản phẩm, dịch vụ hoặc phần mềm của chúng tôi theo luật pháp hiện hành.
+3.2 Những điều bạn có thể chia sẻ và thực hiện trên Sản phẩm của Meta
+Chúng tôi muốn mọi người sử dụng Sản phẩm của Meta để thể hiện bản thân và chia sẻ nội dung quan trọng với họ, nhưng không gây ảnh hưởng đến sự an toàn và sức khỏe của người khác hay tính toàn vẹn của cộng đồng. Do đó, bạn đồng ý không thực hiện những hành vi được mô tả bên dưới (hoặc tạo điều kiện hay hỗ trợ người khác thực hiện các hành vi đó):
+1. Bạn không được sử dụng Sản phẩm của chúng tôi để tạo hoặc chia sẻ bất cứ nội dung nào:
+* Vi phạm các Điều khoản này, Tiêu chuẩn cộng đồng hoặc các điều khoản và chính sách khác áp dụng cho việc sử dụng Sản phẩm của chúng tôi.
+* Bất hợp pháp, gây hiểu nhầm, phân biệt đối xử hoặc lừa đảo (hay hỗ trợ người khác dùng các Sản phẩm của chúng tôi theo cách như vậy).
+* Bạn không sở hữu hoặc không có các quyền cần thiết để chia sẻ.
+* Vi phạm quyền của người khác, bao gồm cả quyền sở hữu trí tuệ (chẳng hạn như vi phạm bản quyền hoặc nhãn hiệu hàng hóa của người khác hay phân phối/bán hàng giả hoặc hàng nhái), trừ trường hợp ngoại lệ hoặc có áp dụng giới hạn theo luật pháp hiện hành.
+2. Bạn không được tải virus hoặc mã độc hại lên, không được sử dụng dịch vụ để gửi spam hay làm bất cứ điều gì khác mà có thể vô hiệu hóa, làm quá tải, can thiệp hoặc gây ảnh hưởng tiêu cực đến hoạt động bình thường, tính toàn vẹn, quá trình vận hành hoặc giao diện của các dịch vụ, hệ thống hay Sản phẩm của chúng tôi.
+3. Bạn không được truy cập hoặc thu thập dữ liệu từ Sản phẩm của chúng tôi bằng các phương tiện tự động (khi chưa được chúng tôi cho phép trước) hay tìm cách truy cập vào dữ liệu mà bạn không được phép truy cập, bất kể việc truy cập hoặc thu thập tự động đó có được thực hiện khi đăng nhập vào tài khoản Facebook hay không.
+4. Bạn không được ủy nhiệm, yêu cầu hoặc thu thập tên người dùng, mật khẩu hay chiếm đoạt mã truy cập trên Sản phẩm.
+5. Ngoại trừ những quy định trong Điều khoản của nền tảng, bạn không được bán, cấp phép hoặc mua bất kỳ dữ liệu nào thu thập được từ chúng tôi/các dịch vụ của chúng tôi, bất kể dữ liệu đó có được thu thập sau khi đăng nhập vào tài khoản Facebook hay không.
+6. Bạn không được lạm dụng bất kỳ kênh báo cáo, gắn cờ, kháng nghị hoặc giải quyết tranh chấp nào, chẳng hạn như báo cáo hay kháng nghị theo cách gian lận, lặp đi lặp lại hoặc vô căn cứ.
+7. Bạn không được thực hiện hoặc tìm cách thực hiện bất kỳ hành vi nào để né tránh, bỏ qua hay từ chối bất cứ biện pháp nào về mặt công nghệ mà Meta áp dụng nhằm kiểm soát/giới hạn quyền truy cập vào Sản phẩm hoặc dữ liệu của chúng tôi.
+Chúng tôi có thể gỡ hoặc hạn chế quyền truy cập vào nội dung vi phạm các điều khoản này. Chúng tôi cũng có thể đình chỉ hoặc vô hiệu hóa tài khoản của bạn nếu phát hiện thấy hành vi vi phạm các điều khoản này, như quy định tại Mục 4.2.
+Nếu gỡ nội dung mà bạn chia sẻ do nội dung đó vi phạm Tiêu chuẩn cộng đồng, chúng tôi sẽ cho bạn biết và giải thích mọi lựa chọn mà bạn có thể dùng để yêu cầu xem xét lại, trừ khi bạn vi phạm nghiêm trọng/nhiều lần Điều khoản này hay việc đó có thể khiến chúng tôi hoặc người khác phải chịu trách nhiệm pháp lý; gây hại cho cộng đồng người dùng của chúng tôi; gây ảnh hưởng/tác động đến tính toàn vẹn hoặc hoạt động của bất kỳ dịch vụ, hệ thống hay Sản phẩm nào mà chúng tôi cung cấp; khi chúng tôi bị hạn chế do các giới hạn về kỹ thuật hoặc khi chúng tôi bị cấm làm vậy vì lý do pháp lý. Để biết thông tin về việc đình chỉ hoặc chấm dứt tài khoản, hãy xem Mục 4.2 bên dưới.
+Chúng tôi hợp tác với các bên xác minh dữ kiện độc lập ở nhiều khu vực pháp lý để ngăn chặn thông tin sai lệch. Sau khi bên xác minh dữ kiện đánh giá nội dung, chúng tôi có thể thêm phần lưu ý để cung cấp ngữ cảnh bổ sung. Bạn có thể tìm thêm thông tin về hoạt động xác minh dữ kiện tại đây.
+Để góp phần hỗ trợ cộng đồng, bạn nên báo cáo nội dung hoặc hành vi mà bạn cho là vi phạm quyền của mình (bao gồm cả quyền sở hữu trí tuệ) hay các điều khoản và chính sách của chúng tôi, nếu tính năng này được hỗ trợ ở khu vực pháp lý của bạn. Chúng tôi cũng có thể gỡ hoặc hạn chế quyền truy cập vào nội dung, tính năng, dịch vụ hay thông tin nếu nhận thấy rằng có lý do cần phải làm việc này để tránh hoặc giảm bớt tình trạng lạm dụng dịch vụ của chúng tôi/tác động bất lợi đến Meta về mặt luật pháp hay quy định.
+3.3 Những quyền bạn cấp cho chúng tôi
+Chúng tôi cần bạn cấp một số quyền để cung cấp dịch vụ:
+1. Nội dung của bạn: Một số nội dung mà bạn chia sẻ hoặc tải lên (chẳng hạn như ảnh hay video) có thể được luật sở hữu trí tuệ bảo vệ.
+Bạn giữ quyền sở hữu trí tuệ (chẳng hạn như bản quyền hoặc nhãn hiệu hàng hóa) đối với mọi nội dung mà mình tạo và chia sẻ trên Facebook, cũng như trên những Sản phẩm khác của các công ty thuộc Meta mà bạn sử dụng. Điều khoản này không có quy định nào tước bỏ những quyền mà bạn có đối với nội dung của mình. Bạn được tự do chia sẻ nội dung của mình với người khác ở nơi mà bạn muốn.
+Tuy nhiên, để chúng tôi cung cấp dịch vụ, bạn cần cấp cho chúng tôi một số quyền hợp pháp (gọi là "giấy phép") để sử dụng nội dung này. Việc này chỉ nhằm cung cấp và cải thiện Sản phẩm cũng như dịch vụ của chúng tôi nêu tại Mục 1 ở trên.
+2. Quyền sử dụng nội dung bạn tạo và chia sẻ: Cụ thể, khi chia sẻ, đăng hoặc tải lên nội dung được quyền sở hữu trí tuệ bảo vệ trên hoặc liên quan đến Sản phẩm của chúng tôi, bạn cấp cho chúng tôi một giấy phép không độc quyền, có thể chuyển giao, có thể cấp phép bổ sung, miễn phí bản quyền và có hiệu lực trên toàn thế giới để lưu trữ, sử dụng, phân phối, sửa đổi, chạy, sao chép, trình diễn hoặc hiển thị công khai, dịch và tạo sản phẩm phái sinh từ nội dung bạn sở hữu (theo chế độ cài đặt quyền riêng tư và cài đặt ứng dụng của bạn). Ví dụ: nếu chia sẻ ảnh trên Facebook, điều này có nghĩa là bạn cho phép chúng tôi lưu trữ, sao chép và chia sẻ ảnh đó với bên khác (miễn là vẫn phù hợp với chế độ cài đặt của bạn), chẳng hạn như Sản phẩm của Meta hoặc nhà cung cấp dịch vụ hỗ trợ những sản phẩm và dịch vụ đó. Giấy phép này sẽ hết hiệu lực khi nội dung của bạn bị xóa khỏi hệ thống của chúng tôi.
+3. Xóa nội dung của bạn: Bạn có thể xóa từng nội dung mà mình chia sẻ, đăng và tải lên bất cứ lúc nào. Ngoài ra, nếu bạn xóa tài khoản cá nhân của mình, mọi nội dung đã đăng lên tài khoản đó cũng sẽ bị xóa. Tìm hiểu thêm về cách xóa tài khoản của bạn. Việc xóa tài khoản sẽ không tự động xóa nội dung bạn đăng trong vai trò quản trị viên của trang hoặc nội dung mà bạn tạo chung với người dùng khác, chẳng hạn như ảnh trong Album chung. Nội dung đó có thể sẽ vẫn hiển thị với những thành viên khác trong album.
+Chúng tôi có thể mất tối đa 90 ngày để xóa nội dung, tính từ thời điểm chúng tôi bắt đầu quy trình xóa tài khoản hoặc nhận được yêu cầu xóa nội dung. Khi bạn chuyển nội dung vào thùng rác, quy trình xóa sẽ tự động bắt đầu sau 30 ngày, trừ khi bạn chọn xóa nội dung đó sớm hơn. Trong khi quy trình xóa nội dung nói trên diễn ra, những người dùng khác sẽ không nhìn thấy nội dung đó nữa. Sau khi xóa nội dung, có thể chúng tôi sẽ mất đến 90 ngày để gỡ nội dung đó khỏi các bản sao lưu và hệ thống khôi phục sau thảm họa.
+Đối với những trường hợp sau đây, chúng tôi sẽ không xóa nội dung trong vòng 90 ngày kể từ ngày bắt đầu quy trình xóa tài khoản/nội dung:
+* người khác đã sử dụng nội dung của bạn theo giấy phép này và họ vẫn chưa xóa nội dung (trong trường hợp đó, giấy phép này sẽ tiếp tục có hiệu lực cho đến khi nội dung bị xóa);
+* không thể xóa trong vòng 90 ngày do hệ thống của chúng tôi có giới hạn về mặt kỹ thuật, trong trường hợp đó, chúng tôi sẽ hoàn tất quy trình xóa ngay khi điều kiện kỹ thuật cho phép; hoặc
+* nếu việc xóa ngay lập tức sẽ hạn chế khả năng của chúng tôi trong việc:
+* điều tra/xác định hoạt động bất hợp pháp hoặc hành vi vi phạm điều khoản và chính sách của chúng tôi (ví dụ: xác định hoặc điều tra hành vi lạm dụng Sản phẩm hay hệ thống của chúng tôi);
+* đảm bảo sự an toàn, tính toàn vẹn và bảo mật cho Sản phẩm, hệ thống, dịch vụ, nhân viên và người dùng của chúng tôi, cũng như bảo vệ chính chúng tôi;
+* tuân thủ các nghĩa vụ pháp lý về lưu giữ bằng chứng, bao gồm cả dữ liệu do các Công ty cung cấp sản phẩm và dịch vụ tài chính của Meta lưu giữ theo nghĩa vụ lưu giữ hồ sơ mà pháp luật quy định; hoặc
+* tuân thủ yêu cầu của cơ quan hành chính, cơ quan tư pháp, cơ quan hành pháp hoặc cơ quan chính phủ;
+trong trường hợp đó, chúng tôi sẽ chỉ lưu giữ nội dung trong thời gian cần thiết cho mục đích lưu giữ (khoảng thời gian chính xác sẽ khác nhau tùy từng trường hợp).
+Trong mỗi trường hợp nêu trên, giấy phép này sẽ vẫn có hiệu lực cho đến khi nội dung bị xóa hoàn toàn.
+4. Quyền sử dụng tên, ảnh đại diện của bạn và thông tin về hành động bạn thực hiện đối với quảng cáo và nội dung thương mại hoặc được tài trợ: Bạn cho phép chúng tôi sử dụng tên, ảnh đại diện của bạn và thông tin về hành động bạn thực hiện trên Facebook bên cạnh/kèm theo quảng cáo, ưu đãi và nội dung thương mại hoặc được tài trợ khác do chúng tôi hiển thị trên Sản phẩm của mình mà không phải trả thù lao cho bạn. Ví dụ: chúng tôi có thể cho bạn bè của bạn biết rằng bạn quan tâm đến một sự kiện được quảng cáo hoặc đã thích Trang Facebook do một thương hiệu (trả tiền để chúng tôi hiển thị quảng cáo của họ trên Facebook) tạo ra. Các quảng cáo và nội dung như vậy sẽ chỉ hiển thị với những người được bạn cho phép xem hành động của bạn trên các Sản phẩm của Meta. Bạn có thể tìm hiểu thêm về chế độ cài đặt và tùy chọn quảng cáo.
+5. Quyền cập nhật phần mềm bạn sử dụng hoặc tải xuống: Việc bạn tải xuống hoặc sử dụng phần mềm của chúng tôi đồng nghĩa với việc bạn cho phép chúng tôi tải xuống và cài đặt các bản cập nhật phần mềm, nếu có.
+3.4 Giới hạn khi sử dụng tài sản sở hữu trí tuệ của chúng tôi
+Nếu bạn sử dụng nội dung thuộc quyền sở hữu trí tuệ của chúng tôi và có trong Sản phẩm của chúng tôi (ví dụ: hình ảnh, thiết kế, video hoặc âm thanh mà chúng tôi cung cấp và bạn thêm vào nội dung mình tạo hoặc chia sẻ trên Facebook), chúng tôi sẽ vẫn có mọi quyền đối với nội dung đó (chứ không phải đối với nội dung của bạn). Bạn chỉ được sử dụng bản quyền hoặc nhãn hiệu hàng hóa của chúng tôi (hay bất kỳ nhãn hiệu tương tự nào) khi được cho phép rõ ràng theo Nguyên tắc sử dụng thương hiệu mà chúng tôi đưa ra hoặc khi được chúng tôi cho phép trước bằng văn bản. Khi sửa đổi, dịch, tạo sản phẩm phái sinh từ, dịch ngược hoặc thiết kế đối chiếu sản phẩm của chúng tôi hay các thành phần của sản phẩm đó hoặc khi tìm cách trích xuất mã nguồn của chúng tôi, bạn phải được chúng tôi cho phép bằng văn bản (hoặc cho phép theo giấy phép nguồn mở), trừ trường hợp ngoại lệ hay có áp dụng giới hạn theo luật pháp hiện hành hoặc hành vi của bạn liên quan đến Chương trình Meta Bug Bounty. Chúng tôi bảo lưu mọi quyền không được cấp rõ ràng cho bạn.
+4. Điều khoản bổ sung
+4.1 Cập nhật Điều khoản của chúng tôi
+Chúng tôi không ngừng nỗ lực cải thiện dịch vụ và phát triển những tính năng mới để tạo ra Sản phẩm tốt hơn cho bạn cũng như cho cộng đồng của chúng tôi. Do đó, chúng tôi đôi khi có thể cần cập nhật Điều khoản này để phản ánh chính xác dịch vụ và cách làm của mình, để thúc đẩy trải nghiệm bảo mật và an toàn trên Sản phẩm cũng như dịch vụ mà chúng tôi cung cấp và/hoặc để tuân thủ luật pháp hiện hành. Chúng tôi sẽ chỉ thay đổi nếu các điều khoản không còn phù hợp hoặc chưa đầy đủ, khi những thay đổi đó là hợp lý và liên quan đến lợi ích của bạn hay khi chúng tôi bắt buộc phải thay đổi để đảm bảo tính an toàn và bảo mật hoặc để tuân thủ luật pháp hiện hành.
+Chúng tôi sẽ thông báo cho bạn (ví dụ: bằng email hoặc thông qua Sản phẩm của mình) ít nhất 30 ngày trước khi thay đổi Điều khoản này, đồng thời tạo cơ hội để bạn xem xét trước khi nội dung thay đổi có hiệu lực, trừ trường hợp luật pháp yêu cầu phải thay đổi. Sau khi bất kỳ Điều khoản cập nhật nào có hiệu lực, bạn sẽ bị ràng buộc bởi Điều khoản đó nếu tiếp tục truy cập hoặc sử dụng Sản phẩm của chúng tôi.
+Chúng tôi mong bạn sẽ tiếp tục sử dụng Sản phẩm của chúng tôi. Tuy nhiên, nếu không đồng ý với Điều khoản cập nhật hoặc muốn chấm dứt thỏa thuận theo hợp đồng này, bạn có thể xóa tài khoản của mình bất cứ lúc nào, đồng thời phải ngừng truy cập hoặc sử dụng Facebook và các Sản phẩm khác của Meta.
+4.2 Đình chỉ hoặc chấm dứt tài khoản
+Chúng tôi muốn Facebook trở thành nơi mà mọi người cảm thấy an toàn và được chào đón khi thể hiện bản thân và chia sẻ suy nghĩ, ý tưởng của mình.
+Nếu xác định thấy bạn vi phạm một cách rõ ràng, nghiêm trọng hoặc nhiều lần Điều khoản hoặc Chính sách của chúng tôi, đặc biệt là Tiêu chuẩn cộng đồng, chúng tôi có thể sẽ đình chỉ hoặc vô hiệu hóa vĩnh viễn quyền truy cập của bạn vào Sản phẩm của các công ty thuộc Meta, đồng thời có thể xóa hay vô hiệu hóa vĩnh viễn tài khoản của bạn. Chúng tôi cũng có thể vô hiệu hóa hoặc xóa tài khoản của bạn nếu bạn nhiều lần vi phạm quyền sở hữu trí tuệ của người khác hoặc nếu chúng tôi bắt buộc phải làm vậy vì lý do pháp lý.
+Chúng tôi có thể xóa hoặc vô hiệu hóa tài khoản của bạn nếu sau khi bạn đăng ký, tài khoản đó không được xác nhận, không được sử dụng và vẫn ở trạng thái không hoạt động trong một khoảng thời gian dài hoặc nếu chúng tôi phát hiện thấy ai đó có thể đã dùng tài khoản này khi chưa được bạn cho phép và chúng tôi không thể xác nhận quyền sở hữu tài khoản đó của bạn. Tìm hiểu thêm về cách chúng tôi xóa và vô hiệu hóa tài khoản.
+Khi thực hiện biện pháp xử lý nói trên, chúng tôi sẽ cho bạn biết và giải thích mọi lựa chọn mà bạn có thể dùng để yêu cầu xem xét lại, trừ khi việc này có thể khiến chúng tôi hoặc người khác phải chịu trách nhiệm pháp lý; gây hại cho cộng đồng người dùng của chúng tôi; gây ảnh hưởng/tác động đến tính toàn vẹn hoặc hoạt động của bất kỳ dịch vụ, hệ thống hay Sản phẩm nào mà chúng tôi cung cấp; khi chúng tôi bị hạn chế do các giới hạn về kỹ thuật hoặc khi chúng tôi bị cấm làm vậy vì lý do pháp lý.
+Bạn có thể tìm hiểu thêm về những việc mình có thể làm nếu tài khoản của bạn bị vô hiệu hóa, cũng như cách liên hệ với chúng tôi nếu bạn cho rằng chúng tôi đã vô hiệu hóa tài khoản của bạn do nhầm lẫn.
+Nếu bạn xóa hoặc bị chúng tôi xóa/vô hiệu hóa tài khoản và bạn ngừng truy cập/sử dụng Facebook cũng như các Sản phẩm khác của Meta hoặc nếu hợp đồng này bị chấm dứt, Điều khoản này sẽ chấm dứt và không còn là thỏa thuận giữa bạn và chúng tôi, ngoại trừ các điều khoản sau đây sẽ vẫn có hiệu lực: (3, 4.2-4.5).
+4.3 Giới hạn trách nhiệm pháp lý
+Chúng tôi luôn nỗ lực cung cấp những Sản phẩm tốt nhất có thể và đặt ra các nguyên tắc rõ ràng cho mọi người dùng. Tuy nhiên, Sản phẩm của chúng tôi được cung cấp "nguyên trạng" và trong phạm vi luật pháp cho phép, chúng tôi không đảm bảo rằng Sản phẩm luôn an toàn, bảo mật, không có lỗi hoặc Sản phẩm sẽ hoạt động mà không bị gián đoạn, chậm trễ hay thiếu sót. Trong phạm vi luật pháp cho phép, chúng tôi cũng TỪ CHỐI MỌI BẢO ĐẢM, CHO DÙ LÀ RÕ RÀNG HAY NGỤ Ý, BAO GỒM CẢ CÁC BẢO ĐẢM NGẦM ĐỊNH VỀ KHẢ NĂNG TIÊU THỤ, SỰ PHÙ HỢP VỚI MỘT MỤC ĐÍCH CỤ THỂ, QUYỀN SỞ HỮU VÀ TÌNH TRẠNG KHÔNG VI PHẠM. Chúng tôi không kiểm soát hoặc chi phối hành động hay phát ngôn của mọi người và những đối tượng khác. Chúng tôi cũng không chịu trách nhiệm về hành động hoặc hành vi (dù là ở trên mạng hay ngoài đời) của họ hoặc mọi nội dung mà họ chia sẻ (bao gồm cả nội dung mang tính xúc phạm, không phù hợp, tục tĩu, bất hợp pháp và nội dung phản cảm khác).
+Chúng tôi không thể dự đoán thời điểm Sản phẩm của mình có thể gặp vấn đề. Vì vậy, trách nhiệm pháp lý của chúng tôi chỉ giới hạn trong phạm vi tối đa mà luật pháp hiện hành cho phép. Theo phạm vi tối đa mà luật pháp hiện hành cho phép, trong mọi trường hợp, chúng tôi sẽ không chịu trách nhiệm pháp lý với bạn về mọi lợi nhuận bị tổn thất, doanh thu, thông tin, dữ liệu hoặc về thiệt hại mang tính hệ quả, đặc biệt, gián tiếp, răn đe, trừng phạt hay ngẫu nhiên phát sinh từ/liên quan đến Điều khoản này hoặc Sản phẩm của Meta (bất kể nguyên nhân là gì và dựa trên quy định nào về trách nhiệm pháp lý, bao gồm cả do sơ suất), ngay cả khi chúng tôi đã được thông báo về khả năng xảy ra các thiệt hại đó.
+4.4 Tranh chấp
+Chúng tôi cố gắng đưa ra các quy tắc rõ ràng nhằm hạn chế hoặc hy vọng là sẽ tránh được tranh chấp giữa bạn và chúng tôi. Tuy nhiên, nếu xảy ra tranh chấp, bạn nên biết trước nơi có thể giải quyết tranh chấp cũng như luật sẽ áp dụng.
+Nếu bạn là người tiêu dùng hoặc trong trường hợp luật pháp hiện hành yêu cầu, luật pháp của quốc gia mà bạn cư trú sẽ áp dụng cho mọi khiếu nại, nguyên nhân tố tụng hoặc tranh chấp giữa bạn và chúng tôi phát sinh từ/liên quan đến Điều khoản này hoặc Sản phẩm của Meta. Đồng thời, bạn có thể giải quyết khiếu nại của mình tại bất kỳ tòa án nào có thẩm quyền xét xử khiếu nại này ở quốc gia đó. Trong tất cả các trường hợp khác, đối với mọi khiếu nại, nguyên nhân tố tụng hay tranh chấp mà Meta đưa ra đối với bạn, bạn và Meta đồng ý sẽ chỉ giải quyết các khiếu nại, nguyên nhân tố tụng hoặc tranh chấp đó tại Tòa án quận phía Bắc California, Hoa Kỳ hoặc một tòa án cấp tiểu bang thuộc hạt San Mateo. Bạn cũng đồng ý rằng bạn tuân thủ thẩm quyền về nhân thân của một trong các tòa án này nhằm mục đích kiện tụng liên quan đến bất kỳ khiếu nại nào nói trên. Ngoài ra, luật pháp của Tiểu bang California sẽ điều chỉnh Điều khoản này cũng như mọi khiếu nại, nguyên nhân tố tụng hoặc tranh chấp, bất kể các điều khoản về xung đột pháp luật. Trên cơ sở không ảnh hưởng đến những quy định nêu trên, bạn đồng ý rằng Meta có toàn quyền quyết định việc đệ trình bất cứ khiếu nại, nguyên nhân tố tụng hay tranh chấp nào giữa bạn và Meta lên bất kỳ tòa án nào có thẩm quyền xét xử khiếu nại này ở quốc gia mà bạn cư trú.
+4.5 Các điều khoản khác
+1. Điều khoản bổ sung: Một số Sản phẩm mà chúng tôi cung cấp còn chịu sự điều chỉnh của các điều khoản bổ sung. Nếu bạn sử dụng bất kỳ Sản phẩm nào trong số đó, các điều khoản bổ sung sẽ được cung cấp và trở thành một phần của thỏa thuận giữa bạn và chúng tôi. Ví dụ: nếu bạn truy cập hoặc sử dụng Sản phẩm của chúng tôi vì mục đích thương mại hay kinh doanh, chẳng hạn như mua quảng cáo, bán sản phẩm, phát triển ứng dụng, quản lý một nhóm hoặc Trang cho công việc kinh doanh hoặc sử dụng các dịch vụ đo lường của chúng tôi, bạn phải đồng ý với Điều khoản thương mại của chúng tôi. Nếu đăng hoặc chia sẻ nội dung có nhạc, bạn phải tuân thủ Nguyên tắc về nhạc của chúng tôi. Nếu bạn dùng Avatar, Điều khoản về Avatar cũng sẽ được áp dụng. Nếu bạn dùng các sản phẩm và tính năng AI mà chúng tôi cung cấp, Điều khoản về Meta AI cũng sẽ được áp dụng. Trong trường hợp có bất kỳ điều khoản bổ sung nào xung đột với Điều khoản này, các điều khoản bổ sung sẽ điều chỉnh trong phạm vi xung đột đó.
+2. Tính hiệu lực từng phần: Nếu có bất kỳ phần nào trong Điều khoản này được xác định là không thể thực thi, phần không thể thực thi đó sẽ được xem là đã sửa đổi ở mức tối thiểu cần thiết để có thể thực thi. Trong trường hợp không có cách nào để thực thi, phần đó sẽ bị loại bỏ và phần còn lại sẽ giữ nguyên hiệu lực cũng như giá trị thi hành. Nếu chúng tôi không thực thi được bất kỳ quy định nào trong Điều khoản này, việc đó sẽ không bị xem là sự từ bỏ. Mọi hoạt động sửa đổi hoặc từ bỏ Điều khoản này đều phải được lập thành văn bản và có chữ ký của chúng tôi.
+3. Không chuyển giao: Bạn không được chuyển giao bất kỳ quyền hoặc nghĩa vụ nào của mình theo Điều khoản này cho bất kỳ ai khác khi chưa được chúng tôi chấp thuận.
+4. Người liên hệ thừa kế: Bạn có thể chỉ định một người (được gọi là người liên hệ thừa kế) quản lý tài khoản của mình nếu chuyển thành tài khoản được tưởng nhớ. Nếu bạn bật tính năng này trong phần cài đặt, chỉ người liên hệ thừa kế của bạn hoặc người mà bạn xác định trong di chúc hợp lệ hay tài liệu pháp lý tương tự (cho thấy sự đồng ý rõ ràng về việc tiết lộ nội dung của bạn cho người đó khi bạn qua đời/mất năng lực) mới có thể yêu cầu tiết lộ một số thông tin gắn với tài khoản của bạn sau khi chuyển thành tài khoản được tưởng nhớ.
+5. Điều khoản không có bên thụ hưởng thứ ba: Điều khoản này không mang lại bất kỳ quyền thụ hưởng nào cho bên thứ ba. Chúng tôi có thể tự do chuyển nhượng tất cả các quyền và nghĩa vụ của mình theo Điều khoản này liên quan đến việc sáp nhập, mua lại hay bán tài sản hoặc theo quy định của luật pháp hay theo các cách khác.
+6. Đổi tên người dùng: Chúng tôi có thể đổi tên người dùng cho tài khoản của bạn trong một số trường hợp (ví dụ: nếu người khác xác nhận sở hữu tên người dùng đó và tên này có vẻ không liên quan đến tên mà bạn dùng trong cuộc sống hàng ngày).
+7. Ý kiến đóng góp: Chúng tôi luôn trân trọng ý kiến đóng góp cùng những gợi ý khác của bạn về các sản phẩm và dịch vụ của chúng tôi. Tuy nhiên, chúng tôi có thể sử dụng ý kiến đóng góp và các gợi ý khác mà không có bất kỳ hạn chế nào hay nghĩa vụ phải trả thù lao cho bạn, cũng như không có nghĩa vụ phải giữ bí mật nội dung đó.
+5. Các điều khoản và chính sách khác có thể áp dụng cho bạn
+* Tiêu chuẩn cộng đồng: Những nguyên tắc này quy định về các tiêu chuẩn của chúng tôi đối với nội dung bạn đăng và hoạt động của bạn trên Facebook cũng như các Sản phẩm khác của Meta.
+* Điều khoản thương mại: Những điều khoản này sẽ áp dụng nếu bạn cũng truy cập hoặc sử dụng Sản phẩm của chúng tôi cho bất kỳ mục đích thương mại hoặc kinh doanh nào, bao gồm quảng cáo, vận hành ứng dụng trên Nền tảng của chúng tôi, sử dụng các dịch vụ đo lường của chúng tôi, quản lý một nhóm hoặc Trang cho doanh nghiệp hay bán hàng hóa/dịch vụ.
+* Điều khoản thanh toán dành cho cộng đồng: Những điều khoản này áp dụng cho các khoản thanh toán được thực hiện trên hoặc thông qua Sản phẩm của Meta.
+* Chính sách thương mại: Các nguyên tắc này quy định về những chính sách áp dụng khi bạn bán sản phẩm hoặc dịch vụ trên Facebook, Instagram và WhatsApp.
+* Nguyên tắc về nhạc: Các nguyên tắc này quy định về những chính sách áp dụng nếu bạn đăng hoặc chia sẻ nội dung có nhạc trên bất kỳ Sản phẩm nào của Meta.
+* Chính sách quảng cáo: Những chính sách này áp dụng cho các đối tác quảng cáo trên Sản phẩm của Meta và chỉ rõ loại nội dung quảng cáo họ được phép hiển thị trên các Sản phẩm đó.
+* Điều khoản về quảng cáo tự phục vụ: Những điều khoản này áp dụng khi bạn dùng giao diện quảng cáo tự phục vụ để tạo, gửi hoặc phân phối quảng cáo hoặc hoạt động/nội dung thương mại hay được tài trợ khác.
+* Chính sách về Nhóm, Sự kiện và Trang Facebook: Các nguyên tắc này áp dụng nếu bạn tạo hoặc quản lý nhóm, sự kiện hay Trang Facebook hoặc nếu bạn sử dụng Facebook để truyền bá/quản lý quảng cáo.
+* Chính sách nền tảng của Meta: Những điều khoản này áp dụng cho việc sử dụng tập hợp các API, SDK, công cụ, plugin, mã, công nghệ, nội dung và dịch vụ hỗ trợ những người khác phát triển chức năng, truy xuất dữ liệu từ các Sản phẩm của Meta hoặc cung cấp dữ liệu cho chúng tôi.
+* Điều khoản thanh toán dành cho nhà phát triển: Những điều khoản này áp dụng cho nhà phát triển ứng dụng dùng tính năng Thanh toán trên Facebook.
+* Thông tin và nguồn lực về thương hiệu Meta: Các nguyên tắc này quy định về những chính sách áp dụng cho việc sử dụng nhãn hiệu hàng hóa, logo và ảnh chụp màn hình của Meta.
+* Nguyên tắc đưa ra đề xuất: Nguyên tắc đưa ra đề xuất trên Facebook và Nguyên tắc đưa ra đề xuất trên Instagram quy định các tiêu chuẩn áp dụng cho việc đề xuất và không đề xuất nội dung.
+* Chính sách về phát trực tiếp: Những chính sách này áp dụng cho mọi nội dung phát trực tiếp trên Facebook Live.
+* Điều khoản về Avatar: Những điều khoản này áp dụng cho hoạt động sử dụng Avatar và các tính năng Avatar, bao gồm cả việc mua và mua lại trang phục Avatar trong cửa hàng Avatar.
+* Điều khoản về Meta AI: Những điều khoản này điều chỉnh hoạt động sử dụng các sản phẩm và tính năng AI tạo sinh mà chúng tôi cung cấp.
